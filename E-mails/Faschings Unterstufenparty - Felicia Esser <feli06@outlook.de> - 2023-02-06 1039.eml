@@ -1,0 +1,146 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <feli06@outlook.de>
+Received: from mail-hub02.belwue.de ([129.143.76.42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.13)
+  with ESMTPS id 63043149 for technikag@fichte-gymnasium.de; Mon, 06 Feb 2023 10:39:48 +0100
+Received: from mail-in03.belwue.de (mail-in03.belwue.de [IPv6:2001:7c0:0:76::3])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4P9Lnw0nMhz3KVp
+	for <technikag@fichte-gymnasium.de>; Mon,  6 Feb 2023 10:39:48 +0100 (CET)
+Received: from EUR03-DBA-obe.outbound.protection.outlook.com (mail-dbaeur03olkn2081a.outbound.protection.outlook.com [IPv6:2a01:111:f400:fe1a::81a])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mail-in03.belwue.de (Postfix) with ESMTPS id 4P9Lnv0Syfz1C7w
+	for <technikag@fichte-gymnasium.de>; Mon,  6 Feb 2023 10:39:47 +0100 (CET)
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=TvfwbKNS/yIuaZupm39oYt08j+pKc45hLzsRTUmOORM8sA4ucQDT1qXEezuz5f8a+9xx4YOHZZNpBoM5y7Q1JR+gnssMJoJemZp0AdIRA4jTjrLLp6sXUsC98J+YfdixsR9vClIqUihvs4VTWPVI6fZpOH2RS9/KhDnYTjS1+8FwWPLP7Zj9Ohl/a7Aw0YE/53OKOKf1Ir3JMYKmsHyFlP8aCNOFGKv29rru/jcPztMI3rvisl5UcwpJT5vH6GafeY/LmX7B02ser9fHyoJqa6/zV+oZ5+gen4KngNuQWyeELZ/wr3d1XE2BzwdxrBsGmkVmKsDsMKiaJ77iVMOMxg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=YYg4eKY03y5du7qfgMFCKaYPCkXs3pX873lQjm8cM/k=;
+ b=Kvi6cCBu7O/bsdvOCGlPpAqZyyFoYmsOkNHz1bAO+DbqlpHvzAWgpqDrzhi6dDize87whEYiptFXv8OQVcKeCDgZi0IVMauz52NIt5qHpqBal4XggyVvrBkSND3cU2JrKM13g7t71mO0MhqYFg8pkNumBTHxkc3aR7gAVL+KBZsGLPUeO+zAAoFQAvJmYvkVCQhnTFhA1qSsS8wIYPFDbuiXR+J5Y+z9nEBfGvu5W8/YzhjIZcJyU5tlMi72wvfLDwjJLQ0GL5GYIDkPDAj1et5bGMlFQDMItZf+RBCXYJ+lAStS+bbIH4sFEx3F72WsEi7NjGljTlO/YIEIhLoBKQ==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=none;
+ dkim=none; arc=none
+Received: from PAXP193MB1437.EURP193.PROD.OUTLOOK.COM (2603:10a6:102:131::24)
+ by PR3P193MB1022.EURP193.PROD.OUTLOOK.COM (2603:10a6:102:a1::14) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.6064.34; Mon, 6 Feb
+ 2023 09:39:46 +0000
+Received: from PAXP193MB1437.EURP193.PROD.OUTLOOK.COM
+ ([fe80::40a3:d59b:2e90:302c]) by PAXP193MB1437.EURP193.PROD.OUTLOOK.COM
+ ([fe80::40a3:d59b:2e90:302c%9]) with mapi id 15.20.6064.034; Mon, 6 Feb 2023
+ 09:39:46 +0000
+From: Felicia Esser <feli06@outlook.de>
+To: "technikag@fichte-gymnasium.de" <technikag@fichte-gymnasium.de>
+Subject: Faschings Unterstufenparty
+Thread-Topic: Faschings Unterstufenparty
+Thread-Index: AQHZOg4XiTIIAR3Z0UC1oGjs11yITA==
+Date: Mon, 6 Feb 2023 09:39:46 +0000
+Message-ID:
+ <PAXP193MB1437CA580B68DA82C22B97BFBCDA9@PAXP193MB1437.EURP193.PROD.OUTLOOK.COM>
+Accept-Language: de-DE, en-US
+Content-Language: de-DE
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-tmn: [JzWzSAk0RL2GxooWxD3YEVHhQesdMbrY]
+x-ms-publictraffictype: Email
+x-ms-traffictypediagnostic: PAXP193MB1437:EE_|PR3P193MB1022:EE_
+x-ms-office365-filtering-correlation-id: ff4f2093-72d5-42f6-a9b5-08db08261540
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ O7T+QF3vDeIHzNRGm6G9jm1woBfn2kxcaisY2oDAW+jKcslx+WDjP8RZPXuJHP6zmmTWV4aQ4u63SESmH2F89h5wUsp9jnttvsTRpGNShyQumiRtzKrGPWM7QCnPI35MAZ3/9FSZ6hI5izZLOvU1yqj3FEmQw0GcLNeIg9sQt9rwcJc9OtgzFvuoNFQCtWOzhgcIDTnk3WhlIP3iBpuU+AQ8GzNsumvgybAPoiKJ5mqj2qqKnZ7QQ95nzvo87YX/4G+vBE6IuW1IB0zjj8g/NzD+wGU7ediz2pBRXebdp935gJY3dUxd9towLpbz4lRYMT4lszD7zbQK5PrU3OUyBNiFgVzQpO95tE8llO2846FHVaR2Fq2niP/uhgEzMsCitDnY/9w2vUriA5nwxFmnF1/7lsWSY6I7wy+hN10k5jdDghBOPZB0SM/3c/iKix4r+TVz8kWbFc2nNe6aN1QItXGLsm9VmNvFXDaXwiIoWDIjaqVx50IZ7G3JMHEdJLz+pfNo9lElVgc1kJ4RlDfSHTt/b6RpS1f8qi8srsG0hDUA6RHYFVHRf1m1hHF6nCQ18bFfkGfEGAhUA+sbeyzUJjSh1U3riSL1Y7AkHj8QxojsgU3fEso3zCjvKj4tsVGyCMovCpUBbOJXXmQnwNLjAA==
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?iso-8859-1?Q?BiJH7S6TkYMJd0223gFgK13IN5LLg+McPLwg9WWOBnTA/VCepMCdieVTt1?=
+ =?iso-8859-1?Q?b+bE2mz2KOm1ZJkznskFdIQPwoAiu5tjmlCvlNNY4SezpaDV6OpjS2xetM?=
+ =?iso-8859-1?Q?ml7ah0uo/z0AOziDQzaEcbG8kaIg3vNleY5xlA4xJBFHo6gSsBgrqQcBz6?=
+ =?iso-8859-1?Q?hURIbVAXKv17l2mP0EfeMX6HnfO8xGH1M4z5WhIU3nD6mEf6/wCmMQMd5+?=
+ =?iso-8859-1?Q?5tmmWLXhx3Ww9GVD1ZHzFZuqhPg1kqh5Y9QxCWHXNU4MPy6hcFV/x/sqRK?=
+ =?iso-8859-1?Q?V77NtywFda+br2FkmcgJ4pIdM2kCmD8OyBG/wDwkGZ0hBP23LJz3jpN9AV?=
+ =?iso-8859-1?Q?ZGPnYUqNXD2lAPGq5dYs7y718/ckHPWUt3DwYiSTGqvDsGvHyB9Boodkjb?=
+ =?iso-8859-1?Q?q2AjieIxtn4t/EWsl3lejyBnmyu3bGkgtzha2a47A9uaUfrsB+r74aEAXo?=
+ =?iso-8859-1?Q?DI3fXKMs1cwCeqXQpmwuewMGAU7J6CBWk1KffEWU4QkEzr4/sgbuPFcQW5?=
+ =?iso-8859-1?Q?PPbZVU/BdB+IJ3GOS7bxJjpIqIi7OZye5Pybdg5tpRxp3IwJUN8J4Fm/xK?=
+ =?iso-8859-1?Q?G2f1HGwdSuCPOBx7cAmYLrZ8Ww7YMnQFGYtbir9vc+3oXqNRxqsI55uQoj?=
+ =?iso-8859-1?Q?Ac1K6LZclCSGJyPDkl5NMzCyCw3Ot7IhPvRzz/HRG07NGwDq53UctCBS1J?=
+ =?iso-8859-1?Q?+RKbM78qMyFXU5YjnvdL9TtlwZFecyDx4RyOh7S2S9R5gU46Wf2flz+g4r?=
+ =?iso-8859-1?Q?FQK6S3rY8HObQSJxWTrCsYeW9uEaIxUvNDkDz++vT9MBCvvZR92EettSsI?=
+ =?iso-8859-1?Q?4cM7e0KCaJK+jCsZDpA41DjuLC9zXiNWik71XJRnU/8kQp2Yb9a08uu7tT?=
+ =?iso-8859-1?Q?23Y10bSJJkWZoTwwUHiOzE5T2xyoaqDCdXGhEF1UqUHBIHU2dyMrXSilhf?=
+ =?iso-8859-1?Q?COgYNlTFczpwDEUVU4OVmj9kU6qfhUEFfYZp4o+Pjn7QbIbmxhLL8LOWqf?=
+ =?iso-8859-1?Q?o5K8QihaynJ3nfCKbX2niYSpphKLPvUeqLin2Yqe5y8RfgHzCUpyrh562m?=
+ =?iso-8859-1?Q?578Uy528aS+ShbBCcDyuNf67ptTgSkuLdPS/Ohh4DIUUkMjE8tov/yyNEd?=
+ =?iso-8859-1?Q?UQJJKBgFmZ8yJEadiJZWlfcUEIaTAmWyEBZ33TN1Q1z+OCNuBcbz4o3GeB?=
+ =?iso-8859-1?Q?PotlBiWW0stOUtGxS7KB+yU0LMrwfdc0ZMXeF/xyp2soMsXMV5QgwXIsn5?=
+ =?iso-8859-1?Q?X1AzcXifVvOoHQ+09IIECvpO3zkcbPycsE4GfBHbcP7xwF/253UEbgcESQ?=
+ =?iso-8859-1?Q?9bFxe2OJC1Vw3HBoWtHP0KIvqQ=3D=3D?=
+Content-Type: multipart/alternative;
+	boundary="_000_PAXP193MB1437CA580B68DA82C22B97BFBCDA9PAXP193MB1437EURP_"
+MIME-Version: 1.0
+X-OriginatorOrg: sct-15-20-4755-11-msonline-outlook-80ceb.templateTenant
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: PAXP193MB1437.EURP193.PROD.OUTLOOK.COM
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-CrossTenant-Network-Message-Id: ff4f2093-72d5-42f6-a9b5-08db08261540
+X-MS-Exchange-CrossTenant-originalarrivaltime: 06 Feb 2023 09:39:46.0926
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-rms-persistedconsumerorg: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: PR3P193MB1022
+X-Rspamd-Queue-Id: 4P9Lnv0Syfz1C7w
+X-Rspamd-SPAM-Probability: 0
+X-Rspamd-UID: 09a6a3
+
+--_000_PAXP193MB1437CA580B68DA82C22B97BFBCDA9PAXP193MB1437EURP_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hey Technik AG,
+Leider ist einiges schief gelaufen und die Unterstufenparty musste auf  Mit=
+twoch den 15.02 verschoben werden.
+Nun wollten wir uns erkundigen ob ihr uns trotzdem kurzfristig unterst=FCtz=
+en k=F6nntet?
+Wir w=E4ren euch sehr dankbar.
+
+LG der Party AK
+
+
+Gesendet von Outlook f=FCr iOS<https://aka.ms/o0ukef>
+
+--_000_PAXP193MB1437CA580B68DA82C22B97BFBCDA9PAXP193MB1437EURP_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+</head>
+<body>
+<div dir=3D"ltr">
+<div></div>
+<div>
+<div>Hey Technik AG,</div>
+<div dir=3D"ltr">Leider ist einiges schief gelaufen und die Unterstufenpart=
+y musste auf &nbsp;Mittwoch den 15.02 verschoben werden.</div>
+<div dir=3D"ltr">Nun wollten wir uns erkundigen ob ihr uns trotzdem kurzfri=
+stig unterst=FCtzen k=F6nntet?</div>
+<div dir=3D"ltr">Wir w=E4ren euch sehr dankbar.</div>
+<div dir=3D"ltr"><br>
+</div>
+<div dir=3D"ltr">LG der Party AK</div>
+<div dir=3D"ltr"><br>
+</div>
+<div id=3D"ms-outlook-mobile-signature">
+<div><br>
+</div>
+Gesendet von <a href=3D"https://aka.ms/o0ukef">Outlook f=FCr iOS</a></div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_PAXP193MB1437CA580B68DA82C22B97BFBCDA9PAXP193MB1437EURP_--

@@ -1,0 +1,584 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <noreply@support-mail-two.duetdisplay.com>
+Received: from mail-hub02.belwue.de ([2001:7c0:0:76::42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 86238451 for technikag@fichte-gymnasium.de; Thu, 16 May 2024 23:19:15 +0200
+Received: from mail-in01.belwue.de (mail-in01.belwue.de [IPv6:2001:7c0:0:76::1])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4VgNJL6WGVz5nZb
+	for <technikag@fichte-gymnasium.de>; Thu, 16 May 2024 23:19:14 +0200 (CEST)
+Received: from support-mail-two.duetdisplay.com (support-mail-two.duetdisplay.com [77.32.191.225])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in01.belwue.de (Postfix) with ESMTPS id 4VgNJL1vBjz538sH
+	for <technikag@fichte-gymnasium.de>; Thu, 16 May 2024 23:19:14 +0200 (CEST)
+DKIM-Signature: a=rsa-sha256; bh=TH0EdDVCpoaLTm6TLXQyvT4uYNCscNntXfR+0gUtU9E=;
+ c=relaxed/relaxed; d=support-mail-two.duetdisplay.com;
+ h=to:cc:from:reply-to:subject:date:mime-version:content-type:list-id:list-unsubscribe:x-csa-complaints:list-unsubscribe-post:message-id:sender:x-sib-id:x-mailin-client:x-mailin-campaign:feedback-id;
+ q=dns/txt; s=mail; t=1715894353; v=1;
+ b=N4qTVRSAo9jKOIdYB+ZOtnQ66QZM3oD3HdBe2e0kdgBeuDfZM1R8aiHPNw9qKpMwnxjVJpkr
+ JI9mLalXcGhKAz57pepx006By98ALa8bGkgSDjH/ubTLksDLlTX+iwymiqqnosQR03/wjtkR7tR
+ lJXLP3HDahDcUIiwivUJVL7s=
+To: <technikag@fichte-gymnasium.de>
+Subject: Duet for Teams helps your organization work better
+Content-Type: multipart/alternative; boundary="-------?=_57612-2158565399239"
+Date: Thu, 16 May 2024 21:19:13 +0000
+Feedback-ID: 77.32.191.225:2417342_82:2417342:Sendinblue
+From: Duet Display <team@duetdisplay.com>
+List-Id: MjQxNzM0Mi0yODUxODAxLTA= <MjQxNzM0Mi0yODUxODAxLTA=.list-id.support-mail-two.duetdisplay.com>
+List-Unsubscribe: <mailto:unsubscribe@support-mail-two.duetdisplay.com?subject=unsub-ffez0th0m06tnj&body=ffez0th0m06tnj>,<https://list-unsubscribe.me/mk/un/li/sh/WCPzsgSZTpcfXB8egQu5ADTopINIXbMI/fYRjXRkBbN5J>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+MIME-Version: 1.0
+Message-Id: <202416052119.ffez0th0m06tnj@support-mail-two.duetdisplay.com>
+Precedence: bulk
+Reply-To: <team@duetdisplay.com>
+X-Csa-Complaints: csa-complaints@eco.de
+X-Mailer: Sendinblue
+X-Mailin-Campaign: 82
+X-Mailin-Client: 2417342
+X-Mailin-Version: 1 | 0
+X-sib-id: RSA-e3G_aokwFYm_TlRRYjMvn00BN5mAOWnaCtDIALyl6g5XqW6EsUEG87FCc9szWPqxO106Fs-Ay94r65k80431bHynNCQxnt0epk10FoZ8Yr-qojkcZ3a9xGL8w45b5oceLDTMkSQFFgpIkxYpgwMCV5Xq3Dx54PZqJYPJPsh3SV49nLXeQ0gAsKQzRUnmtstNfg8twb8J6FNDxFyalyVSG_6DlQONde8f9g8BQI48yg
+X-Rspamd-SPAM-Probability: 0
+X-Rspamd-Queue-Id: 4VgNJL1vBjz538sH
+X-Rspamd-UID: 993ff2
+
+---------?=_57612-2158565399239
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+
+Second Display technology for your entire organization with Duet for Teams.
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Sign up now and receive 25% off your first year.
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+------------------------------------------------
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+
+###Turn any iPad, Mac, PC, Chromebook or Android into a high performance Se=
+cond Display.
+
+
+=C2=A0
+
+
+Duet works for teams of any size: simply include the members of your team a=
+s users, assign and unassign licenses, and enable Single-Sign On to easily =
+onboard your company.
+
+
+**Duet is Fast, Easy to Use, and Secure.**
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+
+Our suite of features helps you and your company collaborate more effective=
+ly from anywhere:
+
+=C2=A0
+
+
+- Multi-user licensing and management for groups of any size=20
+- Simple setup: downloading is easy and installation is seamless=20
+- Can be used both wired and wireless=20
+- Fast and seamless connection for the lowest latency=20
+- Uses fewer resources to extend battery life=20
+- Enhanced security through 256-bit end-to-end encryption=20
+- SSO / SAML available=20
+- Priority support for you and your team members=20
+- Bulk pricing available for large organizations
+
+
+Trusted by thousands of companies around the world.
+---------------------------------------------------
+
+
+Sign up now to receive your 25% discount and a 7-day free trial.
+----------------------------------------------------------------
+
+
+=C2=A0
+
+Create a free account, and select **Teams**.
+
+=C2=A0
+
+Use promotion code: **Duet-Teams-Spring-2024**
+
+=C2=A0
+
+Offer valid until Saturday June 15, 2024
+
+
+[ Sign Up Now](http://r.support-mail-two.duetdisplay.com/mk/cl/f/sh/7nVU0AB=
+9DC6zL5P8q82hFuXSOfiJEjC/tItzBcsbyyqr "Create a Duet Account")
+
+
+=C2=A0
+
+Visit our website for more information, or for **individual plan options**:
+
+=C2=A0
+
+[Duet - Remote Desktop, Second Display, Drawing Tablet, and More (duetdispl=
+ay.com)](http://r.support-mail-two.duetdisplay.com/mk/cl/f/sh/7nVU0AB9DJu3N=
+IfUvbiT04KbBYpYwLK/ozTQvyKG4QK7)
+
+
+**Duet, Inc.**
+
+335 S Biscayne Blvd, 33131, Miami
+
+This email was sent to technikag@fichte-gymnasium.de
+
+You've received it because you've subscribed to our newsletter.
+
+[View in browser](http://r.support-mail-two.duetdisplay.com/mk/mr/sh/WCPzsg=
+Jj0EE5kUXPVd5jkIzRnh5OBZOE/0NXp2x1GGspd)| [Unsubscribe](http://r.support-ma=
+il-two.duetdisplay.com/mk/un/sh/WCPzsgSZTpcfXB8egQu5ADTopINIXbMI/-2OGm4u-V2=
+L0)
+
+
+---------?=_57612-2158565399239
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office"><head><meta=
+ http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><meta h=
+ttp-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge"><meta name=3D"format-de=
+tection" content=3D"telephone=3Dno"><meta name=3D"viewport" content=3D"widt=
+h=3Ddevice-width, initial-scale=3D1.0"><title>b2b Teams introduction and di=
+scount_051424</title><style type=3D"text/css" emogrify=3D"no">#outlook a { =
+padding:0; } .ExternalClass { width:100%; } .ExternalClass, .ExternalClass =
+p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalCl=
+ass div { line-height: 100%; } table td { border-collapse: collapse; mso-li=
+ne-height-rule: exactly; } .editable.image { font-size: 0 !important; line-=
+height: 0 !important; } .nl2go_preheader { display: none !important; mso-hi=
+de:all !important; mso-line-height-rule: exactly; visibility: hidden !impor=
+tant; line-height: 0px !important; font-size: 0px !important; } body { widt=
+h:100% !important; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%=
+; margin:0; padding:0; } img { outline:none; text-decoration:none; -ms-inte=
+rpolation-mode: bicubic; } a img { border:none; } table { border-collapse:c=
+ollapse; mso-table-lspace:0pt; mso-table-rspace:0pt; } th { font-weight: no=
+rmal; text-align: left; } *[class=3D"gmail-fix"] { display: none !important=
+; } </style><style type=3D"text/css" emogrify=3D"no"> @media (max-width: 60=
+0px) { .gmx-killpill { content: ' \03D1';} } </style><style type=3D"text/cs=
+s" emogrify=3D"no">@media (max-width: 600px) { .gmx-killpill { content: ' \=
+03D1';} .r0-o { border-style: solid !important; margin: 0 auto 0 auto !impo=
+rtant; width: 320px !important } .r1-i { background-color: #ffffff !importa=
+nt } .r2-c { box-sizing: border-box !important; text-align: center !importa=
+nt; valign: top !important; width: 100% !important } .r3-o { border-style: =
+solid !important; margin: 0 auto 0 auto !important; width: 100% !important =
+} .r4-i { padding-bottom: 20px !important; padding-left: 15px !important; p=
+adding-right: 15px !important; padding-top: 20px !important } .r5-c { box-s=
+izing: border-box !important; display: block !important; valign: top !impor=
+tant; width: 100% !important } .r6-o { border-style: solid !important; widt=
+h: 100% !important } .r7-i { padding-left: 0px !important; padding-right: 0=
+px !important } .r8-i { padding-bottom: 20px !important; padding-left: 10px=
+ !important; padding-right: 10px !important; padding-top: 20px !important }=
+ .r9-c { box-sizing: border-box !important; text-align: left !important; va=
+lign: top !important; width: 100% !important } .r10-o { border-style: solid=
+ !important; margin: 0 auto 0 0 !important; width: 100% !important } .r11-i=
+ { padding-top: 15px !important; text-align: center !important } .r12-i { p=
+adding-bottom: 15px !important; padding-top: 15px !important } .r13-c { box=
+-sizing: border-box !important; padding-top: 15px !important; text-align: l=
+eft !important; valign: top !important; width: 100% !important } .r14-c { b=
+ox-sizing: border-box !important; padding-bottom: 15px !important; padding-=
+top: 15px !important; text-align: left !important; valign: top !important; =
+width: 100% !important } .r15-c { box-sizing: border-box !important; paddin=
+g: 0 !important; text-align: center !important; valign: top !important; wid=
+th: 100% !important } .r16-o { border-style: solid !important; margin: 0 au=
+to 0 auto !important; margin-bottom: 15px !important; margin-top: 15px !imp=
+ortant; width: 100% !important } .r17-i { padding: 0 !important; text-align=
+: center !important } .r18-r { background-color: #5c98de !important; border=
+-radius: 4px !important; border-width: 0px !important; box-sizing: border-b=
+ox; height: initial !important; padding: 0 !important; padding-bottom: 12px=
+ !important; padding-left: 5px !important; padding-right: 5px !important; p=
+adding-top: 12px !important; text-align: center !important; width: 100% !im=
+portant } .r19-c { box-sizing: border-box !important; text-align: center !i=
+mportant; width: 100% !important } .r20-c { box-sizing: border-box !importa=
+nt; width: 100% !important } .r21-i { font-size: 0px !important; padding-bo=
+ttom: 15px !important; padding-left: 65px !important; padding-right: 65px !=
+important; padding-top: 15px !important } .r22-c { box-sizing: border-box !=
+important; width: 32px !important } .r23-o { border-style: solid !important=
+; margin-right: 8px !important; width: 32px !important } .r24-i { padding-b=
+ottom: 5px !important; padding-top: 5px !important } .r25-o { border-style:=
+ solid !important; margin-right: 0px !important; width: 32px !important } .=
+r26-i { background-color: #eff2f7 !important; padding-bottom: 20px !importa=
+nt; padding-left: 15px !important; padding-right: 15px !important; padding-=
+top: 20px !important } .r27-i { color: #3b3f44 !important; padding-bottom: =
+0px !important; padding-top: 15px !important; text-align: center !important=
+ } .r28-i { color: #3b3f44 !important; padding-bottom: 0px !important; padd=
+ing-top: 0px !important; text-align: center !important } .r29-i { color: #3=
+b3f44 !important; padding-bottom: 15px !important; padding-top: 15px !impor=
+tant; text-align: center !important } body { -webkit-text-size-adjust: none=
+ } .nl2go-responsive-hide { display: none } .nl2go-body-table { min-width: =
+unset !important } .mobshow { height: auto !important; overflow: visible !i=
+mportant; max-height: unset !important; visibility: visible !important; bor=
+der: none !important } .resp-table { display: inline-table !important } .ma=
+gic-resp { display: table-cell !important } } </style><!--[if !mso]><!--><s=
+tyle type=3D"text/css" emogrify=3D"no">@import url("https://fonts.googleapi=
+s.com/css2?family=3DMontserrat&family=3DNunito Sans"); </style><!--<![endif=
+]--><style type=3D"text/css">p, h1, h2, h3, h4, ol, ul, li { margin: 0; } a=
+, a:link { color: #5c98de; text-decoration: underline } .nl2go-default-text=
+style { color: #3b3f44; font-family: Nunito Sans, Arial; font-size: 18px; l=
+ine-height: 1.5; word-break: break-word } .default-button { color: #000000;=
+ font-family: Nunito Sans, Arial; font-size: 16px; font-style: normal; font=
+-weight: bold; line-height: 1.15; text-decoration: none; word-break: break-=
+word } .default-heading1 { color: #1F2D3D; font-family: Montserrat, Arial; =
+font-size: 36px; word-break: break-word } .default-heading2 { color: #1F2D3=
+D; font-family: Montserrat, Arial; font-size: 32px; word-break: break-word =
+} .default-heading3 { color: #1F2D3D; font-family: Montserrat, Arial; font-=
+size: 24px; word-break: break-word } .default-heading4 { color: #1F2D3D; fo=
+nt-family: Montserrat, Arial; font-size: 18px; word-break: break-word } a[x=
+-apple-data-detectors] { color: inherit !important; text-decoration: inheri=
+t !important; font-size: inherit !important; font-family: inherit !importan=
+t; font-weight: inherit !important; line-height: inherit !important; } .no-=
+show-for-you { border: none; display: none; float: none; font-size: 0; heig=
+ht: 0; line-height: 0; max-height: 0; mso-hide: all; overflow: hidden; tabl=
+e-layout: fixed; visibility: hidden; width: 0; } </style><!--[if mso]><xml>=
+ <o:OfficeDocumentSettings> <o:AllowPNG/> <o:PixelsPerInch>96</o:PixelsPerI=
+nch> </o:OfficeDocumentSettings> </xml><![endif]--><style type=3D"text/css"=
+>a:link{color: #5c98de; text-decoration: underline;}</style></head><body bg=
+color=3D"#ffffff" text=3D"#3b3f44" link=3D"#5c98de" yahoo=3D"fix" style=3D"=
+background-color: #ffffff;"> <table cellpadding=3D"0" border=3D"0" cellspac=
+ing=3D"0" style=3D" mso-hide: all; display: none;"><tr><td>Turn any device =
+into a Second Display&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;=
+&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#8=
+47;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;=
+&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zw=
+nj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;=
+&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nb=
+sp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;=
+&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#8=
+47;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;=
+&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zw=
+nj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;=
+&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nb=
+sp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;=
+&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#8=
+47;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;=
+&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zw=
+nj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;=
+&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nb=
+sp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;=
+&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#8=
+47;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;=
+&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zw=
+nj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;=
+&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nb=
+sp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;=
+&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#8=
+47;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;=
+&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zw=
+nj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;=
+&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nb=
+sp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;=
+&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#8=
+47;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;=
+&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zw=
+nj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;=
+&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nb=
+sp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;=
+&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#8=
+47;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;=
+&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zw=
+nj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;=
+&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nb=
+sp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;=
+&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#8=
+47;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;=
+&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zw=
+nj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;=
+&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nb=
+sp;&#847;&zwnj;&nbsp;</td></tr></table> <!--[if mso]> <img width=3D"1" heig=
+ht=3D"1" src=3D"https://r.support-mail-two.duetdisplay.com/mk/op/sh/WCPzsgb=
+PxR1FJrjtrEiQa7yBqtfCtdKM/cMGbB99h7Z0e" /> <![endif]-->
+	<!--[if !mso]> <!----> <img style=3D"display:none" src=3D"https://r.suppor=
+t-mail-two.duetdisplay.com/mk/op/sh/WCPzsgbPxR1FJrjtrEiQa7yBqtfCtdKM/cMGbB9=
+9h7Z0e" /> <!-- <![endif]-->  <table cellspacing=3D"0" cellpadding=3D"0" bo=
+rder=3D"0" role=3D"presentation" class=3D"nl2go-body-table" width=3D"100%" =
+style=3D"background-color: #ffffff; width: 100%;"><tr><td> <table cellspaci=
+ng=3D"0" cellpadding=3D"0" border=3D"0" role=3D"presentation" width=3D"600"=
+ align=3D"center" class=3D"r0-o" style=3D"table-layout: fixed; width: 600px=
+;"><tr><td valign=3D"top" class=3D"r1-i" style=3D"background-color: #ffffff=
+;"> <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" role=3D"present=
+ation" width=3D"100%" align=3D"center" class=3D"r3-o" style=3D"table-layout=
+: fixed; width: 100%;"><tr><td class=3D"r4-i" style=3D"padding-bottom: 20px=
+; padding-top: 20px;"> <table width=3D"100%" cellspacing=3D"0" cellpadding=
+=3D"0" border=3D"0" role=3D"presentation"><tr><th width=3D"100%" valign=3D"=
+top" class=3D"r5-c" style=3D"font-weight: normal;"> <table cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0" role=3D"presentation" width=3D"100%" class=
+=3D"r6-o" style=3D"table-layout: fixed; width: 100%;"><tr><td valign=3D"top=
+" class=3D"r7-i" style=3D"padding-left: 10px; padding-right: 10px;"> <table=
+ width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" role=3D"pr=
+esentation"><tr><td class=3D"r2-c" align=3D"center"> <table cellspacing=3D"=
+0" cellpadding=3D"0" border=3D"0" role=3D"presentation" width=3D"200" class=
+=3D"r3-o" style=3D"table-layout: fixed; width: 200px;"><tr><td style=3D"fon=
+t-size: 0px; line-height: 0px;"> <img src=3D"https://img.support-mail-two.d=
+uetdisplay.com/im/sh/OJfAA6MgH9Hg.png?u=3D92pJLo34vnrQtTPiucprGHJLk1tIqZCq9=
+5O" width=3D"200" border=3D"0" style=3D"display: block; width: 100%;" sib_i=
+mg_id=3D"0"></td> </tr></table></td> </tr></table></td> </tr></table></th> =
+</tr></table></td> </tr></table><table cellspacing=3D"0" cellpadding=3D"0" =
+border=3D"0" role=3D"presentation" width=3D"100%" align=3D"center" class=3D=
+"r3-o" style=3D"table-layout: fixed; width: 100%;"><tr><td class=3D"r8-i" s=
+tyle=3D"padding-bottom: 20px; padding-top: 20px;"> <table width=3D"100%" ce=
+llspacing=3D"0" cellpadding=3D"0" border=3D"0" role=3D"presentation"><tr><t=
+h width=3D"100%" valign=3D"top" class=3D"r5-c" style=3D"font-weight: normal=
+;"> <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" role=3D"present=
+ation" width=3D"100%" class=3D"r6-o" style=3D"table-layout: fixed; width: 1=
+00%;"><tr><td valign=3D"top" class=3D"r7-i"> <table width=3D"100%" cellspac=
+ing=3D"0" cellpadding=3D"0" border=3D"0" role=3D"presentation"><tr><td clas=
+s=3D"r9-c" align=3D"left"> <table cellspacing=3D"0" cellpadding=3D"0" borde=
+r=3D"0" role=3D"presentation" width=3D"100%" class=3D"r10-o" style=3D"table=
+-layout: fixed; width: 100%;"><tr><td align=3D"center" valign=3D"top" class=
+=3D"r11-i nl2go-default-textstyle" style=3D"color: #3b3f44; font-family: Nu=
+nito Sans,Arial; font-size: 18px; word-break: break-word; line-height: 1.5;=
+ padding-top: 15px; text-align: center;"> <div><h1 class=3D"default-heading=
+1" style=3D"margin: 0; color: #1f2d3d; font-family: Montserrat,Arial; font-=
+size: 36px; word-break: break-word;"><span style=3D"font-size: 28px;">Secon=
+d Display technology for your entire organization with Duet for Teams.</spa=
+n></h1><h1 class=3D"default-heading1" style=3D"margin: 0; color: #1f2d3d; f=
+ont-family: Montserrat,Arial; font-size: 36px; word-break: break-word;"><sp=
+an style=3D"font-size: 22px;">Sign up now and receive 25% off your first ye=
+ar.</span></h1></div> </td> </tr></table></td> </tr><tr><td class=3D"r2-c" =
+align=3D"center"> <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" r=
+ole=3D"presentation" width=3D"528" class=3D"r3-o" style=3D"table-layout: fi=
+xed; width: 528px;"><tr><td class=3D"r12-i" style=3D"font-size: 0px; line-h=
+eight: 0px; padding-bottom: 15px; padding-top: 15px;"> <img src=3D"https://=
+img.support-mail-two.duetdisplay.com/im/sh/zodcROIomeFw.png?u=3D92pJLo34vnr=
+QtbCmwq6DLkz7UBgRdSK5qhW" width=3D"528" border=3D"0" style=3D"display: bloc=
+k; width: 100%;" sib_img_id=3D"1"></td> </tr></table></td> </tr><tr><td cla=
+ss=3D"r13-c nl2go-default-textstyle" align=3D"left" style=3D"color: #3b3f44=
+; font-family: Nunito Sans,Arial; font-size: 18px; word-break: break-word; =
+line-height: 1.5; padding-top: 15px; text-align: left; valign: top;"> <div>=
+<h3 class=3D"default-heading3" style=3D"margin: 0; color: #1f2d3d; font-fam=
+ily: Montserrat,Arial; font-size: 24px; word-break: break-word; text-align:=
+ center;">Turn any iPad, Mac, PC, Chromebook or Android into a high perform=
+ance Second Display.</h3><p style=3D"margin: 0;">=C2=A0</p></div> </td> </t=
+r><tr><td class=3D"r14-c nl2go-default-textstyle" align=3D"left" style=3D"c=
+olor: #3b3f44; font-family: Nunito Sans,Arial; font-size: 18px; line-height=
+: 1.5; word-break: break-word; padding-bottom: 15px; padding-top: 15px; tex=
+t-align: left; valign: top;"> <div><p style=3D"margin: 0; text-align: cente=
+r;">Duet works for teams of any size: simply include the members of your te=
+am as users, assign and unassign licenses, and enable Single-Sign On to eas=
+ily onboard your company.</p></div> </td> </tr><tr><td class=3D"r13-c nl2go=
+-default-textstyle" align=3D"left" style=3D"color: #3b3f44; font-family: Nu=
+nito Sans,Arial; font-size: 18px; line-height: 1.5; word-break: break-word;=
+ padding-top: 15px; text-align: left; valign: top;"> <div><h1 class=3D"defa=
+ult-heading1" style=3D"margin: 0; color: #1f2d3d; font-family: Montserrat,A=
+rial; font-size: 36px; word-break: break-word; text-align: center;"><span s=
+tyle=3D"font-size: 24px;"><strong>Duet is Fast, Easy to Use, and Secure.</s=
+trong></span></h1></div> </td> </tr><tr><td class=3D"r14-c nl2go-default-te=
+xtstyle" align=3D"left" style=3D"color: #3b3f44; font-family: Nunito Sans,A=
+rial; font-size: 18px; line-height: 1.5; word-break: break-word; padding-bo=
+ttom: 15px; padding-top: 15px; text-align: left; valign: top;"> <div><p sty=
+le=3D"margin: 0; text-align: center;">Our suite of features helps you and y=
+our company collaborate more effectively from anywhere:</p><p style=3D"marg=
+in: 0; font-style: normal; font-weight: 400; text-decoration-style: initial=
+; text-decoration-thickness: initial;">=C2=A0</p><ul style=3D"margin: 0; fo=
+nt-style: normal; font-weight: 400; text-decoration-style: initial; text-de=
+coration-thickness: initial;"><li style=3D"margin: 0;">Multi-user licensing=
+ and management for groups of any size</li><li style=3D"margin: 0;">Simple =
+setup: downloading is easy and installation is seamless</li><li style=3D"ma=
+rgin: 0;">Can be used both wired and wireless</li><li style=3D"margin: 0;">=
+Fast and seamless connection for the lowest latency</li><li style=3D"margin=
+: 0;">Uses fewer resources to extend battery life</li><li style=3D"margin: =
+0;">Enhanced security through 256-bit end-to-end encryption</li><li style=
+=3D"margin: 0;">SSO / SAML available</li><li style=3D"margin: 0;">Priority =
+support for you and your team members</li><li style=3D"margin: 0;">Bulk pri=
+cing available for large organizations</li></ul></div> </td> </tr><tr><td c=
+lass=3D"r13-c nl2go-default-textstyle" align=3D"left" style=3D"color: #3b3f=
+44; font-family: Nunito Sans,Arial; font-size: 18px; line-height: 1.5; word=
+-break: break-word; padding-top: 15px; text-align: left; valign: top;"> <di=
+v><h2 class=3D"default-heading2" style=3D"margin: 0; color: #1f2d3d; font-f=
+amily: Montserrat,Arial; font-size: 32px; word-break: break-word; text-alig=
+n: center;"><span style=3D"font-size: 20px;">Trusted by thousands of compan=
+ies around the world.</span></h2></div> </td> </tr><tr><td class=3D"r13-c n=
+l2go-default-textstyle" align=3D"left" style=3D"color: #3b3f44; font-family=
+: Nunito Sans,Arial; font-size: 18px; line-height: 1.5; word-break: break-w=
+ord; padding-top: 15px; text-align: left; valign: top;"> <div><h2 class=3D"=
+default-heading2" style=3D"margin: 0; color: #1f2d3d; font-family: Montserr=
+at,Arial; font-size: 32px; word-break: break-word; text-align: center;">Sig=
+n up now to receive your 25% discount and a 7-day free trial.</h2><p style=
+=3D"margin: 0; text-align: center;">=C2=A0</p><p style=3D"margin: 0; text-a=
+lign: center;">Create a free account, and select <strong>Teams</strong>.</p=
+><p style=3D"margin: 0; text-align: center;">=C2=A0</p><p style=3D"margin: =
+0; text-align: center;"><span style=3D"font-size: 20px;">Use promotion code=
+: </span><strong>Duet-Teams-Spring-2024</strong></p><p style=3D"margin: 0; =
+text-align: center;">=C2=A0</p><p style=3D"margin: 0; text-align: center;">=
+<span style=3D"font-size: 14px;">Offer valid until Saturday June 15, 2024</=
+span></p></div> </td> </tr><tr><td class=3D"r15-c" align=3D"center" style=
+=3D"align: center; padding-bottom: 15px; padding-top: 15px; valign: top;"> =
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" role=3D"presentatio=
+n" width=3D"300" class=3D"r16-o" style=3D"background-color: #5c98de; border=
+-collapse: separate; border-color: #5c98de; border-radius: 4px; border-styl=
+e: solid; border-width: 0px; table-layout: fixed; width: 300px;"><tr><td he=
+ight=3D"20" align=3D"center" valign=3D"top" class=3D"r17-i nl2go-default-te=
+xtstyle" style=3D"word-break: break-word; background-color: #5c98de; border=
+-radius: 4px; color: #000000; font-family: Nunito Sans, Arial; font-size: 1=
+6px; font-style: normal; line-height: 1.15; padding-bottom: 12px; padding-l=
+eft: 5px; padding-right: 5px; padding-top: 12px; text-align: center;"> <a h=
+ref=3D"http://r.support-mail-two.duetdisplay.com/mk/cl/f/sh/7nVU0AB9DC6zL5P=
+8q82hFuXSOfiJEjC/tItzBcsbyyqr" class=3D"r18-r default-button" target=3D"_bl=
+ank" title=3D"Create a Duet Account" data-btn=3D"1" style=3D"font-style: no=
+rmal; font-weight: bold; line-height: 1.15; text-decoration: none; word-bre=
+ak: break-word; word-wrap: break-word; display: block; -webkit-text-size-ad=
+just: none; color: #000000; font-family: Nunito Sans, Arial; font-size: 16p=
+x;" sib_link_id=3D"0" templating=3D"n"> <span><span style=3D"color: #FBF9F9=
+; font-size: 18px;">Sign Up Now</span></span></a> </td> </tr></table></td> =
+</tr><tr><td class=3D"r14-c nl2go-default-textstyle" align=3D"left" style=
+=3D"color: #3b3f44; font-family: Nunito Sans,Arial; font-size: 18px; line-h=
+eight: 1.5; word-break: break-word; padding-bottom: 15px; padding-top: 15px=
+; text-align: left; valign: top;"> <div><p style=3D"margin: 0; text-align: =
+center;">=C2=A0</p><p style=3D"margin: 0; text-align: center;">Visit our we=
+bsite for more information, or for <strong>individual plan options</strong>=
+:</p><p style=3D"margin: 0; text-align: center;">=C2=A0</p><p style=3D"marg=
+in: 0; text-align: center;"><a href=3D"http://r.support-mail-two.duetdispla=
+y.com/mk/cl/f/sh/7nVU0AB9DJu3NIfUvbiT04KbBYpYwLK/ozTQvyKG4QK7" style=3D"col=
+or: #5c98de; text-decoration: underline;" sib_link_id=3D"1" templating=3D"n=
+">Duet - Remote Desktop, Second Display, Drawing Tablet, and More (duetdisp=
+lay.com)</a></p></div> </td> </tr></table></td> </tr></table></th> </tr></t=
+able></td> </tr></table><table cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0" role=3D"presentation" width=3D"100%" align=3D"center" class=3D"r3-o"=
+ style=3D"table-layout: fixed; width: 100%;"><tr><td class=3D"r4-i" style=
+=3D"padding-bottom: 20px; padding-top: 20px;"> <table width=3D"100%" cellsp=
+acing=3D"0" cellpadding=3D"0" border=3D"0" role=3D"presentation"><tr><th wi=
+dth=3D"100%" valign=3D"top" class=3D"r5-c" style=3D"font-weight: normal;"> =
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" role=3D"presentatio=
+n" width=3D"100%" class=3D"r6-o" style=3D"table-layout: fixed; width: 100%;=
+"><tr><td valign=3D"top" class=3D"r7-i" style=3D"padding-left: 15px; paddin=
+g-right: 15px;"> <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+border=3D"0" role=3D"presentation"><tr><td class=3D"r19-c" align=3D"center"=
+> <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" role=3D"presentat=
+ion" width=3D"570" align=3D"center" class=3D"r3-o" style=3D"table-layout: f=
+ixed; width: 570px;"><tr><td valign=3D"top"> <table width=3D"100%" cellspac=
+ing=3D"0" cellpadding=3D"0" border=3D"0" role=3D"presentation"><tr><td clas=
+s=3D"r20-c" style=3D"display: inline-block;"> <table cellspacing=3D"0" cell=
+padding=3D"0" border=3D"0" role=3D"presentation" width=3D"570" class=3D"r6-=
+o" style=3D"table-layout: fixed; width: 570px;"><tr><td class=3D"r21-i" sty=
+le=3D"padding-bottom: 15px; padding-left: 209px; padding-right: 209px; padd=
+ing-top: 15px;"> <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" =
+border=3D"0" role=3D"presentation"><tr><th width=3D"40" class=3D"r22-c mobs=
+how resp-table" style=3D"font-weight: normal;"> <table cellspacing=3D"0" ce=
+llpadding=3D"0" border=3D"0" role=3D"presentation" width=3D"100%" class=3D"=
+r23-o" style=3D"table-layout: fixed; width: 100%;"><tr><td class=3D"r24-i" =
+style=3D"font-size: 0px; line-height: 0px; padding-bottom: 5px; padding-top=
+: 5px;"> <a href=3D"http://r.support-mail-two.duetdisplay.com/mk/cl/f/sh/7n=
+VU0AB9DRh7PVvr15OEkE7jyRwodxS/OpBWrhmnJmGk" target=3D"_blank" style=3D"colo=
+r: #5c98de; text-decoration: underline;" sib_link_id=3D"2" templating=3D"n"=
+> <img src=3D"https://img.support-mail-two.duetdisplay.com/im/sh/QmRAomfJm6=
+Fi.png?u=3D92pJLo34vnrQtizqz3MZREetELTaQLRLYJe" width=3D"32" border=3D"0" s=
+tyle=3D"display: block; width: 100%;" sib_img_id=3D"2"></a> </td> <td class=
+=3D"nl2go-responsive-hide" width=3D"8" style=3D"font-size: 0px; line-height=
+: 1px;">=C2=AD </td> </tr></table></th> <th width=3D"40" class=3D"r22-c mob=
+show resp-table" style=3D"font-weight: normal;"> <table cellspacing=3D"0" c=
+ellpadding=3D"0" border=3D"0" role=3D"presentation" width=3D"100%" class=3D=
+"r23-o" style=3D"table-layout: fixed; width: 100%;"><tr><td class=3D"r24-i"=
+ style=3D"font-size: 0px; line-height: 0px; padding-bottom: 5px; padding-to=
+p: 5px;"> <a href=3D"http://r.support-mail-two.duetdisplay.com/mk/cl/f/sh/7=
+nVU0AB9DZUBRjCD6Z40UNuslL44LZa/0qoj85Y7G3Q0" target=3D"_blank" style=3D"col=
+or: #5c98de; text-decoration: underline;" sib_link_id=3D"3" templating=3D"n=
+"> <img src=3D"https://img.support-mail-two.duetdisplay.com/im/sh/vKn2FhZLH=
+98o.png?u=3D92pJLo34vnrQtqmv1GcvWiKeyVGjDEYbFvm" width=3D"32" border=3D"0" =
+style=3D"display: block; width: 100%;" sib_img_id=3D"3"></a> </td> <td clas=
+s=3D"nl2go-responsive-hide" width=3D"8" style=3D"font-size: 0px; line-heigh=
+t: 1px;">=C2=AD </td> </tr></table></th> <th width=3D"40" class=3D"r22-c mo=
+bshow resp-table" style=3D"font-weight: normal;"> <table cellspacing=3D"0" =
+cellpadding=3D"0" border=3D"0" role=3D"presentation" width=3D"100%" class=
+=3D"r23-o" style=3D"table-layout: fixed; width: 100%;"><tr><td class=3D"r24=
+-i" style=3D"font-size: 0px; line-height: 0px; padding-bottom: 5px; padding=
+-top: 5px;"> <a href=3D"http://r.support-mail-two.duetdisplay.com/mk/cl/f/s=
+h/7nVU0AB9DhHFTwSZC2jmEXi1YEBK3Bi/AbcP4pm8SRpf" target=3D"_blank" style=3D"=
+color: #5c98de; text-decoration: underline;" sib_link_id=3D"4" templating=
+=3D"n"> <img src=3D"https://img.support-mail-two.duetdisplay.com/im/sh/UHvj=
+9cQccq90.png?u=3D92pJLo34vnrQtyZz3TtHcC0Qif3s07fqxXu" width=3D"32" border=
+=3D"0" style=3D"display: block; width: 100%;" sib_img_id=3D"4"></a> </td> <=
+td class=3D"nl2go-responsive-hide" width=3D"8" style=3D"font-size: 0px; lin=
+e-height: 1px;">=C2=AD </td> </tr></table></th> <th width=3D"32" class=3D"r=
+22-c mobshow resp-table" style=3D"font-weight: normal;"> <table cellspacing=
+=3D"0" cellpadding=3D"0" border=3D"0" role=3D"presentation" width=3D"100%" =
+class=3D"r25-o" style=3D"table-layout: fixed; width: 100%;"><tr><td class=
+=3D"r24-i" style=3D"font-size: 0px; line-height: 0px; padding-bottom: 5px; =
+padding-top: 5px;"> <a href=3D"http://r.support-mail-two.duetdisplay.com/mk=
+/cl/f/sh/7nVU0AB9Dp4JW9ivHWPXyhVAL7IZknq/8miTrrAaYK3U" target=3D"_blank" st=
+yle=3D"color: #5c98de; text-decoration: underline;" sib_link_id=3D"5" templ=
+ating=3D"n"> <img src=3D"https://img.support-mail-two.duetdisplay.com/im/sh=
+/v5ncJh1KhuLH.png?u=3D92pJLo34vnrQu6N35h9dhfgCSor0n0n6fA2" width=3D"32" bor=
+der=3D"0" style=3D"display: block; width: 100%;" sib_img_id=3D"5"></a> </td=
+> </tr></table></th> </tr></table></td> </tr></table></td> </tr></table></t=
+d> </tr></table></td> </tr></table></td> </tr></table></th> </tr></table></=
+td> </tr></table><table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" ro=
+le=3D"presentation" width=3D"100%" align=3D"center" class=3D"r3-o" style=3D=
+"table-layout: fixed; width: 100%;"><tr><td class=3D"r26-i" style=3D"backgr=
+ound-color: #eff2f7; padding-bottom: 20px; padding-top: 20px;"> <table widt=
+h=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" role=3D"present=
+ation"><tr><th width=3D"100%" valign=3D"top" class=3D"r5-c" style=3D"font-w=
+eight: normal;"> <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" ro=
+le=3D"presentation" width=3D"100%" class=3D"r6-o" style=3D"table-layout: fi=
+xed; width: 100%;"><tr><td valign=3D"top" class=3D"r7-i" style=3D"padding-l=
+eft: 15px; padding-right: 15px;"> <table width=3D"100%" cellspacing=3D"0" c=
+ellpadding=3D"0" border=3D"0" role=3D"presentation"><tr><td class=3D"r9-c" =
+align=3D"left"> <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" rol=
+e=3D"presentation" width=3D"100%" class=3D"r10-o" style=3D"table-layout: fi=
+xed; width: 100%;"><tr><td align=3D"center" valign=3D"top" class=3D"r27-i n=
+l2go-default-textstyle" style=3D"font-family: Nunito Sans,Arial; word-break=
+: break-word; color: #3b3f44; font-size: 18px; line-height: 1.5; padding-to=
+p: 15px; text-align: center;"> <div><p style=3D"margin: 0;"><strong>Duet, I=
+nc.</strong></p></div> </td> </tr></table></td> </tr><tr><td class=3D"r9-c"=
+ align=3D"left"> <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" ro=
+le=3D"presentation" width=3D"100%" class=3D"r10-o" style=3D"table-layout: f=
+ixed; width: 100%;"><tr><td align=3D"center" valign=3D"top" class=3D"r28-i =
+nl2go-default-textstyle" style=3D"font-family: Nunito Sans,Arial; word-brea=
+k: break-word; color: #3b3f44; font-size: 18px; line-height: 1.5; text-alig=
+n: center;"> <div><p style=3D"margin: 0; font-size: 14px;">335 S Biscayne B=
+lvd, 33131, Miami</p></div> </td> </tr></table></td> </tr><tr><td class=3D"=
+r9-c" align=3D"left"> <table cellspacing=3D"0" cellpadding=3D"0" border=3D"=
+0" role=3D"presentation" width=3D"100%" class=3D"r10-o" style=3D"table-layo=
+ut: fixed; width: 100%;"><tr><td align=3D"center" valign=3D"top" class=3D"r=
+27-i nl2go-default-textstyle" style=3D"font-family: Nunito Sans,Arial; word=
+-break: break-word; color: #3b3f44; font-size: 18px; line-height: 1.5; padd=
+ing-top: 15px; text-align: center;"> <div><p style=3D"margin: 0; font-size:=
+ 14px;">This email was sent to technikag@fichte-gymnasium.de</p></div> </td=
+> </tr></table></td> </tr><tr><td class=3D"r9-c" align=3D"left"> <table cel=
+lspacing=3D"0" cellpadding=3D"0" border=3D"0" role=3D"presentation" width=
+=3D"100%" class=3D"r10-o" style=3D"table-layout: fixed; width: 100%;"><tr><=
+td align=3D"center" valign=3D"top" class=3D"r28-i nl2go-default-textstyle" =
+style=3D"font-family: Nunito Sans,Arial; word-break: break-word; color: #3b=
+3f44; font-size: 18px; line-height: 1.5; text-align: center;"> <div><p styl=
+e=3D"margin: 0; font-size: 14px;">You've received it because you've subscri=
+bed to our newsletter.</p></div> </td> </tr></table></td> </tr><tr><td clas=
+s=3D"r9-c" align=3D"left"> <table cellspacing=3D"0" cellpadding=3D"0" borde=
+r=3D"0" role=3D"presentation" width=3D"100%" class=3D"r10-o" style=3D"table=
+-layout: fixed; width: 100%;"><tr><td align=3D"center" valign=3D"top" class=
+=3D"r29-i nl2go-default-textstyle" style=3D"font-family: Nunito Sans,Arial;=
+ word-break: break-word; color: #3b3f44; font-size: 18px; line-height: 1.5;=
+ padding-bottom: 15px; padding-top: 15px; text-align: center;"> <div><p sty=
+le=3D"margin: 0; font-size: 14px;"><a href=3D"http://r.support-mail-two.due=
+tdisplay.com/mk/mr/sh/WCPzsgJj0EE5kUXPVd5jkIzRnh5OBZOE/0NXp2x1GGspd" style=
+=3D"color: #5c98de; text-decoration: underline;">View in browser</a>| <a hr=
+ef=3D"http://r.support-mail-two.duetdisplay.com/mk/un/sh/WCPzsgSZTpcfXB8egQ=
+u5ADTopINIXbMI/-2OGm4u-V2L0" style=3D"color: #5c98de; text-decoration: unde=
+rline;">Unsubscribe</a></p></div> </td> </tr></table></td> </tr></table></t=
+d> </tr></table></th> </tr></table></td> </tr></table></td> </tr></table></=
+td> </tr></table>   </body></html>
+
+
+---------?=_57612-2158565399239--
+

@@ -1,0 +1,82 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <alessia.hirt@gmail.com>
+Received: from mail-hub02.belwue.de ([129.143.76.42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 80452493 for technikag@fichte-gymnasium.de; Fri, 26 Jan 2024 16:20:02 +0100
+Received: from mail-in03.belwue.de (mail-in03.belwue.de [129.143.76.3])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4TM1b568WYz5cCH
+	for <technikag@fichte-gymnasium.de>; Fri, 26 Jan 2024 16:20:01 +0100 (CET)
+Received: from mail-ej1-x62d.google.com (mail-ej1-x62d.google.com [IPv6:2a00:1450:4864:20::62d])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in03.belwue.de (Postfix) with ESMTPS id 4TM1b541j3z4mBW
+	for <technikag@fichte-gymnasium.de>; Fri, 26 Jan 2024 16:20:01 +0100 (CET)
+Received: by mail-ej1-x62d.google.com with SMTP id a640c23a62f3a-a2a17f3217aso74497666b.2
+        for <technikag@fichte-gymnasium.de>; Fri, 26 Jan 2024 07:20:01 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20230601; t=1706282400; x=1706887200; darn=fichte-gymnasium.de;
+        h=to:subject:message-id:date:from:mime-version:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=8dmrKnnkuZqi/4NC/Hvc6eqJguVKhw52napMQsAvWmA=;
+        b=Vy6Umt9P9YyZgL8s1cGpVeiENMm32y3s82flgANT+TDlA2QQc4NopbkEDYmTCQmZV+
+         PMjJ38gOcULFHr0nFbR3u4QB/PF58nF4hl3C/EpDf0RM2BZ0NGRsU4TrqBSy5fHX1uYC
+         oazpFVQMk7SavF0mv4zzPhxiYQJBdPjnoljH9YtOmMkwf+YrRK5B3ja8+skyCdjfv0jq
+         y+9Dyxi65RaUjuJOMTwaJ7IavEHmfgv7enLuouWa7v4xXW066qIsowi/gw9+VnRfN092
+         qIM6ROSBsAmNiMMsJpBk+7MXUQhfmXepn8DVGK3AxNGejjW6aDdOShgRYBLY1KlnfWpL
+         bGfg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20230601; t=1706282400; x=1706887200;
+        h=to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=8dmrKnnkuZqi/4NC/Hvc6eqJguVKhw52napMQsAvWmA=;
+        b=czY9pDh5utZGrDK7UxsM9sxclNB2ee6Nny+6t56WAm/MSxL2dcqUrW/DWyChVwWXOZ
+         wyqSR1fEqt0uAbhSjtfboaJ6pMMKZPkyNgsf2DbxkQP/9JDXlIwybmkvMCK2mumVrMY3
+         266f/ewilkOPcf40Om/9gknOro/VHpUJEMhSpvWmWHbSbS/lykOX0UhTH5RgPFjNkyIX
+         KrmszrTt8AxIUEGOpeVZSQ5i4cW746pHH/YAN7xyQEtHQfu7tYJHaCu8wZbSDxF3d9sL
+         ieA0BW0+ra68jAuxRSlgX6VpxBfWToe80zPIGlG4U6aLdM7zLgHFWX7wEHpoZBJ+oDzX
+         qoqA==
+X-Gm-Message-State: AOJu0Yy1nrtkDrW8Mi8Wt2znm1qx0Aef/R/aokDfdAiKYBueSdYwtcnq
+	LsJjigTllqSMhHTADR1uN2TNEon7BdKKeSaKcU/mEaEj39vN5tyJaO9tcOltbCAbWwAP4P32tX1
+	AjFKRT91kxSdV8de8JEQXN8UimIYETuVb
+X-Google-Smtp-Source: AGHT+IH0S/G15uKhJfbgEgchucvi8efpJ+4qg1oICK4UyogHFb4DK+Dw8tDomhwEPRhg0jRsNPoGMyNmBCg/xkPtAGI=
+X-Received: by 2002:a17:906:3bd3:b0:a2c:c4e5:65b with SMTP id
+ v19-20020a1709063bd300b00a2cc4e5065bmr1617711ejf.10.1706282400307; Fri, 26
+ Jan 2024 07:20:00 -0800 (PST)
+MIME-Version: 1.0
+From: Hirt Alessia <alessia.hirt@gmail.com>
+Date: Fri, 26 Jan 2024 16:19:51 +0100
+Message-ID: <CAHbLL-MixVy_sv7JUwNTkfbbExSu+ZwJMkd2wkKLYBCS9CmYUg@mail.gmail.com>
+Subject: Faschingsparty 2024
+To: technikag@fichte-gymnasium.de
+Content-Type: multipart/alternative; boundary="0000000000005b602d060fdad47d"
+X-Rspamd-Queue-Id: 4TM1b541j3z4mBW
+X-Rspamd-UID: 898216
+
+--0000000000005b602d060fdad47d
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Liebe Technik- AG,
+
+Wir w=C3=BCrden gerne eine Faschingsparty f=C3=BCr die Unterstufe veranstal=
+tet.
+Anbei befindet sich das Formular daf=C3=BCr.
+
+Mit freundlichen Gr=C3=BC=C3=9Fen
+Party AK
+
+--0000000000005b602d060fdad47d
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">Liebe Technik- AG,<div dir=3D"auto"><br></div><div dir=3D=
+"auto">Wir w=C3=BCrden gerne eine Faschingsparty f=C3=BCr die Unterstufe ve=
+ranstaltet.</div><div dir=3D"auto">Anbei befindet sich das Formular daf=C3=
+=BCr.</div><div dir=3D"auto"><br></div><div dir=3D"auto">Mit freundlichen G=
+r=C3=BC=C3=9Fen</div><div dir=3D"auto">Party AK</div></div>
+
+--0000000000005b602d060fdad47d--

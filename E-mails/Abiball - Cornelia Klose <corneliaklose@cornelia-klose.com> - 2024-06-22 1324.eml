@@ -1,0 +1,123 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <corneliaklose@cornelia-klose.com>
+Received: from mail-hub02.belwue.de ([129.143.76.42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 88843067 for technikag@fichte-gymnasium.de; Sat, 22 Jun 2024 13:24:48 +0200
+Received: from mail-in03.belwue.de (mail-in03.belwue.de [IPv6:2001:7c0:0:76::3])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4W5sMM6lFfz5b9F
+	for <technikag@fichte-gymnasium.de>; Sat, 22 Jun 2024 13:24:47 +0200 (CEST)
+Received: from mout.kundenserver.de (mout.kundenserver.de [212.227.17.13])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange ECDHE (P-256) server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in03.belwue.de (Postfix) with ESMTPS id 4W5sMM4NcNzx5L
+	for <technikag@fichte-gymnasium.de>; Sat, 22 Jun 2024 13:24:47 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=cornelia-klose.com;
+	s=s1-ionos; t=1719055486; x=1719660286;
+	i=corneliaklose@cornelia-klose.com;
+	bh=8MHMtgaWWBxajrICqr4wjHIlTUe4GnPKlVAxbwuy8t8=;
+	h=X-UI-Sender-Class:Content-Type:Content-Transfer-Encoding:From:
+	 Mime-Version:Date:Subject:Message-Id:Cc:To:cc:
+	 content-transfer-encoding:content-type:date:from:message-id:
+	 mime-version:reply-to:subject:to;
+	b=Z3T6xIrJocZQCd+B8igfpNnIpKpyLqY+1Tj3Bx9Wcu2AkqQ2bxvK1+MdjqerxG8s
+	 q1kXa9gN1oUtDwzxYjB2uRuN09Fbxya9T72f1f87u/e+UpP3GgLduMvMkbRjZVkdA
+	 zXqGP8akl28Jmuy6IuEhU3SGJoRJ8qKbVb9DD/n4+31ZRLBzoPVwFriK2vmb5yAwN
+	 h2+/Lj8b2EjxyTaq/jZAQ57QdpCU70vRiSmCkW+JhliiaDdOLAwBs2fBiFTgSactJ
+	 rqGafppBtPWG7Un0szPwHkApB5GYBmNhgd0ZAPhWtLytOS34i0QBzmxYiBfxxN6kI
+	 YBofky2SINMu+SLBug==
+X-UI-Sender-Class: 55c96926-9e95-11ee-ae09-1f7a4046a0f6
+Received: from smtpclient.apple ([77.21.253.118]) by mrelayeu.kundenserver.de
+ (mreue106 [212.227.15.183]) with ESMTPSA (Nemesis) id
+ 1MdNHa-1su2d41rVo-00nwg2; Sat, 22 Jun 2024 13:24:46 +0200
+Content-Type: multipart/alternative; boundary=Apple-Mail-AFE53C49-1DEE-46D5-A862-A57A52D71F7B
+Content-Transfer-Encoding: 7bit
+From: Cornelia Klose <corneliaklose@cornelia-klose.com>
+Mime-Version: 1.0 (1.0)
+Date: Sat, 22 Jun 2024 13:24:45 +0200
+Subject: Abiball
+Message-Id: <080BBDC7-8267-4AFF-9A1A-8A6F23A52148@cornelia-klose.com>
+Cc: alina.hoffmann1013@gmail.com
+To: Technik AG <technikag@fichte-gymnasium.de>
+X-Mailer: iPad Mail (19H384)
+X-Provags-ID: V03:K1:eZlB5w3qN9TflplvIAO7UjumuOarIYZRnGB7Di0e0cpJLtEBrMI
+ aSPxafRS4At3rrLW+3FalIyxx5s0Cax3dFZ6e8z2XtFlmpd+NcsDIhsC6wvSeUfTfHNBEjX
+ d6BjBhRyVPrZH0iOJlisMPaAO8mWKAci+5pC8R6wqBvKWNLmVy+m0mKmjPt+EniUP4lpQwD
+ 7p+sDzFIdVwBhdkBslVng==
+X-Spam-Flag: NO
+UI-OutboundReport: notjunk:1;M01:P0:AdzIwN5F5ug=;FFrVBSgKpxI6IUfiKNTVAzccebJ
+ 4Os+U8lt4EF/xzPguBsMapEAMImqnDEyLcY9yUo8fPdmGLCbLUZHUwl3hLItIMYL6sqfc57Dr
+ NFlSTutj0xNXhN2KiKWkWvDelu2vebphC4UEj4vp5Im1M4lcCBnICoD2kVB0fuzhlD3MDnWOj
+ tBtfI383QP2vMhwVCyxehoY9kREgJ2eYPdu/heo37GxQouvXJwoFNWgryYyXxCaDr9x6IhiQ4
+ s4Sa/x4FkeeVHKEQHYO3ukSffqgyYk+FOlrG/WyGhUYhK3dMX01iy7CqG8NX0IUzm3vIQcmm3
+ VQmYfqq9fUEDenJDn/8TDiGh8qGVFZ72k1fxfX0KR3WAdaZKEKL7DDHwuKtK269QCBi0brVUL
+ fWJiZOQCSkbWxShH2KYNutq4U7X0VP4/gNBSZWRwQmjBOhQJrNqoOUCtC6dQX3RQuz1W3rV8U
+ /OpUn6zracU1inB/NNpJRtfJVVaB0QSStY8Cahmhfwm3MCBuXJ12Ku8REUs8ie8qHsTcCbkOt
+ LuWTaLZrGgcL35ULcUcQv+BarVQ7AA3C2U+ICdtX3ujsZdkqi9aTgrZ+1nxA42GwrErf4SxUI
+ +BdDscxiIqVjOoEGNN409+YUUZBq8O3Ys1GtmdRCFHlMxBZdzDdzDv6g3jdosN+AmJpZv8xSO
+ TB5tHuxAY1+1WopqSZNP/w7S5A03sjMiqiNhj3/su0v9GAJehlhjm3SP6+OfaNaqw0JkWBcX0
+ 1R6dfUJHDHrTYYoKzi/ml8FSjkN22wEOSM8Xw7yV1nc6pzFSosIyLI=
+X-Rspamd-Queue-Id: 4W5sMM4NcNzx5L
+X-Rspamd-SPAM-Probability: 0
+X-Rspamd-UID: fb3c59
+
+
+--Apple-Mail-AFE53C49-1DEE-46D5-A862-A57A52D71F7B
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Liebe Technik-AG,
+beim Abiball am 6. Juli musiziert der Musikkurs zusammen mit dem Deutsch LK S=
+unny.
+Ich hoffe, ihr k=C3=B6nnt uns unterst=C3=BCtzen. Als Intro planen wir eine m=
+usikalische =C3=9Cberraschungsversion des Bongosongs. Dabei marschiert der K=
+urs auf, dann kommen die Deutsch LKler dazu.
+Als Probe wurde mir von den Mitwirkenden genannt, dass alle um 15.15 da sein=
+ k=C3=B6nnen, um kurz auf der B=C3=BChne anzusingen und die Mikros zu checke=
+n.=20
+
+Technik: Wir ben=C3=B6tigen ein Ansagenmikro, ein Gesangsmikro, zwei Chormik=
+ros, zwei Monitore f=C3=BCr die Keyboards und den Anschluss von zwei Keyboar=
+ds (mit Klinkenausgang, davon eines mit Stereosignal).
+Wir haben au=C3=9Ferdem drei Cajons, deren Sound aber vermutlich =C3=BCber d=
+ie Chormikros gen=C3=BCgend verst=C3=A4rkt wird. Ansonsten k=C3=B6nnte man d=
+iese auch noch mikrofonieren.
+
+Vielen Dank f=C3=BCr euren Einsatz,
+viele Gr=C3=BC=C3=9Fe,
+Cornelia Klose
+
+Cornelia Klose
+Auf der Heide 9 b
+67360 Lingenfeld
+
+
+--Apple-Mail-AFE53C49-1DEE-46D5-A862-A57A52D71F7B
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto"><div>Liebe Technik-AG,</div><div>beim Abiba=
+ll am 6. Juli musiziert der Musikkurs zusammen mit dem Deutsch LK Sunny.</di=
+v><div>Ich hoffe, ihr k=C3=B6nnt uns unterst=C3=BCtzen. Als Intro planen wir=
+ eine musikalische =C3=9Cberraschungsversion des Bongosongs. Dabei marschier=
+t der Kurs auf, dann kommen die Deutsch LKler dazu.</div><div>Als Probe wurd=
+e mir von den Mitwirkenden genannt, dass alle um 15.15 da sein k=C3=B6nnen, u=
+m kurz auf der B=C3=BChne anzusingen und die Mikros zu checken.&nbsp;</div><=
+div><br></div><div>Technik: Wir ben=C3=B6tigen ein Ansagenmikro, ein Gesangs=
+mikro, zwei Chormikros, zwei Monitore f=C3=BCr die Keyboards und den Anschlu=
+ss von zwei Keyboards (mit Klinkenausgang, davon eines mit Stereosignal).</d=
+iv><div>Wir haben au=C3=9Ferdem drei Cajons, deren Sound aber vermutlich =C3=
+=BCber die Chormikros gen=C3=BCgend verst=C3=A4rkt wird. Ansonsten k=C3=B6nn=
+te man diese auch noch mikrofonieren.</div><div><br></div><div>Vielen Dank f=
+=C3=BCr euren Einsatz,</div><div>viele Gr=C3=BC=C3=9Fe,</div><div>Cornelia K=
+lose</div><br><div dir=3D"ltr"><div><span style=3D"font-size: 13pt;">Corneli=
+a Klose</span></div><div><div>Auf der Heide 9 b</div><div>67360 Lingenfeld</=
+div><div><br></div></div></div></body></html>=
+
+--Apple-Mail-AFE53C49-1DEE-46D5-A862-A57A52D71F7B--

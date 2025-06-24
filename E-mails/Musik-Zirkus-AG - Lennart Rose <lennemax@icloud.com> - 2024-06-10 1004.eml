@@ -1,0 +1,60 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <lennemax@icloud.com>
+Received: from mail-hub02.belwue.de ([129.143.76.42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 85240660 for technikag@fichte-gymnasium.de; Mon, 10 Jun 2024 10:04:15 +0200
+Received: from mail-in03.belwue.de (mail-in03.belwue.de [129.143.76.3])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4VyPTW5LrKz5YQ1
+	for <technikag@fichte-gymnasium.de>; Mon, 10 Jun 2024 10:04:15 +0200 (CEST)
+Received: from qs51p00im-qukt01071701.me.com (qs51p00im-qukt01071701.me.com [17.57.155.6])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in03.belwue.de (Postfix) with ESMTPS id 4VyPTV4sCpzx44
+	for <technikag@fichte-gymnasium.de>; Mon, 10 Jun 2024 10:04:14 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icloud.com;
+	s=1a1hai; t=1718006653;
+	bh=0/epLxCFLfaQDB1PvHIy/TM1LYkGWP8xNfqd+wMiUIE=;
+	h=Content-Type:From:Mime-Version:Date:Subject:Message-Id:To;
+	b=Zn6GZ6+tEA9kBsFxJxze10hlpWscwpKdhkONwX1XJDgo0IyXyvrpV2vW8gtK/6vbM
+	 qMcRywdUvmHia6/c8V4OLs+zgOwVHe+ihMQuFBKbbwC/rcTHkXGw3VxyUzofy865cu
+	 FWGx4MuRPTeS/tORFjTWvwKu+NcyE85XCsbfFwwLQ/3gB3aCVlNhCzUa9NfTcHtsf3
+	 gvR6IQYWfqRhG1KRtiDU5kW4sAPoaZwsnkL9cWWHmYA0Rh3MOL8A3XNxcOn8PT3Hzl
+	 ZZ3IOsYE+JvPu2Vp7Hc1hDWUmIB7RSO2l0stC0LCkEPErjd6EhUL4kU4QMOJHefkdM
+	 rHqDKWbM0/s3g==
+Received: from smtpclient.apple (qs51p00im-dlb-asmtp-mailmevip.me.com [17.57.155.28])
+	by qs51p00im-qukt01071701.me.com (Postfix) with ESMTPSA id 9B0034D001D6
+	for <technikag@fichte-gymnasium.de>; Mon, 10 Jun 2024 08:04:12 +0000 (UTC)
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+From: Lennart Rose <lennemax@icloud.com>
+Mime-Version: 1.0 (1.0)
+Date: Mon, 10 Jun 2024 10:04:09 +0200
+Subject: Musik-Zirkus-AG
+Message-Id: <D7625D1E-5FF7-4A90-84D1-0CE279951AD6@icloud.com>
+To: technikag@fichte-gymnasium.de
+X-Mailer: iPhone Mail (21F90)
+X-Proofpoint-GUID: yyfdBtGnbEi1QVUUv5jM8qw3PhLjR0wv
+X-Proofpoint-ORIG-GUID: yyfdBtGnbEi1QVUUv5jM8qw3PhLjR0wv
+X-Proofpoint-Virus-Version: vendor=baseguard
+ engine=ICAP:2.0.272,Aquarius:18.0.1039,Hydra:6.0.680,FMLib:17.12.28.16
+ definitions=2024-06-10_02,2024-06-06_02,2024-05-17_01
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 phishscore=0 spamscore=0 adultscore=0
+ malwarescore=0 bulkscore=0 suspectscore=0 clxscore=1015 mlxlogscore=461
+ mlxscore=0 classifier=spam adjust=0 reason=mlx scancount=1
+ engine=8.19.0-2308100000 definitions=main-2406100061
+X-Rspamd-UID: d95ff1
+X-Rspamd-Queue-Id: 4VyPTV4sCpzx44
+X-Rspamd-SPAM-Probability: 0
+
+H=C3=B6r mal in diese Playlist rein: Zirkus 2024
+https://open.spotify.com/playlist/30SwmqWH2Jz50OcAwv7Gra?si=3DPR62RBCUQXizEy=
+poGOx50Q&pi=3De-VZLdpqzdStOt
+
+Viele Gr=C3=BC=C3=9Fe w=C3=BCnscht ihnen=20
+Lennart Rose
+
+(LenneNews)=

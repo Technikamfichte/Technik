@@ -1,0 +1,203 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <noreply@allen-heath.com>
+Received: from mail-hub02.belwue.de ([2001:7c0:0:76::42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 75959941 for technikag@fichte-gymnasium.de; Sun, 03 Dec 2023 14:54:55 +0100
+Received: from mail-in03.belwue.de (mail-in03.belwue.de [129.143.76.3])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4SjpFq0rygz7G8Y
+	for <technikag@fichte-gymnasium.de>; Sun,  3 Dec 2023 14:54:55 +0100 (CET)
+Received: from s19.mxout.elasticemail.co.uk (s19.mxout.elasticemail.co.uk [5.135.241.82])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mail-in03.belwue.de (Postfix) with ESMTPS id 4SjpFp3pZJz9TW
+	for <technikag@fichte-gymnasium.de>; Sun,  3 Dec 2023 14:54:54 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; d=allen-heath.com; s=api; c=relaxed/simple;
+	t=1701611692; h=from:date:subject:reply-to:to:mime-version;
+	bh=H1LtZEqeSlR0+JuZ05EYjZAb+KERWZmwN8vEI1G7si0=;
+	b=hCe90s5TrQA9J/6/W9RU9bEQ9QKHZflaeJCBBS1yUPh4OQonetn9rw4o7nt5BbH+lDmGIsteFFZ
+	RgtEbmjHoRs+T90b80OoqkUtipGCJJrQmQvfjnxpVFrhv+dhv7MniTlR6BQbaR5V6bPZz70exXwUd
+	mWCVNeFhHoZhyB8vn2I=
+DKIM-Signature: v=1; a=rsa-sha256; d=elasticemail.com; s=api;
+	c=relaxed/simple; t=1701611692; h=from:date:subject:reply-to:to;
+	bh=H1LtZEqeSlR0+JuZ05EYjZAb+KERWZmwN8vEI1G7si0=;
+	b=RUfw6M/aYSD7dTFn1mHaayRAF6sXj7Bn+Z79oOKfS4RfuPmQSFdAuwStkbeTZuo7oakyNCMZnPV
+	xekCeCfsTZWqRT2k1TFN0wWQROOdeSuAjqJ1iDA/jKpTU5soUCWEVg53Y0ZTMLOUYZ+3gxpGGDEHg
+	VeZLmVdQyQ/K+Ryo9dE=
+From: Allen & Heath <noreply@allen-heath.com>
+Date: Sun, 03 Dec 2023 13:54:52 +0000
+Subject: You have registered your Allen & Heath product
+Message-Id: <4ulo0n97r5wq.vKVluYk5C8BHmkEjseqyFQ2@tracking.allen-heath.com>
+Reply-To: marketing@allen-heath.com
+Sender: Allen & Heath <noreply@allen-heath.com>
+To: technikag@fichte-gymnasium.de
+X-Msg-EID: vKVluYk5C8BHmkEjseqyFQ2
+X-PHP-Originating-Script: 1007:PHPMailer.php
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=-eZCfEknj8jD1LJK9MusHZCLk2BdnxOcD/XWKzQ=="
+X-Rspamd-SPAM-Probability: 10
+X-Rspamd-Queue-Id: 4SjpFp3pZJz9TW
+X-Rspamd-UID: bc1895
+
+--=-eZCfEknj8jD1LJK9MusHZCLk2BdnxOcD/XWKzQ==
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+WW91IGhhdmUgcmVnaXN0ZXJlZCB5b3VyIEFsbGVuICYgSGVhdGggcHJvZHVjdA0KCQlUaGFu
+ayB5b3UgZm9yIHJlZ2lzdGVyaW5nIHlvdXIgQWxsZW4gJiBIZWF0aCBwcm9kdWN0Lg0KDQoN
+CsKgDQoNCg0KSWYgeW91IHdvdWxkIGxpa2UgdG8gc3Vic2NyaWJlIHRvIG91ciBuZXdzbGV0
+dGVycyB0byBiZSBrZXB0IGluZm9ybWVkIG9mIHByb2R1Y3QgbmV3cyBhbmQgYW5ub3VuY2Vt
+ZW50cyBvZiB5b3VyIGNob29zaW5nIC0gcGxlYXNlIHNpZ251cCBoZXJlIC3CoA0KPGh0dHA6
+Ly93d3cuYWxsZW4taGVhdGguY29tL25ld3Mtc2lnbnVwLz4NCmh0dHA6Ly93d3cuYWxsZW4t
+aGVhdGguY29tL25ld3Mtc2lnbnVwLw0KDQoNCsKgDQoNClByb2R1Y3QgMVByb2R1Y3QgU2Vy
+aWVzwqBTUSBTZXJpZXNTZXJpYWwgTnVtYmVyOsKgU1E1WC0wMDEwMjcyNTJZb3VyIERldGFp
+bHNGaXJzdCBOYW1lwqBMdWNhc0xhc3QgTmFtZcKgU2Now7x0dFlvdXIgRW1haWwgQWRkcmVz
+czrCoA0KPG1haWx0bzp0ZWNobmlrYWdAZmljaHRlLWd5bW5hc2l1bS5kZT4NCnRlY2huaWth
+Z0BmaWNodGUtZ3ltbmFzaXVtLmRlQ291bnRyecKgR2VybWFueVJlY2VpdmluZyBFbWFpbHMg
+ZnJvbSBBbGxlbiAmIEhlYXRoSW50ZXJlc3RzwqANCiAgICBFZHVjYXRpb25XaGljaCBwcm9k
+dWN0cyBhcmUgeW91IGludGVyZXN0ZWQgaW4/wqANCiAgICBTUUkgY29uZmlybSBJIHdvdWxk
+IGxpa2UgdG8gcmVjZWl2ZSBlbWFpbHMgc3BlY2lmaWMgdG8gdGhlc2UgcHJvZHVjdHMgZnJv
+bSBBbGxlbiAmIEhlYXRowqANCiAgICBDb25maXJtDQo8aHR0cDovL3RyYWNraW5nLmFsbGVu
+LWhlYXRoLmNvbS90cmFja2luZy91bnN1YnNjcmliZT9kPVFiYmxCQ1hKSjM0enFoaVlNQmJM
+UnA3NDVxYjBFSmNCRG8tNUNKOVVEZUVxZ3M3ZlljX3Q2eWxjMldUc1ZHeGtNSHpoVWZzMThH
+SFhFM0JuT3NySkZUTVYtX3pWT1RGYmU5X2ZPdlFtXy1MUTA+DQpVTlNVQlNDUklCRQ==
+
+--=-eZCfEknj8jD1LJK9MusHZCLk2BdnxOcD/XWKzQ==
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+	<head>
+		<title>You have registered your Allen & Heath product</title>
+	</head>
+	<body>
+		Thank you for registering your Allen &amp; Heath product.<br />
+<br />
+&nbsp;<br />
+<br />
+If you would like to subscribe to our newsletters to be kept informed of product news and announcements of your choosing - please signup here - <a href="http://www.allen-heath.com/news-signup/">http://www.allen-heath.com/news-signup/</a><br />
+<br />
+&nbsp;<br />
+<br />
+<table width="99%" border="0" cellpadding="1" cellspacing="0" bgcolor="#EAEAEA"><tr><td>
+                            <table width="100%" border="0" cellpadding="5" cellspacing="0" bgcolor="#FFFFFF">
+                            <tr>
+                                        	<td colspan="2" style="font-size:14px; font-weight:bold; background-color:#EEE; border-bottom:1px solid #DFDFDF; padding:7px 7px">Product 1</td>
+	                                   </tr>
+	                                   <tr bgcolor="#EAF2FA">
+		                                    <td colspan="2">
+		                                        <font style="font-family: sans-serif; font-size:12px;"><strong>Product Series</strong></font>
+		                                    </td>
+		                               </tr>
+		                               <tr bgcolor="#FFFFFF">
+		                                    <td width="20">&nbsp;</td>
+		                                    <td>
+		                                        <font style="font-family: sans-serif; font-size:12px;">SQ Series</font>
+		                                    </td>
+		                               </tr>
+		                               <tr bgcolor="#EAF2FA">
+		                                    <td colspan="2">
+		                                        <font style="font-family: sans-serif; font-size:12px;"><strong>Serial Number:</strong></font>
+		                                    </td>
+		                               </tr>
+		                               <tr bgcolor="#FFFFFF">
+		                                    <td width="20">&nbsp;</td>
+		                                    <td>
+		                                        <font style="font-family: sans-serif; font-size:12px;">SQ5X-001027252</font>
+		                                    </td>
+		                               </tr>
+		                               <tr>
+                                        	<td colspan="2" style="font-size:14px; font-weight:bold; background-color:#EEE; border-bottom:1px solid #DFDFDF; padding:7px 7px">Your Details</td>
+	                                   </tr>
+	                                   <tr bgcolor="#EAF2FA">
+		                                    <td colspan="2">
+		                                        <font style="font-family: sans-serif; font-size:12px;"><strong>First Name</strong></font>
+		                                    </td>
+		                               </tr>
+		                               <tr bgcolor="#FFFFFF">
+		                                    <td width="20">&nbsp;</td>
+		                                    <td>
+		                                        <font style="font-family: sans-serif; font-size:12px;">Lucas</font>
+		                                    </td>
+		                               </tr>
+		                               <tr bgcolor="#EAF2FA">
+		                                    <td colspan="2">
+		                                        <font style="font-family: sans-serif; font-size:12px;"><strong>Last Name</strong></font>
+		                                    </td>
+		                               </tr>
+		                               <tr bgcolor="#FFFFFF">
+		                                    <td width="20">&nbsp;</td>
+		                                    <td>
+		                                        <font style="font-family: sans-serif; font-size:12px;">Schütt</font>
+		                                    </td>
+		                               </tr>
+		                               <tr bgcolor="#EAF2FA">
+		                                    <td colspan="2">
+		                                        <font style="font-family: sans-serif; font-size:12px;"><strong>Your Email Address:</strong></font>
+		                                    </td>
+		                               </tr>
+		                               <tr bgcolor="#FFFFFF">
+		                                    <td width="20">&nbsp;</td>
+		                                    <td>
+		                                        <font style="font-family: sans-serif; font-size:12px;"><a href='mailto:technikag@fichte-gymnasium.de'>technikag@fichte-gymnasium.de</a></font>
+		                                    </td>
+		                               </tr>
+		                               <tr bgcolor="#EAF2FA">
+		                                    <td colspan="2">
+		                                        <font style="font-family: sans-serif; font-size:12px;"><strong>Country</strong></font>
+		                                    </td>
+		                               </tr>
+		                               <tr bgcolor="#FFFFFF">
+		                                    <td width="20">&nbsp;</td>
+		                                    <td>
+		                                        <font style="font-family: sans-serif; font-size:12px;">Germany</font>
+		                                    </td>
+		                               </tr>
+		                               <tr>
+                                        	<td colspan="2" style="font-size:14px; font-weight:bold; background-color:#EEE; border-bottom:1px solid #DFDFDF; padding:7px 7px">Receiving Emails from Allen &amp; Heath</td>
+	                                   </tr>
+	                                   <tr bgcolor="#EAF2FA">
+		                                    <td colspan="2">
+		                                        <font style="font-family: sans-serif; font-size:12px;"><strong>Interests</strong></font>
+		                                    </td>
+		                               </tr>
+		                               <tr bgcolor="#FFFFFF">
+		                                    <td width="20">&nbsp;</td>
+		                                    <td>
+		                                        <font style="font-family: sans-serif; font-size:12px;"><ul class='bulleted'><li>Education</li></ul></font>
+		                                    </td>
+		                               </tr>
+		                               <tr bgcolor="#EAF2FA">
+		                                    <td colspan="2">
+		                                        <font style="font-family: sans-serif; font-size:12px;"><strong>Which products are you interested in?</strong></font>
+		                                    </td>
+		                               </tr>
+		                               <tr bgcolor="#FFFFFF">
+		                                    <td width="20">&nbsp;</td>
+		                                    <td>
+		                                        <font style="font-family: sans-serif; font-size:12px;"><ul class='bulleted'><li>SQ</li></ul></font>
+		                                    </td>
+		                               </tr>
+		                               <tr bgcolor="#EAF2FA">
+		                                    <td colspan="2">
+		                                        <font style="font-family: sans-serif; font-size:12px;"><strong>I confirm I would like to receive emails specific to these products from Allen &amp; Heath</strong></font>
+		                                    </td>
+		                               </tr>
+		                               <tr bgcolor="#FFFFFF">
+		                                    <td width="20">&nbsp;</td>
+		                                    <td>
+		                                        <font style="font-family: sans-serif; font-size:12px;"><ul class='bulleted'><li>Confirm</li></ul></font>
+		                                    </td>
+		                               </tr>
+		                               </table>
+                        </td>
+                   </tr>
+               </table>
+	<img src="http://tracking.allen-heath.com/tracking/open?msgid=vKVluYk5C8BHmkEjseqyFQ2&c=1731310434335828455" style="width:1px;height:1px" alt="" /><div style="text-align:center; background-color:#fff;padding-top:10px;padding-bottom:10px;font-size:8pt;font-family:sans-serif;"><a href="http://tracking.allen-heath.com/tracking/unsubscribe?d=QbblBCXJJ34zqhiYMBbLRp745qb0EJcBDo-5CJ9UDeEqgs7fYc_t6ylc2WTsVGxkMHzhUfs18GHXE3BnOsrJFTMV-_zVOTFbe9_fOvQm_-LQ0" style="text-align:center;text-decoration:none;color:#666;">UNSUBSCRIBE</a></div></body>
+</html>
+
+
+--=-eZCfEknj8jD1LJK9MusHZCLk2BdnxOcD/XWKzQ==--

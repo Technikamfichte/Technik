@@ -1,0 +1,67 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <Emilia.Gerner@gmx.de>
+Received: from mail-hub02.belwue.de ([2001:7c0:0:76::42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 71511572 for technikag@fichte-gymnasium.de; Fri, 21 Jul 2023 13:26:11 +0200
+Received: from mail-in01.belwue.de (mail-in01.belwue.de [129.143.76.1])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4R6nLW5dGVz5f8r
+	for <technikag@fichte-gymnasium.de>; Fri, 21 Jul 2023 13:26:11 +0200 (CEST)
+Received: from mout.gmx.net (mout.gmx.net [212.227.17.21])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange ECDHE (P-256) server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in01.belwue.de (Postfix) with ESMTPS id 4R6nLW36x1z53KSC
+	for <technikag@fichte-gymnasium.de>; Fri, 21 Jul 2023 13:26:11 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=gmx.de;
+ s=s31663417; t=1689938771; x=1690543571; i=emilia.gerner@gmx.de;
+ bh=1+eXhNWXvGUXVaE4pfWJ2zKndea+JHcK1wY+I/oZAIs=;
+ h=X-UI-Sender-Class:From:To:Subject:Date;
+ b=qrtWQRMR8zlRjK9o88u4iJgbetDP1vtCn51YdJBBmCMdnXuSN8yAXjQ9R8RwM6H/VcdfCdP
+ X0Q1UZRrVaLtFU15RfrIQezAfydS/ZCxkgD7urN65c1SFaqxLzYWWJhGvomRgb6a1FwfqjxjW
+ QR2DTNsJZ3D/xJK1TvZ7iFsS3ZZZ4+gVysIeGsi3/Nez0jqXK9WrQxhTXhCj6B/iibtzvEExF
+ kSiZxds4P61pfMBEBXh5LW3eA77ksT3T8eEhkG3InMW4HBoCrE9ol+hLsWQlscfvXB0gy0nu8
+ Rg2DQbHCMvobmduAI9GBwLCy2DYU6KMxV6CugP3fD1pWeLdzBs6A==
+X-UI-Sender-Class: 724b4f7f-cbec-4199-ad4e-598c01a50d3a
+Received: from [141.72.193.76] ([141.72.193.76]) by web-mail.gmx.net
+ (3c-app-gmx-bap52.server.lan [172.19.172.122]) (via HTTP); Fri, 21 Jul 2023
+ 13:26:11 +0200
+MIME-Version: 1.0
+Message-ID: <trinity-19412343-9cb8-4e4a-a4eb-1c3d575c6e28-1689938771078@3c-app-gmx-bap52>
+From: Emilia Gerner <Emilia.Gerner@gmx.de>
+To: technikag@fichte-gymnasium.de
+Subject: Tanz und Theater Projekt - Schulfest Auftritt
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 21 Jul 2023 13:26:11 +0200
+Importance: normal
+Sensitivity: Normal
+X-Priority: 3
+X-Provags-ID: V03:K1:fWhifFSKj0Ng2OeaDLso3Um8FHBIXidjm1QmlffGFN2p80+YEVtHKgANS48itEXMQRoqc
+ OQF6RO5GNotgq8q0GJug2A0QxOZiYE5+vD2FBWR/te0ZgkMSeqyuyZNElFc7BNWWfeafUVO0lidI
+ x6qwgc3MHWPJNQvnmx2mJnTUIT7SQLkHIvOO1ku9/jHJGXR9ZfN2Kx/zqzcB5psUdwzhib8L2qFH
+ rGkIobPyP0w4fV+Sd2PVdvhsvXjSzn8XbZdp29NydUeQvuXBkSJWVhRrrSdqNjt7xtbHrA6RupJy
+ K0=
+X-Spam-Flag: NO
+UI-OutboundReport: notjunk:1;M01:P0:Ldrq5AI1UTw=;MvLLVIwnSMmKVNTqguNBd/uDQfi
+ zWEq5L++H47eHqy9Re0Bh26j7e8qTK6zwR2VU3gRtDU/10AFirKt4+J12lqIMhSRXasXq87dC
+ rQOsgDz/yfKuhWMz+IZJhRvuXleTALbaxbBlK0Hd1DkabdAOmp+M0R17mFKESO1lRtwDnEkfs
+ K95zlbb64IU7w3AbENPOImRxDbfrH5VoClaX3vINpBRelFgGjnLQd5puRyfM3VRrp65edtDKm
+ 7p5dvquev9mBpwq8R0OHRsEeMxMnGS0WnSOE792lpSOfZ32jkLtkCpUybRtpr5jM8OGTEb8zS
+ Rw8eOqOQBHJSMOA3MtZN2yh2NEYNC64W7DyH07xFbI0ayEN6iOpLSLEQiVQ8FXnIATjiWFNa+
+ qSJF8zoM0M9aVfW5upzYSFu6gYxrE9sMfvfnLZ+EqP3X4pZjYfXNJkLeB/LxGmxtwiSfj9/V7
+ kbV4mHipAKoN0rSmg+8iQXIqk3sABcqwDFVJoiU/s7QImWygmeRHl5BVexJC/bGOOoFZ2EkE6
+ L3SJ/GrVKecYVwcf7NYXNTIMnoeH6uKCTQzHFxQJDKbq7mhytsjL2XjHoYT9MZs0LNTg83YLZ
+ poMBP50Z8HJO9ZJBxgzHwCiymS5o4cRheoA5wPLZVlM+TwT0zF7+MZTTCWp5Ki42NdUB6fLZa
+ 5nQiWYXT6so899iLbVLOOm9kK8gnuC4JjxhSN7rAHJ5WhrVHEMmly7PhTabywiby+JsLq6SIX
+ 4blpu3ARwjTaEbyKNXYKNg/t+ghTghraVjJLuDU3xuFowF+NTgCQ0ivSjd21xokv02atWTyxy
+ taptrK1Y1BOxODR3E8aldp4Q==
+X-Rspamd-Queue-Id: 4R6nLW36x1z53KSC
+X-Rspamd-UID: 6139d1
+
+<html><head></head><body><div style="font-family: Verdana;font-size: 12.0px;"><p>Liebe Technik AG,<br/>
+wir sind das Projekt Tanz und Theater und treten am Montag beim Schulfest auf. Wann und wo wir auftreten wurde uns noch nicht mitgeteilt. W&auml;hrend unsres Theaterst&uuml;cks m&uuml;ssten 2 Songs abgespielt werden. Zuerst &ldquo;Bel Mercy - Jenga&rdquo; komplett und dann etwas sp&auml;ter &ldquo;Happy - Pharrell Williams&rdquo; ab 0:30 bis 0:42.<br/>
+Au&szlig;erdem br&auml;uchten wir noch ein Mikrofon, das wir rum geben k&ouml;nnen.<br/>
+Danke!<br/>
+LG Poonel, Emilia, Lotta</p></div></body></html>

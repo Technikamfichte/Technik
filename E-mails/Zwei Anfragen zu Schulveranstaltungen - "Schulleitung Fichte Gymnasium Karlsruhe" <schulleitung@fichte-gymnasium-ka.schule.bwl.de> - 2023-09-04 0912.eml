@@ -1,0 +1,248 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <prvs=604da7cbf=schulleitung@fichte-gymnasium-ka.schule.bwl.de>
+Received: from mail-hub02.belwue.de ([129.143.76.42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 73759964; Mon, 04 Sep 2023 09:12:27 +0200
+Received: from mail-in02.belwue.de (mail-in02.belwue.de [129.143.76.2])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4RfKZz10YWz5lG5;
+	Mon,  4 Sep 2023 09:12:27 +0200 (CEST)
+Received: from mailgate1.bwl.de (mail1.bwl.de [193.197.148.18])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mail-in02.belwue.de (Postfix) with ESMTPS id 4RfKZr2c11zB0NQ4;
+	Mon,  4 Sep 2023 09:12:20 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+  d=bwl.de; i=@bwl.de; q=dns/txt; s=s01; t=1693811546;
+  x=1725347546;
+  h=from:to:cc:subject:date:message-id:mime-version;
+  bh=CbTpEYjhV+i7kurCF8i4xaOhILs20RbvO57nbfBaq6U=;
+  b=FfSnAYqUQ2pKTnI8yB8YS42Mv6+Nz4vObpF1Pw+p+iHAqN0tQ0+jj0vI
+   2S8zb3Uv5AIe+Rx9J1ePrZikSJK7d3/PgZPvXYneKjD89I3nJybX07ZxM
+   XWtLQqryX0CtOpKz6+2yX5YU7ZGQcEn/jH5CBNUUjIQUMXTg14lBxZLPH
+   9oXBFbSG6vynJh7WsnGZe//1ClY7JqTrmOoVFqTIbkOLMHT4tIPGtLxI9
+   0pfCGRBX69mpQ2sdZdzjMP3Zw7RAbqRgBv2DmTKpCaiTsfZw+zxS0o1eo
+   eLZYtfFYDBhH6iJedL19wTU66UR2j4NS4NoFOHQz+rjpEqPdHt7H6T+P3
+   Q==;
+X-IronPort-AV: E=Sophos;i="6.02,225,1688421600"; 
+   d="scan'208,217";a="98288378"
+Received: from unknown (HELO lvnsmtp01.bwl.de) ([10.127.32.70])
+  by mailgate1.bwl.de with ESMTP/TLS/ECDHE-RSA-AES256-GCM-SHA384; 04 Sep 2023 09:12:20 +0200
+Received: from mailgw1.bwl.de (unknown [10.127.32.33])
+	by lvnsmtp01.bwl.de (Postfix) with ESMTPS id 4RfKZr265Jz4f3ngH;
+	Mon,  4 Sep 2023 09:12:20 +0200 (CEST)
+X-IronPort-AV: E=Sophos;i="6.02,225,1688421600"; 
+   d="scan'208,217";a="175433791"
+Received: from kvlsm1001bf.schule.bwl.de ([10.11.9.108])
+  by mailgw1.bwl.de with ESMTP; 04 Sep 2023 09:12:20 +0200
+Received: from kvlsm1002ms.schule.bwl.de (kvlsm1002ms.schule.bwl.de [10.11.9.107])
+	by kvlsm1001bf.schule.bwl.de (Postfix) with ESMTP id 3585C5801867A;
+	Mon,  4 Sep 2023 09:12:20 +0200 (CEST)
+Received: from PCRek (unknown [10.16.153.41])
+	(Authenticated sender: schulleitung@04105004.schule.bwl.de)
+	by kvlsm1002ms.schule.bwl.de (Postfix) with ESMTPA id 2560C58054825;
+	Mon,  4 Sep 2023 09:12:20 +0200 (CEST)
+From: "Schulleitung Fichte Gymnasium Karlsruhe" <schulleitung@fichte-gymnasium-ka.schule.bwl.de>
+To: <technikag@fichte-gymnasium.de>
+Cc: "Simone Naujock" <simone.naujock@fichte-gymnasium.de>,
+	=?iso-8859-1?Q?Lucas_Sch=FCtt?= <lucas.schuett@fichte-gymnasium.de>
+Subject: Zwei Anfragen zu Schulveranstaltungen
+Date: Mon, 4 Sep 2023 09:12:20 +0200
+Message-ID: <03c501d9deff$24ed52a0$6ec7f7e0$@fichte-gymnasium-ka.schule.bwl.de>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_03C6_01D9DF0F.E876BEE0"
+X-Mailer: Microsoft Outlook 16.0
+Content-Language: de
+Thread-Index: Adne/N48DLlG0jc5TxO1BuLb9MtsUg==
+X-Rspamd-SPAM-Probability: 0
+X-Rspamd-Queue-Id: 4RfKZr2c11zB0NQ4
+X-Rspamd-UID: 9cd8d3
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_03C6_01D9DF0F.E876BEE0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Liebe Technik-AG,
+
+=20
+
+aufgrund der Ferien etwas versp=E4tet meine zwei Anfragen:
+
+=20
+
+1.
+
+Zur Einschulung am Dienstag, den 12.9. ben=F6tige ich auf dem Schulhof =
+wieder
+eine Lautsprecheranlage von 14 bis 16.30 Uhr (vor der Kletterwand) =96 =
+war
+euch wahrscheinlich schon bekannt.
+
+=20
+
+2.
+
+Am Donnerstag, den 14.9. soll es eine Schulveranstaltung in der Mensa =
+geben
+(ca. 8.30 bis 10.10 Uhr, noch nicht endg=FCltig gekl=E4rt); es ist ein
+Schulvortrag f=FCr die KII zum Thema
+
+                  =84Afghanistan- was geht das uns Sch=FCler an?=93
+
+Ben=F6tigt wird eine Bestuhlung sowie:
+
+=20
+
+-  Beamer
+
+-  gro=DFe Leinwand / wei=DFe Wand
+
+-  Stromanschluss Doppelstecker f=FCr Laptop
+
+-  Lautsprecher-Anlage=20
+
+- ein Tisch vorne mit Stuhl
+
+=20
+
+Klappt das f=FCr euch?
+
+=20
+
+Mit herzlichen Gr=FC=DFen aus dem Fichte-Gymnasium=20
+
+Ralf Wehrmann=20
+
+ __________________________
+
+=20
+
+Schulleiter des Fichte-Gymnasiums
+
+76133 Karlsruhe
+
+Sophienstra=DFe 12-16
+
+0721-133-4508
+
+ <mailto:direktion@fichte-gymnasium.de> direktion@fichte-gymnasium.de
+
+=20
+
+ <http://www.fichte-gymnasium.de/> www.fichte-gymnasium.de
+
+=20
+
+=20
+
+
+------=_NextPart_000_03C6_01D9DF0F.E876BEE0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-1"><meta name=3DGenerator content=3D"Microsoft Word =
+15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.E-MailFormatvorlage17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 70.85pt 2.0cm 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DDE =
+link=3D"#0563C1" vlink=3D"#954F72"><div class=3DWordSection1><p =
+class=3DMsoNormal>Liebe Technik-AG,<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>aufgrund der =
+Ferien etwas versp=E4tet meine zwei Anfragen:<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>1.<o:p></o:p></p><p class=3DMsoNormal>Zur Einschulung =
+am Dienstag, den 12.9. ben=F6tige ich auf dem Schulhof wieder eine =
+Lautsprecheranlage von 14 bis 16.30 Uhr (vor der Kletterwand) &#8211; =
+war euch wahrscheinlich schon bekannt.<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>2.<o:p></o:p=
+></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Am =
+Donnerstag, den 14.9. soll es eine Schulveranstaltung in der Mensa geben =
+(ca. 8.30 bis 10.10 Uhr, noch nicht endg=FCltig gekl=E4rt); es ist ein =
+<u>Schulvortrag f=FCr die KII</u> zum Thema<o:p></o:p></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;margin-left:7=
+.1pt'> <b><span =
+style=3D'font-size:10.0pt;color:black'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+&#8222;Afghanistan- was geht das uns Sch=FCler =
+an?&#8220;</span></b><span =
+style=3D'font-size:10.0pt;color:black'><o:p></o:p></span></p><p =
+class=3DMsoNormal>Ben=F6tigt wird eine Bestuhlung =
+sowie:<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>-=A0 Beamer<o:p></o:p></p><p class=3DMsoNormal>-=A0 =
+gro=DFe Leinwand / wei=DFe Wand<o:p></o:p></p><p class=3DMsoNormal>-=A0 =
+Stromanschluss Doppelstecker f=FCr Laptop<o:p></o:p></p><p =
+class=3DMsoNormal>-=A0 Lautsprecher-Anlage <o:p></o:p></p><p =
+class=3DMsoNormal>- ein Tisch vorne mit Stuhl<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Klappt das =
+f=FCr euch?<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>Mit herzlichen Gr=FC=DFen aus dem Fichte-Gymnasium =
+<o:p></o:p></p><p class=3DMsoNormal>Ralf Wehrmann <o:p></o:p></p><p =
+class=3DMsoNormal>=A0__________________________<o:p></o:p></p><p =
+class=3DMsoNormal> &nbsp;<o:p></o:p></p><p class=3DMsoNormal>Schulleiter =
+des Fichte-Gymnasiums<o:p></o:p></p><p class=3DMsoNormal>76133 =
+Karlsruhe<o:p></o:p></p><p class=3DMsoNormal>Sophienstra=DFe =
+12-16<o:p></o:p></p><p class=3DMsoNormal>0721-133-4508<o:p></o:p></p><p =
+class=3DMsoNormal><a href=3D"mailto:direktion@fichte-gymnasium.de"><span =
+style=3D'color:blue'>direktion@fichte-gymnasium.de</span></a><o:p></o:p><=
+/p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal><span =
+style=3D'color:#1F497D;mso-fareast-language:DE'><a =
+href=3D"http://www.fichte-gymnasium.de/"><span =
+style=3D'color:blue'>www.fichte-gymnasium.de</span></a><o:p></o:p></span>=
+</p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+------=_NextPart_000_03C6_01D9DF0F.E876BEE0--
+

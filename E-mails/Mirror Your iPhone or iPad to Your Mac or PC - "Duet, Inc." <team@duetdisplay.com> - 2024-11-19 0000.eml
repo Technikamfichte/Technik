@@ -1,0 +1,709 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <noreply@do-more.duetdisplay.com>
+Received: from mail-hub02.belwue.de ([2001:7c0:0:76::42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 95736739 for technikag@fichte-gymnasium.de; Tue, 19 Nov 2024 00:01:05 +0100
+Received: from mail-in02.belwue.de (mail-in02.belwue.de [129.143.76.2])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4Xsjm06FKwz3VDN
+	for <technikag@fichte-gymnasium.de>; Tue, 19 Nov 2024 00:01:04 +0100 (CET)
+Received: from do-more.duetdisplay.com (do-more.duetdisplay.com [77.32.190.243])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in02.belwue.de (Postfix) with ESMTPS id 4Xsjly56fczB1pBm
+	for <technikag@fichte-gymnasium.de>; Tue, 19 Nov 2024 00:00:59 +0100 (CET)
+DKIM-Signature: a=rsa-sha256; bh=WBRu6X6I2PmTMRaANh7ZRh+pxVt3PZeQfcz3KhOLIgg=;
+ c=relaxed/relaxed; d=support-mail-two.duetdisplay.com;
+ h=to:cc:from:reply-to:subject:date:mime-version:content-type:list-id:list-unsubscribe:x-csa-complaints:list-unsubscribe-post:message-id:sender:x-sib-id:x-mailin-client:x-mailin-campaign:feedback-id;
+ q=dns/txt; s=mail; t=1731970858; v=1;
+ b=Mke0a9/+9Vv9vH/53YWC8nIa/Sinkdv+yo9077wRuL9wMOhOSAGwuFIr0ZVAv+SvoS484Y5J
+ 3ezvhABOAhTmjp5wx9jhuLvR7Wnhb+dc70zmHDOK6BtmezitB+ghaxM6m6RzA1QzRaikyDXscJh
+ gcXzm8PjeYgTkoSO4y/WCmnw=
+To: <technikag@fichte-gymnasium.de>
+Subject: Mirror Your iPhone or iPad to Your Mac or PC
+Content-Type: multipart/alternative; boundary="-------?=_77052-8926962976352"
+Date: Mon, 18 Nov 2024 23:00:58 +0000
+Feedback-ID: 77.32.190.243:2417342_102:2417342:Sendinblue
+From: "Duet, Inc." <team@duetdisplay.com>
+List-Id: MjQxNzM0Mi01ODM2NjU1LTEyNg== <MjQxNzM0Mi01ODM2NjU1LTEyNg==.list-id.do-more.duetdisplay.com>
+List-Unsubscribe: <mailto:unsubscribe@do-more.duetdisplay.com?subject=unsub-mx87hzyp206tnj&body=mx87hzyp206tnj>,<https://list-unsubscribe.me/mk/un/li/sh/WCPxRrWByckTig85trUC9lo7sawkjMm2/J6RXctVcqi96>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+MIME-Version: 1.0
+Message-Id: <202418112300.mx87hzyp206tnj@do-more.duetdisplay.com>
+Reply-To: <team@duetdisplay.com>
+X-Csa-Complaints: csa-complaints@eco.de
+X-Mailer: Sendinblue
+X-Mailin-Campaign: 102
+X-Mailin-Client: 2417342
+X-sib-id: bNuiYvboy18mZyw43ZlkZkvEm2O2XkUMrau3UX8WWc1oUn4RdKQW5Ftb9VNmB6iCsWAs1OAVjhgiqr_DZ3vCTSXjs5FLDB2BRkgcOvDVpwyIaLGGIQx2QY8bU0YBqzN74JhW-Pi2WgPnUkU1g0GtlW8QX7HAWwi_rfxxYZIAfsWdnlk5LJMOeUxa6xnmnnCYkC8m0yzFhJjqSGSfToCk3bqBMwttjM6Uskkl1pPtq0_Fgog
+X-Rspamd-SPAM-Probability: 0
+X-Rspamd-UID: b54f3c
+X-Rspamd-Queue-Id: 4Xsjm06FKwz3VDN
+X-Rspamd-UID: 33e25f
+
+---------?=_77052-8926962976352
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+
+Introducing iOS Mirroring By Duet
+
+Duet now allows you to mirror your iPhone or iPad right to your Mac or PC s=
+o you can project any content to a nearby desktop. All you need is the late=
+st versions of our software and Duet Pro. If you have any questions, respon=
+d to this e-mail and we will help you get set up today.
+
+- [How to get started](http://r.do-more.duetdisplay.com/mk/cl/f/sh/WCPzyXJT=
+Z6uvfEQpOMIwcUu5O5U3fItm/y0-FvP0btsOQ)
+- [Make sure to download the app on both devices here (available on Mac, PC=
+, iOS, or Android](http://r.do-more.duetdisplay.com/mk/cl/f/sh/WCPzyXJTZ72i=
+jGe5kRmcOF3sWsNAv0Vu/y_YgQGjSjYxJ))
+
+Don't forget to check out all the other ways to use Duet
+
+[Remote Desktop](http://r.do-more.duetdisplay.com/mk/cl/f/sh/WCPzyXJTZ7AVnI=
+rM6XGI9zDfffGIAi82/-CUx1tI-OwCe)
+[Turn any of your devices into a Remote Desktop](http://r.do-more.duetdispl=
+ay.com/mk/cl/f/sh/WCPzyXJTZ7IIrL4cScjxvjNSoS9PQPkA/BbCXovFMPyS4)
+
+[Touch and Gestures](http://r.do-more.duetdisplay.com/mk/cl/f/sh/WCPzyXJTZ7=
+Q5vNHsoiDdhTXFxF2Wg7MI/ivf-JfywpR-S)
+[Enable touch and gestures across platforms](http://r.do-more.duetdisplay.c=
+om/mk/cl/f/sh/WCPzyXJTZ7XszPV9AnhJTDh361vdvoyQ/QMIr5ahCMRO0)
+
+[Remote Desktop](http://r.do-more.duetdisplay.com/mk/cl/f/sh/WCPzyXJTZ7fg3R=
+iPWtAzExqqEoolBWaY/huVgzO0MtQT7)
+[Use Duet wirelessly with any of your devices](http://r.do-more.duetdisplay=
+.com/mk/cl/f/sh/WCPzyXJTZ7nT7Tvfsyef0i0dNbhsRECg/cL8bnx7enoqr)
+
+[Duet Desktop](http://r.do-more.duetdisplay.com/mk/cl/f/sh/WCPzyXJTZ7vGBW8w=
+F48KmSAQWOazgvoo/F-nAS173Iv1G)
+[Enable touch and gestures across platforms](http://r.do-more.duetdisplay.c=
+om/mk/cl/f/sh/WCPzyXJTZ833FYMCb9c0YCKDfBU6wdQw/BHXoQCkK1WMk)
+
+If you have any questions getting started and would prefer assistance, plea=
+se e-mail us at [team@duetdisplay.com](mailto:team@duetdisplay.com?subject=
+=3DHelp With Getting Started&body=3D) or reply to this email and we can hel=
+p you right away.
+
+[Facebook](http://r.do-more.duetdisplay.com/mk/cl/f/sh/28xHLtxYQ4yaodCEDwco=
+FnLDuKD8QGBRr8/pWoaMyFAJC8Q)	[Twitter](http://r.do-more.duetdisplay.com/mk/=
+cl/f/sh/28xHLtxYQ4z6zDrMzTpQmGToLEV00D1XIA/nqi4Q2IlU7u1)	[Instagram](http:/=
+/r.do-more.duetdisplay.com/mk/cl/f/sh/28xHLtxYQ4zd9oWVl123IjcOm8mra9rcjC/2I=
+iX5-V-bJfZ)  [Manage Email Preferences](http://r.do-more.duetdisplay.com/mk=
+/un/sh/WCPxRrWByckTig85trUC9lo7sawkjMm2/kIeme3Z0-uKu)
+
+
+---------?=_77052-8926962976352
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html data-editor-version=3D"2" class=3D"sg-campaigns" xmlns=3D"http://www.=
+w3.org/1999/xhtml">
+    <head>
+      <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf=
+-8">
+      <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scal=
+e=3D1, minimum-scale=3D1, maximum-scale=3D1">
+      <!--[if !mso]><!-->
+      <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3DEdge">
+      <!--<![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+  <style type=3D"text/css">
+    body {width: 600px;margin: 0 auto;}
+    table {border-collapse: collapse;}
+    table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+    img {-ms-interpolation-mode: bicubic;}
+  </style>
+<![endif]-->
+      <style type=3D"text/css">
+    body, p, div {
+      font-family: arial,helvetica,sans-serif;
+      font-size: 14px;
+    }
+    body {
+      color: #000000;
+    }
+    body a {
+      color: #1188E6;
+      text-decoration: none;
+    }
+    p { margin: 0; padding: 0; }
+    table.wrapper {
+      width:100% !important;
+      table-layout: fixed;
+      -webkit-font-smoothing: antialiased;
+      -webkit-text-size-adjust: 100%;
+      -moz-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+    img.max-width {
+      max-width: 100% !important;
+    }
+    .column.of-2 {
+      width: 50%;
+    }
+    .column.of-3 {
+      width: 33.333%;
+    }
+    .column.of-4 {
+      width: 25%;
+    }
+    ul ul ul ul  {
+      list-style-type: disc !important;
+    }
+    ol ol {
+      list-style-type: lower-roman !important;
+    }
+    ol ol ol {
+      list-style-type: lower-latin !important;
+    }
+    ol ol ol ol {
+      list-style-type: decimal !important;
+    }
+    @media screen and (max-width:480px) {
+      .preheader .rightColumnContent,
+      .footer .rightColumnContent {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent div,
+      .preheader .rightColumnContent span,
+      .footer .rightColumnContent div,
+      .footer .rightColumnContent span {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent,
+      .preheader .leftColumnContent {
+        font-size: 80% !important;
+        padding: 5px 0;
+      }
+      table.wrapper-mobile {
+        width: 100% !important;
+        table-layout: fixed;
+      }
+      img.max-width {
+        height: auto !important;
+        max-width: 100% !important;
+      }
+      a.bulletproof-button {
+        display: block !important;
+        width: auto !important;
+        font-size: 80%;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+      .columns {
+        width: 100% !important;
+      }
+      .column {
+        display: block !important;
+        width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+      }
+      .social-icon-column {
+        display: inline-block !important;
+      }
+    }
+  </style>
+    <style>
+      @media screen and (max-width:480px) {
+        table\0 {
+          width: 480px !important;
+          }
+      }
+    </style>
+      <!--user entered Head Start--><!--End Head user entered-->
+    </head>
+    <body> <table cellpadding=3D"0" border=3D"0" cellspacing=3D"0" style=3D=
+" mso-hide: all; display: none;"><tr><td>Mirror your iOS device right to yo=
+ur Mac and PC. Check out the latest versions of Duet to get started today.&=
+#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#84=
+7;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&=
+zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwn=
+j;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&=
+nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbs=
+p;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&=
+#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#84=
+7;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&=
+zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwn=
+j;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&=
+nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbs=
+p;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&=
+#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#84=
+7;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&=
+zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwn=
+j;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&=
+nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbs=
+p;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&=
+#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#84=
+7;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&=
+zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwn=
+j;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&=
+nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbs=
+p;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&=
+#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#84=
+7;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&=
+zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwn=
+j;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&=
+nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbs=
+p;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&=
+#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#84=
+7;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&=
+zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwn=
+j;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&=
+nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbs=
+p;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&=
+#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#84=
+7;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&=
+zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwn=
+j;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&=
+nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbs=
+p;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&=
+#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#84=
+7;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&=
+zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwn=
+j;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&=
+nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbs=
+p;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;<=
+/td></tr></table> <!--[if mso]> <img width=3D"1" height=3D"1" src=3D"https:=
+//r.do-more.duetdisplay.com/mk/op/sh/WCPxRrf2SE93VMjL4fIXZgIUuCEf5Ok6/4bPJk=
+_TQSCA6" /> <![endif]-->
+	<!--[if !mso]> <!----> <img style=3D"display:none" src=3D"https://r.do-mor=
+e.duetdisplay.com/mk/op/sh/WCPxRrf2SE93VMjL4fIXZgIUuCEf5Ok6/4bPJk_TQSCA6" /=
+> <!-- <![endif]-->=20
+      <center class=3D"wrapper" data-link-color=3D"#1188E6" data-body-style=
+=3D"font-size:14px; font-family:arial,helvetica,sans-serif; color:#000000; =
+background-color:#f7fcff;">
+        <div class=3D"webkit">
+          <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"=
+100%" class=3D"wrapper" bgcolor=3D"#f7fcff">
+            <tr>
+              <td valign=3D"top" bgcolor=3D"#f7fcff" width=3D"100%">
+                <table width=3D"100%" role=3D"content-container" class=3D"o=
+uter" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                  <tr>
+                    <td width=3D"100%">
+                      <table width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0">
+                        <tr>
+                          <td>
+                            <!--[if mso]>
+    <center>
+    <table><tr><td width=3D"600">
+  <![endif]-->
+                                    <table width=3D"100%" cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0" style=3D"width:100%; max-width:600px;" alig=
+n=3D"center">
+                                      <tr>
+                                        <td role=3D"modules-container" styl=
+e=3D"padding:0px 0px 0px 0px; color:#000000; text-align:left;" bgcolor=3D"#=
+FFFFFF" width=3D"100%" align=3D"left"><table class=3D"module preheader preh=
+eader-hide" role=3D"module" data-type=3D"preheader" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"display: none !important;=
+ mso-hide: all; visibility: hidden; opacity: 0; color: transparent; height:=
+ 0; width: 0;">
+    <tr>
+      <td role=3D"module-content">
+        <p></p>
+      </td>
+    </tr>
+  </table><table class=3D"wrapper" role=3D"module" data-type=3D"image" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-=
+layout: fixed;" data-muid=3D"71e672d9-8dc1-4ee5-b38c-0a0dc7dbae66">
+    <tbody>
+      <tr>
+        <td style=3D"font-size:6px; line-height:10px; padding:0px 0px 0px 0=
+px;" valign=3D"top" align=3D"center">
+          <img class=3D"max-width" border=3D"0" style=3D"display:block; col=
+or:#000000; text-decoration:none; font-family:Helvetica, arial, sans-serif;=
+ font-size:16px; max-width:15% !important; width:15%; height:auto !importan=
+t;" width=3D"90" alt=3D"" data-proportionally-constrained=3D"true" data-res=
+ponsive=3D"true" src=3D"https://img.do-more.duetdisplay.com/im/sh/gAglllH0d=
+uGG.png?u=3D92pJLo34vnrQtTPkkVwdbcrEttF7fU5IydG" sib_img_id=3D"0">
+        </td>
+      </tr>
+    </tbody>
+  </table><table class=3D"module" role=3D"module" data-type=3D"text" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-la=
+yout: fixed;" data-muid=3D"572d3d4f-e15a-4284-891c-9c1aaa7a9693" data-mc-mo=
+dule-version=3D"2019-10-22">
+    <tbody>
+      <tr>
+        <td style=3D"padding:18px 0px 18px 0px; line-height:40px; text-alig=
+n:inherit;" height=3D"100%" valign=3D"top" bgcolor=3D"" role=3D"module-cont=
+ent"><div><h1 style=3D"text-align: center"><span style=3D"font-family: inhe=
+rit; color: #292929">Introducing iOS Mirroring By Duet</span></h1><div></di=
+v></div></td>
+      </tr>
+    </tbody>
+  </table><table class=3D"wrapper" role=3D"module" data-type=3D"image" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-=
+layout: fixed;" data-muid=3D"5839ace6-c077-4f75-ac0e-8ff977464177">
+    <tbody>
+      <tr>
+        <td style=3D"font-size:6px; line-height:10px; padding:0px 0px 0px 0=
+px;" valign=3D"top" align=3D"center">
+          <img class=3D"max-width" border=3D"0" style=3D"display:block; col=
+or:#000000; text-decoration:none; font-family:Helvetica, arial, sans-serif;=
+ font-size:16px; max-width:100% !important; width:100%; height:auto !import=
+ant;" width=3D"600" alt=3D"" data-proportionally-constrained=3D"true" data-=
+responsive=3D"true" src=3D"https://img.do-more.duetdisplay.com/im/sh/u2JM2g=
+I5CFaD.png?u=3D92pJLo34vnrQtbComjCzh6X0e32GSNCYgFO" sib_img_id=3D"1">
+        </td>
+      </tr>
+    </tbody>
+  </table><table class=3D"module" role=3D"module" data-type=3D"text" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-la=
+yout: fixed;" data-muid=3D"abcb85bd-2589-40b8-aa91-9cffe075337b" data-mc-mo=
+dule-version=3D"2019-10-22">
+    <tbody>
+      <tr>
+        <td style=3D"padding:18px 20px 18px 20px; line-height:28px; text-al=
+ign:inherit;" height=3D"100%" valign=3D"top" bgcolor=3D"" role=3D"module-co=
+ntent"><div><div style=3D"font-family: inherit"><span style=3D"font-size: 1=
+8px; color: #222">Duet now allows you to mirror your iPhone or iPad right t=
+o your Mac or PC so you can project any content to a nearby desktop. All yo=
+u need is the latest versions of our software and Duet Pro. If you have any=
+ questions, respond to this e-mail and we will help you get set up today.
+</span></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table class=3D"module" role=3D"module" data-type=3D"text" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-la=
+yout: fixed;" data-muid=3D"6727044a-25ef-4eb9-a6df-db01f8040e25" data-mc-mo=
+dule-version=3D"2019-10-22">
+    <tbody>
+      <tr>
+        <td style=3D"padding:18px 0px 18px 0px; line-height:32px; text-alig=
+n:inherit;" height=3D"100%" valign=3D"top" bgcolor=3D"" role=3D"module-cont=
+ent"><div><ul>
+  <li style=3D"font-size: 18px"><a href=3D"http://r.do-more.duetdisplay.com=
+/mk/cl/f/sh/WCPzyXJTZ6uvfEQpOMIwcUu5O5U3fItm/y0-FvP0btsOQ" sib_link_id=3D"0=
+" templating=3D"n"><span style=3D"font-size: 18px">How to get started</span=
+></a></li>
+  <li style=3D"font-size: 18px"><a href=3D"http://r.do-more.duetdisplay.com=
+/mk/cl/f/sh/WCPzyXJTZ72ijGe5kRmcOF3sWsNAv0Vu/y_YgQGjSjYxJ" sib_link_id=3D"1=
+" templating=3D"n"><span style=3D"font-size: 18px">Make sure to download th=
+e app on both devices here (available on Mac, PC, iOS, or Android</span></a=
+><span style=3D"font-size: 18px">)</span></li>
+</ul><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table class=3D"module" role=3D"module" data-type=3D"text" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-la=
+yout: fixed;" data-muid=3D"e8ecb8c8-d3bd-4bf9-911c-fac28e32272d" data-mc-mo=
+dule-version=3D"2019-10-22">
+    <tbody>
+      <tr>
+        <td style=3D"padding:12px 0px 12px 0px; line-height:24px; text-alig=
+n:inherit;" height=3D"100%" valign=3D"top" bgcolor=3D"" role=3D"module-cont=
+ent"><div><h2 style=3D"">Don't forget to check out all the other ways to us=
+e Duet</h2><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"=
+center" width=3D"100%" role=3D"module" data-type=3D"columns" style=3D"paddi=
+ng:0px 0px 0px 0px;" bgcolor=3D"#FFFFFF" data-distribution=3D"1,1">
+    <tbody>
+      <tr role=3D"module-content">
+        <td height=3D"100%" valign=3D"top"><table width=3D"290" style=3D"wi=
+dth:290px; border-spacing:0; border-collapse:collapse; margin:0px 10px 0px =
+0px;" cellpadding=3D"0" cellspacing=3D"0" align=3D"left" border=3D"0" bgcol=
+or=3D"" class=3D"column column-0">
+      <tbody>
+        <tr>
+          <td style=3D"padding:0px;margin:0px;border-spacing:0;"><table cla=
+ss=3D"wrapper" role=3D"module" data-type=3D"image" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fixed;" data=
+-muid=3D"ff542ff9-d62c-4c5a-80d2-6a8831166f12">
+    <tbody>
+      <tr>
+        <td style=3D"font-size:6px; line-height:10px; padding:0px 0px 0px 0=
+px;" valign=3D"top" align=3D"center">
+         =20
+        <a href=3D"http://r.do-more.duetdisplay.com/mk/cl/f/sh/WCPzyXJTZ7AV=
+nIrM6XGI9zDfffGIAi82/-CUx1tI-OwCe" sib_link_id=3D"2" templating=3D"n"><img =
+class=3D"max-width" border=3D"0" style=3D"display:block; color:#000000; tex=
+t-decoration:none; font-family:Helvetica, arial, sans-serif; font-size:16px=
+; max-width:100% !important; width:100%; height:auto !important;" width=3D"=
+290" alt=3D"Remote Desktop" data-proportionally-constrained=3D"true" data-r=
+esponsive=3D"true" src=3D"https://img.do-more.duetdisplay.com/im/sh/5FersGK=
+YyDb8.jpg?u=3D92pJLo34vnrQtizsowTLmaCmOCpPFGJoNrW" sib_img_id=3D"2"></a></t=
+d>
+      </tr>
+    </tbody>
+  </table><table class=3D"module" role=3D"module" data-type=3D"text" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-la=
+yout: fixed;" data-muid=3D"df61837e-3663-47a0-9912-d90515196c3c" data-mc-mo=
+dule-version=3D"2019-10-22">
+    <tbody>
+      <tr>
+        <td style=3D"padding:18px 10px 18px 10px; line-height:22px; text-al=
+ign:inherit;" height=3D"100%" valign=3D"top" bgcolor=3D"" role=3D"module-co=
+ntent"><div><div style=3D"font-family: inherit; text-align: center"><a href=
+=3D"http://r.do-more.duetdisplay.com/mk/cl/f/sh/WCPzyXJTZ7IIrL4cScjxvjNSoS9=
+PQPkA/BbCXovFMPyS4" sib_link_id=3D"3" templating=3D"n">Turn any of your dev=
+ices into a Remote Desktop</a></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table><table width=3D"290" style=3D"width:290px; border-spacing:0; bo=
+rder-collapse:collapse; margin:0px 0px 0px 10px;" cellpadding=3D"0" cellspa=
+cing=3D"0" align=3D"left" border=3D"0" bgcolor=3D"" class=3D"column column-=
+1">
+      <tbody>
+        <tr>
+          <td style=3D"padding:0px;margin:0px;border-spacing:0;"><table cla=
+ss=3D"wrapper" role=3D"module" data-type=3D"image" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fixed;" data=
+-muid=3D"6287572f-ded9-422d-a46f-136b6d7a3333">
+    <tbody>
+      <tr>
+        <td style=3D"font-size:6px; line-height:10px; padding:0px 0px 0px 0=
+px;" valign=3D"top" align=3D"center">
+         =20
+        <a href=3D"http://r.do-more.duetdisplay.com/mk/cl/f/sh/WCPzyXJTZ7Q5=
+vNHsoiDdhTXFxF2Wg7MI/ivf-JfywpR-S" sib_link_id=3D"4" templating=3D"n"><img =
+class=3D"max-width" border=3D"0" style=3D"display:block; color:#000000; tex=
+t-decoration:none; font-family:Helvetica, arial, sans-serif; font-size:16px=
+; max-width:100% !important; width:100%; height:auto !important;" width=3D"=
+290" alt=3D"Touch and Gestures" data-proportionally-constrained=3D"true" da=
+ta-responsive=3D"true" src=3D"https://img.do-more.duetdisplay.com/im/sh/oqG=
+NIFLj09m0.jpg?u=3D92pJLo34vnrQtqmwr9jhs3sY8McY29R45Te" sib_img_id=3D"3"></a=
+></td>
+      </tr>
+    </tbody>
+  </table><table class=3D"module" role=3D"module" data-type=3D"text" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-la=
+yout: fixed;" data-muid=3D"c5b3217a-2f37-4ba3-8df8-362c8b203627" data-mc-mo=
+dule-version=3D"2019-10-22">
+    <tbody>
+      <tr>
+        <td style=3D"padding:18px 10px 18px 10px; line-height:22px; text-al=
+ign:inherit;" height=3D"100%" valign=3D"top" bgcolor=3D"" role=3D"module-co=
+ntent"><div><div style=3D"font-family: inherit; text-align: center"><a href=
+=3D"http://r.do-more.duetdisplay.com/mk/cl/f/sh/WCPzyXJTZ7XszPV9AnhJTDh361v=
+dvoyQ/QMIr5ahCMRO0" sib_link_id=3D"5" templating=3D"n">Enable touch and ges=
+tures across platforms</a></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table></td>
+      </tr>
+    </tbody>
+  </table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"=
+center" width=3D"100%" role=3D"module" data-type=3D"columns" style=3D"paddi=
+ng:0px 0px 0px 0px;" bgcolor=3D"#FFFFFF" data-distribution=3D"1,1">
+    <tbody>
+      <tr role=3D"module-content">
+        <td height=3D"100%" valign=3D"top"><table width=3D"290" style=3D"wi=
+dth:290px; border-spacing:0; border-collapse:collapse; margin:0px 10px 0px =
+0px;" cellpadding=3D"0" cellspacing=3D"0" align=3D"left" border=3D"0" bgcol=
+or=3D"" class=3D"column column-0">
+      <tbody>
+        <tr>
+          <td style=3D"padding:0px;margin:0px;border-spacing:0;"><table cla=
+ss=3D"wrapper" role=3D"module" data-type=3D"image" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fixed;" data=
+-muid=3D"ff542ff9-d62c-4c5a-80d2-6a8831166f12.1">
+    <tbody>
+      <tr>
+        <td style=3D"font-size:6px; line-height:10px; padding:0px 0px 0px 0=
+px;" valign=3D"top" align=3D"center">
+         =20
+        <a href=3D"http://r.do-more.duetdisplay.com/mk/cl/f/sh/WCPzyXJTZ7fg=
+3RiPWtAzExqqEoolBWaY/huVgzO0MtQT7" sib_link_id=3D"6" templating=3D"n"><img =
+class=3D"max-width" border=3D"0" style=3D"display:block; color:#000000; tex=
+t-decoration:none; font-family:Helvetica, arial, sans-serif; font-size:16px=
+; max-width:100% !important; width:100%; height:auto !important;" width=3D"=
+290" alt=3D"Remote Desktop" data-proportionally-constrained=3D"true" data-r=
+esponsive=3D"true" src=3D"https://img.do-more.duetdisplay.com/im/sh/_4tnwyT=
+rEPaT.jpg?u=3D92pJLo34vnrQtya0tN03xXYJsWPgp2YJn5m" sib_img_id=3D"4"></a></t=
+d>
+      </tr>
+    </tbody>
+  </table><table class=3D"module" role=3D"module" data-type=3D"text" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-la=
+yout: fixed;" data-muid=3D"df61837e-3663-47a0-9912-d90515196c3c.1" data-mc-=
+module-version=3D"2019-10-22">
+    <tbody>
+      <tr>
+        <td style=3D"padding:18px 10px 18px 10px; line-height:22px; text-al=
+ign:inherit;" height=3D"100%" valign=3D"top" bgcolor=3D"" role=3D"module-co=
+ntent"><div><div style=3D"font-family: inherit; text-align: center"><a href=
+=3D"http://r.do-more.duetdisplay.com/mk/cl/f/sh/WCPzyXJTZ7nT7Tvfsyef0i0dNbh=
+sRECg/cL8bnx7enoqr" sib_link_id=3D"7" templating=3D"n">Use Duet wirelessly =
+with any of your devices</a>=C2=A0</div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table><table width=3D"290" style=3D"width:290px; border-spacing:0; bo=
+rder-collapse:collapse; margin:0px 0px 0px 10px;" cellpadding=3D"0" cellspa=
+cing=3D"0" align=3D"left" border=3D"0" bgcolor=3D"" class=3D"column column-=
+1">
+      <tbody>
+        <tr>
+          <td style=3D"padding:0px;margin:0px;border-spacing:0;"><table cla=
+ss=3D"wrapper" role=3D"module" data-type=3D"image" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fixed;" data=
+-muid=3D"6287572f-ded9-422d-a46f-136b6d7a3333.1">
+    <tbody>
+      <tr>
+        <td style=3D"font-size:6px; line-height:10px; padding:0px 0px 0px 0=
+px;" valign=3D"top" align=3D"center">
+         =20
+        <a href=3D"http://r.do-more.duetdisplay.com/mk/cl/f/sh/WCPzyXJTZ7vG=
+BW8wF48KmSAQWOazgvoo/F-nAS173Iv1G" sib_link_id=3D"8" templating=3D"n"><img =
+class=3D"max-width" border=3D"0" style=3D"display:block; color:#000000; tex=
+t-decoration:none; font-family:Helvetica, arial, sans-serif; font-size:16px=
+; max-width:100% !important; width:100%; height:auto !important;" width=3D"=
+290" alt=3D"Duet Desktop" data-proportionally-constrained=3D"true" data-res=
+ponsive=3D"true" src=3D"https://img.do-more.duetdisplay.com/im/sh/E8l3QulTN=
+Ojm.jpg?u=3D92pJLo34vnrQu6N4vaGQ31E5cgCpbvfZUhu" sib_img_id=3D"5"></a></td>
+      </tr>
+    </tbody>
+  </table><table class=3D"module" role=3D"module" data-type=3D"text" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-la=
+yout: fixed;" data-muid=3D"c5b3217a-2f37-4ba3-8df8-362c8b203627.1" data-mc-=
+module-version=3D"2019-10-22">
+    <tbody>
+      <tr>
+        <td style=3D"padding:18px 10px 18px 10px; line-height:22px; text-al=
+ign:inherit;" height=3D"100%" valign=3D"top" bgcolor=3D"" role=3D"module-co=
+ntent"><div><div style=3D"font-family: inherit; text-align: center"><a href=
+=3D"http://r.do-more.duetdisplay.com/mk/cl/f/sh/WCPzyXJTZ833FYMCb9c0YCKDfBU=
+6wdQw/BHXoQCkK1WMk" sib_link_id=3D"9" templating=3D"n">Enable touch and ges=
+tures across platforms</a></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table></td>
+      </tr>
+    </tbody>
+  </table><table class=3D"module" role=3D"module" data-type=3D"text" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-la=
+yout: fixed;" data-muid=3D"abcb85bd-2589-40b8-aa91-9cffe075337b.1" data-mc-=
+module-version=3D"2019-10-22">
+    <tbody>
+      <tr>
+        <td style=3D"padding:18px 20px 18px 20px; line-height:28px; text-al=
+ign:inherit;" height=3D"100%" valign=3D"top" bgcolor=3D"" role=3D"module-co=
+ntent"><div><div style=3D"font-family: inherit"><span style=3D"font-size: 1=
+8px; color: #222">If you have any questions getting started and would prefe=
+r assistance, please e-mail us at </span><a href=3D"mailto:team@duetdisplay=
+.com?subject=3DHelp With Getting Started&body=3D"><span style=3D"font-size:=
+ 18px; color: #1188E6">team@duetdisplay.com</span></a><span style=3D"font-s=
+ize: 18px; color: #222"> or reply to this email and we can help you right a=
+way.</span></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table class=3D"module" role=3D"module" data-type=3D"spacer" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-=
+layout: fixed;" data-muid=3D"d0c00d7f-45ec-492e-a58f-f8f61622b299">
+    <tbody>
+      <tr>
+        <td style=3D"padding:0px 0px 60px 0px;" role=3D"module-content" bgc=
+olor=3D"">
+        </td>
+      </tr>
+    </tbody>
+  </table><table class=3D"module" role=3D"module" data-type=3D"social" alig=
+n=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" style=3D"table-layout: fixed;" data-muid=3D"9e9b1d61-1430-4fea-bf91-306a8=
+3b7daa5">
+    <tbody>
+      <tr>
+        <td valign=3D"top" style=3D"padding:0px 0px 0px 0px; font-size:6px;=
+ line-height:10px;" align=3D"center">
+          <table align=3D"center" style=3D"-webkit-margin-start:auto;-webki=
+t-margin-end:auto;">
+            <tbody><tr align=3D"center"><td style=3D"padding: 0px 5px;" cla=
+ss=3D"social-icon-column">
+      <a role=3D"social-icon-link" href=3D"http://r.do-more.duetdisplay.com=
+/mk/cl/f/sh/28xHLtxYQ4yaodCEDwcoFnLDuKD8QGBRr8/pWoaMyFAJC8Q" target=3D"_bla=
+nk" alt=3D"Facebook" title=3D"Facebook" style=3D"display:inline-block; back=
+ground-color:#3B579D; height:21px; width:21px;" sib_link_id=3D"10" templati=
+ng=3D"n">
+        <img role=3D"social-icon" alt=3D"Facebook" title=3D"Facebook" src=
+=3D"https://img.do-more.duetdisplay.com/im/sh/jlbQmcMo5Qz0.png?u=3D92pJLo34=
+vnrQuEA8xnWm8UtrMpzyOompCK2" style=3D"height:21px; width:21px;" height=3D"2=
+1" width=3D"21" sib_img_id=3D"6">
+      </a>
+    </td><td style=3D"padding: 0px 5px;" class=3D"social-icon-column">
+      <a role=3D"social-icon-link" href=3D"http://r.do-more.duetdisplay.com=
+/mk/cl/f/sh/28xHLtxYQ4z6zDrMzTpQmGToLEV00D1XIA/nqi4Q2IlU7u1" target=3D"_bla=
+nk" alt=3D"Twitter" title=3D"Twitter" style=3D"display:inline-block; backgr=
+ound-color:#7AC4F7; height:21px; width:21px;" sib_link_id=3D"11" templating=
+=3D"n">
+        <img role=3D"social-icon" alt=3D"Twitter" title=3D"Twitter" src=3D"=
+https://img.do-more.duetdisplay.com/im/sh/yGBr8HqdhlSW.png?u=3D92pJLo34vnrQ=
+uLxD00n8DyZd6zn7Bhu4twA" style=3D"height:21px; width:21px;" height=3D"21" w=
+idth=3D"21" sib_img_id=3D"7">
+      </a>
+    </td><td style=3D"padding: 0px 5px;" class=3D"social-icon-column">
+      <a role=3D"social-icon-link" href=3D"http://r.do-more.duetdisplay.com=
+/mk/cl/f/sh/28xHLtxYQ4zd9oWVl123IjcOm8mra9rcjC/2IiX5-V-bJfZ" target=3D"_bla=
+nk" alt=3D"Instagram" title=3D"Instagram" style=3D"display:inline-block; ba=
+ckground-color:#7F4B30; height:21px; width:21px;" sib_link_id=3D"12" templa=
+ting=3D"n">
+        <img role=3D"social-icon" alt=3D"Instagram" title=3D"Instagram" src=
+=3D"https://img.do-more.duetdisplay.com/im/sh/1rPsKlA6BPp0.png?u=3D92pJLo34=
+vnrQuTkH2E3UJSFOr9aFyb1KbYI" style=3D"height:21px; width:21px;" height=3D"2=
+1" width=3D"21" sib_img_id=3D"8">
+      </a>
+    </td></tr></tbody>
+          </table>
+        </td>
+      </tr>
+    </tbody>
+  </table></td>
+                                      </tr>
+                                    </table>
+                                    <!--[if mso]>
+                                  </td>
+                                </tr>
+                              </table>
+                            </center>
+                            <![endif]-->
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+ <a style=3D"font-size:12px;line-height:12px;width:100%;text-align:center;"=
+ href=3D"http://r.do-more.duetdisplay.com/mk/un/sh/WCPxRrWByckTig85trUC9lo7=
+sawkjMm2/kIeme3Z0-uKu">Manage Email Preferences</a>
+        </div>
+      </center>
+       </body>
+  </html>
+
+---------?=_77052-8926962976352--
+

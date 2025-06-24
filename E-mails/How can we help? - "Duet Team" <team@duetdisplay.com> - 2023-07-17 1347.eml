@@ -1,0 +1,76 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <bounces-84007330-team=duetdisplay.com@support-mail-two.duetdisplay.com>
+Received: from mail-hub02.belwue.de ([2001:7c0:0:76::42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 72103227 for technikag@fichte-gymnasium.de; Mon, 17 Jul 2023 13:47:09 +0200
+Received: from mail-in03.belwue.de (mail-in03.belwue.de [129.143.76.3])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4R4L0Y1GN4z5f82
+	for <technikag@fichte-gymnasium.de>; Mon, 17 Jul 2023 13:47:09 +0200 (CEST)
+Received: from support-mail-two.duetdisplay.com (support-mail-two.duetdisplay.com [77.32.191.225])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in03.belwue.de (Postfix) with ESMTPS id 4R4L0X0zZqz194k
+	for <technikag@fichte-gymnasium.de>; Mon, 17 Jul 2023 13:47:08 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=support-mail-two.duetdisplay.com;
+ q=dns/txt; s=mail; bh=JtNHwGMOnRk3w38OMEZ8xOLQ1+Qaz7SLfYy191D6XXo=;
+ h=from:reply-to:subject:date:to:mime-version:content-type:list-unsubscribe:x-csa-complaints:list-unsubscribe-post;
+        b=qakxgMQM8J/3mXwvNYBIjQJCbt3aeyCPnmcJ20deu6erueXQ/VTCL9nskRzR3wOS7qK9/LlsS4US
+        6oAutAkOBAka3cy5XYIKh+b2NlnRRTf/JHVD/wYkmHGEVndgB8/V29HtqPHxy+jr4hx8sSyel2ho
+        1Wa2RDG6WoZIU4n7z08=
+Subject: How can we help?
+Origin-messageId: <202307171147.48860367217@smtp-relay.mailin.fr>
+Reply-To: <team@duetdisplay.com>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-CSA-Complaints: csa-complaints@eco.de
+X-Mailin-EID: ODQwMDczMzB%2BdGVjaG5pa2FnQGZpY2h0ZS1neW1uYXNpdW0uZGV%2BPDIwMjMwNzE3MTE0Ny40ODg2MDM2NzIxN0BzbXRwLXJlbGF5Lm1haWxpbi5mcj5%2Bc3VwcG9ydC1tYWlsLXR3by5kdWV0ZGlzcGxheS5jb20%3D
+Message-Id: <3194a932-cf15-4675-a3c8-88b2672f1269@smtp-relay.sendinblue.com>
+X-sib-id: C_DySf_sXKkRayFLwu6WbcVyypkw0J4GYvwMv39pX22WutnCSx95-ntI6laEZExO7tR2XNhHk25V7gNsFs5JTelSIqSvuVgbVr6eNy84KfbAkqUOUTcu-ZfjJyLpXq8wB1_9gbc565OlNGBxIR5qVtz_mnZ6B4mQlapXIXVdZk4jbxPwX5_UwbtKnw
+Feedback-ID: 77.32.191.225:2417342_-1:2417342:Sendinblue
+From: "Duet Team" <team@duetdisplay.com>
+List-Unsubscribe: <https://r.support-mail-two.duetdisplay.com/tr/un/li/bbyB429J2K2FHE8Mnf5yTcwnINl9iMFUJxIZnwcEA4TF8ARIiFia0RIWrBp71pZ40LHCzq7LjaUGVMULsOF_lcFVkzvBuVBhirwQGN5z8BHbsvo2uV6VJhSNiEYTjrd4DsPGs7Nv0S81ZYlCpX0Fxs0nrLba4uzNguha_VCAYgHEUNWo8vieE4-9wQw6xKMmicKDsXdSY9lb98djxqqz6tcETfO6tAbqyfd-j4ToTthjD4DqGGtMawMJNLb9QMHvKLeT>
+To: <technikag@fichte-gymnasium.de>
+Date: Mon, 17 Jul 2023 11:47:03 +0000
+Content-Type:multipart/alternative; boundary="--_SiB-eb1d7feae5a63e06-Part_1"
+Mime-Version:1.0
+X-Rspamd-Queue-Id: 4R4L0X0zZqz194k
+X-Rspamd-UID: 9c1403
+
+----_SiB-eb1d7feae5a63e06-Part_1
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+
+Hi,
+
+We saw you signed up for Duet and wanted to see if we could help in any way=
+. Feel free to respond to this email with any questions or issues you had, =
+and we can help you get started!
+
+- Duet Team
+
+
+----_SiB-eb1d7feae5a63e06-Part_1
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><title>How can we=
+ help?</title></head><body>
+Hi,<br/>
+<br/>
+We saw you signed up for Duet and wanted to see if we could help in any way=
+. Feel free to respond to this email with any questions or issues you had, =
+and we can help you get started!<br/>
+<br/>
+- Duet Team
+<img width=3D"1" height=3D"1" src=3D"https://r.support-mail-two.duetdisplay=
+.com/tr/op/snybWzWy3Y0qeoQMgcZfE8k_2HFW745PgIzA-DRFu3fSi5YK4xP9h1R6vU7plM66=
+N9oRCBN-Eu0LmWpSPxWU7zkcIEEEcHuCqYr4FX26whlUT8CHA6nNGeE2x0iCQNGkvJrucVmsA9Q=
+dHORYxAPh9mdNbY93sVAbM-AhWUkUjwXv785yccS_dQPwStgT" alt=3D"" /></body></html=
+>
+
+----_SiB-eb1d7feae5a63e06-Part_1--
+

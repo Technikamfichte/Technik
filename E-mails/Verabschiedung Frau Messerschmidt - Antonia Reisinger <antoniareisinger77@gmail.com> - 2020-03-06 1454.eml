@@ -1,0 +1,79 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <antoniareisinger77@gmail.com>
+Received: from cst101.belwue.de ([129.143.2.71] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.2.15)
+  with ESMTP id 21455245 for technikag@fichte-gymnasium.de; Fri, 06 Mar 2020 14:54:47 +0100
+Received: from mail-ot1-f52.google.com (mail-ot1-f52.google.com [209.85.210.52])
+	by cst101.belwue.de with ESMTPS id 026DsdQA005093
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=NOT)
+	for <technikag@fichte-gymnasium.de>; Fri, 6 Mar 2020 14:54:45 +0100 (MET)
+	env-from (antoniareisinger77@gmail.com)
+Received: by mail-ot1-f52.google.com with SMTP id b3so2471913otp.4
+        for <technikag@fichte-gymnasium.de>; Fri, 06 Mar 2020 05:54:44 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=SIRJkIb4+VHEZ7BDttSJNvbSkb71ypNp5eVnnQC0pzs=;
+        b=uh8u0s57IUYOHNlOelGGgmuMQ3qvdsG4cMiBv/8LfYTZ/upMzrydtRWjjOmy/DmdjA
+         NTxCmr3hhfs5Lp+1U2Ln6GkaP1D34uC1EdHGGZyWDSB4S9GqUmFk9Xe3AIosd/tMulPh
+         R3B64oWMWbC3DwSYhlyB2ZKQYx0xehIuDN/Zc+PbdB8iUMhqlhVMHxhzPJ4NvlYgSOMZ
+         7l9h+4ewEtkH4HYzoWbRr7mK8ES3XVvs0RkKkZASTpo4+ALdIHsHiCbnltsy+ydAK6Yj
+         tUHK8ioek563oJ2S+UZirUrkmqCmwV8aITdsTErp5u8K/JvL6+7/ycY+OBXrD1x1bKOU
+         aIwA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=SIRJkIb4+VHEZ7BDttSJNvbSkb71ypNp5eVnnQC0pzs=;
+        b=tKNYtkxYMc6yaTobRcnoHF1TYB8ACmyfgS4l2Osd8KVtuqHy0/PmPivekWpbEvQuHJ
+         LteZATruv1HQwiMuVwRZVK/Cc8zhmmg624RBLD3SrFJvlTeS7/X4B6d+Y0Bw56Jo6l9d
+         waMj2QomMdTvSsXVT2ah0Wc4ISSJ1KcAI3UGeuZxQLXT2GN5iE092KU5JfDxpPA4KjHC
+         qqXDrPji9hht2c35ITM4WS8iPs1HjKjuh5DjbbykDjejhIL3YFFtvamKvMMxioCN/ZlB
+         RtM3ohwczobxGlXySK2u2bbPK6RREFDO4zugiVs73NcU8CQhNjNblyXFHekpWgOM5EQQ
+         8Z+Q==
+X-Gm-Message-State: ANhLgQ1t7SzAaQv/6UertEr5yibAqolNmBOaNbbZDQ0zymdKgzlLy0Ow
+	sLcDcG0bUaYU5WPmSown3BKgMZ+hnkzCUTbMmxw7rQ==
+X-Google-Smtp-Source: ADFU+vvzK9N9HjEufiz8efn9vvVLbraXfCIuOqgfpyASbkLgAkKIJlMqjpU87D90I70eopOnGTHEPJ5WOXoJ4oFp+bQ=
+X-Received: by 2002:a9d:7a59:: with SMTP id z25mr2690636otm.315.1583502878341;
+ Fri, 06 Mar 2020 05:54:38 -0800 (PST)
+MIME-Version: 1.0
+From: Antonia Reisinger <antoniareisinger77@gmail.com>
+Date: Fri, 6 Mar 2020 14:54:27 +0100
+Message-ID: <CAG=vS6pRuBSOgdwtzkpB4+_aJfqi+Q89sQhvkcn0XVP4Ku+XSA@mail.gmail.com>
+Subject: Verabschiedung Frau Messerschmidt
+To: technikag@fichte-gymnasium.de
+Content-Type: multipart/alternative; boundary="000000000000907e2105a02ffeb7"
+X-DCC-BelWue-Metrics: cst101.belwue.de 1244; Body=1 Fuz1=1 Fuz2=1
+
+--000000000000907e2105a02ffeb7
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo,
+
+am Donnerstag, den 12.03.20 findet in der 1. gro=C3=9Fen Pause die
+Verabschiedung von Frau Messerschmied von der Sch=C3=BClerschaft aus statt.
+Wir werden sie vor der Kletterwand unter dem Br=C3=BCckenbau verabschieden.
+Daf=C3=BCr ben=C3=B6tigen wir ein Mikrofon und den entsprechenden Lautsprec=
+her daf=C3=BCr.
+Es w=C3=A4re sehr gut, wenn das am Donnerstag bis 10:10 Uhr aufgebaut ist.
+Eine B=C3=BChne brauchen wir nicht.
+
+Vielen Dank
+Die SMV
+
+--000000000000907e2105a02ffeb7
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">Hallo,<div dir=3D"auto"><br></div><div dir=3D"auto">am Do=
+nnerstag, den 12.03.20 findet in der 1. gro=C3=9Fen Pause die Verabschiedun=
+g von Frau Messerschmied von der Sch=C3=BClerschaft aus statt.</div><div di=
+r=3D"auto">Wir werden sie vor der Kletterwand unter dem Br=C3=BCckenbau ver=
+abschieden.</div><div dir=3D"auto">Daf=C3=BCr ben=C3=B6tigen wir ein Mikrof=
+on und den entsprechenden Lautsprecher daf=C3=BCr.</div><div dir=3D"auto">E=
+s w=C3=A4re sehr gut, wenn das am Donnerstag bis 10:10 Uhr aufgebaut ist.</=
+div><div dir=3D"auto">Eine B=C3=BChne brauchen wir nicht.</div><div dir=3D"=
+auto"><br></div><div dir=3D"auto">Vielen Dank</div><div dir=3D"auto">Die SM=
+V</div></div>
+
+--000000000000907e2105a02ffeb7--

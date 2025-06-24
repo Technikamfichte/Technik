@@ -1,0 +1,106 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <account-security-noreply@accountprotection.microsoft.com>
+Received: from mail-hub02.belwue.de ([129.143.76.42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 68218359 for technikag@fichte-gymnasium.de; Wed, 21 Jun 2023 11:18:47 +0200
+Received: from mail-in04.belwue.de (mail-in04.belwue.de [129.143.76.4])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4QmHxL5Lp5z5f9M
+	for <technikag@fichte-gymnasium.de>; Wed, 21 Jun 2023 11:18:46 +0200 (CEST)
+Received: from NAM12-MW2-obe.outbound.protection.outlook.com (mail-mw2nam12on2060b.outbound.protection.outlook.com [IPv6:2a01:111:f400:fe5a::60b])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mail-in04.belwue.de (Postfix) with ESMTPS id 4QmHxK5ptFz5BQpr
+	for <technikag@fichte-gymnasium.de>; Wed, 21 Jun 2023 11:18:42 +0200 (CEST)
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=lV/XjHiYtLkvXc9QbdGn8qlq+S2NDq60N2DA3hJcLnIicGFLtLu3uPJ7EfBg3/PRXD3KbnuST6yceRS7QUoOC1rZWDRTdnLKF4zRK3lpss5LAl1R63dXIqsXuTzwSh3bF5nC4A+kf//gWTYUArQYu1WdkGVf6eoAFZKQz8YTQDVM9T9FHzLhH0EdWRK9oK8C9SLd3v3xYphztkYyX6btqyDKxTc9WDqhpsOgf6DJP15F+my0BofwDmGrYXV5bE/DwMHfrwBwYB+fosf8uOtmFlRTxvDS/UEmqEPmcyR3zszXd9aqnYdJ+qQY/HaDvpzvAgh+QQGr2UL+1aqAV1r3og==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=iYWV3ftzSqKhr5BYh1h30S8C9e6aW00+aDrCnScV/54=;
+ b=lfFUdlExddo756cOoKMGBLNWkG2beUUbDct1bIqUVn0k6wNL2U+1Phtyg0BFuWvnF165AAJRWJwlJl+KdA6glDixC2kqfEago9kPziFZfXyuuMbwwVQJFMc3WUKlLaVZfkHoMLq1q99cou7enXL8XAzc1KjukarMQGPPjOovT0Qx0lzSxiVs/ueY8jChuP2ty1VLHf3ah4oFfMt4gwrtQn/zoptjVbV1i1KmJsEZEv+KxRqPYn3XpHKldAprS6133sxsJZ86BVew0ywA6lpUAWx2a+tOwGXQLkWKvg8Y8eff9Gvmzi1UMaFasRUuAvb1wGHAMACVO+he1pCU4Jvemg==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=none
+ action=none header.from=accountprotection.microsoft.com; dkim=none (message
+ not signed); arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=accountprotection.microsoft.com; s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=iYWV3ftzSqKhr5BYh1h30S8C9e6aW00+aDrCnScV/54=;
+ b=cWP3nmhGJK2R7lB3gwIxjhyatbLL4FUfVEyJnV4Vgea4K2p+gbH8YXehVty4Dv7G5Yt+lbROBrFcrHZgTCnCR5Rx+wOuL2SqhIKTvTxSQHYj7Qeig1YE3KCGDC2F5DUa3X2NgdJxBsWUDH0Wse7TCoYknpD8BtpxLENz30aH2W8=
+Received: from MW4PR04CA0077.namprd04.prod.outlook.com (2603:10b6:303:6b::22)
+ by MW3PR16MB3657.namprd16.prod.outlook.com (2603:10b6:303:4c::21) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.6521.23; Wed, 21 Jun
+ 2023 09:18:38 +0000
+Received: from CO1NAM11FT037.eop-nam11.prod.protection.outlook.com
+ (2603:10b6:303:6b:cafe::9a) by MW4PR04CA0077.outlook.office365.com
+ (2603:10b6:303:6b::22) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.6521.23 via Frontend
+ Transport; Wed, 21 Jun 2023 09:18:38 +0000
+X-MS-Exchange-Authentication-Results: spf=none (sender IP is 52.188.222.33)
+ smtp.mailfrom=accountprotection.microsoft.com; dkim=none (message not signed)
+ header.d=none;dmarc=none action=none
+ header.from=accountprotection.microsoft.com;
+Received: from accountprotection.microsoft.com (52.188.222.33) by
+ CO1NAM11FT037.mail.protection.outlook.com (10.13.174.91) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.6500.39 via Frontend Transport; Wed, 21 Jun 2023 09:18:36 +0000
+From: Microsoft account team
+	<account-security-noreply@accountprotection.microsoft.com>
+Date: Wed, 21 Jun 2023 02:18:36 -0700
+Subject: Your single-use code
+To: technikag@fichte-gymnasium.de
+X-Priority: 3
+X-MSAPipeline: MessageDispatcherEOP
+Message-ID: <N7LOK64C9KU4.3QTZLV82T6ZG2@BL02EPF0000195F>
+X-MSAMetaData:
+ =?us-ascii?q?DRGoGssFy*wejZylx4SmH4D3VUvSlF*u0zeAo0aqAOJbqAU!IU6hXsOi0fU5p?=
+ =?us-ascii?q?pni2vp35mBXQH3J53nnO1k94OsorfoqHYgUQZmjfpyOSUkh0ign1VbUoSCuM7?=
+ =?us-ascii?q?yIMJ52jQ$$?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="=-NVoAMaP1/1BoLK9Hd1a6xQ=="
+X-MS-TrafficTypeDiagnostic:
+	CO1NAM11FT037:EE_FirstParty-MicrosoftAccount-V3-System|MW3PR16MB3657:EE_FirstParty-MicrosoftAccount-V3-System
+X-MS-PublicTrafficType: Email
+X-MS-Office365-Filtering-Correlation-Id: c0a7f944-11aa-4a96-47f5-08db72387eac
+X-MS-Exchange-SenderADCheck: 1
+X-MS-Exchange-AntiSpam-Relay: 0
+X-Microsoft-Antispam: BCL:0;
+X-Microsoft-Antispam-Message-Info:
+	iiV58soPWGp5N8T755BS3BTWnUmpIC+wPpZfWIS+jHFcuggRje5DXkTb/zwbd8fUVz6LTAPUyRdDdMR0hCzO1Z4+9kDsfsox4mrrjhk27X7aRhwZZVPolOeTk+UoJAiJmCAO/FoaXuojX1C2xGQndqN3wN+yHhWqel2qhXl/SLL+jpTWDTxIRSE8vVf8MaCoiLRG/63BnfXx/AteQdkJX/I00c4xRVcmasIetHDexkN/5rSn0shkHJRN2O5SSoUL1WlkELHdBT2X0hZLjT3VdrDiwxehX5Oi+xPrLi5Vcqw+4MJ04WNHVD1YY/arPWt5DEGPtu3+q7AAcYcGzJIvQ4Tg9OsMr2z2mMROZvvKr1LEghvIWU6orTMIx6KAMejfY6RjR7L8L2NLhQn6Sl52rvFEp1P72FWMtAEqzowO+v/gpXFji+40ImlhGf6GiLsr838vtWEiQCEIEPM4AmxBDe9TRPWdcDwYYWCGaj1udva5NTUyqAS5zFDC6yRq/dDgRNUn9GXAvIFYn0pGh4mRhY+F3iJAQRabEAbSVtHQSHQe11K9oUa9gkPCdtk5v8KV97H/PCr8WycDXQsb93uTZXnRIlBrr/7NBXb6uTSunoXEPnhv8Zp7DM1VdZ/uVNeUDE23iXMFQCaK0vfb/LOEyJ+fhdERQRRxxyh83i05R0lEu6DJqSYc1E+bALdAWMWyE9KkB90XcyC7oE5zWJfhOxvtDCVx4QB1FktaQa8SP5Y=
+X-Forefront-Antispam-Report:
+	CIP:52.188.222.33;CTRY:US;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:accountprotection.microsoft.com;PTR:InfoDomainNonexistent;CAT:NONE;SFS:(13230028)(7916004)(376002)(39860400002)(346002)(136003)(396003)(42606007)(47530400004)(451199021)(356005)(81166007)(2906002)(33716001)(83380400001)(3480700007)(33656002)(86362001)(121820200001)(6512007)(9686003)(26005)(186003)(33964004)(6486002)(336012)(956004)(52230400001)(478600001)(10290500003)(68406010)(9316004)(41300700001)(6916009)(316002)(8676002)(36736006)(8936002)(5660300002)(66899021)(118246002);DIR:OUT;SFP:1101;
+X-MS-Exchange-AntiSpam-MessageData-ChunkCount: 1
+X-MS-Exchange-AntiSpam-MessageData-0:
+	enowsZCxw8tsg9kRStUAjd5MLqHfVhdRxv3UTue7Pv37x+5VeQTYUggl626ABDSv0iHogMYlpRS6Hg4dBL7FCtwPwx6/GLeacbb9vY3g2v2rnn+vUH+TWBPvpg9DBemC6IzDGm5f2ByDBMM6qHFBCeTC6yMB9ftc/QYAi6VRaOGHcTxeGiNCRqiUsJmgyk7jzbPrWD3aguaevAleMtWy1KKuw47NNLohjSGQqLYzB8mnGYxxHUTtzR6SiKkiS7Dmdbtb5wx9+Yly838XGZN+QUbHfzOQcIMKN8FrP2qo1UvPzwWAnEuO2gjp+VDrBcb4dJRY9ugoxUUZKMYehjFsB4s4ob98WKkRg1h9raoZpky0DlhvVDg7Vsh/KWx12gKnsdrQ5QgGkWCQKbb4zz3R98kuLTPga49cmyDJJ1qZtFKWOaZKTdVcetbxvwBWW3uRAHwg0m3gKgk0831PXDoDPfn/o2UCLLHe70gd7Z9POnCX77c9PfFtk6Kxonbh+igvNOd5749G+rc0TLD5D+B+ng==
+X-OriginatorOrg: accountprotection.microsoft.com
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 21 Jun 2023 09:18:36.8730
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: c0a7f944-11aa-4a96-47f5-08db72387eac
+X-MS-Exchange-CrossTenant-Id: 5ba90553-c2cd-460e-b5fd-ab93ad9155c7
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=5ba90553-c2cd-460e-b5fd-ab93ad9155c7;Ip=[52.188.222.33];Helo=[accountprotection.microsoft.com]
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: TreatMessagesAsInternal-CO1NAM11FT037.eop-nam11.prod.protection.outlook.com
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: MW3PR16MB3657
+X-Rspamd-Queue-Id: 4QmHxK5ptFz5BQpr
+X-Rspamd-SPAM-Probability: 0
+X-Rspamd-UID: ecf2a7
+
+--=-NVoAMaP1/1BoLK9Hd1a6xQ==
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Hi technikag@fichte-gymnasium.de,
+
+We've received your request for a single-use code to use with your Microsoft account.
+
+Your single-use code is: 7383835
+
+If you didn't request this code, you can safely ignore this email. Someone else might have typed your email address by mistake.
+
+Thanks,
+The Microsoft account team
+--=-NVoAMaP1/1BoLK9Hd1a6xQ==--

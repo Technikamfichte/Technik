@@ -1,0 +1,185 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <3ni9IZwgTAF8KL-OBMIV799LRKQP.DLLDIB.9LJ@identity-reachout.bounces.google.com>
+Received: from mail-hub02.belwue.de ([129.143.76.42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 93638949 for technikag@fichte-gymnasium.de; Thu, 28 Nov 2024 09:53:53 +0100
+Received: from mail-in03.belwue.de (mail-in03.belwue.de [IPv6:2001:7c0:0:76::3])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4XzVTs2CqGzBNcM
+	for <technikag@fichte-gymnasium.de>; Thu, 28 Nov 2024 09:53:53 +0100 (CET)
+Received: from mail-pj1-x1047.google.com (mail-pj1-x1047.google.com [IPv6:2607:f8b0:4864:20::1047])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in03.belwue.de (Postfix) with ESMTPS id 4XzVTr5Cm1zb74
+	for <technikag@fichte-gymnasium.de>; Thu, 28 Nov 2024 09:53:52 +0100 (CET)
+Received: by mail-pj1-x1047.google.com with SMTP id 98e67ed59e1d1-2ea764112f8so900597a91.3
+        for <technikag@fichte-gymnasium.de>; Thu, 28 Nov 2024 00:53:52 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=accounts.google.com; s=20230601; t=1732784031; x=1733388831; darn=fichte-gymnasium.de;
+        h=to:from:subject:message-id:reachouttracker:feedback-id:date
+         :mime-version:from:to:cc:subject:date:message-id:reply-to;
+        bh=EP1iYKUsbU804HjVuOyTNb4M5tZbjCy2UJiHBGJOr9U=;
+        b=bsY+Yax4UQvjsNwnZGDdctPgatXzWprqZMASdjIEVUcg//LDK6dlDZ2NmaYA6j2xIu
+         Cc5MaGiBQ4qO8Q/etheFjHp8OEfC8bX1pk5hzWt0Bj3bhtXqRNM5C5OH06dHpdvBgGgw
+         1R2wnj0TImnYN1jqnA71p3RhgkvQC8cpWoUYQ50rUhHOO06TfKFfr4hUosPAS3JZYiJX
+         uureF9Q73e08nJs+czPkPFdqwCnHLZvzCKC9PUfyitTh3gjglmAUbIrmKVSLDNH566Jz
+         p+DYduErlbVhV8v1NG0+Mlgl27d5L/BC7VEJym0FoK0t2zsnzX7HGVdD+1SgitTfXfwW
+         gbNQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20230601; t=1732784031; x=1733388831;
+        h=to:from:subject:message-id:reachouttracker:feedback-id:date
+         :mime-version:x-gm-message-state:from:to:cc:subject:date:message-id
+         :reply-to;
+        bh=EP1iYKUsbU804HjVuOyTNb4M5tZbjCy2UJiHBGJOr9U=;
+        b=grXzhb/7iCnGZ9449LdG08/cv3yScYw4suB5UnvgXVmkyePRhz0ytX5OQqLewOgaDZ
+         Fk0XibUCiDnwJmtr6aHqRkDV6vAd8M9D5+hwnBOsgKkiZGV5KAOR4rK8rojwOgByv5/8
+         2+eZTu7YFCEiLkzCryL+tV+L6Zb8I/ytmtYWAoO/4Dtfk22ECQN+eC5wyS3jQBCXibFG
+         6qcPNSU4tvevPjQN0H9ub5d6IPLlSYFRw6PcLcXB6rQmhRZdWr6O0AvagEd98HzpuSqN
+         0jClC3rsYmocbCvZuE6mKO5+2vqzaguEFyGldV6fXNwmyF96nXuhVz0Mo6otaj1sb13r
+         fFdw==
+X-Gm-Message-State: AOJu0Yy8rZF4UEZb0q98C1HgCgN2Ayo+ALFIDXReOWsFgfEO/4/DwdnE
+	8uxoaSfyBtOf2hfW/VkofREINTqO4QPZiIwZX8GfG0HPbWyX/fdV+9ap4dUyyno3cG7cadFUa25
+	smnXBuYzG39KVijv//rYPpdNvFebiDpMmN8RIVN0+LqpLeZoTuGWD9O/fgpiRbnqgRPIt3g1u9l
+	puQG9PHkZwbRAVSA==
+X-Google-Smtp-Source: AGHT+IGejVklHi2IvayCVakSEVNrMlAbmC5+u00Swtsy46DMAJ1hSNTHrQ7/gddcTYfurIn/tuIgH6B+Pj8APxk2tatOcJeAMPiFBjlJBRkLDfI=
+MIME-Version: 1.0
+X-Received: by 2002:a17:90b:4c4a:b0:2ea:3d61:1846 with SMTP id
+ 98e67ed59e1d1-2ee097bbe6dmr6995342a91.26.1732784030908; Thu, 28 Nov 2024
+ 00:53:50 -0800 (PST)
+Date: Thu, 28 Nov 2024 08:53:50 GMT
+X-Account-Notification-Type: 364-RECOVERY
+Feedback-ID: 364-RECOVERY:account-notifier
+ReachoutTracker: AXQEDmHxXBEZZBoIv8Ww24K/8kwO0lyTox9AD6sKIjgbegh9DaUtJ5tXb6VtUegrdXL5d3dZV5nMJHf3bm0xxA1KHFS5i0A8aQ==
+X-Notifications: 340cd4c0a1620000
+X-Notifications-Bounce-Info: ARtip5wrhDkxnlKlSKvbLJ8giXtxDUtfoFhbYynumuJugvC2lo5yO-0mIbhcmgfFupXyJm5Wrd62mRJMWEeiohfAAbjAy7nl9Z_NyeG3Pf1Rww_ShDcTejA1C_IBZT6GEivKmylayEZ6NJAInahTccubuk_zYfKUbDLcqD6rK-wH7RdF1YVdfa-d2fD7GEKgmgxjiYRpNyAuLUIiGhMOIochBjk8EgNjAwNjA0MDQxNTM1NTk2OTMzMg
+Message-ID: <YgfKAyuPJwRRawVjaWhggw@notifications.google.com>
+Subject: =?UTF-8?Q?Sicherheitswarnung_f=C3=BCr_technikamfichte=40gmail=2Ecom?=
+From: Google <no-reply@accounts.google.com>
+To: technikag@fichte-gymnasium.de
+Content-Type: multipart/alternative; boundary="000000000000a28d2e0627f53828"
+X-Rspamd-UID: 8ece2e
+X-Rspamd-SPAM-Probability: 0
+X-Rspamd-Queue-Id: 4XzVTs2CqGzBNcM
+X-Rspamd-UID: 629f54
+
+--000000000000a28d2e0627f53828
+Content-Type: text/plain; charset="UTF-8"; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+RGFzIGlzdCBlaW5lIEtvcGllIGRlciBhbiB0ZWNobmlrYW1maWNodGVAZ21haWwuY29tIGdlc2Vu
+ZGV0ZW4NClNpY2hlcmhlaXRzd2FybnVuZy4gdGVjaG5pa2FnQGZpY2h0ZS1neW1uYXNpdW0uZGUg
+aXN0IGRpZSBFLU1haWwtQWRyZXNzZQ0KenVyIEtvbnRvd2llZGVyaGVyc3RlbGx1bmcgZsO8ciBk
+aWVzZXMgS29udG8uIFdlbm4gU2llIGRpZXNlcyBLb250byBuaWNodA0KZXJrZW5uZW4sIGVudGZl
+cm5lbiBTaWUgSWhyZSBFLU1haWwtQWRyZXNzZQ0KPGh0dHBzOi8vYWNjb3VudHMuZ29vZ2xlLmNv
+bS9BY2NvdW50RGlzYXZvdz9hZHQ9QU9YOGtpb1dYS1dmU3RvR3B4U1J1SmJTeEQ3RG80bVVCdDJR
+Z3djVUxJNXh5QUNESUtaWFJxYXFIS1FJNl9DMDd2SlI2Z3FoTWExb3JBJnJmbj0zNjQ+DQouDQpb
+aW1hZ2U6IEdvb2dsZV0NCk5ldWVyIFBhc3NrZXkgd3VyZGUgSWhyZW0gS29udG8gaGluenVnZWbD
+vGd0DQoNCg0KdGVjaG5pa2FtZmljaHRlQGdtYWlsLmNvbQ0KV2VubiBTaWUga2VpbmVuIFBhc3Nr
+ZXkgaGluenVnZWbDvGd0IGhhYmVuLCB2ZXJ3ZW5kZXQgdmllbGxlaWNodCBqZW1hbmQgSWhyDQpL
+b250by4gU2VoZW4gU2llIGpldHp0IG5hY2gsIHdhcyBwYXNzaWVydCBpc3QsIHVuZCB2ZXJiZXNz
+ZXJuIFNpZSBkaWUNClNpY2hlcmhlaXQgSWhyZXMgS29udG9zLg0KQWt0aXZpdMOkdCBwcsO8ZmVu
+DQo8aHR0cHM6Ly9hY2NvdW50cy5nb29nbGUuY29tL0FjY291bnRDaG9vc2VyP0VtYWlsPXRlY2hu
+aWthbWZpY2h0ZUBnbWFpbC5jb20mY29udGludWU9aHR0cHM6Ly9teWFjY291bnQuZ29vZ2xlLmNv
+bS9hbGVydC9udC8xNzMyNzg0MDMwMzY2P3JmbiUzRDM2NCUyNnJmbmMlM0QxJTI2ZWlkJTNELTQx
+NDk4MTYzNDUwNzc2NzY4NzclMjZldCUzRDE+DQpTaWUga8O2bm5lbiBzaWNoIHNpY2hlcmhlaXRz
+cmVsZXZhbnRlIEFrdGl2aXTDpHRlbiBhdWNoIGhpZXIgYW5zZWhlbjoNCmh0dHBzOi8vbXlhY2Nv
+dW50Lmdvb2dsZS5jb20vbm90aWZpY2F0aW9ucw0KV2lyIGhhYmVuIElobmVuIGRpZXNlIEUtTWFp
+bCBnZXNlbmRldCwgdW0gU2llIMO8YmVyIHdpY2h0aWdlIMOEbmRlcnVuZ2VuIHp1DQpJaHJlbSBH
+b29nbGUtS29udG8gdW5kIGRlbiBEaWVuc3RlbiB2b24gR29vZ2xlIHp1IGluZm9ybWllcmVuLg0K
+wqkgMjAyNCBHb29nbGUgSXJlbGFuZCBMdGQuLCBHb3Jkb24gSG91c2UsIEJhcnJvdyBTdHJlZXQs
+IER1YmxpbiA0LCBJcmVsYW5kDQo=
+--000000000000a28d2e0627f53828
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html lang=3D"en"><head><meta name=3D"format-detection" cont=
+ent=3D"email=3Dno"/><meta name=3D"format-detection" content=3D"date=3Dno"/>=
+<style nonce=3D"_fvBipRbi2up3aBP4HIvlg">.awl a {color: #FFFFFF; text-decora=
+tion: none;} .abml a {color: #000000; font-family: Roboto-Medium,Helvetica,=
+Arial,sans-serif; font-weight: bold; text-decoration: none;} .adgl a {color=
+: rgba(0, 0, 0, 0.87); text-decoration: none;} .afal a {color: #b0b0b0; tex=
+t-decoration: none;} @media screen and (min-width: 600px) {.v2sp {padding: =
+6px 30px 0px;} .v2rsp {padding: 0px 10px;}} @media screen and (min-width: 6=
+00px) {.mdv2rw {padding: 40px 40px;}} </style><link href=3D"//fonts.googlea=
+pis.com/css?family=3DGoogle+Sans" rel=3D"stylesheet" type=3D"text/css" nonc=
+e=3D"_fvBipRbi2up3aBP4HIvlg"/></head><body style=3D"margin: 0; padding: 0;"=
+ bgcolor=3D"#FFFFFF"><table width=3D"100%" height=3D"100%" style=3D"min-wid=
+th: 348px;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" lang=3D"en"><t=
+r height=3D"32" style=3D"height: 32px;"><td></td></tr><tr align=3D"center">=
+<td><div itemscope itemtype=3D"//schema.org/EmailMessage"><div itemprop=3D"=
+action" itemscope itemtype=3D"//schema.org/ViewAction"><link itemprop=3D"ur=
+l" href=3D"https://accounts.google.com/AccountChooser?Email=3Dtechnikamfich=
+te@gmail.com&amp;continue=3Dhttps://myaccount.google.com/alert/nt/173278403=
+0366?rfn%3D364%26rfnc%3D1%26eid%3D-4149816345077676877%26et%3D1"/><meta ite=
+mprop=3D"name" content=3D"Aktivit=C3=A4t =C3=BCberpr=C3=BCfen"/></div></div=
+><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"padding-b=
+ottom: 20px; max-width: 516px; min-width: 220px;"><tr><td width=3D"8" style=
+=3D"width: 8px;"></td><td><div style=3D"background-color: #F5F5F5; directio=
+n: ltr; padding: 16px;margin-bottom: 6px;"><table width=3D"100%" border=3D"=
+0" cellspacing=3D"0" cellpadding=3D"0"><tbody><tr><td style=3D"vertical-ali=
+gn: top;"><img height=3D"20" src=3D"https://www.gstatic.com/accountalerts/e=
+mail/Icon_recovery_x2_20_20.png"></td><td width=3D"13" style=3D"width: 13px=
+;"></td><td style=3D"direction: ltr;"><span style=3D"font-family: Roboto-Re=
+gular,Helvetica,Arial,sans-serif; font-size: 13px; color: rgba(0,0,0,0.87);=
+ line-height: 1.6; color: rgba(0,0,0,0.54);">Das ist eine Kopie der an <a s=
+tyle=3D"text-decoration: none; color: rgba(0,0,0,0.87);">technikamfichte@gm=
+ail.com</a> gesendeten Sicherheitswarnung. <a style=3D"text-decoration: non=
+e; color: rgba(0,0,0,0.87);">technikag@fichte-gymnasium.de</a> ist die E-Ma=
+il-Adresse zur Kontowiederherstellung f=C3=BCr dieses Konto.</span> <span><=
+span style=3D"font-family: Roboto-Regular,Helvetica,Arial,sans-serif; font-=
+size: 13px; color: rgba(0,0,0,0.87); line-height: 1.6; color: rgba(0,0,0,0.=
+54);">Wenn Sie dieses Konto nicht erkennen, <a href=3D"https://accounts.goo=
+gle.com/AccountDisavow?adt=3DAOX8kioWXKWfStoGpxSRuJbSxD7Do4mUBt2QgwcULI5xyA=
+CDIKZXRqaqHKQI6_C07vJR6gqhMa1orA&amp;rfn=3D364" data-meta-key=3D"disavow" s=
+tyle=3D"text-decoration: none; color: #4285F4;" target=3D"_blank">entfernen=
+ Sie Ihre E-Mail-Adresse</a>.</span></span></td></tr></tbody></table></div>=
+<div style=3D"border-style: solid; border-width: thin; border-color:#dadce0=
+; border-radius: 8px; padding: 40px 20px;" align=3D"center" class=3D"mdv2rw=
+"><img src=3D"https://www.gstatic.com/images/branding/googlelogo/2x/googlel=
+ogo_color_74x24dp.png" width=3D"74" height=3D"24" aria-hidden=3D"true" styl=
+e=3D"margin-bottom: 16px;" alt=3D"Google"><div style=3D"font-family: &#39;G=
+oogle Sans&#39;,Roboto,RobotoDraft,Helvetica,Arial,sans-serif;border-bottom=
+: thin solid #dadce0; color: rgba(0,0,0,0.87); line-height: 32px; padding-b=
+ottom: 24px;text-align: center; word-break: break-word;"><div style=3D"font=
+-size: 24px;">Neuer Passkey wurde Ihrem Konto hinzugef=C3=BCgt </div><table=
+ align=3D"center" style=3D"margin-top:8px;"><tr style=3D"line-height: norma=
+l;"><td align=3D"right" style=3D"padding-right:8px;"><img width=3D"20" heig=
+ht=3D"20" style=3D"width: 20px; height: 20px; vertical-align: sub; border-r=
+adius: 50%;;" src=3D"https://lh3.googleusercontent.com/a/ACg8ocJb9oPNxjEm8R=
+79_7PaR24f8hn_YOcW2WVd0IhRM4-MwlFhaA=3Ds96-c" alt=3D""></td><td><a style=3D=
+"font-family: &#39;Google Sans&#39;,Roboto,RobotoDraft,Helvetica,Arial,sans=
+-serif;color: rgba(0,0,0,0.87); font-size: 14px; line-height: 20px;">techni=
+kamfichte@gmail.com</a></td></tr></table> </div><div style=3D"font-family: =
+Roboto-Regular,Helvetica,Arial,sans-serif; font-size: 14px; color: rgba(0,0=
+,0,0.87); line-height: 20px;padding-top: 20px; text-align: left;">Wenn Sie =
+keinen Passkey hinzugef=C3=BCgt haben, verwendet vielleicht jemand Ihr Kont=
+o. Sehen Sie jetzt nach, was passiert ist, und verbessern Sie die Sicherhei=
+t Ihres Kontos.<div style=3D"padding-top: 32px; text-align: center;"><a hre=
+f=3D"https://accounts.google.com/AccountChooser?Email=3Dtechnikamfichte@gma=
+il.com&amp;continue=3Dhttps://myaccount.google.com/alert/nt/1732784030366?r=
+fn%3D364%26rfnc%3D1%26eid%3D-4149816345077676877%26et%3D1" target=3D"_blank=
+" link-id=3D"main-button-link" style=3D"font-family: &#39;Google Sans&#39;,=
+Roboto,RobotoDraft,Helvetica,Arial,sans-serif; line-height: 16px; color: #f=
+fffff; font-weight: 400; text-decoration: none;font-size: 14px;display:inli=
+ne-block;padding: 10px 24px;background-color: #4184F3; border-radius: 5px; =
+min-width: 90px;">Aktivit=C3=A4t pr=C3=BCfen</a></div></div><div style=3D"p=
+adding-top: 20px; font-size: 12px; line-height: 16px; color: #5f6368; lette=
+r-spacing: 0.3px; text-align: center">Sie k=C3=B6nnen sich sicherheitsrelev=
+ante Aktivit=C3=A4ten auch hier ansehen: <br><a style=3D"color: rgba(0, 0, =
+0, 0.87);text-decoration: inherit;">https://myaccount.google.com/notificati=
+ons</a></div></div><div style=3D"text-align: left;"><div style=3D"font-fami=
+ly: Roboto-Regular,Helvetica,Arial,sans-serif;color: rgba(0,0,0,0.54); font=
+-size: 11px; line-height: 18px; padding-top: 12px; text-align: center;"><di=
+v>Wir haben Ihnen diese E-Mail gesendet, um Sie =C3=BCber wichtige =C3=84nd=
+erungen zu Ihrem Google-Konto und den Diensten von Google zu informieren.</=
+div><div style=3D"direction: ltr;">&copy; 2024 Google Ireland Ltd., <a clas=
+s=3D"afal" style=3D"font-family: Roboto-Regular,Helvetica,Arial,sans-serif;=
+color: rgba(0,0,0,0.54); font-size: 11px; line-height: 18px; padding-top: 1=
+2px; text-align: center;">Gordon House, Barrow Street, Dublin 4, Ireland</a=
+></div></div></div></td><td width=3D"8" style=3D"width: 8px;"></td></tr></t=
+able></td></tr><tr height=3D"32" style=3D"height: 32px;"><td></td></tr></ta=
+ble></body></html>
+--000000000000a28d2e0627f53828--

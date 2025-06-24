@@ -1,0 +1,74 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <paul.d.marioth@gmail.com>
+Received: from mail-hub02.belwue.de ([129.143.76.42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 88840909 for technikag@fichte-gymnasium.de; Fri, 05 Jul 2024 11:08:50 +0200
+Received: from mail-in04.belwue.de (mail-in04.belwue.de [IPv6:2001:7c0:0:76::4])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4WFnkV2KNQz5cXc
+	for <technikag@fichte-gymnasium.de>; Fri,  5 Jul 2024 11:08:50 +0200 (CEST)
+Received: from mail-lj1-x22a.google.com (mail-lj1-x22a.google.com [IPv6:2a00:1450:4864:20::22a])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in04.belwue.de (Postfix) with ESMTPS id 4WFnkT55mfz59vP7
+	for <technikag@fichte-gymnasium.de>; Fri,  5 Jul 2024 11:08:49 +0200 (CEST)
+Received: by mail-lj1-x22a.google.com with SMTP id 38308e7fff4ca-2ee88c4443eso16111121fa.3
+        for <technikag@fichte-gymnasium.de>; Fri, 05 Jul 2024 02:08:49 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20230601; t=1720170528; x=1720775328; darn=fichte-gymnasium.de;
+        h=to:subject:message-id:date:from:mime-version:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=cVidESJgNGO0buEYpbKn7OxKkgUa9CVzE/zsIOOgA4Q=;
+        b=RiMxu8cqsMUiasS6hJhPOUXJxR0ObnPUMsU8X/Ovqg8fV86bAhn+PY/SkiM1H06Bwh
+         d1M7z+JoL6k8EUoW2G8Lx+jpnhj6b8VnobUq2rFoR1OySNhQDiMIL+5iWXfX2rzu3V/V
+         hjwYsghMEIVchrqXmqfwQXDQ9WouIzbLNv6tvAm+aXS8/L9r7R49ru9IuJ2XiCTxZIhl
+         2LrtfCywhCrCDzcv5+UgyWuwZK0cqvZ1HK/0EyWKmmEaCbSlOy2Isj4I2jc4DgISf6uK
+         geSboEbPV2obdsmLqkbhiDUn8KMxfBx5PX249L/eGFyAY6gLQTu320r8ejyP5wlPDkuF
+         Rthw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20230601; t=1720170528; x=1720775328;
+        h=to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=cVidESJgNGO0buEYpbKn7OxKkgUa9CVzE/zsIOOgA4Q=;
+        b=sdDPScvB9MFDtGwxosQEGeHO1tMPEYvqtEsFVTd/sUVlMhCtC7yn6oUQgXTQTCW6xG
+         IHrka93gYFrnM85GWEYlFUiFqPyzwdSvrYJCk6LKqeXr2FeOasfeX8x2N3zBslVs2m1y
+         paFCsSui0G90Rb709QOBnnaYyyn4Y8pE0Y3XzWGWKDuS6zuObsXwKzMhY4ys4zXlD69p
+         GvVm9gP7l+szzuZzlAlF6s5Y+SnB0WgRcPDc5Ea3xPoSYyZVVgoXGlQP4609xZ5NfHCH
+         Y9QZLusCA4CE81Hijq5tJcTz4PdaQLrY5C0+IwVgGDrerPJuQT6yJnWCatqAVME1Te8B
+         dqtA==
+X-Gm-Message-State: AOJu0YxFX3T+vu8FKaLfd829P8earDmpVt1vVO2aTVPyUreXyewJI1bC
+	0HVwlcKtGM9VkE+qAZnRC75it1KQbtaErEQD9glT5mfgcxXAusYcnfm3BdmQcfv9/ZT+sDO47QF
+	wPt1Db8ciOt5r9gXhXPOt9l4kDdEFJQ==
+X-Google-Smtp-Source: AGHT+IGt7DDeknD8Pnb2+zKGeoGjE7Ij0vRKqfFRscWLnExGpKOf8qhIIxsufS3yaRYzClJPz7GtCZmd3A1MgDFwsbs=
+X-Received: by 2002:a2e:9799:0:b0:2ee:4623:93e with SMTP id
+ 38308e7fff4ca-2ee8ed94178mr31897711fa.20.1720170528253; Fri, 05 Jul 2024
+ 02:08:48 -0700 (PDT)
+MIME-Version: 1.0
+From: Paul Marioth <paul.d.marioth@gmail.com>
+Date: Fri, 5 Jul 2024 11:08:37 +0200
+Message-ID: <CADAkWYwUgoJ=6cn-gMuc8JFOjOm7s0MVW_gkouPnSpCg-pRfFg@mail.gmail.com>
+Subject: Schalalala
+To: technikag@fichte-gymnasium.de
+Content-Type: multipart/alternative; boundary="0000000000004a2d39061c7c6929"
+X-Rspamd-UID: a87ea2
+X-Rspamd-Queue-Id: 4WFnkT55mfz59vP7
+X-Rspamd-SPAM-Probability: 0
+
+--0000000000004a2d39061c7c6929
+Content-Type: text/plain; charset="UTF-8"
+
+https://open.spotify.com/playlist/12YOo9pEeeRdyhZY87ESd8?si=XM5WvpFQRaSc0atgts4MNQ&pi=z4A_bLYwQ0CMZ
+
+--0000000000004a2d39061c7c6929
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto"><a href=3D"https://open.spotify.com/playlist/12YOo9pEeeRd=
+yhZY87ESd8?si=3DXM5WvpFQRaSc0atgts4MNQ&amp;pi=3Dz4A_bLYwQ0CMZ">https://open=
+.spotify.com/playlist/12YOo9pEeeRdyhZY87ESd8?si=3DXM5WvpFQRaSc0atgts4MNQ&am=
+p;pi=3Dz4A_bLYwQ0CMZ</a>=C2=A0</div>
+
+--0000000000004a2d39061c7c6929--

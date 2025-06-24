@@ -1,0 +1,78 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <jumahilk@web.de>
+Received: from mail-hub02.belwue.de ([129.143.76.42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 71177615 for technikag@fichte-gymnasium.de; Sun, 16 Jul 2023 15:07:39 +0200
+Received: from mail-in04.belwue.de (mail-in04.belwue.de [129.143.76.4])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4R3lqv2Z30z5f8P
+	for <technikag@fichte-gymnasium.de>; Sun, 16 Jul 2023 15:07:39 +0200 (CEST)
+Received: from mout.web.de (mout.web.de [212.227.15.14])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange ECDHE (P-256) server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in04.belwue.de (Postfix) with ESMTPS id 4R3lqt4Fr2z5BBkd
+	for <technikag@fichte-gymnasium.de>; Sun, 16 Jul 2023 15:07:38 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=web.de;
+ s=s29768273; t=1689512858; x=1690117658; i=jumahilk@web.de;
+ bh=JTz3ALdyFbe6eB2H742Vj2mtOjkeErwhwdSvLATZ1e4=;
+ h=X-UI-Sender-Class:From:To:Subject:Date;
+ b=b3eFxe8SB0V96SNVcSmEbu6CqvL/1Mkel7b95F7FQld91de7TNFkwAevIG1qNgv1q5XVg5+
+ CagOjG9w0z4PO8ARwhn2HcewSuOiqvt5nVQeIQXVsAOFy4q5IsyB1Jafze7MAN/TBZ0dBvCVT
+ 1+JXK1pO+198rV5XYKChg1yrickiFl1AKv+txaZJKUADIQrD0bcO4qMUAykOK4bkYLQAlAORK
+ VfSz4csqJwbfMx34fFWsvUi6XE9MySr9d+r1yKjvxNEstF6y/YJKjuIswlEJk2r+z2LNsX1fQ
+ YPr3G0tDZ1hIZA2CyRHFlelSWeq48xIpKfNqGnAyqnExUZr2YgRA==
+X-UI-Sender-Class: 814a7b36-bfc1-4dae-8640-3722d8ec6cd6
+Received: from [79.249.94.2] ([79.249.94.2]) by web-mail.web.de
+ (3c-app-webde-bs17.server.lan [172.19.170.17]) (via HTTP); Sun, 16 Jul 2023
+ 15:07:38 +0200
+MIME-Version: 1.0
+Message-ID: <trinity-17874973-c9bc-409a-984a-4765298040cc-1689512858299@3c-app-webde-bs17>
+From: jumahilk@web.de
+To: technikag@fichte-gymnasium.de
+Subject: Schulfest Termin
+Content-Type: text/html; charset=UTF-8
+Date: Sun, 16 Jul 2023 15:07:38 +0200
+Importance: normal
+Sensitivity: Normal
+X-Priority: 3
+X-Provags-ID: V03:K1:MPmv5G2GN2g86TYvaHaqDhIYUSFV0YKdKSVleFityYBX7dTOSZsqha5W+AMGmpj9xdpD5
+ fAa2LWdZVA2w1OR/Mh25Qc3TgRoeQtfEGxwZ7iuMoYcIinhOijGO1vOIxYafQDc1k6qaKYFlli/3
+ 4rXreRkGtVKCkROUEPZQlvfJynF8HrYmzGEflKKs74FYdirC2hAPHXnkaB/nB0m36z8HzyU8I73H
+ 06g3yvXROiJo5oeBEM8jzkTYsm9HdJplclOsSUk0KD/rFdOx+48REVXtZ9mCMB50MWO+Xeheu5CQ
+ Tg=
+X-Spam-Flag: NO
+UI-OutboundReport: notjunk:1;M01:P0:8n64hOMviJw=;iMRjoz/dNy7xjOluFOtmcda8lpm
+ DBXFlS5kURL4RBNGIDN2YwsESJYYBROt5NqitGfbS5U48c9ZT9XI331M5jFOv3JNbeH+Q7Cig
+ prkGgaLmYvhYJ56b3CsNU7leThVgyfc1SD5A6peW5sXpE7doR4H/IbPiTJ0JLHDQ45t0LYj5E
+ npYrsBfZZFAy4gY1qLaazCGIt4sbge9q0GDqC8NZUkkDqRL4IFpScHS1IBj/vdtYtQCA5TwkZ
+ y/oAPYkoReqbjNlchKF18YwN86AT2nBz7FxEYmm6roFp+LqP3BM1Jet0/vktv9NiRmT7/AsOG
+ VMsDOQaXX9NjRYdvdzo9Yg8it7cgDx3Pt3bjF7LtHRpyERbaQrINoTwk3Xc5s4QfDZxwCRq4u
+ 0Ga3My6+9sDB0lQMhwOTu0PkzUC9sup04kSKanoviDWB6MkMW4vHKg4x1mQnu4pLQI1s/gWJT
+ yluoaBRafxQSjkJr16ABzAAYluGUMm5RY0VKC4U80vajyyLMIjbfWIEilgSgMOnl6TA/mGwV6
+ R5X/vJqCN+jBoFT9kYCUoZfvbow3rtuQMc4yUWmMfCUDSccw3NP7tntYpoqXQGWjh+hC0eqLz
+ 7gFTfQ1ianeXIyqOuqVCZfy80qaeJC1qrzFnijMxe0aeD9eqCZKxhhqTpB4GSHapXPx2rAYiO
+ 8XfkbRnnzdnXmHfvokYmd6Kyfc+pQ+WIbEGgLSDWqqsAKQiByKjYAfxh/UI9z09y4+Y8ooRWL
+ iivcMd22cZEWHsLVR+rF2DVj0ZqtcotFJksqfZJwM64cgegCnCbGDNergV8A9Oaq174M4mFaw
+ 8KrW4YC/zuS1pZK6/s2/bjPQ==
+X-Rspamd-Queue-Id: 4R3lqt4Fr2z5BBkd
+X-Rspamd-SPAM-Probability: 0
+X-Rspamd-UID: 4baccc
+
+<html><head></head><body><div style="font-family: Verdana;font-size: 12.0px;"><p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Liebe Technik-AG,</span></span></span></p>
+
+<p style="margin-bottom:11px">&nbsp;</p>
+
+<p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">bald steht das Schulfest an, weswegen wir uns gerne mich euch treffen w&uuml;rden, um&nbsp;Einzelheiten zu besprechen (z.B. B&uuml;hne). </span></span></span></p>
+
+<p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Zeitlich k&ouml;nnten wir jeden Tag ab 14:00 Uhr. </span></span></span></p>
+
+<p style="margin-bottom:11px">&nbsp;</p>
+
+<p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Vielen Dank f&uuml;r eure Hilfe!</span></span></span></p>
+
+<p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Der Schulfest-AK</span></span></span></p>
+
+<p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Jule Hilkert und Felicia Esser</span></span></span></p></div></body></html>

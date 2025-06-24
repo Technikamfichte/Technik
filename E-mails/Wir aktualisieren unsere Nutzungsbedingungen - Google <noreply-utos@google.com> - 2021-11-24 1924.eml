@@ -1,0 +1,327 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <technikagfichte+caf_=technikag=fichte-gymnasium.de@gmail.com>
+Received: from mail-hub01.belwue.de ([2001:7c0:0:76::41] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.7f)
+  with ESMTPS id 38750524 for technikag@fichte-gymnasium.de; Wed, 24 Nov 2021 19:31:45 +0100
+Received: from mail-in02.belwue.de (mail-in02.belwue.de [IPv6:2001:7c0:0:76::2])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub01.belwue.de (Postfix) with ESMTPS id 4HzqNK5PCvz52B5P
+	for <technikag@fichte-gymnasium.de>; Wed, 24 Nov 2021 19:31:45 +0100 (CET)
+Received: from mail-lj1-x22e.google.com (mail-lj1-x22e.google.com [IPv6:2a00:1450:4864:20::22e])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in02.belwue.de (Postfix) with ESMTPS id 4HzqNK31x6zB11XR
+	for <technikag@fichte-gymnasium.de>; Wed, 24 Nov 2021 19:31:45 +0100 (CET)
+Received: by mail-lj1-x22e.google.com with SMTP id l9so7376564ljq.5
+        for <technikag@fichte-gymnasium.de>; Wed, 24 Nov 2021 10:31:45 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:delivered-to:dkim-signature:mime-version:date
+         :reply-to:feedback-id:message-id:subject:from:to;
+        bh=SSAyAXfJ4MgggZoYaks+gsJ70M9AjoorUZZ7N/U57U4=;
+        b=6occVTB2tuwj7N2EsnwbESM/htlYtK5R2dyfHU1fUja6SsubQVL4RUxAtnD68AyTFn
+         Kq8LDlbkOW94iOhcloUZllwaMzPKITQdWCOZXxRVYOrjiJCm8wTPcExOwvvpbXlwleSL
+         Uf/vknOth6dxInt3q5nkuFchtcmfKBxPN4YILM24gQwZ4A7Ih+ZMb8jAo1XTXjZkBtBP
+         i3t1NTr9iIycXIp4Gt4wT8aba2TBhkGrvSHxPpatVqrS+XnIkiGBgTRJJS3ktD6YLG4h
+         mkVoCPIw5DHzvX2EYAaU8IaIg8MXPEqHPSCKGpLY9d7j6PHRj7JqFOvWkkJjIaFJwQmH
+         +DOA==
+X-Gm-Message-State: AOAM530g5kVxKLYcNxFlxnnuY+5TpwaoJIZh8GAi8bPIm87oirxE5QZr
+	UPpzfjVhwiM24ivv1pO5cuLV+IYGfTJiUjxN78VRas+YbF+tynsdDg==
+X-Received: by 2002:a05:651c:1101:: with SMTP id d1mr18195033ljo.373.1637778268663;
+        Wed, 24 Nov 2021 10:24:28 -0800 (PST)
+X-Forwarded-To: technikag@fichte-gymnasium.de
+X-Forwarded-For: technikagfichte@gmail.com technikag@fichte-gymnasium.de
+Delivered-To: technikagfichte@gmail.com
+Received: by 2002:a19:6f07:0:0:0:0:0 with SMTP id k7csp10471377lfc;
+        Wed, 24 Nov 2021 10:24:27 -0800 (PST)
+X-Received: by 2002:a62:1d09:0:b0:4a2:82d7:17a5 with SMTP id d9-20020a621d09000000b004a282d717a5mr8444961pfd.64.1637778266997;
+        Wed, 24 Nov 2021 10:24:26 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1637778266; cv=none;
+        d=google.com; s=arc-20160816;
+        b=kgYhrXHZuoT/ZMaYhKR4AcYDu52SBA/za01TPf3NIacsARJa+Jvf3cBHsOoaY2Py6q
+         RD7A/toIJtztTt7QmCDJXk+cNoSfxUQzWcMsJ02BQO1B8XSYCljdos14TNmrX4Xt1Tsz
+         wlRxVysfWIY1DanuEK5rETD+2eaPiX9N3t6qnuxEqjislC8F1okx2lY/zPJMuxGfS5iW
+         qaeernnbzOaZ9fE/LU930BM/nSPCsOgU4eIUjSrDwCNDM2v1nTqaRsPechdA6scv+daH
+         jIP178oFpaPOKRRvoKspvJeWOAUhMjYByByvlUABkfn01/WtsPaY8L57FG2O82unBHEJ
+         CBfQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=to:from:subject:message-id:feedback-id:reply-to:date:mime-version
+         :dkim-signature;
+        bh=SSAyAXfJ4MgggZoYaks+gsJ70M9AjoorUZZ7N/U57U4=;
+        b=wbavuZHjdC3DkZTgQMIafD2gbpvcrOFbvhyErVlBKw/oIAeS5R+luzsG8WMD7T08Qi
+         8f0FHPD4icP0CmeoTqhnnL4PodEKmQV/mbsD6czQEPB5My0fOn4lQuCRyi9KduiFCiZd
+         CnRMYf4nzpn2PYcjhsrGpPaYpzOXWRwl3QN5IOJf94wbDXGv+Xhz2mfTdli1MvY0qUTj
+         t2YVEe3FO8KTCU4j9Q9n/K1RI2doDyQ8z+8D7b26qhK/vxZWyVkkB/IB9mk+MggB1EZf
+         7RzDrF2fA7o4nm39kdujKSvlERl9OcLBUTiZ4bknDnDYtvqXuSmBV0ZxHfWCKGyHRcsQ
+         NhFQ==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@google.com header.s=20210112 header.b=XMeeY4Hh;
+       spf=pass (google.com: domain of 3wooeyqwkd-0cdgtean-jidhvddvat.rdbitrwcxzpvuxrwitvbpxa.rdb@scoutcamp.bounces.google.com designates 209.85.220.69 as permitted sender) smtp.mailfrom=3WoOeYQwKD-0cdgTean-jidhVddVaT.RdbiTRWcXZPVUXRWiTVbPXa.Rdb@scoutcamp.bounces.google.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=google.com
+Received: from mail-sor-f69.google.com (mail-sor-f69.google.com. [209.85.220.69])
+        by mx.google.com with SMTPS id s11sor456030pls.25.2021.11.24.10.24.26
+        for <technikagfichte@gmail.com>
+        (Google Transport Security);
+        Wed, 24 Nov 2021 10:24:26 -0800 (PST)
+Received-SPF: pass (google.com: domain of 3wooeyqwkd-0cdgtean-jidhvddvat.rdbitrwcxzpvuxrwitvbpxa.rdb@scoutcamp.bounces.google.com designates 209.85.220.69 as permitted sender) client-ip=209.85.220.69;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@google.com header.s=20210112 header.b=XMeeY4Hh;
+       spf=pass (google.com: domain of 3wooeyqwkd-0cdgtean-jidhvddvat.rdbitrwcxzpvuxrwitvbpxa.rdb@scoutcamp.bounces.google.com designates 209.85.220.69 as permitted sender) smtp.mailfrom=3WoOeYQwKD-0cdgTean-jidhVddVaT.RdbiTRWcXZPVUXRWiTVbPXa.Rdb@scoutcamp.bounces.google.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=google.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20210112;
+        h=mime-version:date:reply-to:feedback-id:message-id:subject:from:to;
+        bh=SSAyAXfJ4MgggZoYaks+gsJ70M9AjoorUZZ7N/U57U4=;
+        b=XMeeY4HhPeQ+Sj5+V/v5pfjrpcGRklSsalFwwyd6Ao5GjuoUlibuvBWH1YONZZUvuw
+         VH/jRI3Xg1NnMvK4vzi4h8e98hWkBJfge/9JPpeOEzMSXCeTGE/qby8Ms8GPsAYUJUY+
+         PtoFoB6ihhUJ4PG4kbcb5WnFmYAMj5i0joVP5f+jAhEuaKrzr7HqKye366aQOgMPaS8L
+         mmrV8d4SoIPtHBVdUkiUjpTW/0k9Ny/K2iSRTmu+7Y0qhBkm92MSb5TnjASlZ4+XnuoK
+         mQOBqD1XLcX2J5LzrEJ5Ob/aQWEIqgj+U23+uJ0fBlkBEzMLx/eK4qCU51SCxHq4ERY4
+         Ds6A==
+X-Google-Smtp-Source: ABdhPJzW2xq91qH51YlrNyiaGWWdbOZgj+k6tobWUWLpIaCtIWmTBSjG2R2+ePjxvZMxCDk6YCarPU4=
+MIME-Version: 1.0
+X-Received: by 2002:a6b:4e07:: with SMTP id c7mr17110501iob.23.1637778266043;
+ Wed, 24 Nov 2021 10:24:26 -0800 (PST)
+Date: Wed, 24 Nov 2021 10:24:26 -0800
+Reply-To: Google <noreply-utos@google.com>
+X-Google-Id: 4114483
+Feedback-ID: P2725-0:C20183499:M110496615-de:gamma
+X-Notifications: GAMMA:<9e9c0a055eff1020490b5f638d9ad615a8f3283e-20183499-111045282@google.com>
+X-Notifications-Bounce-Info: AXvZQxcDwnyLCCWimsZ7eDG8-CNmLO8j2UAuz17MK1EuTemSxQ1H9f6XBfNumiHeLkp1btztDq9SgQLBRDgJoiK-7igvBxIABx1ZpJBK8JMOaqFSb4PA4o-xWb5ev708rjlOhP3AXPIcOS8BonDlzuTMomnI-t1Lkb628TzqeW_8qCSYzRimX60VylE7tKCN3TkXJOYLTJ3NWLQTR_U0JkcIuAfSv1-XNNS9_5Ylb87Rp6z8Ri42KFRNrvnbRRQGbZaFlAUNjAwNjA0MDQxNTM1NTk2OTMzMg
+Message-ID: <9e9c0a055eff1020490b5f638d9ad615a8f3283e-20183499-111045282@google.com>
+Subject: Wir aktualisieren unsere Nutzungsbedingungen
+From: Google <noreply-utos@google.com>
+To: technikagfichte@gmail.com
+Content-Type: multipart/alternative; boundary="000000000000c4b46505d18cf7cd"
+X-Rspamd-Queue-Id: 4HzqNK31x6zB11XR
+X-Rspamd-SPAM-Probability: 70
+X-Rspamd-UID: 316a64
+X-Spam-Level: xxxx
+
+--000000000000c4b46505d18cf7cd
+Content-Type: text/plain; charset="UTF-8"; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+dGVjaG5pa2FnZmljaHRlQGdtYWlsLmNvbQ0KDQpBbSA1LiBKYW51YXIgMjAyMiBuZWhtZW4gd2ly
+IHZlcnNjaGllZGVuZSDDhG5kZXJ1bmdlbiBhbiB1bnNlcmVuDQpOdXR6dW5nc2JlZGluZ3VuZ2Vu
+IHZvci4gRGllc2Ugw4RuZGVydW5nZW4gd2VyZGVuIGtlaW5lIEF1c3dpcmt1bmdlbiBhdWYNCklo
+cmUgTnV0enVuZyBkZXIgR29vZ2xlLURpZW5zdGUgaGFiZW4uIFZpZWxtZWhyIHNvbGxlbiBzaWUg
+ZGV1dGxpY2hlcg0KbWFjaGVuLCB3YXMgU2llIGJlaSBkZXIgTnV0enVuZyB1bnNlcmVyIERpZW5z
+dGUgdm9uIHVucyBlcndhcnRlbiBrw7ZubmVuIHVuZA0Kd2FzIHdpciB2b24gSWhuZW4gZXJ3YXJ0
+ZW4uDQoNCkRpZXNlciBMaW5rIGJyaW5ndCBTaWUgenUgZGVuIG5ldWVuIE51dHp1bmdzYmVkaW5n
+dW5nZW4NCjxodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20vQWNjb3VudENob29zZXI/RW1haWw9
+dGVjaG5pa2FnZmljaHRlQGdtYWlsLmNvbSZjb250aW51ZT1odHRwczovL3BvbGljaWVzLmdvb2ds
+ZS5jb20vdGVybXMvdXBkYXRlJTNGdXRtX3NvdXJjZSUzRHRvczIwMjItZW1haWwlMjZ1dG1fbWVk
+aXVtJTNEZW1haWw+Lg0KV2lyIGhhYmVuIGF1Y2ggZWluZSBadXNhbW1lbmZhc3N1bmcgZGVyIHdp
+Y2h0aWdzdGVuIMOEbmRlcnVuZ2VuDQo8aHR0cHM6Ly9hY2NvdW50cy5nb29nbGUuY29tL0FjY291
+bnRDaG9vc2VyP0VtYWlsPXRlY2huaWthZ2ZpY2h0ZUBnbWFpbC5jb20mY29udGludWU9aHR0cHM6
+Ly9wb2xpY2llcy5nb29nbGUuY29tL3Rlcm1zL2NoYW5nZXMlM0Z1dG1fc291cmNlJTNEdG9zMjAy
+Mi1lbWFpbCUyNnV0bV9tZWRpdW0lM0RlbWFpbD4NCmbDvHIgU2llIHZvcmJlcmVpdGV0LiBIaWVy
+IHNlaGVuIFNpZSBhdWYgZWluZW4gQmxpY2ssIHdhcyBkaWVzZSDDhG5kZXJ1bmdlbg0KZsO8ciBT
+aWUgYmVkZXV0ZW46DQoNCiAgICAtICpNZWhyIEtsYXJoZWl0IGRhcsO8YmVyLCB3YXMgU2llIHZv
+biBHb29nbGUgZXJ3YXJ0ZW4ga8O2bm5lbiB1bmQgd2FzIHdpcg0KICAgIHZvbiBJaG5lbiBlcndh
+cnRlbio6IFdpciBoYWJlbiB3ZWl0ZXJlIEJlaXNwaWVsZSBmw7xyIGRpZQ0KICAgIFZlcmhhbHRl
+bnNyZWdlbG4gaGluenVnZWbDvGd0LCBkZXJlbiBFaW5oYWx0dW5nIHdpciB2b24gYWxsZW4gTnV0
+emVybiBmw7xyDQogICAgZWluZW4gcmVzcGVrdHZvbGxlbiBVbWdhbmcgbWl0ZWluYW5kZXIgZXJ3
+YXJ0ZW4uIEF1w59lcmRlbSBoYWJlbiB3aXINCiAgICBkZXV0bGljaGVyIGVya2zDpHJ0LCB3aWUg
+d2lyIHVuc2VyZSBkaWdpdGFsZW4gSW5oYWx0ZSwgRGllbnN0bGVpc3R1bmdlbiAgDQp1bmQNCiAg
+ICBXYXJlbiBlbnR3aWNrZWxuLCB2ZXJiZXNzZXJuIHVuZCBha3R1YWxpc2llcmVuLiBVbnRlciBh
+bmRlcmVtIGvDtm5uZW4gU2llDQogICAgbmFjaGxlc2VuLCB3YXJ1bSB3aXIgw4RuZGVydW5nZW4g
+dW5kIHJlY2h0bGljaCBlcmZvcmRlcmxpY2hlDQogICAgQWt0dWFsaXNpZXJ1bmdlbiB2b3JuZWht
+ZW4sIG1pdCB3aWUgdmllbCBWb3JsYXVmIHdpciBTaWUgaW4gc29sY2hlbiAgDQpGw6RsbGVuDQog
+ICAgaW5mb3JtaWVyZW4gdW5kIHdhbm4gU2llIGRhcyBSZWNodCBoYWJlbiwgSWhyZW4gVmVydHJh
+ZyBtaXQgdW5zIHp1ICANCmJlZW5kZW4uDQogICAgLSAqR2VzZXR6bGljaGUgR2V3w6RocmxlaXN0
+dW5nKjogV2lyIGhhYmVuIGRpZSBnZXNldHpsaWNoZW4NCiAgICBHZXfDpGhybGVpc3R1bmdlbiB6
+dXNhbW1lbmdlZmFzc3QsIGF1ZiBkaWUgU2llIGdlbcOkw58gZGVuICANClZlcmJyYXVjaGVyZ2Vz
+ZXR6ZW4NCiAgICBkZXMgRXVyb3DDpGlzY2hlbiBXaXJ0c2NoYWZ0c3JhdW1zIChFV1IpIEFuc3By
+dWNoIGhhYmVuLCB3ZW5uIFNpZSB1bnNlcmUNCiAgICBkaWdpdGFsZW4gSW5oYWx0ZSwgRGllbnN0
+bGVpc3R1bmdlbiB1bmQgV2FyZW4gbnV0emVuLg0KICAgIC0gKldpZGVycnVmc3JlY2h0KjogV2ly
+IGhhYmVuIGVpbmVuIEhpbndlaXMgZGFyYXVmIGVpbmdlZsO8Z3QsIGRhc3MgaW0NCiAgICBFdXJv
+cMOkaXNjaGVuIFdpcnRzY2hhZnRzcmF1bSAoRVdSKSBhbnPDpHNzaWdlIFZlcmJyYXVjaGVyIGRh
+enUgYmVyZWNodGlndA0KICAgIHNpbmQsIGlocmUgWnVzdGltbXVuZyB6dSB1bnNlcmVuIE51dHp1
+bmdzYmVkaW5ndW5nZW4gaW5uZXJoYWxiIHZvbiAgDQp2aWVyemVobg0KICAgIFRhZ2VuIGFiIGRl
+ciB1cnNwcsO8bmdsaWNoZW4gWnVzdGltbXVuZyB6dSB3aWRlcnJ1ZmVuLiBVbSBJaG5lbiBkaWUg
+IA0KQXVzw7xidW5nDQogICAgZGllc2VzIFJlY2h0cyBsZWljaHRlciB6dSBtYWNoZW4sIGVudGhh
+bHRlbiB1bnNlcmUgTnV0enVuZ3NiZWRpbmd1bmdlbg0KICAgIHp1a8O8bmZ0aWcgZGllIE11c3Rl
+ci1XaWRlcnJ1ZnNiZWxlaHJ1bmcgZGVyIEV1cm9ww6Rpc2NoZW4gVW5pb24gc2FtdA0KICAgIE11
+c3Rlci1XaWRlcnJ1ZnNmb3JtdWxhci4NCiAgICAtICpadXPDpHR6bGljaGUgRGVmaW5pdGlvbmVu
+KjogV2lyIGhhYmVuIHdlaXRlcmUgRXJrbMOkcnVuZ2VuIGhpbnp1Z2Vmw7xndCwNCiAgICBkYW1p
+dCBTaWUgZGllIGluIHVuc2VyZW4gTnV0enVuZ3NiZWRpbmd1bmdlbiB2ZXJ3ZW5kZXRlbiBSZWNo
+dHNiZWdyaWZmZQ0KICAgIGJlc3NlciB2ZXJzdGVoZW4sIHouIEIuIOKAnmdld2VyYmxpY2hlIEdh
+cmFudGll4oCcLCDigJ5nZXNldHpsaWNoZQ0KICAgIEdld8OkaHJsZWlzdHVuZ+KAnCB1bmQg4oCe
+TWFuZ2Vs4oCcLg0KICAgIC0gKkJlc3NlcmUgTGVzYmFya2VpdCo6IEF1Y2ggd2VubiB1bnNlcmUg
+TnV0enVuZ3NiZWRpbmd1bmdlbiBlaW4NCiAgICBSZWNodHNkb2t1bWVudCBkYXJzdGVsbGVuLCBi
+ZW3DvGhlbiB3aXIgdW5zIGltbWVyLCBzaWUgbcO2Z2xpY2hzdA0KICAgIHZlcnN0w6RuZGxpY2gg
+enUgZm9ybXVsaWVyZW4uIFVudGVyIGFuZGVyZW0gaGFiZW4gd2lyIGVpbmlnZSBUaGVtZW4gYW4g
+IA0KZWluZQ0KICAgIG5ldWUgU3RlbGxlIHZlcnNjaG9iZW4sIGRhbWl0IHNpZSBsZWljaHRlciB6
+dSBmaW5kZW4gc2luZC4NCg0KV2VubiBTaWUgbWl0IEZhbWlseSBMaW5rIGVpbiBHb29nbGUtS29u
+dG8gZsO8ciBhbmRlcmUgTnV0emVyIHZlcndhbHRlbiwNCm5laG1lbiBTaWUgc2ljaCBkaWUgWmVp
+dCB1bmQgc3ByZWNoZW4gU2llIG1pdCBpaG5lbiDDvGJlciBkaWVzZSDDhG5kZXJ1bmdlbi4NCg0K
+VmllbGVuIERhbmssIGRhc3MgU2llIEdvb2dsZSB2ZXJ3ZW5kZW4uDQoNCkdvb2dsZSBJcmVsYW5k
+IExpbWl0ZWQsIEdvcmRvbiBIb3VzZSwgQmFycm93IFN0cmVldCwgRHVibGluIDQsIElybGFuZA0K
+DQpNaXQgZGllc2VyIEUtTWFpbCBpbmZvcm1pZXJlbiB3aXIgU2llIMO8YmVyIHdpY2h0aWdlIMOE
+bmRlcnVuZ2VuIGFuIGRlbg0KTnV0enVuZ3NiZWRpbmd1bmdlbiB2b24gR29vZ2xlLg0K
+--000000000000c4b46505d18cf7cd
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html lang=3Dde>
+<head>
+<meta name=3Dformat-detection content=3Demail=3Dno>
+<meta name=3Dformat-detection content=3Ddate=3Dno>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8"><sty=
+le type=3Dtext/css>
+body {font-family:Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;colo=
+r:#5f6368;line-height:1.5;font-size:16px} li, p {margin:25px 0}@media scree=
+n and (min-width: 600px) {.v2sp {padding: 6px 30px 0;} .v2rsp {padding: 0 1=
+0px;}} @media screen and (min-width: 600px) {.mdv2rw {padding: 40px 40px;}}=
+=20
+</style>
+<link type=3Dtext/css href=3D//fonts.googleapis.com/css?family=3DGoogle+San=
+s_old rel=3Dstylesheet>
+<title></title>
+</head>
+<body style=3D"margin: 0; padding: 0;" bgcolor=3D#FAFAFA>
+<table width=3D100% height=3D100% style=3D"min-width: 348px;" border=3D0 ce=
+llspacing=3D0 cellpadding=3D0 lang=3Dde bgcolor=3D#FAFAFA role=3Dpresentati=
+on>
+<tr align=3Dcenter>
+<td>
+<table width=3D100% cellspacing=3D0 cellpadding=3D0 bgcolor=3D#FAFAFA style=
+=3Dmax-width:600px role=3Dpresentation>
+<tr>
+<td style=3Dpadding-top:20px;padding-bottom:20px;padding-left:40px;padding-=
+right:40px>
+<table width=3D100% cellspacing=3D0 cellpadding=3D0 role=3Dpresentation>
+<tr>
+<td><img src=3Dhttps://www.gstatic.com/images/branding/googlelogo/1x/google=
+logo_color_112x36dp.png alt=3D"" title=3D""></td>
+<td align=3Dright style=3D"text-align: end;"><a href=3D# style=3Dtext-decor=
+ation:none;color:#5f6368>technikagfichte@gmail.com</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3Dpadding-left:15px;padding-right:15px>
+<table width=3D100% cellspacing=3D0 cellpadding=3D0 role=3Dpresentation>
+<tr>
+<td bgcolor=3D#ffffff style=3D"padding:35px 35px 10px 35px;border-radius:4p=
+x">
+<table border=3D0 cellspacing=3D0 cellpadding=3D0 role=3Dpresentation>
+<tr>
+<td align=3Dcenter><img src=3Dhttps://www.gstatic.com/s2/oz/images/notifica=
+tions/ppemail/privacy_header_2x.png alt=3D"" width=3D150 title=3D"" role=3D=
+presentation></td>
+</tr>
+<tr>
+<td>
+<p style=3D"margin:25px 0;font-family:Roboto, Helvetica Neue, Helvetica, Ar=
+ial, sans-serif;color:#5f6368;line-height:1.5;font-size:16px">Am 5. Januar =
+2022 nehmen wir verschiedene =C3=84nderungen an unseren Nutzungsbedingungen=
+ vor. Diese =C3=84nderungen werden keine Auswirkungen auf Ihre Nutzung der =
+Google-Dienste haben. Vielmehr sollen sie deutlicher machen, was Sie bei de=
+r Nutzung unserer Dienste von uns erwarten k=C3=B6nnen und was wir von Ihne=
+n erwarten.</p>
+<p style=3D"margin:25px 0;font-family:Roboto, Helvetica Neue, Helvetica, Ar=
+ial, sans-serif;color:#5f6368;line-height:1.5;font-size:16px">Dieser Link b=
+ringt Sie <a href=3Dhttps://accounts.google.com/AccountChooser?Email=3Dtech=
+nikagfichte@gmail.com&amp;continue=3Dhttps://policies.google.com/terms/upda=
+te%3Futm_source%3Dtos2022-email%26utm_medium%3Demail>zu den neuen Nutzungsb=
+edingungen</a>. Wir haben auch <a href=3Dhttps://accounts.google.com/Accoun=
+tChooser?Email=3Dtechnikagfichte@gmail.com&amp;continue=3Dhttps://policies.=
+google.com/terms/changes%3Futm_source%3Dtos2022-email%26utm_medium%3Demail>=
+eine Zusammenfassung der wichtigsten =C3=84nderungen</a> f=C3=BCr Sie vorbe=
+reitet. Hier sehen Sie auf einen Blick, was diese =C3=84nderungen f=C3=BCr =
+Sie bedeuten:</p>
+<ul>
+<li style=3D"margin:25px 0;font-family:Roboto, Helvetica Neue, Helvetica, A=
+rial, sans-serif;color:#5f6368;line-height:1.5;font-size:16px"><b>Mehr Klar=
+heit dar=C3=BCber, was Sie von Google erwarten k=C3=B6nnen und was wir von =
+Ihnen erwarten</b>: Wir haben weitere Beispiele f=C3=BCr die Verhaltensrege=
+ln hinzugef=C3=BCgt, deren Einhaltung wir von allen Nutzern f=C3=BCr einen =
+respektvollen Umgang miteinander erwarten. Au=C3=9Ferdem haben wir deutlich=
+er erkl=C3=A4rt, wie wir unsere digitalen Inhalte, Dienstleistungen und War=
+en entwickeln, verbessern und aktualisieren. Unter anderem k=C3=B6nnen Sie =
+nachlesen, warum wir =C3=84nderungen und rechtlich erforderliche Aktualisie=
+rungen vornehmen, mit wie viel Vorlauf wir Sie in solchen F=C3=A4llen infor=
+mieren und wann Sie das Recht haben, Ihren Vertrag mit uns zu beenden.</li>
+<li style=3D"margin:25px 0;font-family:Roboto, Helvetica Neue, Helvetica, A=
+rial, sans-serif;color:#5f6368;line-height:1.5;font-size:16px"><b>Gesetzlic=
+he Gew=C3=A4hrleistung</b>: Wir haben die gesetzlichen Gew=C3=A4hrleistunge=
+n zusammengefasst, auf die Sie gem=C3=A4=C3=9F den Verbrauchergesetzen des =
+Europ=C3=A4ischen Wirtschaftsraums (EWR) Anspruch haben, wenn Sie unsere di=
+gitalen Inhalte, Dienstleistungen und Waren nutzen.</li>
+<li style=3D"margin:25px 0;font-family:Roboto, Helvetica Neue, Helvetica, A=
+rial, sans-serif;color:#5f6368;line-height:1.5;font-size:16px"><b>Widerrufs=
+recht</b>: Wir haben einen Hinweis darauf eingef=C3=BCgt, dass im Europ=C3=
+=A4ischen Wirtschaftsraum (EWR) ans=C3=A4ssige Verbraucher dazu berechtigt =
+sind, ihre Zustimmung zu unseren Nutzungsbedingungen innerhalb von vierzehn=
+ Tagen ab der urspr=C3=BCnglichen Zustimmung zu widerrufen. Um Ihnen die Au=
+s=C3=BCbung dieses Rechts leichter zu machen, enthalten unsere Nutzungsbedi=
+ngungen zuk=C3=BCnftig die Muster-Widerrufsbelehrung der Europ=C3=A4ischen =
+Union samt Muster-Widerrufsformular.</li>
+<li style=3D"margin:25px 0;font-family:Roboto, Helvetica Neue, Helvetica, A=
+rial, sans-serif;color:#5f6368;line-height:1.5;font-size:16px"><b>Zus=C3=A4=
+tzliche Definitionen</b>: Wir haben weitere Erkl=C3=A4rungen hinzugef=C3=BC=
+gt, damit Sie die in unseren Nutzungsbedingungen verwendeten Rechtsbegriffe=
+ besser verstehen, z.&nbsp;B. =E2=80=9Egewerbliche Garantie=E2=80=9C, =E2=
+=80=9Egesetzliche Gew=C3=A4hrleistung=E2=80=9C und =E2=80=9EMangel=E2=80=9C=
+.</li>
+<li style=3D"margin:25px 0;font-family:Roboto, Helvetica Neue, Helvetica, A=
+rial, sans-serif;color:#5f6368;line-height:1.5;font-size:16px"><b>Bessere L=
+esbarkeit</b>: Auch wenn unsere Nutzungsbedingungen ein Rechtsdokument dars=
+tellen, bem=C3=BChen wir uns immer, sie m=C3=B6glichst verst=C3=A4ndlich zu=
+ formulieren. Unter anderem haben wir einige Themen an eine neue Stelle ver=
+schoben, damit sie leichter zu finden sind.</li>
+</ul>
+<p style=3D"margin:25px 0;font-family:Roboto, Helvetica Neue, Helvetica, Ar=
+ial, sans-serif;color:#5f6368;line-height:1.5;font-size:16px">Wenn Sie mit =
+Family Link ein Google-Konto f=C3=BCr andere Nutzer verwalten, nehmen Sie s=
+ich die Zeit und sprechen Sie mit ihnen =C3=BCber diese =C3=84nderungen.</p=
+>
+<p style=3D"margin:25px 0;font-family:Roboto, Helvetica Neue, Helvetica, Ar=
+ial, sans-serif;color:#5f6368;line-height:1.5;font-size:16px">Vielen Dank, =
+dass Sie Google verwenden.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3Dpadding:40px>
+<table width=3D100% border=3D0 cellspacing=3D0 cellpadding=3D0 role=3Dprese=
+ntation>
+<tr>
+<td><img src=3Dhttps://www.gstatic.com/s2/oz/images/notifications/ppemail/g=
+s_16q2_welcome_google_logo.png alt=3D"" width=3D100 title=3D""></td>
+</tr>
+<tr>
+<td>
+<p style=3D"margin:25px 0;font-family:Roboto, Helvetica Neue, Helvetica, Ar=
+ial, sans-serif;color:#5f6368;line-height:1.5;font-size:16px">Google Irelan=
+d Limited, Gordon House, Barrow Street, Dublin&nbsp;4, Irland</p>
+<p style=3D"margin:25px 0;font-family:Roboto, Helvetica Neue, Helvetica, Ar=
+ial, sans-serif;color:#5f6368;line-height:1.5;font-size:16px">Mit dieser E-=
+Mail informieren wir Sie =C3=BCber wichtige =C3=84nderungen an den Nutzungs=
+bedingungen von Google.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+
+--000000000000c4b46505d18cf7cd--

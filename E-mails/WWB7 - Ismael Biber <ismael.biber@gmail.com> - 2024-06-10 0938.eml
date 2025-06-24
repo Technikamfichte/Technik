@@ -1,0 +1,77 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <ismael.biber@gmail.com>
+Received: from mail-hub02.belwue.de ([129.143.76.42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 88151440 for technikag@fichte-gymnasium.de; Mon, 10 Jun 2024 09:38:59 +0200
+Received: from mail-in03.belwue.de (mail-in03.belwue.de [129.143.76.3])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4VyNwM2r2Fz5b69
+	for <technikag@fichte-gymnasium.de>; Mon, 10 Jun 2024 09:38:59 +0200 (CEST)
+Received: from mail-ed1-x535.google.com (mail-ed1-x535.google.com [IPv6:2a00:1450:4864:20::535])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in03.belwue.de (Postfix) with ESMTPS id 4VyNwL5bLbzx45
+	for <technikag@fichte-gymnasium.de>; Mon, 10 Jun 2024 09:38:58 +0200 (CEST)
+Received: by mail-ed1-x535.google.com with SMTP id 4fb4d7f45d1cf-57a1fe63a96so5023491a12.0
+        for <technikag@fichte-gymnasium.de>; Mon, 10 Jun 2024 00:38:58 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20230601; t=1718005138; x=1718609938; darn=fichte-gymnasium.de;
+        h=to:subject:message-id:date:from:mime-version:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=9u2VS+RqtTXAmSB1JZWuElMIR49im9Nlg7GtE6AtO6E=;
+        b=cglgGw9YgxtoprLKD4tMAxaRkUlBahqeti1HG0+GMYxLEIi0OMOrYYrp2p5MnUgnus
+         srNnoUA1nc+6DQbd5Xle97KDko1/w50lVOP2xIjrkgpzWmkLnk7BC9UFjEAVRTSYvf1X
+         cSXmDm6C4buVN1t0G+EFgATzdMewYifZOC958JYPJb2tDeXCOjDjAORBVmKOIEvM/sVG
+         cr5Wp6WWPsW4dzVXWvjzYARlsI3xngqvZxleAXk13hDAKG2GqZOIIiapwPPjQ8+mfhhx
+         0GMJobDfGbeuWn+iU3/jUag9P61tmjRfN9VqvwbqwNiKo1AmfU6fY39CpuOpMB/3q5js
+         siVA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20230601; t=1718005138; x=1718609938;
+        h=to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=9u2VS+RqtTXAmSB1JZWuElMIR49im9Nlg7GtE6AtO6E=;
+        b=Py4FvopjNTX9AM6k0VwHLhzdY3SjiWa0SdaqLfRmRQB1G3+SYGIAq1OwW8Ya0pXotT
+         pROWvPHLqO829ihX2wtZoVuhaDUzEZcsq6UVkGdK0Sw5qdnyuaL7dwrw6uChjuBcRsqX
+         /msswLOZlWnYSpvRFfA4B4ynCPIIlsIiXL2L8z83VYepFnZQ46fC4GS7OJIxllq+6prC
+         UZu4rfacC6nBBSaMI839mHNoPKF40ys3R5OceaMUbwg/S/TrGOctpjruUm5hiMAfFj0G
+         OaiQTb2ej5bs9tMSUw3VF4tE95aTm+C5EUvjPSvPuVL0ndBVXdBY/nvrjC4UGWX/r6O/
+         Ct2A==
+X-Gm-Message-State: AOJu0Yy4+pq7xARUnUUvLSenMD7KiGPyF3IOp1Q4o8TiS294qgzOfpRR
+	UCLYhpKQLIfy8EcpniYtkDJJdAX9leRVDM8T4rMKcuZ7pjhatGwBguCK46f610UTdpOuMTBF01Y
+	pcXWDB5f0i+zkIGKfCpaMFifopeBCdDin
+X-Google-Smtp-Source: AGHT+IFeS57GABLcc+hSylJSzG6HOO9mWcNfxNgwDENEMXgY0YXskeAtAFNf8HbKllPBrFFGwG5sQgA0Cu2VGJsZxGQ=
+X-Received: by 2002:a17:906:1b4b:b0:a6f:1400:2e13 with SMTP id
+ a640c23a62f3a-a6f140036d3mr190610066b.58.1718005137724; Mon, 10 Jun 2024
+ 00:38:57 -0700 (PDT)
+MIME-Version: 1.0
+From: Ismael Biber <ismael.biber@gmail.com>
+Date: Mon, 10 Jun 2024 09:38:45 +0200
+Message-ID: <CAH7Mj8VjaZQDL0Z-9m_XThDaOrtLfdKPeaakfVLiv=AiZbykjw@mail.gmail.com>
+Subject: WWB7
+To: TechnikAG Fichte-Gymnasium <technikag@fichte-gymnasium.de>
+Content-Type: multipart/alternative; boundary="000000000000f4da20061a843df6"
+X-Rspamd-Queue-Id: 4VyNwL5bLbzx45
+X-Rspamd-UID: f3c6a7
+
+--000000000000f4da20061a843df6
+Content-Type: text/plain; charset="UTF-8"
+
+https://1drv.ms/f/s!Aji0u_kdjwIPjHV30ySN5YzVpyP4?e=ZAqq4tPasswort
+
+--
+MFG
+Ismael Biber
+
+--000000000000f4da20061a843df6
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto"><div><a href=3D"https://1drv.ms/f/s!Aji0u_kdjwIPjHV30ySN5=
+YzVpyP4?e=3DZAqq4tPasswort">https://1drv.ms/f/s!Aji0u_kdjwIPjHV30ySN5YzVpyP=
+4?e=3DZAqq4tPasswort</a></div><div><br></div><div data-smartmail=3D"gmail_s=
+ignature">--<br>MFG<br>Ismael Biber </div></div>
+
+--000000000000f4da20061a843df6--

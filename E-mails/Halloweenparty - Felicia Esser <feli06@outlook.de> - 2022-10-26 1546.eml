@@ -1,0 +1,164 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <feli06@outlook.de>
+Received: from mail-hub02.belwue.de ([129.143.76.42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.13)
+  with ESMTPS id 57215792 for technikag@fichte-gymnasium.de; Wed, 26 Oct 2022 15:46:51 +0200
+Received: from mail-in03.belwue.de (mail-in03.belwue.de [IPv6:2001:7c0:0:76::3])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4My98W53M4z3fnD
+	for <technikag@fichte-gymnasium.de>; Wed, 26 Oct 2022 15:46:51 +0200 (CEST)
+Received: from EUR03-AM7-obe.outbound.protection.outlook.com (mail-am7eur03olkn2078.outbound.protection.outlook.com [40.92.59.78])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mail-in03.belwue.de (Postfix) with ESMTPS id 4My98W0DVMz4TMT
+	for <technikag@fichte-gymnasium.de>; Wed, 26 Oct 2022 15:46:51 +0200 (CEST)
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=LOoTlIvKd+c6J4vemkhur0E/WmzSTn/k+2cUWS9GvDMFzMvefBiDBo5nHMo6mBTpc2SFAg2pbtb+KqUN8Qb7GgmlpyrYFCvOvSbhJ3AI4Myu65q0OcI2y4WMDQNrvvsZA5x0NX2mLKAqPs6EeSfiw9x1suvGMJK9KMydvpspkiOZ54k1CxQqMu+Kt+QKKE97tj1k9uSIg6EnIejWxTon82BhXNJm/C092TthW5f0KyaMeRUitfr0dShpGqJseBBxBn44SBKoR6hHxy/Z0aiFdYi0WihaJggQS/dr7Zd7FMlPIVE6Vg9NV04K3bNud+7ww0sRCZfOOiER7ptqrdQsLw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=jYdfJS43oNhrNED20STSoFK+92IRH0q2R+zFyBt2uqQ=;
+ b=OXgDb3g+4YoSFzZtTVKUZrySjq6inxr98oXmXCRjrJ4Z9WCe2oKvrZR9UaEnbU8Si0TgUWUZaxoDvOH6XFEI/ZZfzmtUIoRHRkpQdl6MgJEo5U8PQsJm37UIJAZDor6FPpUUHaqNA7COhhR5z2eYx/KvxEiutsxR/3QOIaXo+Rn7/8EybRu6LMrIwoNwjLbxsMOwXiHg0dg0fZg32rXj3AygI6HP62iK0+mim8Tc/XXHssLjTh5o3p87E7o0T/ehEZwcgEy1j1UJeZKrZaeRj8WjFXvVejDiAmsifVRjIU+lPPTnvTb/ERgOkbc8XW9b4TN4th6GBySRHRgdkx9/1A==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=none;
+ dkim=none; arc=none
+Received: from PAXP193MB1437.EURP193.PROD.OUTLOOK.COM (2603:10a6:102:131::24)
+ by DB8P193MB0487.EURP193.PROD.OUTLOOK.COM (2603:10a6:10:157::18) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5746.23; Wed, 26 Oct
+ 2022 13:46:50 +0000
+Received: from PAXP193MB1437.EURP193.PROD.OUTLOOK.COM
+ ([fe80::bb61:f064:13a6:2113]) by PAXP193MB1437.EURP193.PROD.OUTLOOK.COM
+ ([fe80::bb61:f064:13a6:2113%7]) with mapi id 15.20.5746.028; Wed, 26 Oct 2022
+ 13:46:50 +0000
+From: Felicia Esser <feli06@outlook.de>
+To: "technikag@fichte-gymnasium.de" <technikag@fichte-gymnasium.de>
+Subject: Halloweenparty
+Thread-Topic: Halloweenparty
+Thread-Index: AQHY6UDhVGbJ6rhPyEyGFHTUO9z3HA==
+Date: Wed, 26 Oct 2022 13:46:50 +0000
+Message-ID:
+ <PAXP193MB1437A52A7C8962B2AB306998BC309@PAXP193MB1437.EURP193.PROD.OUTLOOK.COM>
+Accept-Language: de-DE, en-US
+Content-Language: de-DE
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-tmn: [N8IghYUUBjGCklokYoxo8EbeaK5C+Zj+yblRTMR6Yfd6KElEPih+viCYB4VYSYH1]
+x-ms-publictraffictype: Email
+x-ms-traffictypediagnostic: PAXP193MB1437:EE_|DB8P193MB0487:EE_
+x-ms-office365-filtering-correlation-id: 9b259cf0-24a2-40c9-0468-08dab7588882
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ VrdLyP3sbxTLomQ9NLfW04JgON5Cb8yCwX7Qd3UKn6p0WU4KFhPe+EQiTr/JcU5sDw3pf4weAcc4FAB2TJKg09e8+sXDCmDVVVMec2l9L1i2O0HKc4k2Na5zzW1Fb3tnl1KaKYuLDvVzizn60B7ymIKL6KQ3exZ1fmWczCXfNZQR4WXpnHhhvQd4AtxeXFIWrJVbWe317DHQBGLdrLxX+XQluOo7wOMpdZBNmqL1pIrDRvDlRtXn33YlW1A/dSw5DC6lOWEuvLAM+0NY3iJRR30J9GLVlB/zCUhdwt6vrnKmq4HC5zi6WE4Ca4o79PS5Qrcn6cjzFuBBlupm3gY27tjmdFdbrleGyPCZlAMguzR1dnsM/JinJiQVNtMhmPR6koCIgg4umemLy12a7URbW2+1Z1HCEPAZksmbNKYgdUjl+I03tNwYe5yqsMi/gPWbf2GxIaKYCqTKHHpQSBSNWAXoC7LV6SlhGtYq1m0OnMq4/hukHSOr95Ng8Pxu1sza5QG8DRKhIRTIceq0xMdn7SUN9evHN8W5otSEyg5wuvUYqoOWnB8/OrXDYziyCYaISbhkEm7t53PBahreatzKH9H4vheF/bmT2FCTAxLtkiO1xyonWI+ujUwVqaTV2cKhQSqdt770UrM74OhzfuPpGA==
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?iso-8859-1?Q?fUnCFgnqypdTkO5GzPjqaOvCy9jkg/UBAdJxoWwqRbd0fGBm903pae1jAr?=
+ =?iso-8859-1?Q?MgaHayXg0c/mBAAU/DpErDDx9qSD79NcY0QcP+7dYvb+T/kO7abcVIriAu?=
+ =?iso-8859-1?Q?bdtsoBU2YlUQ6xf+KaDXeCfc1/92DRR73xmEHT8ITiIXd00kxvylevtgSE?=
+ =?iso-8859-1?Q?/HsDe4wL5v+0Z/gH74QNXKcOHkU4kxOXWt45RQFuwmG+Aolq5RDu/6OLtR?=
+ =?iso-8859-1?Q?EIQzsNdC2moBeRj02WTN/nZwRgtrjJAGEEGihL7fzqp2cXhBxeB1Lib+7L?=
+ =?iso-8859-1?Q?XXrXxlDpDIzjyiA8hJvYN7HHsIOsuIteDZgr3/o1e2kBYkdSwvdQt55nFq?=
+ =?iso-8859-1?Q?U+f7DWeM35ON5mDYlq+YFo7M6mpHc9fKT4x47xmSi3jQ/2hQC2gUrhqqAe?=
+ =?iso-8859-1?Q?dapwt0SUnmLFo/H2+U6S2xfF5PHTDr7uW3t4snpuqbMuJIne+CaSTV7PnC?=
+ =?iso-8859-1?Q?AeaB+WznxPIXhP32DMtrx1godNkeCfZgSVB/REYeMjY9c5aPvQm+Ss+h5W?=
+ =?iso-8859-1?Q?PgExWWeIpQ51Y6kX4Ic8iXBgyGAE/hhMgwQhBRle0N2eF/IcXzmnDDwLQM?=
+ =?iso-8859-1?Q?1KpDmPNXUGHwDEk6azE4tRC6HfRDmVLCJUsjo/DcjSeW2Tvj7SCSxNGgYa?=
+ =?iso-8859-1?Q?9DmczslMgPuFUQ5BgJCmqmQkcILb4MhEZMQ3uQNfr1/q3sXs5UxyzBenPC?=
+ =?iso-8859-1?Q?9k02xo7n0nVDFujvTl3opktM707nujV9FWiuE1eroHD8yKLaKK+34gw9h0?=
+ =?iso-8859-1?Q?AcnX6JFgoJVPiLVs873b/j08Sj9ykXjCpkuDub4uEDc9x84rsELDr9lqGO?=
+ =?iso-8859-1?Q?X4Vy1tCQo+x9qenThIgyM0HKlX2+EviIMsS8HxiWu3QISfbBvVeXxLeLfW?=
+ =?iso-8859-1?Q?RW9HZDcJ51xqqQyFh1/oYiP6tPNEjfEbJrclS4O6Efnejqjpz3KW+Duxmp?=
+ =?iso-8859-1?Q?9y1nk5EkEIZwg8CdmX0u0unUBFSz14U3kIbCPfLI65lJhLzvDPirPUpt7z?=
+ =?iso-8859-1?Q?JNTj8MnqunfFiDgc882j27lSqQeysdjk5X5SLariMan1p14TpJVZE4kRGb?=
+ =?iso-8859-1?Q?39iezQf7sTDA/J5V3qdGZmbPB+iNBzXKy5I5M9m/virFiuO85Ozn/GalfY?=
+ =?iso-8859-1?Q?RjNhi/qw6Z5Vaujrmq14/nkUy+lAY11u8BfSS03DGVzpJSGMf54SMNBBSm?=
+ =?iso-8859-1?Q?Xmfh1dut//Ds2OdPXBSw6obSE219742lO7SeqVF0mrrr4THRrDaSLVnNDl?=
+ =?iso-8859-1?Q?O9aQrT2NzC0bCPXRiEFJSS7j92x+Yf3Z7XbVBvDPEGnbI62b0eG8/EkwE4?=
+ =?iso-8859-1?Q?KMgnjf6QGs3onL3/sFNJMmJ/jbwSsRHdfipHYFwnNV4c7JxPLu6LPdszbV?=
+ =?iso-8859-1?Q?U4Ife4hSxqjlRkhO+RxkaxZzhjeGTrWw=3D=3D?=
+Content-Type: multipart/alternative;
+	boundary="_000_PAXP193MB1437A52A7C8962B2AB306998BC309PAXP193MB1437EURP_"
+MIME-Version: 1.0
+X-OriginatorOrg: sct-15-20-4755-11-msonline-outlook-80ceb.templateTenant
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: PAXP193MB1437.EURP193.PROD.OUTLOOK.COM
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-CrossTenant-Network-Message-Id: 9b259cf0-24a2-40c9-0468-08dab7588882
+X-MS-Exchange-CrossTenant-originalarrivaltime: 26 Oct 2022 13:46:50.1105
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-rms-persistedconsumerorg: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DB8P193MB0487
+X-Rspamd-Queue-Id: 4My98W0DVMz4TMT
+X-Rspamd-UID: c9772e
+
+--_000_PAXP193MB1437A52A7C8962B2AB306998BC309PAXP193MB1437EURP_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Liebe Technik AG,
+
+hier der Zeitplan der Halloweenparty:
+
+
+18 Uhr Limbo
+18 Uhr 45 kost=FCmwettbewerb
+19 Uhr 15 Lufballons
+19 Uhr 30 Zeitungen
+
+
+Au=DFerdem w=E4re ein Mikrofon sch=F6n, damit die Spiele moderiert werden k=
+=F6nnen.
+
+Liebe Gr=FC=DFe
+Party AK
+
+
+--_000_PAXP193MB1437A52A7C8962B2AB306998BC309PAXP193MB1437EURP_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+</head>
+<body>
+<div dir=3D"ltr">
+<div></div>
+<div style=3D"">
+<div>Liebe Technik AG,</div>
+<div dir=3D"ltr"><br>
+</div>
+<div dir=3D"ltr">hier der Zeitplan der Halloweenparty:</div>
+<div dir=3D"ltr"><br>
+</div>
+<div dir=3D"ltr">
+<p style=3D"margin: 0px; font-style: normal; font-variant-caps: normal; fon=
+t-weight: normal; font-stretch: normal; font-size: 12px; line-height: norma=
+l; font-family: Helvetica; color: rgb(0, 0, 0); background-color: rgb(255, =
+255, 255);">
+<span style=3D"font-family:'Helvetica';font-weight:normal;font-size:12.00px=
+">18 Uhr Limbo
+<br>
+18 Uhr 45 kost=FCmwettbewerb <br>
+19 Uhr 15 Lufballons<br>
+19 Uhr 30 Zeitungen</span></p>
+</div>
+<div dir=3D"ltr">&nbsp;</div>
+<div dir=3D"ltr">Au=DFerdem w=E4re ein Mikrofon sch=F6n, damit die Spiele m=
+oderiert werden k=F6nnen.</div>
+<div dir=3D"ltr"><br>
+</div>
+<div dir=3D"ltr">Liebe Gr=FC=DFe</div>
+<div dir=3D"ltr">Party AK</div>
+<div id=3D"ms-outlook-mobile-signature" dir=3D"ltr"><br>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_PAXP193MB1437A52A7C8962B2AB306998BC309PAXP193MB1437EURP_--

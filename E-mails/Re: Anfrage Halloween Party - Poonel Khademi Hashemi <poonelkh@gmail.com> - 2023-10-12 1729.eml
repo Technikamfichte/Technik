@@ -1,0 +1,117 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <poonelkh@gmail.com>
+Received: from mail-hub02.belwue.de ([129.143.76.42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 75072819 for technikag@fichte-gymnasium.de; Thu, 12 Oct 2023 17:29:57 +0200
+Received: from mail-in04.belwue.de (mail-in04.belwue.de [129.143.76.4])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4S5tqT5mKpz7hFx
+	for <technikag@fichte-gymnasium.de>; Thu, 12 Oct 2023 17:29:57 +0200 (CEST)
+Received: from mail-pl1-x62a.google.com (mail-pl1-x62a.google.com [IPv6:2607:f8b0:4864:20::62a])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in04.belwue.de (Postfix) with ESMTPS id 4S5tqT3Qn9z57Tfh
+	for <technikag@fichte-gymnasium.de>; Thu, 12 Oct 2023 17:29:57 +0200 (CEST)
+Received: by mail-pl1-x62a.google.com with SMTP id d9443c01a7336-1c9c5a1b87bso9110795ad.3
+        for <technikag@fichte-gymnasium.de>; Thu, 12 Oct 2023 08:29:57 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20230601; t=1697124595; x=1697729395; darn=fichte-gymnasium.de;
+        h=to:subject:message-id:date:from:in-reply-to:references:mime-version
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=OjaraO3nYOszUCM65ra3qyrDZbPzWHUTpE6OxOrSAIU=;
+        b=nA0s7GU5EH1UT/ErrhQ8L9zEBl7NLFo+5+R3vA55qrg6KbaHbrBlp7dCV7afn9xG6X
+         IEfWDVkgAqGpyOFUPz5HPthIUarSZXj9XVeOuLo0xdC1x2Go1gUJWeCg5zx+q7vbTm3i
+         df+D1PgHgLzkoHf3DQvnRiuO/ecq5qXwmicAKendca7FoddQUfLKdgJ+CbYMP91srvDi
+         VHetxyXTdE0eZg9gVCObxwDBYEkehQx4Gu17jW+wHjujLxTYFwi4BqvEpVVj0yFT1v9n
+         556ZlMqkC+AW0qwguV6WTtAN2guJRClTSQhPb1M1JwZxfNg05r/qRpallmh8jv6P5eXv
+         ytyA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20230601; t=1697124595; x=1697729395;
+        h=to:subject:message-id:date:from:in-reply-to:references:mime-version
+         :x-gm-message-state:from:to:cc:subject:date:message-id:reply-to;
+        bh=OjaraO3nYOszUCM65ra3qyrDZbPzWHUTpE6OxOrSAIU=;
+        b=cZDrGUD10+ibJsjjXjeDyEVUPvOPSWT3Z19WQaO44lEfhHFda3Qs2ieQQ8uYDBzOcq
+         PmNIyR8iJW2xPzVi2fuBmyRInw0+4Y03zZqryAPb81b/W7hBh5QAie764e2oV3KlNjA3
+         F/5YwXeriI+bsuaqFK/+HMH3G+UAMr9mYukGKfrHlF0JRitXrgTjakMJGsxdQNCScu9i
+         8zrciV2lNq0Km4lxepSpW81skErqJddjc/KNA3mLHod520Y5CrV1S6Vns1hO0e/pB9R4
+         0VqLGdw5KSmpgpayTOlYGyr5CAUpiqOq2r0dzvLh3i7fPBtu9HTosTbxwXRl/1p+yAof
+         mGBA==
+X-Gm-Message-State: AOJu0Yxol9UjXRgH7GCxgzEH6NcC6PjWHy6pBorv4Fnt2u0AHjqECTfo
+	tGsyjUS7fY+rtOUVxc4OF81Ur36R0rKoMUz7TwdpvlO/
+X-Google-Smtp-Source: AGHT+IFSb/cPbBxvLEBjeQ8Pa0lSEz7zdHkzSXCqQ/xlo//HXc6IyKZspGt0cxdH9aozYNRhEx4MakZ6iU5q9lKCeBw=
+X-Received: by 2002:a17:902:ce8d:b0:1c3:bc7b:8805 with SMTP id
+ f13-20020a170902ce8d00b001c3bc7b8805mr23817171plg.52.1697124595589; Thu, 12
+ Oct 2023 08:29:55 -0700 (PDT)
+MIME-Version: 1.0
+References: <CACpPHQxJa5nTtfPLLtXvpNkZ0ZmkTkTLFwn-0+MxRoCnic3eFQ@mail.gmail.com>
+ <auto-000073479488@frontend04.mbox1.belwue.de>
+In-Reply-To: <auto-000073479488@frontend04.mbox1.belwue.de>
+From: Poonel Khademi Hashemi <poonelkh@gmail.com>
+Date: Thu, 12 Oct 2023 17:29:44 +0200
+Message-ID: <CACpPHQw3yF1uv2T0quxcYxMsW1SyM=SJ=agKCD11=P6Yj-5WXg@mail.gmail.com>
+Subject: Re: Anfrage Halloween Party
+To: Florian Brunnert <technikag@fichte-gymnasium.de>
+Content-Type: multipart/alternative; boundary="000000000000a8e72a0607869c4a"
+X-Rspamd-Queue-Id: 4S5tqT3Qn9z57Tfh
+X-Rspamd-UID: 431933
+
+--000000000000a8e72a0607869c4a
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo,
+ja eure Playlist ist super und Herr Holzbach weis =C3=BCber alles Bescheid =
+=F0=9F=98=8A
+
+Florian Brunnert <technikag@fichte-gymnasium.de> schrieb am Do. 12. Okt.
+2023 um 09:36:
+
+> Hi, wir k=C3=B6nnen euch gerne bei der Unterstufenparty mit der Technik h=
+elfen.
+> Habt ihr eine bestimmte Party-Playlist oder sollen wir einfach wie immer
+> Musik spielen?
+> Ist mit Herrn Holzbach alles wegen dem Schl=C3=BCssel gekl=C3=A4rt?
+>
+> Mit freundlichen Gr=C3=BC=C3=9Fen
+> Florian Brunnert
+>
+> -------- Urspr=C3=BCngliche Nachricht --------
+> Von: Poonel Khademi Hashemi <poonelkh@gmail.com>
+> Datum: 08.10.23 19:48 (GMT+01:00)
+> An: technikag@fichte-gymnasium.de
+> Betreff: Anfrage Halloween Party
+>
+>
+>
+
+--000000000000a8e72a0607869c4a
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">Hallo,=C2=A0</div><div dir=3D"auto">ja eure Playlist ist =
+super und Herr Holzbach weis =C3=BCber alles Bescheid =F0=9F=98=8A</div><di=
+v><br><div class=3D"gmail_quote"><div dir=3D"ltr" class=3D"gmail_attr">Flor=
+ian Brunnert &lt;<a href=3D"mailto:technikag@fichte-gymnasium.de">technikag=
+@fichte-gymnasium.de</a>&gt; schrieb am Do. 12. Okt. 2023 um 09:36:<br></di=
+v><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:=
+1px #ccc solid;padding-left:1ex"><div dir=3D"auto">Hi, wir k=C3=B6nnen euch=
+ gerne bei der Unterstufenparty mit der Technik helfen.<div>Habt ihr eine b=
+estimmte Party-Playlist oder sollen wir einfach wie immer Musik spielen?<di=
+v dir=3D"auto">Ist mit Herrn Holzbach alles wegen dem Schl=C3=BCssel gekl=
+=C3=A4rt?<br><div dir=3D"auto"><br></div><div dir=3D"auto">Mit freundlichen=
+ Gr=C3=BC=C3=9Fen</div><div dir=3D"auto">Florian Brunnert=C2=A0</div></div>=
+</div><div><br></div><div dir=3D"auto" style=3D"font-size:100%;color:#00000=
+0"></div><div style=3D"font-size:100%;color:#000000" dir=3D"auto"></div><di=
+v align=3D"left" dir=3D"auto" style=3D"font-size:100%;color:#000000"><div>-=
+------- Urspr=C3=BCngliche Nachricht --------</div><div>Von: Poonel Khademi=
+ Hashemi &lt;<a href=3D"mailto:poonelkh@gmail.com" target=3D"_blank">poonel=
+kh@gmail.com</a>&gt; </div><div>Datum: 08.10.23  19:48  (GMT+01:00) </div><=
+div>An: <a href=3D"mailto:technikag@fichte-gymnasium.de" target=3D"_blank">=
+technikag@fichte-gymnasium.de</a> </div><div>Betreff: Anfrage Halloween Par=
+ty </div><div><br></div></div><div dir=3D"ltr"><br></div>
+</div></blockquote></div></div>
+
+--000000000000a8e72a0607869c4a--

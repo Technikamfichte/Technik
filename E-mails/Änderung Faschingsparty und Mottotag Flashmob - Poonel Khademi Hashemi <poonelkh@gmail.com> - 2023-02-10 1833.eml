@@ -1,0 +1,78 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <poonelkh@gmail.com>
+Received: from mail-hub02.belwue.de ([129.143.76.42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.13)
+  with ESMTPS id 62047211 for technikag@fichte-gymnasium.de; Fri, 10 Feb 2023 18:34:00 +0100
+Received: from mail-in03.belwue.de (mail-in03.belwue.de [129.143.76.3])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4PD17D2lGBz3KVy
+	for <technikag@fichte-gymnasium.de>; Fri, 10 Feb 2023 18:34:00 +0100 (CET)
+Received: from mail-pf1-x436.google.com (mail-pf1-x436.google.com [IPv6:2607:f8b0:4864:20::436])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in03.belwue.de (Postfix) with ESMTPS id 4PD17C4ZFDz19fF
+	for <technikag@fichte-gymnasium.de>; Fri, 10 Feb 2023 18:33:59 +0100 (CET)
+Received: by mail-pf1-x436.google.com with SMTP id n2so3941174pfo.3
+        for <technikag@fichte-gymnasium.de>; Fri, 10 Feb 2023 09:33:59 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=to:subject:message-id:date:from:mime-version:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=0kjkUrOnxZwhaJ+fMOedvX6umIob9jafX2CkaAlgKIo=;
+        b=FPSyrVZhRyg2Zc/iVGGHUqWy4SgNCG/xlNiLmKFBSALBLf/VdXo94uty0pvHgaJtFT
+         TCvrDU45RyCQEz4Q4pM4fKxj/gCwBE10xfb1vlOBJlGO8xJFYsKtB/P7Vjg4dAni1bFy
+         3SOfA9FhvMW1YiudbhgrClFVJ5x7/aXwwdKFtF+aZGVJSXs7yTf5YCotMzXKwYVT6vSm
+         vwrT1PFD0hoOyECrpeJbEQPhe6WMGd5muoyfybWhGBLEkuPSlEg+XABDOi883iYri9z4
+         8FsPRcgZjMUWGj8N53ckPxr26oM5NJgG+/4fkrespaHSf58ro2mOs32AI+F4tAzUjJDX
+         WHeQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=0kjkUrOnxZwhaJ+fMOedvX6umIob9jafX2CkaAlgKIo=;
+        b=wGZcYGFEqChu0NS5IGaVpb3l/GReNcxYysg35p0PB3hOXB043ng5Uuvsfkk+0q2K8S
+         xmvQfzO01t8N+5j3/V8n0vxr8cG8yOedjPtrtWRKPdrq25SSGQAQ3fAMQVzkpJTyeU+M
+         ZeafGBvsZ6x4HMxuYzS1I6wRDGGdv8e1dR854h2w4JYrM7+XstX3kEpwWAzhVHBmwnN8
+         ff/ltmYLiebEN4fEZSrmpV1S7sHoi4NZd89JrKyPYAg0ILeiLfEyvUNZjxrG8M0doOLT
+         y8QCTVUG9gxQExTCk2SDPlFNuVHF909t1mjTabVIHq1cFjJo2ZOnta8MIXP/D1MBfmf+
+         QE4g==
+X-Gm-Message-State: AO0yUKXPhRXhBEH4BR2WoY6dauQUx4n2DgFCvlILbV2mi+bNxwwwpRv9
+	PPkcwbBH3qWOnm5FjfsEsD93cNc+gmFgdXaEx8YS6yEu
+X-Google-Smtp-Source: AK7set8Oi7lxaFcx8NounPRdGVjIqxuVMsAzcTYAEKKsQ2NFoSBihOjSZ40vbTwoaLTSuONnk2RWkuE6++FtKXNlcsY=
+X-Received: by 2002:a63:9902:0:b0:4fb:5706:3ba2 with SMTP id
+ d2-20020a639902000000b004fb57063ba2mr843506pge.38.1676050437484; Fri, 10 Feb
+ 2023 09:33:57 -0800 (PST)
+MIME-Version: 1.0
+From: Poonel Khademi Hashemi <poonelkh@gmail.com>
+Date: Fri, 10 Feb 2023 18:33:46 +0100
+Message-ID: <CACpPHQx2C9jRtH0tSFFez14y7dg9oH4tLVBS1J3RP2_e5L3_xw@mail.gmail.com>
+Subject: =?UTF-8?Q?=C3=84nderung_Faschingsparty_und_Mottotag_Flashmob?=
+To: "technikag@fichte-gymnasium.de" <technikag@fichte-gymnasium.de>
+Content-Type: multipart/alternative; boundary="000000000000f3b71105f45be697"
+X-Rspamd-UID: 46d07e
+X-Rspamd-Queue-Id: 4PD17C4ZFDz19fF
+X-Rspamd-SPAM-Probability: 0
+
+--000000000000f3b71105f45be697
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Liebe Technik AG,
+der Mottotag zum Thema Fasching mit dem Flashmob und die Unterstufen Party
+wurden auf Mittwoch, den 15.02 verlegt.
+K=C3=B6nntet ihr auch an diesem Tag mithelfen?
+LG Poonel
+
+--000000000000f3b71105f45be697
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Liebe Technik AG,<div dir=3D"auto">der Mottotag zum Thema Fasching mit dem =
+Flashmob und die Unterstufen Party wurden auf Mittwoch, den 15.02 verlegt.<=
+/div><div dir=3D"auto">K=C3=B6nntet ihr auch an diesem Tag mithelfen?=C2=A0=
+</div><div dir=3D"auto">LG Poonel=C2=A0</div>
+
+--000000000000f3b71105f45be697--

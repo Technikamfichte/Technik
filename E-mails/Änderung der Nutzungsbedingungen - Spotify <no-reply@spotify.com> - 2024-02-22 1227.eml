@@ -1,0 +1,982 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <bounces+54769-93c5-technikag=fichte-gymnasium.de@em.spotify.com>
+Received: from mail-hub02.belwue.de ([129.143.76.42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 80075535 for technikag@fichte-gymnasium.de; Thu, 22 Feb 2024 12:27:48 +0100
+Received: from mail-in02.belwue.de (mail-in02.belwue.de [129.143.76.2])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4TgW8h1xDBz37bM
+	for <technikag@fichte-gymnasium.de>; Thu, 22 Feb 2024 12:27:48 +0100 (CET)
+Received: from o35.em.spotify.com (o35.em.spotify.com [149.72.132.208])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in02.belwue.de (Postfix) with ESMTPS id 4TgW8f6Vm6zB0L4k
+	for <technikag@fichte-gymnasium.de>; Thu, 22 Feb 2024 12:27:46 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=spotify.com;
+	h=content-type:from:mime-version:subject:to:cc:content-type:from:
+	subject:to;
+	s=s1; bh=25pu8Sr2EItR3uknaUS8G/fXd4VLca+DC7gqoGCr5dU=;
+	b=hHKTPUAmz2L0x2YeXIP+czYCQin1SZHB2Rfd/rkIwY/44uZ/vSct1vsOrolcFLD5EyyK
+	4qP5/k/Q54S+GIEEcVHii5Rkfau2y1MXbITYScwiOt3jM8f0FEwl7k/ZGnSHi2guKNHws+
+	cai7fb/wmo0lf/36mjcCa+3iA14nqonTbd9d8xEGYI3LIEousZ34w7iY2uL78TehUaOAJS
+	0nMBKphTS5BLhtcbtRXwh6iqOxW4YhmBoqM3GJPb/W1Q/bHQ2kRuDFb9OW1BjsVKhcnuYF
+	Zj5XMfhqYHXghtRxFz7YVZwMB1KeNK9LEWR1tfRCRLUFKkBGS94dPq7VPNN0/1bg==
+Received: by filterdrecv-686bd68bc9-zhfn5 with SMTP id filterdrecv-686bd68bc9-zhfn5-1-65D72FB0-18
+        2024-02-22 11:27:44.450045369 +0000 UTC m=+11033146.581016457
+Received: from NTQ3Njk (unknown)
+	by geopod-ismtpd-1 (SG) with HTTP
+	id kE1aJNayQjWmlAl5PYvjdQ
+	Thu, 22 Feb 2024 11:27:44.245 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=ceda929c07c559cc4f75e373a76f0b3caf4e78840dbcedac5ff5d8ff2a25
+Date: Thu, 22 Feb 2024 11:27:44 +0000 (UTC)
+From: Spotify <no-reply@spotify.com>
+Mime-Version: 1.0
+Message-ID: <kE1aJNayQjWmlAl5PYvjdQ@geopod-ismtpd-1>
+Subject: =?UTF-8?B?w4RuZGVydW5n?= der Nutzungsbedingungen
+X-SG-EID: 
+ =?us-ascii?Q?0C9L=2FeBRtgYa=2FF8y6aOTnwpGIngFWQ11NoR8o2fvCVMN9thUS8ZNdG1JBR+Ynp?=
+ =?us-ascii?Q?5TqR0Hpm2LFUl=2FBnY7BDTNZQbeHlQt7WaFGVSQI?=
+ =?us-ascii?Q?TyJSrWbqPXjxhoPeEhZj6zajPL+BXe+Wy5=2Fzlsk?=
+ =?us-ascii?Q?wQdURyuopIcKnnEjHC0WkmxUM4UR2GiQWQiPH9+?=
+ =?us-ascii?Q?g=2FPCfuUhV5E56ooB66nFGhxj78HsQSBIgAACcmD?=
+ =?us-ascii?Q?I+gbIlYSe5v8Z=2FMdXf8nbyn1V4Yc+c6s2rMHC9?=
+X-SG-ID: 
+ =?us-ascii?Q?N2C25iY2uzGMFz6rgvQsbzSTvwGXBig6=2FXliMnVmKAD6pYD9xXsFk3vDC9oyix?=
+ =?us-ascii?Q?PjAVasozG0+826nYiwOwt+K=2F7I=2F=2FRKYjwX3e+bK?=
+ =?us-ascii?Q?z9bTfpJBW1X2WpyY1N8cjQ6dnFrC9rUUrqkEbGc?=
+ =?us-ascii?Q?nJXnDw2JyjjK5qA0ORrFt7GKl+54i8=2Fks8AJFAp?=
+ =?us-ascii?Q?LNYbDic1Ziy+VHToyFDiHSwYpzdsSEA=2FaTDMRoZ?=
+ =?us-ascii?Q?Ourr19Kgez+Ea5e4A3rRpXknHr5IRTOGTMVEx5G?=
+ =?us-ascii?Q?kE7TtzrWO+TKBYGkgO=2F=2FgqmWJHnUrv93GoekzcM?=
+ =?us-ascii?Q?t7MBk2KxB=2FbE72qwB7E5bjjkECcmfGXuLES2phD?=
+ =?us-ascii?Q?sVGd5unC4z=2FzEngDu05Z2CBjpjaeMkG48RxJD5C?=
+ =?us-ascii?Q?S=2FrbFwH7yq?=
+To: technikag@fichte-gymnasium.de
+X-Entity-ID: 2vxnRJdGdooKCfSUhf9vyA==
+X-Rspamd-Queue-Id: 4TgW8f6Vm6zB0L4k
+X-Rspamd-SPAM-Probability: 0
+X-Rspamd-UID: af21d9
+
+--ceda929c07c559cc4f75e373a76f0b3caf4e78840dbcedac5ff5d8ff2a25
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+
+Hallo,=20
+=20
+
+
+
+Spotify m=C3=B6chte Dir das bestm=C3=B6gliche Streaming-Erlebnis bieten. Un=
+ser Ziel ist es, unseren Nutzer*innen gegen=C3=BCber so offen und transpare=
+nt wie m=C3=B6glich zu sein. Deshalb m=C3=B6chten wir Dir mitteilen, dass w=
+ir =C3=84nderungen an unseren bestehenden Allgemeinen Nutzungsbedingungen (=
+=E2=80=9ENutzungsbedingungen=E2=80=9D) vornehmen. Die gegenw=C3=A4rtig f=C3=
+=BCr Dich g=C3=BCltige Fassung der Nutzungsbedingungen findest Du  hier ( h=
+ttps://www.spotify.com/de/legal/2021-end-user-agreement/ ). Die aktualisier=
+ten Nutzungsbedingungen findest Du hier ( https://www.spotify.com/de/legal/=
+end-user-agreement/ ).
+Die wesentlichen =C3=84nderungen haben wir nachfolgend f=C3=BCr Dich zusamm=
+engefasst (die Verweise beziehen sich auf die aktualisierten Nutzungsbeding=
+ungen): <ul>
+ </ul>*=20
+<li>Wir haben manche =C3=9Cberschriften sprachlich angepasst bzw. gestriche=
+n, um die Lesbarkeit und Transparenz unserer Regeln unter den jeweiligen Ab=
+schnitten zu f=C3=B6rdern. Damit kannst Du noch schneller und leichter die =
+f=C3=BCr Dich relevanten Regeln in den Nutzungsbedingungen finden. </li>
+<li>Wir haben die zus=C3=A4tzlichen Nutzungsbedingungen, die neben den Nutz=
+ungsbedingungen anwendbar sein k=C3=B6nnen, erg=C3=A4nzt, damit Du wei=C3=
+=9Ft, welche Regeln noch f=C3=BCr Dich gelten k=C3=B6nnen (vgl. Ziffer 1). =
+</li>
+<li>Wir haben klarstellend erg=C3=A4nzt, dass die Hauptnutzer*innen eines P=
+remium Family-Abos best=C3=A4tigen m=C3=BCssen, dass sie Erziehungsberechti=
+gte des*der Nutzer*in sind, die auf =E2=80=9ESpotify Kids=E2=80=9D zugreift=
+, und diesem*dieser Nutzer*in dadurch erlauben, Spotify zu nutzen (vgl. Zif=
+fer 1). </li>=20
+<li>Wir haben klarstellend aufgenommen, dass ggfs. weitere Bedingungen Anwe=
+ndung finden k=C3=B6nnen, wenn Du ein kostenpflichtiges Abonnement =C3=BCbe=
+r einen Dritten abschlie=C3=9Ft, und dass Du den Spotify Karten-Nutzungsbed=
+ingungen ( https://www.spotify.com/de/legal/gift-card/ ) zustimmen musst, f=
+alls Du =C3=BCber einen Code ein kostenpflichtiges Abonnement abschlie=C3=
+=9Ft (vgl. Ziffer 4.1). </li>
+<li>Wir haben einige Klarstellungen in dem Abschnitt =E2=80=9EZahlung und K=
+=C3=BCndigung kostenpflichtiger Abonnements=E2=80=9D vorgenommen (vgl. Ziff=
+er 4.4). </li>
+<li>Uns sind transparente K=C3=BCndigungsregeln sehr wichtig. Wir haben dah=
+er klargestellt, dass wir auch Dein kostenpflichtiges Abonnement mit mindes=
+tens 14-t=C3=A4giger Frist beenden k=C3=B6nnen und dass die K=C3=BCndigung =
+eines kostenpflichtigen Abonnements zum Ende des Abrechnungszeitraums wirks=
+am wird, in dem Du oder wir die K=C3=BCndigung erkl=C3=A4ren (vgl. Ziffer 4=
+.4). In gleicher Weise k=C3=B6nnen wir und Du auch die gesamte Vereinbarung=
+ mit mindestens 14-t=C3=A4giger K=C3=BCndigungsfrist beenden, wobei diese n=
+icht mehr zum Monatsende erfolgen muss (vgl. Ziffer 12). </li>
+<li>Wir haben die Definition von =E2=80=9Enutzergenerierten Inhalten=E2=80=
+=9D angepasst, um f=C3=BCr Dich noch verst=C3=A4ndlicher zu erl=C3=A4utern,=
+ welche Inhalte hiervon erfasst sind, und haben die damit in Zusammenhang s=
+tehenden Versicherungen angepasst (Ziffer 6.1). </li>
+<li>Ziffer 6.1 verweist nun auf unsere Ma=C3=9Fnahmen und die Voraussetzung=
+en, unter denen wir nutzergenerierte Inhalte =C3=BCberpr=C3=BCfen und/oder =
+moderieren k=C3=B6nnen, und wie Du unzul=C3=A4ssige Inhalte melden kannst. =
+Informationen zu den Verfahren, die Nutzer*innen zur Verf=C3=BCgung stehen,=
+ sofern wir nutzergenerierte Inhalte moderieren, sind nun unter Spotify Pla=
+ttformregeln ( https://support.spotify.com/de/article/platform-rules/ ), Ma=
+=C3=9Fnahmen in Bezug auf Inhalte ( https://support.spotify.com/de/article/=
+content-actions/ ) und Spotify-Richtlinien zum geistigen Eigentum ( https:/=
+/www.spotify.com/de/legal/copyright-policy/ ) verlinkt. </li>
+<li>Hinweise zur Transparenz und Funktionsweise unserer Empfehlungssysteme =
+findest Du unter =E2=80=9CEmpfehlungen von Spotify verstehen=E2=80=9D ( htt=
+ps://www.spotify.com/de/safetyandprivacy/understanding-recommendations/ ) (=
+vgl. Ziffer 6.3). </li>
+<li>Wir haben die Erl=C3=A4uterungen zu unseren Ma=C3=9Fnahmen zu nutzergen=
+erierten Inhalten, die geistiges Eigentum verletzen, in den allgemeinen Nut=
+zungsbedingungen gek=C3=BCrzt (vgl. Ziffer 6.4). Du findest hierzu nun alle=
+ relevanten Informationen gesammelt unter den Spotify-Richtlinien zum geist=
+igen Eigentum ( https://www.spotify.com/de/legal/copyright-policy/ ). </li>
+<li>Wir haben die Erl=C3=A4uterungen zu den Spotify-Nutzerrichtlinien in de=
+n Nutzungsbedingungen gek=C3=BCrzt (vgl. Ziffer 7). Du findest diese Regeln=
+ nun transparent und =C3=BCbersichtlich gesammelt unter den Spotify-Nutzerr=
+ichtlinien ( https://www.spotify.com/de/legal/user-guidelines/ ). </li>
+<li>Wir haben die Gr=C3=BCnde konkretisiert, unter denen wir =C3=84nderunge=
+n an den Spotify-Diensten vornehmen d=C3=BCrfen (vgl. Ziffer 8). </li>
+
+
+
+
+* Um den =C3=84nderungen in den Nutzungsbedingungen zuzustimmen, musst Du n=
+ichts weiter unternehmen. Diese =C3=84nderungen gelten automatisch, wenn wi=
+r bis zum 25. M=C3=A4rz 2024 nichts von Dir h=C3=B6ren. *=20
+=20
+
+Solltest Du den =C3=84nderungen nicht zustimmen, kannst Du vor dem Inkraftt=
+reten der aktualisierten Nutzungsbedingungen bis sp=C3=A4testens zum * 25. =
+M=C3=A4rz 2024 *  u.a. =C3=BCber diesen  Link ( https://accounts.spotify.co=
+m/de/login?nosignup=3Dtrue&continue=3Dhttps%3A%2F%2Fsupport.spotify.com%2Fd=
+e%2Fcontact-spotify-support%2F ) die =C3=84nderungen ablehnen. Dein und uns=
+er 14-t=C3=A4giges K=C3=BCndigungsrecht zum Monatsende gem=C3=A4=C3=9F Ziff=
+er 12 der Nutzungsbedingungen bleiben unber=C3=BChrt. Nach Inkrafttreten de=
+r aktualisierten Nutzungsbedingungen gelten dann die oben dargestellten ang=
+epassten K=C3=BCndigungsbedingungen.=20
+=20
+
+Vielen Dank, dass Du weiterhin Spotify nutzt!
+
+
+-------------
+
+Hol dir Spotify f=C3=BCr:
+  * iPhone (https://itunes.apple.com/app/spotify-music/id324684580)
+  * iPad (https://itunes.apple.com/app/spotify-music/id324684580)
+  * Android (https://play.google.com/store/apps/details?id=3Dcom.spotify.mu=
+sic)
+  * Sonstiges (https://www.spotify.com/download/)
+
+Diese Nachricht wurde an technikag@fichte-gymnasium.de gesendet.
+
+Bei Fragen oder Beschwerden kannst du dich jederzeit an uns wenden ( https:=
+//www.spotify.com/about-us/contact/ ).
+
+  * Nutzungsbedingungen https://www.spotify.com/legal/end-user-agreement/
+  * Datenschutzrichtlinie https://www.spotify.com/legal/privacy-policy/
+  * Kontakt https://www.spotify.com/about-us/contact/
+
+
+Spotify AB, Regeringsgatan 19, 111 53, Stockholm, Sweden
+
+--ceda929c07c559cc4f75e373a76f0b3caf4e78840dbcedac5ff5d8ff2a25
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Mime-Version: 1.0
+
+<!DOCTYPE html><html xmlns=3D"http://www.w3.org/1999/xhtml" style=3D"margin=
+:0;padding:0"><head><meta charset=3D"utf-8"><meta name=3D"viewport" content=
+=3D"width=3Ddevice-width, initial-scale=3D1"><title>=C3=84nderung der Nutzu=
+ngsbedingungen</title><style type=3D"text/css">@media only screen and (min-=
+device-width: 481px) {div[id=3D"main"] {width: 480px !important;}}</style><=
+style type=3D"text/css">
+  @font-face {
+    font-family: CircularSp-Deva;
+    font-weight: 900;
+    font-display: swap;
+    unicode-range: U+0000, U+000D, U+0020, U+00A0, U+00A4, U+00B6-00B7,
+      U+0901-097F, U+200C-200E, U+FFFF;
+    src: url('https://encore.scdn.co/fonts/CircularSp-Deva-Black-df61c130f4=
+417f030476bc0eddf1cfc7.woff2')
+        format('woff2'),
+      url('https://encore.scdn.co/fonts/CircularSp-Deva-Black-518ec59179087=
+4706201767a6567cc36.woff')
+        format('woff');
+  }
+  @font-face {
+    font-family: CircularSp-Deva;
+    font-weight: 700;
+    font-display: swap;
+    unicode-range: U+0000, U+000D, U+0020, U+00A0, U+00A4, U+00B6-00B7,
+      U+0901-097F, U+200C-200E, U+FFFF;
+    src: url('https://encore.scdn.co/fonts/CircularSp-Deva-Bold-d76d26d4b5e=
+82c56cda759c32bccac92.woff2')
+        format('woff2'),
+      url('https://encore.scdn.co/fonts/CircularSp-Deva-Bold-585d83ad76f7aa=
+1ceb8baf0740bbc943.woff')
+        format('woff');
+  }
+  @font-face {
+    font-family: CircularSp-Deva;
+    font-weight: 400;
+    font-display: swap;
+    unicode-range: U+0000, U+000D, U+0020, U+00A0, U+00A4, U+00B6-00B7,
+      U+0901-097F, U+200C-200E, U+FFFF;
+    src: url('https://encore.scdn.co/fonts/CircularSp-Deva-Book-53ba72567f1=
+47af6cde0f0fab65d7704.woff2')
+        format('woff2'),
+      url('https://encore.scdn.co/fonts/CircularSp-Deva-Book-33444a874971fd=
+5d968b1b382ab95445.woff')
+        format('woff');
+  }
+  @font-face {
+    font-family: CircularSp-Grek;
+    font-weight: 900;
+    font-display: swap;
+    unicode-range: U+0000, U+000D, U+0020, U+00A0, U+00A4, U+00B6-00B7, U+0=
+375,
+      U+037A, U+0384, U+0386, U+0388-038A, U+038C, U+038E-03A1, U+03A3-03CF=
+,
+      U+03D7, U+2126, U+FFFF;
+    src: url('https://encore.scdn.co/fonts/CircularSp-Grek-Black-b45055a950=
+eac7560342cb7fa07559ad.woff2')
+        format('woff2'),
+      url('https://encore.scdn.co/fonts/CircularSp-Grek-Black-49883536c1a3b=
+fc688235ce40572731d.woff')
+        format('woff');
+  }
+  @font-face {
+    font-family: CircularSp-Grek;
+    font-weight: 700;
+    font-display: swap;
+    unicode-range: U+0000, U+000D, U+0020, U+00A0, U+00A4, U+00B6-00B7, U+0=
+375,
+      U+037A, U+0384, U+0386, U+0388-038A, U+038C, U+038E-03A1, U+03A3-03CF=
+,
+      U+03D7, U+2126, U+FFFF;
+    src: url('https://encore.scdn.co/fonts/CircularSp-Grek-Bold-fafb1410c85=
+fe7e6e81c68e609d4b823.woff2')
+        format('woff2'),
+      url('https://encore.scdn.co/fonts/CircularSp-Grek-Bold-53bb923248ba22=
+cf5554bbe5f434c5c8.woff')
+        format('woff');
+  }
+  @font-face {
+    font-family: CircularSp-Grek;
+    font-weight: 400;
+    font-display: swap;
+    unicode-range: U+0000, U+000D, U+0020, U+00A0, U+00A4, U+00B6-00B7, U+0=
+375,
+      U+037A, U+0384, U+0386, U+0388-038A, U+038C, U+038E-03A1, U+03A3-03CF=
+,
+      U+03D7, U+2126, U+FFFF;
+    src: url('https://encore.scdn.co/fonts/CircularSp-Grek-Book-5d5a3a10aa2=
+6b63a2575ce872ad43f07.woff2')
+        format('woff2'),
+      url('https://encore.scdn.co/fonts/CircularSp-Grek-Book-c9de2c0741586c=
+1ab7b6e95541fc7807.woff')
+        format('woff');
+  }
+  @font-face {
+    font-family: CircularSpTitle;
+    font-weight: 900;
+    font-display: swap;
+    unicode-range: U+0000, U+0020-007E, U+00A0-00BF, U+00C6-00C7, U+00D0, U=
++00D7,
+      U+00DE-00E4, U+00E6-00EF, U+00F1-00FF, U+0101, U+0103-0105, U+0107, U=
++0109,
+      U+010B, U+010D, U+010F-0111, U+0113, U+0115, U+0117-0119, U+011B, U+0=
+11D,
+      U+011F, U+0121, U+0126-0127, U+0129, U+012B, U+012D-012F, U+0131-0133=
+,
+      U+0135, U+0138, U+013E-0142, U+0144, U+0148, U+014A-014B, U+014D, U+0=
+14F,
+      U+0151-0153, U+0155, U+0159, U+015B, U+015D-015F, U+0161-0163, U+0166=
+-0167,
+      U+0169, U+016B, U+016D, U+0171-0173, U+0175, U+0177, U+017A, U+017C,
+      U+017E, U+018F, U+0192, U+01A1, U+01B0, U+01B5-01B6, U+01C5-01C6,
+      U+01F1-01F3, U+01FD, U+01FF, U+0237, U+0259, U+02C6-02C7, U+02C9,
+      U+02D8-02D9, U+02DB-02DD, U+0394, U+03A9, U+03BC, U+03C0, U+1E81, U+1=
+E83,
+      U+1E85, U+1E8B, U+1EA0-1EA1, U+1EAD, U+1EB7-1EB9, U+1EBD, U+1EC7,
+      U+1ECA-1ECD, U+1ED9, U+1EDB, U+1EDD, U+1EE3-1EE5, U+1EE9, U+1EEB, U+1=
+EF1,
+      U+1EF3-1EF5, U+1EF9, U+1FD6, U+2007-2008, U+200B, U+2010-2011, U+2013=
+-2014,
+      U+2018-201A, U+201C-201E, U+2020-2022, U+2026, U+2030, U+2032-2033,
+      U+2039-203A, U+2042, U+2044, U+2051, U+2070, U+2074-2079, U+2080-2089=
+,
+      U+20AB-20AC, U+2113, U+2117, U+2122, U+2126, U+2160-2169, U+216C-216F=
+,
+      U+2190-2193, U+2196-2199, U+21A9, U+21B0-21B5, U+21C6, U+2202, U+2206=
+,
+      U+220F, U+2211-2212, U+2215, U+2219, U+221E, U+222B, U+2248, U+2260,
+      U+2264-2265, U+22C5, U+24C5, U+25A0-25A1, U+25AF, U+25B2-25B3, U+25CA=
+-25CB,
+      U+25CF, U+262E, U+2713, U+2715, U+2780-2788, U+E000, U+E002, U+FB00-F=
+B04,
+      U+FEFF, U+FF0C, U+FF0E, U+FF1A-FF1B, U+FFFF;
+    src: url('https://encore.scdn.co/fonts/CircularSpTitle-Black-3f9afb4020=
+80d53345ca1850226ca724.woff2')
+        format('woff2'),
+      url('https://encore.scdn.co/fonts/CircularSpTitle-Black-b063ad0a42cba=
+f519c7ccba8b3e1caeb.woff')
+        format('woff');
+  }
+  @font-face {
+    font-family: CircularSpTitle;
+    font-weight: 700;
+    font-display: swap;
+    unicode-range: U+0000, U+0020-007E, U+00A0-00BF, U+00C6-00C7, U+00D0, U=
++00D7,
+      U+00DE-00E4, U+00E6-00EF, U+00F1-00FF, U+0101, U+0103-0105, U+0107, U=
++0109,
+      U+010B, U+010D, U+010F-0111, U+0113, U+0115, U+0117-0119, U+011B, U+0=
+11D,
+      U+011F, U+0121, U+0126-0127, U+0129, U+012B, U+012D-012F, U+0131-0133=
+,
+      U+0135, U+0138, U+013E-0142, U+0144, U+0148, U+014A-014B, U+014D, U+0=
+14F,
+      U+0151-0153, U+0155, U+0159, U+015B, U+015D-015F, U+0161-0163, U+0166=
+-0167,
+      U+0169, U+016B, U+016D, U+0171-0173, U+0175, U+0177, U+017A, U+017C,
+      U+017E, U+018F, U+0192, U+01A1, U+01B0, U+01B5-01B6, U+01C5-01C6,
+      U+01F1-01F3, U+01FD, U+01FF, U+0237, U+0259, U+02C6-02C7, U+02C9,
+      U+02D8-02D9, U+02DB-02DD, U+0394, U+03A9, U+03BC, U+03C0, U+1E81, U+1=
+E83,
+      U+1E85, U+1E8B, U+1EA0-1EA1, U+1EAD, U+1EB7-1EB9, U+1EBD, U+1EC7,
+      U+1ECA-1ECD, U+1ED9, U+1EDB, U+1EDD, U+1EE3-1EE5, U+1EE9, U+1EEB, U+1=
+EF1,
+      U+1EF3-1EF5, U+1EF9, U+1FD6, U+2007-2008, U+200B, U+2010-2011, U+2013=
+-2014,
+      U+2018-201A, U+201C-201E, U+2020-2022, U+2026, U+2030, U+2032-2033,
+      U+2039-203A, U+2042, U+2044, U+2051, U+2070, U+2074-2079, U+2080-2089=
+,
+      U+20AB-20AC, U+2113, U+2117, U+2122, U+2126, U+2160-2169, U+216C-216F=
+,
+      U+2190-2193, U+2196-2199, U+21A9, U+21B0-21B5, U+21C6, U+2202, U+2206=
+,
+      U+220F, U+2211-2212, U+2215, U+2219, U+221E, U+222B, U+2248, U+2260,
+      U+2264-2265, U+22C5, U+24C5, U+25A0-25A1, U+25AF, U+25B2-25B3, U+25CA=
+-25CB,
+      U+25CF, U+262E, U+2713, U+2715, U+2780-2788, U+E000, U+E002, U+FB00-F=
+B04,
+      U+FEFF, U+FF0C, U+FF0E, U+FF1A-FF1B, U+FFFF;
+    src: url('https://encore.scdn.co/fonts/CircularSpTitle-Bold-2fbf72b606d=
+7f0b0f771ea4956a8b4d6.woff2')
+        format('woff2'),
+      url('https://encore.scdn.co/fonts/CircularSpTitle-Bold-7cd3208b73fd08=
+50bca5d8f7821439cd.woff')
+        format('woff');
+  }
+  @font-face {
+    font-family: CircularSpTitle-Tall;
+    font-weight: 900;
+    font-display: swap;
+    unicode-range: U+0000, U+0020, U+00A0, U+00A4, U+00B6-00B7, U+00C0-00C5=
+,
+      U+00C8-00CF, U+00D1-00D6, U+00D8-00DD, U+00E5, U+00F0, U+0100, U+0102=
+,
+      U+0106, U+0108, U+010A, U+010C, U+010E, U+0112, U+0114, U+0116, U+011=
+A,
+      U+011C, U+011E, U+0120, U+0122-0125, U+0128, U+012A, U+012C, U+0130,
+      U+0134, U+0136-0137, U+0139-013D, U+0143, U+0145-0147, U+0149, U+014C=
+,
+      U+014E, U+0150, U+0154, U+0156-0158, U+015A, U+015C, U+0160, U+0164-0=
+165,
+      U+0168, U+016A, U+016C, U+016E-0170, U+0174, U+0176, U+0178-0179, U+0=
+17B,
+      U+017D, U+01A0, U+01AF, U+01C4, U+01FA-01FC, U+01FE, U+0218-021B,
+      U+02BB-02BC, U+02DA, U+0300-0301, U+0303, U+0309, U+0323, U+1E80, U+1=
+E82,
+      U+1E84, U+1E8A, U+1EA2-1EAC, U+1EAE-1EB6, U+1EBA-1EBC, U+1EBE-1EC6,
+      U+1EC8-1EC9, U+1ECE-1ED8, U+1EDA, U+1EDC, U+1EDE-1EE2, U+1EE6-1EE8, U=
++1EEA,
+      U+1EEC-1EF0, U+1EF2, U+1EF6-1EF8, U+221A, U+F6C3, U+FFFF;
+    src: url('https://encore.scdn.co/fonts/CircularSpTitle-Tall-Black-dd3ec=
+8c5997b5c7135fb3716866ded28.woff2')
+        format('woff2'),
+      url('https://encore.scdn.co/fonts/CircularSpTitle-Tall-Black-35a438fa=
+59bc07bdf08133e438d72409.woff')
+        format('woff');
+  }
+  @font-face {
+    font-family: CircularSpTitle-Tall;
+    font-weight: 700;
+    font-display: swap;
+    unicode-range: U+0000, U+0020, U+00A0, U+00A4, U+00B6-00B7, U+00C0-00C5=
+,
+      U+00C8-00CF, U+00D1-00D6, U+00D8-00DD, U+00E5, U+00F0, U+0100, U+0102=
+,
+      U+0106, U+0108, U+010A, U+010C, U+010E, U+0112, U+0114, U+0116, U+011=
+A,
+      U+011C, U+011E, U+0120, U+0122-0125, U+0128, U+012A, U+012C, U+0130,
+      U+0134, U+0136-0137, U+0139-013D, U+0143, U+0145-0147, U+0149, U+014C=
+,
+      U+014E, U+0150, U+0154, U+0156-0158, U+015A, U+015C, U+0160, U+0164-0=
+165,
+      U+0168, U+016A, U+016C, U+016E-0170, U+0174, U+0176, U+0178-0179, U+0=
+17B,
+      U+017D, U+01A0, U+01AF, U+01C4, U+01FA-01FC, U+01FE, U+0218-021B,
+      U+02BB-02BC, U+02DA, U+0300-0301, U+0303, U+0309, U+0323, U+1E80, U+1=
+E82,
+      U+1E84, U+1E8A, U+1EA2-1EAC, U+1EAE-1EB6, U+1EBA-1EBC, U+1EBE-1EC6,
+      U+1EC8-1EC9, U+1ECE-1ED8, U+1EDA, U+1EDC, U+1EDE-1EE2, U+1EE6-1EE8, U=
++1EEA,
+      U+1EEC-1EF0, U+1EF2, U+1EF6-1EF8, U+221A, U+F6C3, U+FFFF;
+    src: url('https://encore.scdn.co/fonts/CircularSpTitle-Tall-Bold-69995a=
+f8079e90f1d15130df13ad0c60.woff2')
+        format('woff2'),
+      url('https://encore.scdn.co/fonts/CircularSpTitle-Tall-Bold-24c7e518b=
+6e633e498760fab4aa88218.woff')
+        format('woff');
+  }
+  @font-face {
+    font-family: CircularSp;
+    font-weight: 700;
+    font-display: swap;
+    unicode-range: U+0000, U+000D, U+0020-007E, U+00A0-017E, U+018F, U+0192=
+,
+      U+01A0-01A1, U+01AF-01B0, U+01B5-01B6, U+01C4-01C6, U+01F1-01F3,
+      U+01FA-01FF, U+0218-021B, U+0237, U+0259, U+02BB-02BC, U+02C6-02C7, U=
++02C9,
+      U+02D8-02DD, U+0300-0301, U+0303, U+0309, U+0323, U+0394, U+03A9, U+0=
+3BC,
+      U+03C0, U+1E80-1E85, U+1E8A-1E8B, U+1EA0-1EF9, U+1FD6, U+2007-2008, U=
++200B,
+      U+2010-2011, U+2013-2014, U+2018-201A, U+201C-201E, U+2020-2022, U+20=
+26,
+      U+2030, U+2032-2033, U+2039-203A, U+2042, U+2044, U+2051, U+2070,
+      U+2074-2079, U+2080-2089, U+20AB-20AC, U+2113, U+2117, U+2122, U+2126=
+,
+      U+2160-2169, U+216C-216F, U+2190-2193, U+2196-2199, U+21A9, U+21B0-21=
+B5,
+      U+21C6, U+2202, U+2206, U+220F, U+2211-2212, U+2215, U+2219-221A, U+2=
+21E,
+      U+222B, U+2248, U+2260, U+2264-2265, U+22C5, U+24C5, U+25A0-25A1, U+2=
+5AF,
+      U+25B2-25B3, U+25CA-25CB, U+25CF, U+262E, U+2713, U+2715, U+2780-2788=
+,
+      U+E000, U+E002, U+F6C3, U+FB00-FB04, U+FEFF, U+FF0C, U+FF0E, U+FF1A-F=
+F1B,
+      U+FFFF;
+    src: url('https://encore.scdn.co/fonts/CircularSp-Bold-fe1cfc14b7498b18=
+7c78fa72fb72d148.woff2')
+        format('woff2'),
+      url('https://encore.scdn.co/fonts/CircularSp-Bold-79ebb2bdea919cebede=
+a4884d08c499e.woff')
+        format('woff');
+  }
+  @font-face {
+    font-family: CircularSp;
+    font-weight: 400;
+    font-display: swap;
+    unicode-range: U+0000, U+000D, U+0020-007E, U+00A0-017E, U+018F, U+0192=
+,
+      U+01A0-01A1, U+01AF-01B0, U+01B5-01B6, U+01C4-01C6, U+01F1-01F3,
+      U+01FA-01FF, U+0218-021B, U+0237, U+0259, U+02BB-02BC, U+02C6-02C7, U=
++02C9,
+      U+02D8-02DD, U+0300-0301, U+0303, U+0309, U+0323, U+0394, U+03A9, U+0=
+3BC,
+      U+03C0, U+1E80-1E85, U+1E8A-1E8B, U+1EA0-1EF9, U+1FD6, U+2007-2008, U=
++200B,
+      U+2010-2011, U+2013-2014, U+2018-201A, U+201C-201E, U+2020-2022, U+20=
+26,
+      U+2030, U+2032-2033, U+2039-203A, U+2042, U+2044, U+2051, U+2070,
+      U+2074-2079, U+2080-2089, U+20AB-20AC, U+2113, U+2117, U+2122, U+2126=
+,
+      U+2160-2169, U+216C-216F, U+2190-2193, U+2196-2199, U+21A9, U+21B0-21=
+B5,
+      U+21C6, U+2202, U+2206, U+220F, U+2211-2212, U+2215, U+2219-221A, U+2=
+21E,
+      U+222B, U+2248, U+2260, U+2264-2265, U+22C5, U+24C5, U+25A0-25A1, U+2=
+5AF,
+      U+25B2-25B3, U+25CA-25CB, U+25CF, U+262E, U+2713, U+2715, U+2780-2788=
+,
+      U+E000, U+E002, U+F6C3, U+FB00-FB04, U+FEFF, U+FF0C, U+FF0E, U+FF1A-F=
+F1B,
+      U+FFFF;
+    src: url('https://encore.scdn.co/fonts/CircularSp-Book-4eaffdf96f4c6f98=
+4686e93d5d9cb325.woff2')
+        format('woff2'),
+      url('https://encore.scdn.co/fonts/CircularSp-Book-4f217aebee53ffc72f4=
+444f79041ffa5.woff')
+        format('woff');
+  }
+  @font-face {
+    font-family: CircularSp-Arab;
+    font-weight: 900;
+    font-display: swap;
+    unicode-range: U+0000, U+000D, U+0020, U+00A0, U+00A4, U+00B6-00B7,
+      U+01C4-01C6, U+01F1-01F3, U+02BB-02BC, U+0600-0603, U+060B-060C, U+06=
+10,
+      U+061B, U+061F, U+0621-063A, U+0640-0659, U+0660-0671, U+0679-0681,
+      U+0683-068A, U+068C-068D, U+068F, U+0691, U+0693, U+0696, U+0698-069A=
+,
+      U+06A1, U+06A4, U+06A6, U+06A9-06AB, U+06AF, U+06B1, U+06B3, U+06BA-0=
+6BC,
+      U+06BE, U+06C0-06C3, U+06CC-06CD, U+06D0, U+06D2-06D5, U+06F0-06F9,
+      U+06FD-06FE, U+2002-2003, U+2009, U+200C-200F, U+25CC, U+FB50-FB85,
+      U+FB88-FBBB, U+FBBD-FBC1, U+FBE4-FBE9, U+FBFC-FBFF, U+FC48, U+FC5E-FC=
+63,
+      U+FD3E-FD3F, U+FDF2, U+FDFC, U+FE80-FEFC, U+FFFF;
+    src: url('https://encore.scdn.co/fonts/CircularSp-Arab-Black-45efa22567=
+f23866c34554b4a118b7eb.woff2')
+        format('woff2'),
+      url('https://encore.scdn.co/fonts/CircularSp-Arab-Black-85253c80e7df4=
+6d62c4d5420e1cc5f4c.woff')
+        format('woff');
+  }
+  @font-face {
+    font-family: CircularSp-Arab;
+    font-weight: 700;
+    font-display: swap;
+    unicode-range: U+0000, U+000D, U+0020, U+00A0, U+00A4, U+00B6-00B7,
+      U+01C4-01C6, U+01F1-01F3, U+02BB-02BC, U+0600-0603, U+060B-060C, U+06=
+10,
+      U+061B, U+061F, U+0621-063A, U+0640-0659, U+0660-0671, U+0679-0681,
+      U+0683-068A, U+068C-068D, U+068F, U+0691, U+0693, U+0696, U+0698-069A=
+,
+      U+06A1, U+06A4, U+06A6, U+06A9-06AB, U+06AF, U+06B1, U+06B3, U+06BA-0=
+6BC,
+      U+06BE, U+06C0-06C3, U+06CC-06CD, U+06D0, U+06D2-06D5, U+06F0-06F9,
+      U+06FD-06FE, U+2002-2003, U+2009, U+200C-200F, U+25CC, U+FB50-FB85,
+      U+FB88-FBBB, U+FBBD-FBC1, U+FBE4-FBE9, U+FBFC-FBFF, U+FC48, U+FC5E-FC=
+63,
+      U+FD3E-FD3F, U+FDF2, U+FDFC, U+FE80-FEFC, U+FFFF;
+    src: url('https://encore.scdn.co/fonts/CircularSp-Arab-Bold-55131a638dd=
+bb83219f034dab0c4f2ef.woff2')
+        format('woff2'),
+      url('https://encore.scdn.co/fonts/CircularSp-Arab-Bold-f6f9a0b56c2607=
+8440d40b145f48ab5a.woff')
+        format('woff');
+  }
+  @font-face {
+    font-family: CircularSp-Arab;
+    font-weight: 400;
+    font-display: swap;
+    unicode-range: U+0000, U+000D, U+0020, U+00A0, U+00A4, U+00B6-00B7,
+      U+01C4-01C6, U+01F1-01F3, U+02BB-02BC, U+0600-0603, U+060B-060C, U+06=
+10,
+      U+061B, U+061F, U+0621-063A, U+0640-0659, U+0660-0671, U+0679-0681,
+      U+0683-068A, U+068C-068D, U+068F, U+0691, U+0693, U+0696, U+0698-069A=
+,
+      U+06A1, U+06A4, U+06A6, U+06A9-06AB, U+06AF, U+06B1, U+06B3, U+06BA-0=
+6BC,
+      U+06BE, U+06C0-06C3, U+06CC-06CD, U+06D0, U+06D2-06D5, U+06F0-06F9,
+      U+06FD-06FE, U+2002-2003, U+2009, U+200C-200F, U+25CC, U+FB50-FB85,
+      U+FB88-FBBB, U+FBBD-FBC1, U+FBE4-FBE9, U+FBFC-FBFF, U+FC48, U+FC5E-FC=
+63,
+      U+FD3E-FD3F, U+FDF2, U+FDFC, U+FE80-FEFC, U+FFFF;
+    src: url('https://encore.scdn.co/fonts/CircularSp-Arab-Book-2cf93eecef4=
+be930c68c114d308d76c2.woff2')
+        format('woff2'),
+      url('https://encore.scdn.co/fonts/CircularSp-Arab-Book-15ab1b42ca6ef5=
+894519756031ee3ed5.woff')
+        format('woff');
+  }
+  @font-face {
+    font-family: CircularSp-Cyrl;
+    font-weight: 900;
+    font-display: swap;
+    unicode-range: U+0000, U+000D, U+0020, U+00A0, U+00A4, U+00B6-00B7,
+      U+0400-045F, U+0462-0463, U+0472-0475, U+0490-0493, U+049A-049B,
+      U+04A2-04A3, U+04AE-04B3, U+04BA-04BB, U+04D8-04D9, U+04E8-04E9, U+FF=
+FF;
+    src: url('https://encore.scdn.co/fonts/CircularSp-Cyrl-Black-1ce6672693=
+e92d2cb1d04af1690e1f9c.woff2')
+        format('woff2'),
+      url('https://encore.scdn.co/fonts/CircularSp-Cyrl-Black-b4305d9bf8255=
+4f631d2636c3ef90c54.woff')
+        format('woff');
+  }
+  @font-face {
+    font-family: CircularSp-Cyrl;
+    font-weight: 700;
+    font-display: swap;
+    unicode-range: U+0000, U+000D, U+0020, U+00A0, U+00A4, U+00B6-00B7,
+      U+0400-045F, U+0462-0463, U+0472-0475, U+0490-0493, U+049A-049B,
+      U+04A2-04A3, U+04AE-04B3, U+04BA-04BB, U+04D8-04D9, U+04E8-04E9, U+FF=
+FF;
+    src: url('https://encore.scdn.co/fonts/CircularSp-Cyrl-Bold-180db050d10=
+9afeef4331b1ee551c349.woff2')
+        format('woff2'),
+      url('https://encore.scdn.co/fonts/CircularSp-Cyrl-Bold-7e54bccaf45728=
+c472079785d5cd4519.woff')
+        format('woff');
+  }
+  @font-face {
+    font-family: CircularSp-Cyrl;
+    font-weight: 400;
+    font-display: swap;
+    unicode-range: U+0000, U+000D, U+0020, U+00A0, U+00A4, U+00B6-00B7,
+      U+0400-045F, U+0462-0463, U+0472-0475, U+0490-0493, U+049A-049B,
+      U+04A2-04A3, U+04AE-04B3, U+04BA-04BB, U+04D8-04D9, U+04E8-04E9, U+FF=
+FF;
+    src: url('https://encore.scdn.co/fonts/CircularSp-Cyrl-Book-cc791a2e69e=
+25c0440792bd855600ca7.woff2')
+        format('woff2'),
+      url('https://encore.scdn.co/fonts/CircularSp-Cyrl-Book-6f078f781ee313=
+e298ad8997fd1ffe3d.woff')
+        format('woff');
+  }
+  @font-face {
+    font-family: CircularSp-Hebr;
+    font-weight: 900;
+    font-display: swap;
+    unicode-range: U+0000, U+000D, U+0020, U+0030-0039, U+00A0, U+00A4,
+      U+00B6-00B7, U+01C4-01C6, U+01F1-01F3, U+02BB-02BC, U+05B0-05C4,
+      U+05D0-05EA, U+05F0-05F4, U+200E-200F, U+20AA, U+FB2A-FB36, U+FB38-FB=
+3C,
+      U+FB3E, U+FB40-FB41, U+FB43-FB44, U+FB46-FB4F, U+FFFF;
+    src: url('https://encore.scdn.co/fonts/CircularSp-Hebr-Black-29a8af6f57=
+82cdf3009a5ac966ee4fa6.woff2')
+        format('woff2'),
+      url('https://encore.scdn.co/fonts/CircularSp-Hebr-Black-f52613a9d5412=
+48805af1d0bb33102f8.woff')
+        format('woff');
+  }
+  @font-face {
+    font-family: CircularSp-Hebr;
+    font-weight: 700;
+    font-display: swap;
+    unicode-range: U+0000, U+000D, U+0020, U+0030-0039, U+00A0, U+00A4,
+      U+00B6-00B7, U+01C4-01C6, U+01F1-01F3, U+02BB-02BC, U+05B0-05C4,
+      U+05D0-05EA, U+05F0-05F4, U+200E-200F, U+20AA, U+FB2A-FB36, U+FB38-FB=
+3C,
+      U+FB3E, U+FB40-FB41, U+FB43-FB44, U+FB46-FB4F, U+FFFF;
+    src: url('https://encore.scdn.co/fonts/CircularSp-Hebr-Bold-9b609e9268a=
+3f9d73732dc3cc375821e.woff2')
+        format('woff2'),
+      url('https://encore.scdn.co/fonts/CircularSp-Hebr-Bold-caa03e4cb8690e=
+726ef1625c7d91a7a5.woff')
+        format('woff');
+  }
+  @font-face {
+    font-family: CircularSp-Hebr;
+    font-weight: 400;
+    font-display: swap;
+    unicode-range: U+0000, U+000D, U+0020, U+0030-0039, U+00A0, U+00A4,
+      U+00B6-00B7, U+01C4-01C6, U+01F1-01F3, U+02BB-02BC, U+05B0-05C4,
+      U+05D0-05EA, U+05F0-05F4, U+200E-200F, U+20AA, U+FB2A-FB36, U+FB38-FB=
+3C,
+      U+FB3E, U+FB40-FB41, U+FB43-FB44, U+FB46-FB4F, U+FFFF;
+    src: url('https://encore.scdn.co/fonts/CircularSp-Hebr-Book-414f88babad=
+55bb44c9552d9b92504f7.woff2')
+        format('woff2'),
+      url('https://encore.scdn.co/fonts/CircularSp-Hebr-Book-d8209975eafc81=
+a9499df8401a339ddd.woff')
+        format('woff');
+  }
+</style><!--[if mso]><style>body, table, tr, td, h1, h2, h3, h4, h5, h6, ce=
+nter p, a, span, table.MsoNormalTable {font-family: "Helvetica", "Arial", s=
+ans-serif !important}</style><![endif]--></head><body topmargin=3D"0" leftm=
+argin=3D"0" rightmargin=3D"0" bottommargin=3D"0" marginheight=3D"0" marginw=
+idth=3D"0" style=3D"-webkit-font-smoothing:antialiased;width:100% !importan=
+t;-webkit-text-size-adjust:none;margin:0;padding:0;font-family:&quot;Circul=
+arSp&quot;,&quot;CircularSp-Arab&quot;,&quot;CircularSp-Hebr&quot;,&quot;Ci=
+rcularSp-Cyrl&quot;,&quot;CircularSp-Grek&quot;,&quot;CircularSp-Deva&quot;=
+,&quot;Helvetica&quot;,&quot;Arial&quot;, sans-serif"><!--TEST-FORM--><span=
+ style=3D"border:none;padding:0;margin:0;display:none;font-size:1px"></span=
+>
+<!--[if (mso) | (IE)]><table cellpadding=3D"0" cellspacing=3D"0" border=3D"=
+0" valign=3D"top" width=3D"480" align=3D"center"><tr><td valign=3D"top" ali=
+gn=3D"left" style=3D" word-break:normal; border-collapse:collapse; font-fam=
+ily:'Circular', Helvetica, Arial, sans-serif; font-size:12px; line-height:1=
+8px; color:#555555;"><![endif]--><table style=3D"border-collapse:collapse;p=
+adding:0;max-width:480px;width:100%;border:0;background-color:#ffffff;margi=
+n:0 auto;word-break:break-word" cellpadding=3D"0" cellspacing=3D"0"><tbody =
+style=3D"border:none;padding:0;margin:0"><tr style=3D"border:none;margin:0p=
+x;padding:0px"><td style=3D"border:none;padding:0;margin:0"><div id=3D"main=
+" style=3D"border:none;padding:0;margin:0"><table class=3D"header-root" sty=
+le=3D"border-collapse:collapse;padding:0;background-color:#ffffff;text-alig=
+n:left;width:100%;height:50px"><tbody style=3D"border:none;padding:0;margin=
+:0"><tr style=3D"border:none;margin:0px;padding:0px;height:24px" data-testi=
+d=3D"table-padding-top"><td colspan=3D"3" style=3D"border:none;padding:0;ma=
+rgin:0;height:24px"></td></tr><tr style=3D"border:none;margin:0px;padding:0=
+px"><td data-testid=3D"table-padding-left" style=3D"border:none;padding:0;m=
+argin:0;width:24px"></td><td style=3D"border:none;padding:0;margin:0"><a hr=
+ef=3D"https://wl.spotify.com/ss/c/luBzz2tVm8UlIamR0anXqUf3BsHtXUcUR3rnz7Tdb=
+j8/442/h2LF97J4TT2YRn8WhJVGgw/h0/ZXcAG_6rSRcavr5Q71yLOmt0nxV8Ej8SxsNag23nKY=
+Y" style=3D"text-decoration:none;color:#1ed760"><img alt=3D"" class=3D"logo=
+" style=3D"display:block;max-width:100%;margin-right:auto;width:122px;heigh=
+t:auto" height=3D"37" src=3D"http://message-editor.scdn.co/newsletters/b220=
+713a2d4ac7a75ebe1f9ee0c78549.png"></a></td><td data-testid=3D"table-padding=
+-right" style=3D"border:none;padding:0;margin:0;width:24px"></td></tr><tr s=
+tyle=3D"border:none;margin:0px;padding:0px;height:24px" data-testid=3D"tabl=
+e-padding-bottom"><td colspan=3D"3" style=3D"border:none;padding:0;margin:0=
+;height:24px"></td></tr></tbody></table><table style=3D"border-collapse:col=
+lapse;padding:0;width:100%;background-color:#ffffff;font-size:14px" dir=3D"=
+auto"><tbody style=3D"border:none;padding:0;margin:0"><tr style=3D"border:n=
+one;margin:0px;padding:0px;height:8px" data-testid=3D"table-padding-top"><t=
+d colspan=3D"3" style=3D"border:none;padding:0;margin:0;height:8px"></td></=
+tr><tr style=3D"border:none;margin:0px;padding:0px"><td data-testid=3D"tabl=
+e-padding-left" style=3D"border:none;padding:0;margin:0;width:8px"></td><td=
+ style=3D"border:none;padding:0;margin:0"><p style=3D"border:none;padding:0=
+;margin:0;background-color:#ffffff;color:#000000;font-size:14px;font-weight=
+:400;text-align:left">Hallo, <br /> <br />
+
+
+Spotify m=C3=B6chte Dir das bestm=C3=B6gliche Streaming-Erlebnis bieten. Un=
+ser Ziel ist es, unseren Nutzer*innen gegen=C3=BCber so offen und transpare=
+nt wie m=C3=B6glich zu sein. Deshalb m=C3=B6chten wir Dir mitteilen, dass w=
+ir =C3=84nderungen an unseren bestehenden Allgemeinen Nutzungsbedingungen (=
+=E2=80=9ENutzungsbedingungen=E2=80=9D) vornehmen. Die gegenw=C3=A4rtig f=C3=
+=BCr Dich g=C3=BCltige Fassung der Nutzungsbedingungen findest Du <a href=
+=3D"https://wl.spotify.com/ss/c/NcOg9etoQJvwfdKhGmCY2X3_4XRLzNCIptWy15RA34_=
+QNVm0ot8xmqjoz3aYd482Hnun-kZPhUYhD7DmPbh73w/442/h2LF97J4TT2YRn8WhJVGgw/h1/C=
+sv_355VeqBMe_iRxRth1xubNEbHndrY2Al6RGQM9y8"> hier</a>. Die aktualisierten N=
+utzungsbedingungen findest Du <a href=3D"https://wl.spotify.com/ss/c/NcOg9e=
+toQJvwfdKhGmCY2X3_4XRLzNCIptWy15RA348d2V0ehdiJvVEaJwgtoP99G3d0eMzs5c0Mu3n8T=
+NySNw/442/h2LF97J4TT2YRn8WhJVGgw/h2/z_yo6kGvkgVtsWifKUvASJc9jNp05_PLaxdkX0j=
+c9Dc">hier</a>.
+
+</p></td><td data-testid=3D"table-padding-right" style=3D"border:none;paddi=
+ng:0;margin:0;width:8px"></td></tr><tr style=3D"border:none;margin:0px;padd=
+ing:0px;height:8px" data-testid=3D"table-padding-bottom"><td colspan=3D"3" =
+style=3D"border:none;padding:0;margin:0;height:8px"></td></tr></tbody></tab=
+le><table style=3D"border-collapse:collapse;padding:0;width:100%;background=
+-color:#ffffff;font-size:14px" dir=3D"auto"><tbody style=3D"border:none;pad=
+ding:0;margin:0"><tr style=3D"border:none;margin:0px;padding:0px;height:8px=
+" data-testid=3D"table-padding-top"><td colspan=3D"3" style=3D"border:none;=
+padding:0;margin:0;height:8px"></td></tr><tr style=3D"border:none;margin:0p=
+x;padding:0px"><td data-testid=3D"table-padding-left" style=3D"border:none;=
+padding:0;margin:0;width:8px"></td><td style=3D"border:none;padding:0;margi=
+n:0"><p style=3D"border:none;padding:0;margin:0;background-color:#ffffff;co=
+lor:#000000;font-size:14px;font-weight:400;text-align:left"><b>=20
+Die wesentlichen =C3=84nderungen haben wir nachfolgend f=C3=BCr Dich zusamm=
+engefasst (die Verweise beziehen sich auf die aktualisierten Nutzungsbeding=
+ungen): <ul>
+ </ul></b>=20
+<li>Wir haben manche =C3=9Cberschriften sprachlich angepasst bzw. gestriche=
+n, um die Lesbarkeit und Transparenz unserer Regeln unter den jeweiligen Ab=
+schnitten zu f=C3=B6rdern. Damit kannst Du noch schneller und leichter die =
+f=C3=BCr Dich relevanten Regeln in den Nutzungsbedingungen finden. </li>
+<li>Wir haben die zus=C3=A4tzlichen Nutzungsbedingungen, die neben den Nutz=
+ungsbedingungen anwendbar sein k=C3=B6nnen, erg=C3=A4nzt, damit Du wei=C3=
+=9Ft, welche Regeln noch f=C3=BCr Dich gelten k=C3=B6nnen (vgl. Ziffer 1). =
+</li>
+<li>Wir haben klarstellend erg=C3=A4nzt, dass die Hauptnutzer*innen eines P=
+remium Family-Abos best=C3=A4tigen m=C3=BCssen, dass sie Erziehungsberechti=
+gte des*der Nutzer*in sind, die auf =E2=80=9ESpotify Kids=E2=80=9D zugreift=
+, und diesem*dieser Nutzer*in dadurch erlauben, Spotify zu nutzen (vgl. Zif=
+fer 1). </li>=20
+<li>Wir haben klarstellend aufgenommen, dass ggfs. weitere Bedingungen Anwe=
+ndung finden k=C3=B6nnen, wenn Du ein kostenpflichtiges Abonnement =C3=BCbe=
+r einen Dritten abschlie=C3=9Ft, und dass Du den <a href=3D"https://wl.spot=
+ify.com/ss/c/NcOg9etoQJvwfdKhGmCY2X3_4XRLzNCIptWy15RA34-BOSCGG4WuZ_pKIefhDz=
+vk/442/h2LF97J4TT2YRn8WhJVGgw/h3/yovKUu6y7KRv0qgfuGMZU6dS8kUYYTePmV3Gd1tyKO=
+c">Spotify Karten-Nutzungsbedingungen</a> zustimmen musst, falls Du =C3=BCb=
+er einen Code ein kostenpflichtiges Abonnement abschlie=C3=9Ft (vgl. Ziffer=
+ 4.1). </li>
+<li>Wir haben einige Klarstellungen in dem Abschnitt =E2=80=9EZahlung und K=
+=C3=BCndigung kostenpflichtiger Abonnements=E2=80=9D vorgenommen (vgl. Ziff=
+er 4.4). </li>
+<li>Uns sind transparente K=C3=BCndigungsregeln sehr wichtig. Wir haben dah=
+er klargestellt, dass wir auch Dein kostenpflichtiges Abonnement mit mindes=
+tens 14-t=C3=A4giger Frist beenden k=C3=B6nnen und dass die K=C3=BCndigung =
+eines kostenpflichtigen Abonnements zum Ende des Abrechnungszeitraums wirks=
+am wird, in dem Du oder wir die K=C3=BCndigung erkl=C3=A4ren (vgl. Ziffer 4=
+.4). In gleicher Weise k=C3=B6nnen wir und Du auch die gesamte Vereinbarung=
+ mit mindestens 14-t=C3=A4giger K=C3=BCndigungsfrist beenden, wobei diese n=
+icht mehr zum Monatsende erfolgen muss (vgl. Ziffer 12). </li>
+<li>Wir haben die Definition von =E2=80=9Enutzergenerierten Inhalten=E2=80=
+=9D angepasst, um f=C3=BCr Dich noch verst=C3=A4ndlicher zu erl=C3=A4utern,=
+ welche Inhalte hiervon erfasst sind, und haben die damit in Zusammenhang s=
+tehenden Versicherungen angepasst (Ziffer 6.1). </li>
+<li>Ziffer 6.1 verweist nun auf unsere Ma=C3=9Fnahmen und die Voraussetzung=
+en, unter denen wir nutzergenerierte Inhalte =C3=BCberpr=C3=BCfen und/oder =
+moderieren k=C3=B6nnen, und wie Du unzul=C3=A4ssige Inhalte melden kannst. =
+Informationen zu den Verfahren, die Nutzer*innen zur Verf=C3=BCgung stehen,=
+ sofern wir nutzergenerierte Inhalte moderieren, sind nun unter <a href=3D"=
+https://wl.spotify.com/ss/c/XT4AhKYURP-IPENtmIWjByPNtqykHgen6LcaIRbRtkXoVzL=
+vTcc_288uznyFG_BtNE4RK3LIBoj_Lr89I1FQrQ/442/h2LF97J4TT2YRn8WhJVGgw/h4/vLLsu=
+_Cs2ZLUL8rKNnAP0LeHlPs0y67sj1WXbE2wvck">Spotify Plattformregeln</a>, <a hre=
+f=3D"https://wl.spotify.com/ss/c/XT4AhKYURP-IPENtmIWjByPNtqykHgen6LcaIRbRtk=
+UzoEaF4G9QllIhAIcbf_rta8_9q6ATgcd7K1fMIZty_w/442/h2LF97J4TT2YRn8WhJVGgw/h5/=
+csorB78wHAU2XWFxT1ufWZ-NcT3MIyUDcBaHFl4vRAc">Ma=C3=9Fnahmen in Bezug auf In=
+halte</a> und <a href=3D"https://wl.spotify.com/ss/c/NcOg9etoQJvwfdKhGmCY2X=
+3_4XRLzNCIptWy15RA349xSACx_5dJGBP9saqL9Cij7cTWLSkPMdwKtesmRMo9Tw/442/h2LF97=
+J4TT2YRn8WhJVGgw/h6/zUqB_zQtR_QbAb6XzUiMMuy_2ceWc-ia8EBp5FJfm4w">Spotify-Ri=
+chtlinien zum geistigen Eigentum</a> verlinkt. </li>
+<li>Hinweise zur Transparenz und Funktionsweise unserer Empfehlungssysteme =
+findest Du unter <a href=3D"https://wl.spotify.com/ss/c/NcOg9etoQJvwfdKhGmC=
+Y2XVGKv-MBeYnpLMKtXZLp34C7X3TGUpd9it53ve1JV-B-oRzU7TcufQVspCQZbKOcQ5jsts2kS=
+AFUCVR923bfL8/442/h2LF97J4TT2YRn8WhJVGgw/h7/6Qwsv95FQRFmnhuC_SOf3hqFSboxWtQ=
+iR9clNUAcP_k">=E2=80=9CEmpfehlungen von Spotify verstehen=E2=80=9D</a> (vgl=
+. Ziffer 6.3). </li>
+<li>Wir haben die Erl=C3=A4uterungen zu unseren Ma=C3=9Fnahmen zu nutzergen=
+erierten Inhalten, die geistiges Eigentum verletzen, in den allgemeinen Nut=
+zungsbedingungen gek=C3=BCrzt (vgl. Ziffer 6.4). Du findest hierzu nun alle=
+ relevanten Informationen gesammelt unter den <a href=3D"https://wl.spotify=
+.com/ss/c/NcOg9etoQJvwfdKhGmCY2X3_4XRLzNCIptWy15RA349xSACx_5dJGBP9saqL9Cij7=
+cTWLSkPMdwKtesmRMo9Tw/442/h2LF97J4TT2YRn8WhJVGgw/h8/H0CCwmXn2idjujmDbiDcGgw=
+EK9h7qpF2k6EZmzJw-Ro">Spotify-Richtlinien zum geistigen Eigentum</a>. </li>
+<li>Wir haben die Erl=C3=A4uterungen zu den Spotify-Nutzerrichtlinien in de=
+n Nutzungsbedingungen gek=C3=BCrzt (vgl. Ziffer 7). Du findest diese Regeln=
+ nun transparent und =C3=BCbersichtlich gesammelt unter den <a href=3D"http=
+s://wl.spotify.com/ss/c/NcOg9etoQJvwfdKhGmCY2X3_4XRLzNCIptWy15RA349wbXvXE8D=
+94eiF37zJyMxJlFaOf6lnggevE-PiarujoQ/442/h2LF97J4TT2YRn8WhJVGgw/h9/Znk7l4poP=
+Lq1o1VoFcfS_iKw16qER2UJ8_y71bShJh0">Spotify-Nutzerrichtlinien</a>. </li>
+<li>Wir haben die Gr=C3=BCnde konkretisiert, unter denen wir =C3=84nderunge=
+n an den Spotify-Diensten vornehmen d=C3=BCrfen (vgl. Ziffer 8). </li>
+
+</p></td><td data-testid=3D"table-padding-right" style=3D"border:none;paddi=
+ng:0;margin:0;width:8px"></td></tr><tr style=3D"border:none;margin:0px;padd=
+ing:0px;height:8px" data-testid=3D"table-padding-bottom"><td colspan=3D"3" =
+style=3D"border:none;padding:0;margin:0;height:8px"></td></tr></tbody></tab=
+le><table style=3D"border-collapse:collapse;padding:0;width:100%;background=
+-color:#ffffff;font-size:14px" dir=3D"auto"><tbody style=3D"border:none;pad=
+ding:0;margin:0"><tr style=3D"border:none;margin:0px;padding:0px;height:8px=
+" data-testid=3D"table-padding-top"><td colspan=3D"3" style=3D"border:none;=
+padding:0;margin:0;height:8px"></td></tr><tr style=3D"border:none;margin:0p=
+x;padding:0px"><td data-testid=3D"table-padding-left" style=3D"border:none;=
+padding:0;margin:0;width:8px"></td><td style=3D"border:none;padding:0;margi=
+n:0"><p style=3D"border:none;padding:0;margin:0;background-color:#ffffff;co=
+lor:#000000;font-size:14px;font-weight:400;text-align:left"><b> Um den =C3=
+=84nderungen in den Nutzungsbedingungen zuzustimmen, musst Du nichts weiter=
+ unternehmen. Diese =C3=84nderungen gelten automatisch, wenn wir bis zum 25=
+. M=C3=A4rz 2024 nichts von Dir h=C3=B6ren. </b> <br /> <br />
+Solltest Du den =C3=84nderungen nicht zustimmen, kannst Du vor dem Inkraftt=
+reten der aktualisierten Nutzungsbedingungen bis sp=C3=A4testens zum <b> 25=
+. M=C3=A4rz 2024 </b>  u.a. =C3=BCber diesen <a href=3D"https://wl.spotify.=
+com/ss/c/GatjeYVZqkkHYfAcUo9ADSFVKqtLlt9iSBDwLDPuOawv3Et1HLvTbWkq-5IO2NYt0y=
+eMs2OyiUNDs8jH5J8Pzp_8P8r7-PW8ePYG8Vyn7EdavAFws6m7hE3M0zVH1bFg_z1oqgmZg4efL=
+EE6ed8ibpaSIkCfTTKncDur57e7WIhEZGcZcXcZXsWvUu3C18Va/442/h2LF97J4TT2YRn8WhJV=
+Ggw/h10/JDahLdeS0fbTjqNteG5Z9jJVmqRwinXmlkR5Y8fBIjc"> Link</a> die =C3=84nd=
+erungen ablehnen. Dein und unser 14-t=C3=A4giges K=C3=BCndigungsrecht zum M=
+onatsende gem=C3=A4=C3=9F Ziffer 12 der Nutzungsbedingungen bleiben unber=
+=C3=BChrt. Nach Inkrafttreten der aktualisierten Nutzungsbedingungen gelten=
+ dann die oben dargestellten angepassten K=C3=BCndigungsbedingungen. <br />=
+ <br />
+Vielen Dank, dass Du weiterhin Spotify nutzt!</p></td><td data-testid=3D"ta=
+ble-padding-right" style=3D"border:none;padding:0;margin:0;width:8px"></td>=
+</tr><tr style=3D"border:none;margin:0px;padding:0px;height:16px" data-test=
+id=3D"table-padding-bottom"><td colspan=3D"3" style=3D"border:none;padding:=
+0;margin:0;height:16px"></td></tr></tbody></table><table style=3D"border-co=
+llapse:collapse;padding:0;background-color:#f7f7f7;width:100%" class=3D"foo=
+ter-root" dir=3D"auto"><tbody style=3D"border:none;padding:0;margin:0"><tr =
+style=3D"border:none;margin:0px;padding:0px;height:25px"><td colspan=3D"3" =
+style=3D"border:none;padding:6.25px;margin:0;height:25px"></td></tr><tr sty=
+le=3D"border:none;margin:0px;padding:0px"><td style=3D"border:none;padding:=
+0;margin:0;width:6.25%"></td><td style=3D"border:none;padding:0;margin:0"><=
+img alt=3D"Spotify Logo" height=3D"23" style=3D"display:block;max-width:100=
+%;height:23px" src=3D"http://message-editor.scdn.co/newsletter/images/logo_=
+footer.png"></td><td style=3D"border:none;padding:0;margin:0;width:6.25%"><=
+/td></tr><tr style=3D"border:none;margin:0px;padding:0px;height:25px"><td c=
+olspan=3D"3" style=3D"border:none;padding:6.25px;margin:0;height:25px"></td=
+></tr><tr style=3D"border:none;margin:0px;padding:0px"><td style=3D"border:=
+none;padding:0;margin:0;width:6.25%"></td><td style=3D"border:none;padding:=
+0;margin:0"><hr style=3D"height:1px;background-color:#d1d5d9;border:none;ma=
+rgin:0px;padding:0px"></td><td style=3D"border:none;padding:0;margin:0;widt=
+h:6.25%"></td></tr><tr style=3D"border:none;margin:0px;padding:0px;height:1=
+2px"><td colspan=3D"3" style=3D"border:none;padding:3px;margin:0;height:12p=
+x"></td></tr><tr style=3D"border:none;margin:0px;padding:0px"><td style=3D"=
+border:none;padding:0;margin:0;width:6.25%"></td><td class=3D"font" style=
+=3D"border:none;padding:0;margin:0;font-family:&quot;circularsp&quot;,&quot=
+;circularsp-arab&quot;,&quot;circularsp-hebr&quot;,&quot;circularsp-cyrl&qu=
+ot;,&quot;circularsp-grek&quot;,&quot;circularsp-deva&quot;,&quot;helvetica=
+&quot;,&quot;arial&quot;, sans-serif;font-weight:400;line-height:1.65em;let=
+ter-spacing:0.15px;font-size:11px;text-decoration:none;color:#88898c">Hol d=
+ir Spotify f=C3=BCr: &nbsp;<a class=3D"footer-separated-text" style=3D"text=
+-decoration:none;color:#6d6d6d;display:inline-block;font-weight:700" href=
+=3D"https://wl.spotify.com/ss/c/LamQ60llzuDczOYk0tvsVVb_SVJdGTIfQ_1t3ZEqsoc=
+A89S5jCd9p0IlNqMwxH3JqzQnktd1uTGceMdF7hhGNw/442/h2LF97J4TT2YRn8WhJVGgw/h11/=
+pdBSmpmHBHQ2ozmzQhG61ml92nl3HMjzj8BzD_H6TGw">iPhone</a><span style=3D"borde=
+r:none;padding:4px 0;margin:0 7px;width:1px;border-left:solid 1px #c3c3c3;b=
+order-right:solid 1px transparent">&nbsp;</span><a class=3D"footer-separate=
+d-text" style=3D"text-decoration:none;color:#6d6d6d;display:inline-block;fo=
+nt-weight:700" href=3D"https://wl.spotify.com/ss/c/LamQ60llzuDczOYk0tvsVVb_=
+SVJdGTIfQ_1t3ZEqsocA89S5jCd9p0IlNqMwxH3JqzQnktd1uTGceMdF7hhGNw/442/h2LF97J4=
+TT2YRn8WhJVGgw/h12/0hyOsRdx99JwtdsiHfNLcndQOPnkUxtD06BbQwz3u50">iPad</a><sp=
+an style=3D"border:none;padding:4px 0;margin:0 7px;width:1px;border-left:so=
+lid 1px #c3c3c3;border-right:solid 1px transparent">&nbsp;</span><a class=
+=3D"footer-separated-text" style=3D"text-decoration:none;color:#6d6d6d;disp=
+lay:inline-block;font-weight:700" href=3D"https://wl.spotify.com/ss/c/LSBBl=
+YVQQ_VCiEyN29qgQnMlOf9Jt7hsFVsIAtx2fduVQ-RD06uqH_MglQiwpeh4yz3YFY9r5mVv70uX=
+9UksCPAlDPpkTad4_quXpiIygHA/442/h2LF97J4TT2YRn8WhJVGgw/h13/YviR5NeMkBMew478=
+rnP4rFe4JFDjcBcvwepvBPsffWY">Android</a><span style=3D"border:none;padding:=
+4px 0;margin:0 7px;width:1px;border-left:solid 1px #c3c3c3;border-right:sol=
+id 1px transparent">&nbsp;</span><a class=3D"footer-separated-text" style=
+=3D"text-decoration:none;color:#6d6d6d;display:inline-block;font-weight:700=
+" href=3D"https://wl.spotify.com/ss/c/NcOg9etoQJvwfdKhGmCY2X7wwCLpJpAe5ncSa=
+Y1irojI3pkk08KAuyLzK6h-UxjZ/442/h2LF97J4TT2YRn8WhJVGgw/h14/92w3MzRiACRIMEFr=
+IMqlVrLkx_Picyy6mvi97Vp5O_E">Sonstiges</a></td><td style=3D"border:none;pad=
+ding:0;margin:0;width:6.25%"></td></tr><tr style=3D"border:none;margin:0px;=
+padding:0px;height:12px"><td colspan=3D"3" style=3D"border:none;padding:3px=
+;margin:0;height:12px"></td></tr><tr style=3D"border:none;margin:0px;paddin=
+g:0px"><td style=3D"border:none;padding:0;margin:0;width:6.25%"></td><td st=
+yle=3D"border:none;padding:0;margin:0"><hr style=3D"height:1px;background-c=
+olor:#d1d5d9;border:none;margin:0px;padding:0px"></td><td style=3D"border:n=
+one;padding:0;margin:0;width:6.25%"></td></tr><tr style=3D"border:none;marg=
+in:0px;padding:0px;height:25px"><td colspan=3D"3" style=3D"border:none;padd=
+ing:6.25px;margin:0;height:25px"></td></tr><tr style=3D"border:none;margin:=
+0px;padding:0px"><td style=3D"border:none;padding:0;margin:0;width:6.25%"><=
+/td><td class=3D"font" style=3D"border:none;padding:0;margin:0;font-family:=
+&quot;circularsp&quot;,&quot;circularsp-arab&quot;,&quot;circularsp-hebr&qu=
+ot;,&quot;circularsp-cyrl&quot;,&quot;circularsp-grek&quot;,&quot;circulars=
+p-deva&quot;,&quot;helvetica&quot;,&quot;arial&quot;, sans-serif;font-weigh=
+t:400;line-height:1.65em;letter-spacing:0.15px;font-size:11px;text-decorati=
+on:none;color:#88898c"> <span style=3D"border:none;padding:0;margin:0">Dies=
+e Nachricht wurde an technikag@fichte-gymnasium.de gesendet.</span> Bei Fra=
+gen oder Beschwerden kannst du dich jederzeit <a class=3D"footer-link" href=
+=3D"https://wl.spotify.com/ss/c/NcOg9etoQJvwfdKhGmCY2SM2WHtDeWpixSGNnLCcXfu=
+P7mNHsv5L3zy1pG5dDltl/442/h2LF97J4TT2YRn8WhJVGgw/h15/Pe-QEk9nCTEAvNgmdhIPW2=
+2tQCjOSfBR8RSdG51ZES0" style=3D"border: none; margin: 0px; padding: 0px; te=
+xt-decoration: none; color: rgb(109, 109, 109); font-weight: bold;">an uns =
+wenden</a>.</td><td style=3D"border:none;padding:0;margin:0;width:6.25%"></=
+td></tr><tr style=3D"border:none;margin:0px;padding:0px;height:33px"><td co=
+lspan=3D"3" style=3D"border:none;padding:8.25px;margin:0;height:33px"></td>=
+</tr><tr style=3D"border:none;margin:0px;padding:0px"><td style=3D"border:n=
+one;padding:0;margin:0;width:6.25%"></td><td class=3D"font font-small" styl=
+e=3D"border:none;padding:0;margin:0;font-family:&quot;circularsp&quot;,&quo=
+t;circularsp-arab&quot;,&quot;circularsp-hebr&quot;,&quot;circularsp-cyrl&q=
+uot;,&quot;circularsp-grek&quot;,&quot;circularsp-deva&quot;,&quot;helvetic=
+a&quot;,&quot;arial&quot;, sans-serif;font-weight:400;line-height:1.65em;le=
+tter-spacing:0.15px;font-size:11px;text-decoration:none;color:#88898c"><a c=
+lass=3D"footer-separated-text" style=3D"text-decoration:none;color:#6d6d6d;=
+display:inline-block;font-weight:700" href=3D"https://wl.spotify.com/ss/c/N=
+cOg9etoQJvwfdKhGmCY2fcBnoxmjKsVnFK97F3n2xpfrSiLOBmqYfyUpU7EqHEhY3m2JdYYxb7o=
+VoLbzu-jlQ/442/h2LF97J4TT2YRn8WhJVGgw/h16/obCzRMwqxunDv7WRS6xk-oQlHVmOaEWzf=
+yn5iGqDq7A">Nutzungsbedingungen</a><span style=3D"border:none;padding:4px 0=
+;margin:0 7px;width:1px;border-left:solid 1px #c3c3c3;border-right:solid 1p=
+x transparent">&nbsp;</span><a class=3D"footer-separated-text" style=3D"tex=
+t-decoration:none;color:#6d6d6d;display:inline-block;font-weight:700" href=
+=3D"https://wl.spotify.com/ss/c/NcOg9etoQJvwfdKhGmCY2fcBnoxmjKsVnFK97F3n2xr=
+JwED8Ww28_ARd9o75w0L3P54amTh-3KUFl3nQvHsy8A/442/h2LF97J4TT2YRn8WhJVGgw/h17/=
+Tb25S94OF7UF8ngItqI3UB61QAKVU1256-27N1MPuH4">Datenschutzrichtlinie</a><span=
+ style=3D"border:none;padding:4px 0;margin:0 7px;width:1px;border-left:soli=
+d 1px #c3c3c3;border-right:solid 1px transparent">&nbsp;</span><a class=3D"=
+footer-separated-text" style=3D"text-decoration:none;color:#6d6d6d;display:=
+inline-block;font-weight:700" href=3D"https://wl.spotify.com/ss/c/NcOg9etoQ=
+JvwfdKhGmCY2SM2WHtDeWpixSGNnLCcXfuP7mNHsv5L3zy1pG5dDltl/442/h2LF97J4TT2YRn8=
+WhJVGgw/h18/wJe7ogmdx5SGRcglbWN76CEcNlE1Je0ohWkGCqOxJx0">Kontakt</a></td><t=
+d style=3D"border:none;padding:0;margin:0;width:6.25%"></td></tr><tr style=
+=3D"border:none;margin:0px;padding:0px;height:12px"><td colspan=3D"3" style=
+=3D"border:none;padding:3px;margin:0;height:12px"></td></tr><tr style=3D"bo=
+rder:none;margin:0px;padding:0px"><td style=3D"border:none;padding:0;margin=
+:0;width:6.25%"></td><td class=3D"font font-small" style=3D"border:none;pad=
+ding:0;margin:0;font-family:&quot;circularsp&quot;,&quot;circularsp-arab&qu=
+ot;,&quot;circularsp-hebr&quot;,&quot;circularsp-cyrl&quot;,&quot;circulars=
+p-grek&quot;,&quot;circularsp-deva&quot;,&quot;helvetica&quot;,&quot;arial&=
+quot;, sans-serif;font-weight:400;line-height:1.65em;letter-spacing:0.15px;=
+font-size:11px;text-decoration:none;color:#88898c">Spotify AB, Regeringsgat=
+an 19, 111 53, Stockholm, Sweden</td><td style=3D"border:none;padding:0;mar=
+gin:0;width:6.25%"></td></tr><tr style=3D"border:none;margin:0px;padding:0p=
+x;height:25px"><td colspan=3D"3" style=3D"border:none;padding:6.25px;margin=
+:0;height:25px"></td></tr></tbody></table></div></td></tr></tbody></table>
+<!--[if (mso) | (IE)]></td></tr></table><![endif]--><img src=3D"https://wl.=
+spotify.com/ss/o/BIFIEceKwRrl2okIkGwAPQ/442/h2LF97J4TT2YRn8WhJVGgw/ho.gif" =
+alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !importa=
+nt;width:1px !important;border-width:0 !important;margin-top:0 !important;m=
+argin-bottom:0 !important;margin-right:0 !important;margin-left:0 !importan=
+t;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !imp=
+ortant;padding-left:0 !important;"/></body></html>
+--ceda929c07c559cc4f75e373a76f0b3caf4e78840dbcedac5ff5d8ff2a25--

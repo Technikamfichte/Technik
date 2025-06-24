@@ -1,0 +1,1501 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <levin.kiefer@web.de>
+Received: from cst201.belwue.de ([129.143.2.72] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.2.14)
+  with ESMTP id 9741065 for technikag@fichte-gymnasium.de; Mon, 11 Nov 2019 10:33:16 +0100
+Received: from mout.web.de (mout.web.de [212.227.15.4])
+	by cst201.belwue.de with ESMTPS id xAB9WmDD022785
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=NOT)
+	for <technikag@fichte-gymnasium.de>; Mon, 11 Nov 2019 10:32:53 +0100 (MET)
+	env-from (levin.kiefer@web.de)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=web.de;
+	s=dbaedf251592; t=1573464745;
+	bh=k7VCiO0uly3bs1z7hMzsHlP7IDD2qyosgShhJqSlstI=;
+	h=X-UI-Sender-Class:To:From:Subject:Date;
+	b=n+hPHaVyplEYORLx3Atl++AO2WMxkSWpmvWYyfJJu7Www/nU80AuSUrnD2XvZuy2t
+	 5ZIRnbxK9V0f/SjEj/qy/XKYZSh3BjinJWMxrCo3O7joLbtkdfAB8H1nD2xZAFozd/
+	 rd3h8gq2dmv6PNEhRJ6BvuufGteS94gtKeTSEz0w=
+X-UI-Sender-Class: c548c8c5-30a9-4db5-a2e7-cb6cb037b8f9
+Received: from [192.168.43.158] ([2.247.245.23]) by smtp.web.de (mrweb003
+ [213.165.67.108]) with ESMTPSA (Nemesis) id 0MNcHy-1iWqx53WVm-007GPH for
+ <technikag@fichte-gymnasium.de>; Mon, 11 Nov 2019 10:32:24 +0100
+To: technikag@fichte-gymnasium.de
+From: Levin Kiefer <levin.kiefer@web.de>
+Subject: dateien
+Message-ID: <a5f48399-0b5b-98ce-1eb4-baaa1faaa55f@web.de>
+Date: Mon, 11 Nov 2019 10:32:21 +0100
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:60.0) Gecko/20100101
+ Thunderbird/60.9.1
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="------------F8EA95D295315238B9A834F8"
+X-Provags-ID: V03:K1:1o5rGyTlnsJ0sdC1hnc25RsdeaAjouIJqsFkTw5oOREImgOTe20
+ 7sqRXDNiEM/hSN0CzghVGr05TA8YBzLL5ZJyysJmdw8bwp67fIltkY+aedR+anC1G/Eoota
+ FHv+18j+UieB9WN7nFsWxXXep9kCuNMAeielEdu5jp8mTWdRYJa8bnc2EC969fL2g6RoHvX
+ ir4zEXmf4jhV6DgKanSYw==
+X-Spam-Flag: NO
+X-UI-Out-Filterresults: notjunk:1;V03:K0:yaHbkOXULj4=:V3sK1P8R4SMbxH5pmCWZ2W
+ UY01+2wXbuRTjevWPHQyuYxANOT0am6BL7d/urqMYuShcEPElqIv6YfcSw9LcMqdljWP3FvRt
+ ccTMGs2jQCATRg8w7yWE86s+UL0PfbvKfZ59qZ7483XQP+yF0NG+Nfgb0PPaTzAeXyvhNIr6p
+ DC6BndpWiqhXLvNxytHa0FO6FloDu1fXQrHyp4ELHNSpqpCEsXsasLucZuThtU5EVw/7uxS11
+ LbjALKcjjwgVEs4i3n0rWiVd+4H8tzN9pj41BgiM/aYtSKt0mAmRdK+gWqJ5VKyxWuj6xdmkT
+ MAl0vN/6xiP516ub0hNLqH/lqh2tKqV3ipc9CWwF6/7zz6wzrTxdk5+lH6YTg02Y4H3bcTJC/
+ xmjwHnvtBUbDfRcw6hZSnfTWgaGHupHh2p4vybVE44hUPAdaosKeMQoRPWYY8n2I/ADL1k9KM
+ iBN6uSQQU1aDhPPsgUVEPkAjB5FdJ1GQuolDOkW/SgoFS3pjvTzPiHzllXPqZEPYB5fMq1iJK
+ R3uFfxxqK6tngIGEGl4HJitqbvdRX+6GRFIe0ay7yPxMJDqMaSNNU8CU17kuOqx6UFpNMXpgd
+ NwmaijHJ1rbbkbDvBLUsmlHHjklLfHnRD8kig1PHd6XB2bkF5lJoqLBkYUIRUmjw24wAr/5Pr
+ RPwUsHVuS+So6pN7bmf69L01g2PTL0n2cuitRFeRVLyHB9UdPhcN9Q3nwT+wYe3pRebQC86BS
+ I0WlLcRLkHZ46hbmKrniA7A0PUfMF3qR9lOAfNsdVGUN1hRDAK+1Rm7nLs1iXVqv+Q+fQUweO
+ VfVa7oOxmQEj/QPDHRsDazUKAIyuFKK9EVg1WR+S2JcvM7gYCjQWuUzyPMQV/nU9b08Z/kWeV
+ hiW9ki56HaH3vkAoMXa4MTvHHPgyjx8UOd4C06mFkMtvCk/o3yKNk07K8wUYElmFzINFwXjf5
+ 41pz0hyEVuhqwuXzchKQtyvRR/GrpCu04tjNNwJfDL4kbnvSiBr4d7aUxWTe0uUXApIkmZy6p
+ aOxql7rsfC8UZo3wsdvPT8SafzQynkos3UHx2vJVGAZLJSw0E922o37cDkDtzMu1VXYYZsSD0
+ Ka+Ol9ssbcJuaQG3H+JpN8xsf8abm/NGint2D3Eg9wFEi+JI3wImMu3twKP663wwVdY4Nd4S3
+ +FmZeBj5i7FlMhzzrpbuqgZHYaPJpd/rEL2M4+YEsrocFJ3PkIz5CdLnUq5bYGaKm/57StVKH
+ 6CkI86nvbCwVm7WMGszWY6+GT1KCUWTZ/jOJI3tGyrviPmTFU9NH/xkYVZJI=
+X-DCC-BelWue-Metrics: cst201.belwue.de 1243; Body=1 Fuz1=1 Fuz2=1
+
+This is a multi-part message in MIME format.
+--------------F8EA95D295315238B9A834F8
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+
+
+--------------F8EA95D295315238B9A834F8
+Content-Type: text/xml;
+ name="Stairville-Stairville-RevueLED-120-COB-WW-DMX.qxf"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment;
+ filename="Stairville-Stairville-RevueLED-120-COB-WW-DMX.qxf"
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE FixtureDefinition>
+<FixtureDefinition xmlns="http://www.qlcplus.org/FixtureDefinition">
+ <Creator>
+  <Name>Q Light Controller Plus</Name>
+  <Version>4.12.2</Version>
+  <Author>Levin</Author>
+ </Creator>
+ <Manufacturer>Stairville</Manufacturer>
+ <Model>Stairville RevueLED 120 COB WW DMX</Model>
+ <Type>Color Changer</Type>
+ <Channel Name="Red" Preset="IntensityRed"/>
+ <Channel Name="Green" Preset="IntensityGreen"/>
+ <Channel Name="Blue" Preset="IntensityBlue"/>
+ <Channel Name="White" Preset="IntensityWhite"/>
+ <Channel Name="Master" Preset="IntensityMasterDimmer"/>
+ <Channel Name="Strobe" Preset="ShutterStrobeSlowFast"/>
+ <Channel Name="Presets" Preset="ColorMacro"/>
+ <Mode Name="7 Channel">
+  <Channel Number="0">Red</Channel>
+  <Channel Number="1">Green</Channel>
+  <Channel Number="2">Blue</Channel>
+  <Channel Number="3">White</Channel>
+  <Channel Number="4">Master</Channel>
+  <Channel Number="5">Strobe</Channel>
+  <Channel Number="6">Presets</Channel>
+ </Mode>
+ <Physical>
+  <Bulb Type="LED" Lumens="0" ColourTemperature="0"/>
+  <Dimensions Weight="5.5" Width="258" Height="164" Depth="557"/>
+  <Lens Name="Other" DegreesMin="0" DegreesMax="0"/>
+  <Focus Type="Fixed" PanMax="0" TiltMax="0"/>
+  <Technical PowerConsumption="150" DmxConnector="5-pin"/>
+ </Physical>
+</FixtureDefinition>
+
+--------------F8EA95D295315238B9A834F8
+Content-Type: text/xml;
+ name="Theater.qxw"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: attachment;
+ filename="Theater.qxw"
+
+<?xml version=3D"1.0" encoding=3D"UTF-8"?>
+<!DOCTYPE Workspace>
+<Workspace xmlns=3D"http://www.qlcplus.org/Workspace" CurrentWindow=3D"Vir=
+tualConsole">
+ <Creator>
+  <Name>Q Light Controller Plus</Name>
+  <Version>4.12.2</Version>
+  <Author>Levin</Author>
+ </Creator>
+ <Engine>
+  <InputOutputMap>
+   <Universe Name=3D"Universe 1" ID=3D"0">
+    <Output Plugin=3D"DMX USB" Line=3D"1">
+     <PluginParameters UniverseChannels=3D"481"/>
+    </Output>
+   </Universe>
+   <Universe Name=3D"Universe 2" ID=3D"1"/>
+   <Universe Name=3D"Universe 3" ID=3D"2"/>
+   <Universe Name=3D"Universe 4" ID=3D"3"/>
+  </InputOutputMap>
+  <Fixture>
+   <Manufacturer>Showtec</Manufacturer>
+   <Model>Compact Par 7 Tri</Model>
+   <Mode>8  Channel</Mode>
+   <ID>0</ID>
+   <Name>Compact Par 7 Tri #1</Name>
+   <Universe>0</Universe>
+   <Address>72</Address>
+   <Channels>8</Channels>
+   <ExcludeFade>4,5,6,7</ExcludeFade>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Showtec</Manufacturer>
+   <Model>Compact Par 7 Tri</Model>
+   <Mode>8  Channel</Mode>
+   <ID>1</ID>
+   <Name>Compact Par 7 Tri #2</Name>
+   <Universe>0</Universe>
+   <Address>80</Address>
+   <Channels>8</Channels>
+   <ExcludeFade>4,5,6,7</ExcludeFade>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Showtec</Manufacturer>
+   <Model>Compact Par 7 Tri</Model>
+   <Mode>8  Channel</Mode>
+   <ID>2</ID>
+   <Name>Compact Par 7 Tri #3</Name>
+   <Universe>0</Universe>
+   <Address>88</Address>
+   <Channels>8</Channels>
+   <ExcludeFade>4,5,6,7</ExcludeFade>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Showtec</Manufacturer>
+   <Model>Compact Par 7 Tri</Model>
+   <Mode>8  Channel</Mode>
+   <ID>3</ID>
+   <Name>Compact Par 7 Tri #4</Name>
+   <Universe>0</Universe>
+   <Address>96</Address>
+   <Channels>8</Channels>
+   <ExcludeFade>4,5,6,7</ExcludeFade>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Showtec</Manufacturer>
+   <Model>Compact Par 7 Tri</Model>
+   <Mode>8  Channel</Mode>
+   <ID>4</ID>
+   <Name>Compact Par 7 Tri #5</Name>
+   <Universe>0</Universe>
+   <Address>104</Address>
+   <Channels>8</Channels>
+   <ExcludeFade>4,5,6,7</ExcludeFade>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Showtec</Manufacturer>
+   <Model>Compact Par 7 Tri</Model>
+   <Mode>8  Channel</Mode>
+   <ID>5</ID>
+   <Name>Compact Par 7 Tri #6</Name>
+   <Universe>0</Universe>
+   <Address>112</Address>
+   <Channels>8</Channels>
+   <ExcludeFade>4,5,6,7</ExcludeFade>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Showtec</Manufacturer>
+   <Model>Compact Par 7 Tri</Model>
+   <Mode>8  Channel</Mode>
+   <ID>6</ID>
+   <Name>Compact Par 7 Tri #7</Name>
+   <Universe>0</Universe>
+   <Address>120</Address>
+   <Channels>8</Channels>
+   <ExcludeFade>4,5,6,7</ExcludeFade>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Showtec</Manufacturer>
+   <Model>Compact Par 7 Tri</Model>
+   <Mode>8  Channel</Mode>
+   <ID>7</ID>
+   <Name>Compact Par 7 Tri #8</Name>
+   <Universe>0</Universe>
+   <Address>128</Address>
+   <Channels>8</Channels>
+   <ExcludeFade>4,5,6,7</ExcludeFade>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Stairville</Manufacturer>
+   <Model>Show Bar Tri 18x3W RGB</Model>
+   <Mode>5-channel</Mode>
+   <ID>8</ID>
+   <Name>Show Bar Tri 18x3W RGB #1</Name>
+   <Universe>0</Universe>
+   <Address>24</Address>
+   <Channels>5</Channels>
+   <ExcludeFade>4</ExcludeFade>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Stairville</Manufacturer>
+   <Model>Show Bar Tri 18x3W RGB</Model>
+   <Mode>5-channel</Mode>
+   <ID>9</ID>
+   <Name>Show Bar Tri 18x3W RGB #2</Name>
+   <Universe>0</Universe>
+   <Address>29</Address>
+   <Channels>5</Channels>
+   <ExcludeFade>4</ExcludeFade>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Stairville</Manufacturer>
+   <Model>Show Bar Tri 18x3W RGB</Model>
+   <Mode>5-channel</Mode>
+   <ID>10</ID>
+   <Name>Show Bar Tri 18x3W RGB #3</Name>
+   <Universe>0</Universe>
+   <Address>34</Address>
+   <Channels>5</Channels>
+   <ExcludeFade>4</ExcludeFade>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Stairville</Manufacturer>
+   <Model>Show Bar Tri 18x3W RGB</Model>
+   <Mode>5-channel</Mode>
+   <ID>11</ID>
+   <Name>Show Bar Tri 18x3W RGB #4</Name>
+   <Universe>0</Universe>
+   <Address>39</Address>
+   <Channels>5</Channels>
+   <ExcludeFade>4</ExcludeFade>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Generic</Manufacturer>
+   <Model>Generic</Model>
+   <Mode>1 Channel</Mode>
+   <ID>12</ID>
+   <Name>Fog</Name>
+   <Universe>0</Universe>
+   <Address>480</Address>
+   <Channels>1</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Generic</Manufacturer>
+   <Model>Generic</Model>
+   <Mode>1 Channel</Mode>
+   <ID>13</ID>
+   <Name>Gelb</Name>
+   <Universe>0</Universe>
+   <Address>0</Address>
+   <Channels>1</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Generic</Manufacturer>
+   <Model>Generic</Model>
+   <Mode>1 Channel</Mode>
+   <ID>14</ID>
+   <Name>Rot</Name>
+   <Universe>0</Universe>
+   <Address>1</Address>
+   <Channels>1</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Generic</Manufacturer>
+   <Model>Generic</Model>
+   <Mode>1 Channel</Mode>
+   <ID>15</ID>
+   <Name>Gelb</Name>
+   <Universe>0</Universe>
+   <Address>2</Address>
+   <Channels>1</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Generic</Manufacturer>
+   <Model>Generic</Model>
+   <Mode>1 Channel</Mode>
+   <ID>16</ID>
+   <Name>Kaltwei=C3=9F</Name>
+   <Universe>0</Universe>
+   <Address>3</Address>
+   <Channels>1</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Generic</Manufacturer>
+   <Model>Generic</Model>
+   <Mode>1 Channel</Mode>
+   <ID>17</ID>
+   <Name>Kaltwei=C3=9F</Name>
+   <Universe>0</Universe>
+   <Address>4</Address>
+   <Channels>1</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Generic</Manufacturer>
+   <Model>Generic</Model>
+   <Mode>1 Channel</Mode>
+   <ID>18</ID>
+   <Name>Gelb</Name>
+   <Universe>0</Universe>
+   <Address>5</Address>
+   <Channels>1</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Generic</Manufacturer>
+   <Model>Generic</Model>
+   <Mode>1 Channel</Mode>
+   <ID>19</ID>
+   <Name>Kaltwei=C3=9F</Name>
+   <Universe>0</Universe>
+   <Address>6</Address>
+   <Channels>1</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Generic</Manufacturer>
+   <Model>Generic</Model>
+   <Mode>1 Channel</Mode>
+   <ID>20</ID>
+   <Name>Rot</Name>
+   <Universe>0</Universe>
+   <Address>7</Address>
+   <Channels>1</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Stairville</Manufacturer>
+   <Model>Show Bar Tri 18x3W RGB</Model>
+   <Mode>5-channel</Mode>
+   <ID>21</ID>
+   <Name>Show Bar Tri 18x3W RGB #5</Name>
+   <Universe>0</Universe>
+   <Address>48</Address>
+   <Channels>5</Channels>
+   <ExcludeFade>4</ExcludeFade>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>American DJ</Manufacturer>
+   <Model>Saber Spot RGBW</Model>
+   <Mode>12 Channel</Mode>
+   <ID>22</ID>
+   <Name>Saber Spot RGBW</Name>
+   <Universe>0</Universe>
+   <Address>53</Address>
+   <Channels>12</Channels>
+   <ExcludeFade>4,5,8,9,10,11</ExcludeFade>
+   <Modifier Channel=3D"5" Name=3D"Shutter"/>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>Stairville</Manufacturer>
+   <Model>Stairville RevueLED 120 COB WW DMX</Model>
+   <Mode>7 Channel</Mode>
+   <ID>23</ID>
+   <Name>Stairville RevueLED 120 COB WW DMX</Name>
+   <Universe>0</Universe>
+   <Address>65</Address>
+   <Channels>7</Channels>
+   <Modifier Channel=3D"5" Name=3D"Logarithmic Deep"/>
+  </Fixture>
+  <ChannelsGroup ID=3D"0" Name=3D"Master" Value=3D"0">0,0,1,0,2,0,3,0,4,0,=
+5,0,6,0,7,0,8,3,9,3,10,3,11,3,21,3,23,4</ChannelsGroup>
+  <ChannelsGroup ID=3D"1" Name=3D"Rot" Value=3D"0">0,1,1,1,2,1,3,1,4,1,5,1=
+,6,1,7,1,8,0,9,0,10,0,11,0,14,0,20,0,21,0,23,0</ChannelsGroup>
+  <ChannelsGroup ID=3D"2" Name=3D"Gr=C3=BCn" Value=3D"0">0,2,1,2,2,2,3,2,4=
+,2,5,2,6,2,7,2,8,1,9,1,10,1,11,1,21,1,23,1</ChannelsGroup>
+  <ChannelsGroup ID=3D"3" Name=3D"Blau" Value=3D"0">0,3,1,3,2,3,3,3,4,3,5,=
+3,6,3,7,3,8,2,9,2,10,2,11,2,21,2,23,2</ChannelsGroup>
+  <ChannelsGroup ID=3D"4" Name=3D"Strobe" Value=3D"0">0,4,1,4,2,4,3,4,4,4,=
+5,4,6,4,7,4,8,4,9,4,10,4,11,4,21,4,23,5</ChannelsGroup>
+  <ChannelsGroup ID=3D"5" Name=3D"Par" Value=3D"0">13,0,14,0,15,0,16,0,17,=
+0,18,0,19,0,20,0,12,0</ChannelsGroup>
+  <ChannelsGroup ID=3D"6" Name=3D"Wei=C3=9F" Value=3D"0">16,0,17,0,19,0,22=
+,3,23,3</ChannelsGroup>
+  <Function ID=3D"0" Type=3D"Scene" Name=3D"Blau">
+   <Speed FadeIn=3D"0" FadeOut=3D"0" Duration=3D"0"/>
+   <ChannelGroupsVal>0,255,1,0,2,0,3,255</ChannelGroupsVal>
+   <FixtureVal ID=3D"0">0,255,1,0,2,0,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"1">0,255,1,0,2,0,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"2">0,255,1,0,2,0,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"3">0,255,1,0,2,0,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"4">0,255,1,0,2,0,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"5">0,255,1,0,2,0,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"6">0,255,1,0,2,0,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"7">0,255,1,0,2,0,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"8">0,0,1,0,2,255,3,255</FixtureVal>
+   <FixtureVal ID=3D"9">0,0,1,0,2,255,3,255</FixtureVal>
+   <FixtureVal ID=3D"10">0,0,1,0,2,255,3,255</FixtureVal>
+   <FixtureVal ID=3D"11">0,0,1,0,2,255,3,255</FixtureVal>
+   <FixtureVal ID=3D"21">0,0,1,0,2,255,3,255</FixtureVal>
+   <FixtureVal ID=3D"23">0,0,1,0,2,255,4,255</FixtureVal>
+   <FixtureVal ID=3D"14">0,0</FixtureVal>
+   <FixtureVal ID=3D"20">0,0</FixtureVal>
+  </Function>
+  <Function ID=3D"1" Type=3D"Scene" Name=3D"Warmwei=C3=9F">
+   <Speed FadeIn=3D"1000" FadeOut=3D"1000" Duration=3D"0"/>
+   <ChannelGroupsVal>0,255,1,255,2,255,3,107,4,0</ChannelGroupsVal>
+   <FixtureVal ID=3D"0">0,255,1,255,2,255,3,107,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"1">0,255,1,255,2,255,3,107,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"2">0,255,1,255,2,255,3,107,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"3">0,255,1,255,2,255,3,107,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"4">0,255,1,255,2,255,3,107,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"5">0,255,1,255,2,255,3,107,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"6">0,255,1,255,2,255,3,107,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"7">0,255,1,255,2,255,3,107,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"8">0,255,1,255,2,107,3,255,4,0</FixtureVal>
+   <FixtureVal ID=3D"9">0,255,1,255,2,107,3,255,4,0</FixtureVal>
+   <FixtureVal ID=3D"10">0,255,1,255,2,107,3,255,4,0</FixtureVal>
+   <FixtureVal ID=3D"11">0,255,1,255,2,107,3,255,4,0</FixtureVal>
+   <FixtureVal ID=3D"14">0,255</FixtureVal>
+   <FixtureVal ID=3D"20">0,255</FixtureVal>
+   <FixtureVal ID=3D"13">0,255</FixtureVal>
+   <FixtureVal ID=3D"15">0,255</FixtureVal>
+   <FixtureVal ID=3D"18">0,255</FixtureVal>
+   <FixtureVal ID=3D"16">0,255</FixtureVal>
+   <FixtureVal ID=3D"17">0,255</FixtureVal>
+   <FixtureVal ID=3D"19">0,255</FixtureVal>
+   <FixtureVal ID=3D"21">4,0</FixtureVal>
+   <FixtureVal ID=3D"23">0,255,1,255,2,131,3,255,4,255,5,0,6,0</FixtureVal=
+>
+  </Function>
+  <Function ID=3D"2" Type=3D"Scene" Name=3D"Rot">
+   <Speed FadeIn=3D"1000" FadeOut=3D"1000" Duration=3D"0"/>
+   <ChannelGroupsVal>0,255,1,255,2,0,3,0</ChannelGroupsVal>
+   <FixtureVal ID=3D"0">0,255,1,255,2,0,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"1">0,255,1,255,2,0,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"2">0,255,1,255,2,0,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"3">0,255,1,255,2,0,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"4">0,255,1,255,2,0,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"5">0,255,1,255,2,0,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"6">0,255,1,255,2,0,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"7">0,255,1,255,2,0,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"8">0,255,1,0,2,0,3,255</FixtureVal>
+   <FixtureVal ID=3D"9">0,255,1,0,2,0,3,255</FixtureVal>
+   <FixtureVal ID=3D"10">0,255,1,0,2,0,3,255</FixtureVal>
+   <FixtureVal ID=3D"11">0,255,1,0,2,0,3,255</FixtureVal>
+   <FixtureVal ID=3D"14">0,255</FixtureVal>
+   <FixtureVal ID=3D"20">0,255</FixtureVal>
+   <FixtureVal ID=3D"21">0,255,1,0,2,0,3,255</FixtureVal>
+   <FixtureVal ID=3D"23">0,255,1,0,2,0,4,255</FixtureVal>
+  </Function>
+  <Function ID=3D"3" Type=3D"Scene" Name=3D"Gr=C3=BCn">
+   <Speed FadeIn=3D"0" FadeOut=3D"0" Duration=3D"0"/>
+   <ChannelGroupsVal>0,255,1,0,2,255,3,0</ChannelGroupsVal>
+   <FixtureVal ID=3D"0">0,255,1,0,2,255,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"1">0,255,1,0,2,255,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"2">0,255,1,0,2,255,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"3">0,255,1,0,2,255,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"4">0,255,1,0,2,255,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"5">0,255,1,0,2,255,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"6">0,255,1,0,2,255,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"7">0,255,1,0,2,255,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"8">0,0,1,255,2,0,3,255</FixtureVal>
+   <FixtureVal ID=3D"9">0,0,1,255,2,0,3,255</FixtureVal>
+   <FixtureVal ID=3D"10">0,0,1,255,2,0,3,255</FixtureVal>
+   <FixtureVal ID=3D"11">0,0,1,255,2,0,3,255</FixtureVal>
+   <FixtureVal ID=3D"21">0,0,1,255,2,0,3,255</FixtureVal>
+   <FixtureVal ID=3D"14">0,0</FixtureVal>
+   <FixtureVal ID=3D"20">0,0</FixtureVal>
+   <FixtureVal ID=3D"23">0,0,1,255,2,0,3,0,4,251,6,0</FixtureVal>
+  </Function>
+  <Function ID=3D"4" Type=3D"Scene" Name=3D"Gelb">
+   <Speed FadeIn=3D"0" FadeOut=3D"0" Duration=3D"0"/>
+   <ChannelGroupsVal>0,0,1,0,2,0,3,0</ChannelGroupsVal>
+   <FixtureVal ID=3D"0">0,255,1,255,2,255,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"1">0,255,1,255,2,255,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"2">0,255,1,255,2,255,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"3">0,255,1,255,2,255,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"4">0,255,1,255,2,255,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"5">0,255,1,255,2,255,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"6">0,255,1,255,2,255,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"7">0,255,1,255,2,255,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"8">0,255,1,255,2,0,3,255</FixtureVal>
+   <FixtureVal ID=3D"9">0,255,1,255,2,0,3,255</FixtureVal>
+   <FixtureVal ID=3D"10">0,255,1,255,2,0,3,255</FixtureVal>
+   <FixtureVal ID=3D"11">0,255,1,255,2,0,3,255</FixtureVal>
+   <FixtureVal ID=3D"14">0,255</FixtureVal>
+   <FixtureVal ID=3D"20">0,255</FixtureVal>
+   <FixtureVal ID=3D"13">0,255</FixtureVal>
+   <FixtureVal ID=3D"15">0,255</FixtureVal>
+   <FixtureVal ID=3D"18">0,255</FixtureVal>
+   <FixtureVal ID=3D"21">0,255,1,255,2,0,3,255</FixtureVal>
+   <FixtureVal ID=3D"23">0,255,1,255,2,0,3,0,4,251,6,0</FixtureVal>
+  </Function>
+  <Function ID=3D"5" Type=3D"Scene" Name=3D"Violett">
+   <Speed FadeIn=3D"0" FadeOut=3D"0" Duration=3D"0"/>
+   <ChannelGroupsVal>0,255,1,255,2,0,3,255</ChannelGroupsVal>
+   <FixtureVal ID=3D"0">0,255,1,255,2,0,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"1">0,255,1,255,2,0,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"2">0,255,1,255,2,0,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"3">0,255,1,255,2,0,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"4">0,255,1,255,2,0,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"5">0,255,1,255,2,0,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"6">0,255,1,255,2,0,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"7">0,255,1,255,2,0,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"8">0,255,1,0,2,255,3,255</FixtureVal>
+   <FixtureVal ID=3D"9">0,255,1,0,2,255,3,255</FixtureVal>
+   <FixtureVal ID=3D"10">0,255,1,0,2,255,3,255</FixtureVal>
+   <FixtureVal ID=3D"11">0,255,1,0,2,255,3,255</FixtureVal>
+   <FixtureVal ID=3D"14">0,255</FixtureVal>
+   <FixtureVal ID=3D"20">0,255</FixtureVal>
+   <FixtureVal ID=3D"21"/>
+   <FixtureVal ID=3D"23">0,255,1,0,2,255,3,255,4,255,6,0</FixtureVal>
+  </Function>
+  <Function ID=3D"6" Type=3D"Scene" Name=3D"T=C3=BCrkis">
+   <Speed FadeIn=3D"0" FadeOut=3D"0" Duration=3D"0"/>
+   <ChannelGroupsVal>0,255,1,0,2,255,3,255</ChannelGroupsVal>
+   <FixtureVal ID=3D"0">0,255,1,0,2,255,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"1">0,255,1,0,2,255,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"2">0,255,1,0,2,255,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"3">0,255,1,0,2,255,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"4">0,255,1,0,2,255,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"5">0,255,1,0,2,255,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"6">0,255,1,0,2,255,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"7">0,255,1,0,2,255,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"8">0,0,1,255,2,255,3,255</FixtureVal>
+   <FixtureVal ID=3D"9">0,0,1,255,2,255,3,255</FixtureVal>
+   <FixtureVal ID=3D"10">0,0,1,255,2,255,3,255</FixtureVal>
+   <FixtureVal ID=3D"11">0,0,1,255,2,255,3,255</FixtureVal>
+   <FixtureVal ID=3D"14">0,0</FixtureVal>
+   <FixtureVal ID=3D"20">0,0</FixtureVal>
+   <FixtureVal ID=3D"21">0,0,1,255,2,255,3,255</FixtureVal>
+   <FixtureVal ID=3D"23">0,0,1,255,2,255,3,0,4,255,6,0</FixtureVal>
+  </Function>
+  <Function ID=3D"7" Type=3D"Scene" Name=3D"T=C3=BCrkis - Orange">
+   <Speed FadeIn=3D"0" FadeOut=3D"0" Duration=3D"0"/>
+   <FixtureVal ID=3D"0">0,255,1,0,2,255,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"1">0,255,1,255,2,170,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"2">0,255,1,0,2,255,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"3">0,255,1,255,2,170,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"4">0,255,1,0,2,255,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"5">0,255,1,255,2,170,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"6">0,255,1,0,2,255,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"7">0,255,1,255,2,170,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"13">0,0</FixtureVal>
+   <FixtureVal ID=3D"15">0,0</FixtureVal>
+   <FixtureVal ID=3D"18">0,0</FixtureVal>
+   <FixtureVal ID=3D"16">0,0</FixtureVal>
+   <FixtureVal ID=3D"17">0,0</FixtureVal>
+   <FixtureVal ID=3D"19">0,0</FixtureVal>
+   <FixtureVal ID=3D"14">0,0</FixtureVal>
+   <FixtureVal ID=3D"20">0,0</FixtureVal>
+   <FixtureVal ID=3D"8">0,0,1,255,2,255,3,255</FixtureVal>
+   <FixtureVal ID=3D"9">0,255,1,170,2,0,3,255</FixtureVal>
+   <FixtureVal ID=3D"10">0,0,1,255,2,255,3,255</FixtureVal>
+   <FixtureVal ID=3D"11">0,255,1,170,2,0,3,255</FixtureVal>
+   <FixtureVal ID=3D"21">0,0,1,255,2,255,3,255</FixtureVal>
+   <FixtureVal ID=3D"23">0,255,1,255,2,0,3,255,4,255,6,0</FixtureVal>
+  </Function>
+  <Function ID=3D"8" Type=3D"Scene" Name=3D"Gelb - Gr=C3=BCn">
+   <Speed FadeIn=3D"0" FadeOut=3D"0" Duration=3D"0"/>
+   <FixtureVal ID=3D"0">0,255,1,0,2,255,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"1">0,255,1,255,2,255,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"2">0,255,1,255,2,255,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"3">0,255,1,0,2,255,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"4">0,255,1,255,2,255,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"5">0,255,1,255,2,255,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"6">0,255,1,0,2,255,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"7">0,255,1,255,2,255,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"13">0,88</FixtureVal>
+   <FixtureVal ID=3D"15">0,255</FixtureVal>
+   <FixtureVal ID=3D"18">0,0</FixtureVal>
+   <FixtureVal ID=3D"8">0,255,1,255,2,0,3,255</FixtureVal>
+   <FixtureVal ID=3D"9">0,0,1,255,2,0,3,255</FixtureVal>
+   <FixtureVal ID=3D"10">0,255,1,255,2,0,3,255</FixtureVal>
+   <FixtureVal ID=3D"11">0,0,1,255,2,0,3,255</FixtureVal>
+   <FixtureVal ID=3D"21">0,255,1,255,2,0,3,255</FixtureVal>
+   <FixtureVal ID=3D"23">0,255,1,255,2,0,3,255,4,255,6,0</FixtureVal>
+  </Function>
+  <Function ID=3D"9" Type=3D"Scene" Name=3D"Bunt">
+   <Speed FadeIn=3D"0" FadeOut=3D"0" Duration=3D"0"/>
+   <FixtureVal ID=3D"0">0,255,1,255,2,255,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"1">0,255,1,255,2,0,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"2">0,255,1,0,2,255,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"3">0,255,1,0,2,0,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"4">0,255,1,255,2,0,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"5">0,255,1,0,2,255,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"6">0,255,1,255,2,255,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"7">0,255,1,0,2,255,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"13">0,255</FixtureVal>
+   <FixtureVal ID=3D"15">0,255</FixtureVal>
+   <FixtureVal ID=3D"18">0,255</FixtureVal>
+   <FixtureVal ID=3D"16">0,255</FixtureVal>
+   <FixtureVal ID=3D"17">0,255</FixtureVal>
+   <FixtureVal ID=3D"19">0,255</FixtureVal>
+   <FixtureVal ID=3D"14">0,255</FixtureVal>
+   <FixtureVal ID=3D"20">0,255</FixtureVal>
+   <FixtureVal ID=3D"8">0,255,1,0,2,0,3,255</FixtureVal>
+   <FixtureVal ID=3D"9">0,0,1,255,2,0,3,255</FixtureVal>
+   <FixtureVal ID=3D"10">0,0,1,0,2,255,3,255</FixtureVal>
+   <FixtureVal ID=3D"11">0,255,1,255,2,0,3,255</FixtureVal>
+   <FixtureVal ID=3D"21">0,0,1,255,2,255,3,255</FixtureVal>
+   <FixtureVal ID=3D"23">0,0,1,255,2,255,3,255,4,255,6,0</FixtureVal>
+  </Function>
+  <Function ID=3D"10" Type=3D"Chaser" Name=3D"Neuer Chaser 10">
+   <Speed FadeIn=3D"200" FadeOut=3D"200" Duration=3D"4294967294"/>
+   <Direction>Forward</Direction>
+   <RunOrder>Loop</RunOrder>
+   <SpeedModes FadeIn=3D"Common" FadeOut=3D"Common" Duration=3D"Common"/>
+   <Step Number=3D"0" FadeIn=3D"0" Hold=3D"0" FadeOut=3D"0">0</Step>
+   <Step Number=3D"1" FadeIn=3D"0" Hold=3D"0" FadeOut=3D"0">9</Step>
+   <Step Number=3D"2" FadeIn=3D"0" Hold=3D"0" FadeOut=3D"0">4</Step>
+   <Step Number=3D"3" FadeIn=3D"0" Hold=3D"0" FadeOut=3D"0">3</Step>
+   <Step Number=3D"4" FadeIn=3D"0" Hold=3D"0" FadeOut=3D"0">2</Step>
+   <Step Number=3D"5" FadeIn=3D"0" Hold=3D"0" FadeOut=3D"0">6</Step>
+   <Step Number=3D"6" FadeIn=3D"0" Hold=3D"0" FadeOut=3D"0">7</Step>
+   <Step Number=3D"7" FadeIn=3D"0" Hold=3D"0" FadeOut=3D"0">5</Step>
+   <Step Number=3D"8" FadeIn=3D"0" Hold=3D"0" FadeOut=3D"0">1</Step>
+  </Function>
+  <Function ID=3D"11" Type=3D"Scene" Name=3D"Gelb - Orange">
+   <Speed FadeIn=3D"0" FadeOut=3D"0" Duration=3D"0"/>
+   <FixtureVal ID=3D"0">0,255,1,255,2,255,3,0,5,0,6,0,7,252</FixtureVal>
+   <FixtureVal ID=3D"1">0,255,1,255,2,255,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"2">0,255,1,255,2,47,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"3">0,255,1,255,2,255,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"4">0,255,1,255,2,255,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"5">0,255,1,255,2,47,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"6">0,255,1,255,2,255,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"7">0,255,1,255,2,255,3,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"13">0,255</FixtureVal>
+   <FixtureVal ID=3D"15">0,255</FixtureVal>
+   <FixtureVal ID=3D"18">0,0</FixtureVal>
+   <FixtureVal ID=3D"8">0,255,1,255,2,0,3,255</FixtureVal>
+   <FixtureVal ID=3D"9">0,255,1,63,2,0,3,255</FixtureVal>
+   <FixtureVal ID=3D"10">0,255,1,255,2,0,3,255</FixtureVal>
+   <FixtureVal ID=3D"11">0,255,1,91,2,0,3,255</FixtureVal>
+   <FixtureVal ID=3D"21">0,255,1,55,2,0,3,255</FixtureVal>
+   <FixtureVal ID=3D"23">0,255,1,164,2,0,3,160,4,255,6,0</FixtureVal>
+  </Function>
+  <Function ID=3D"12" Type=3D"Scene" Name=3D"Kaltwei=C3=9F">
+   <Speed FadeIn=3D"1000" FadeOut=3D"1000" Duration=3D"0"/>
+   <ChannelGroupsVal>0,255,4,0</ChannelGroupsVal>
+   <FixtureVal ID=3D"0">0,255,1,255,2,255,3,255,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"1">0,255,1,255,2,255,3,255,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"2">0,255,1,255,2,255,3,255,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"3">0,255,1,255,2,255,3,255,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"4">0,255,1,255,2,255,3,255,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"5">0,255,1,255,2,255,3,255,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"6">0,255,1,255,2,255,3,255,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"7">0,255,1,255,2,255,3,255,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"13">0,0</FixtureVal>
+   <FixtureVal ID=3D"15">0,0</FixtureVal>
+   <FixtureVal ID=3D"18">0,0</FixtureVal>
+   <FixtureVal ID=3D"8">0,255,1,255,2,255,3,255,4,0</FixtureVal>
+   <FixtureVal ID=3D"9">0,255,1,255,2,255,3,255,4,0</FixtureVal>
+   <FixtureVal ID=3D"10">0,255,1,255,2,255,3,255,4,0</FixtureVal>
+   <FixtureVal ID=3D"11">0,255,1,255,2,255,3,255,4,0</FixtureVal>
+   <FixtureVal ID=3D"21">0,255,1,255,2,255,3,255,4,0</FixtureVal>
+   <FixtureVal ID=3D"23">0,255,1,255,2,255,3,255,4,255,5,0,6,0</FixtureVal=
+>
+  </Function>
+  <Function ID=3D"13" Type=3D"Scene" Name=3D"Blau - Violett">
+   <Speed FadeIn=3D"0" FadeOut=3D"0" Duration=3D"0"/>
+   <FixtureVal ID=3D"0">0,255,1,0,2,0,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"1">0,255,1,255,2,0,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"2">0,255,1,0,2,0,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"3">0,255,1,0,2,0,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"4">0,255,1,255,2,0,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"5">0,255,1,0,2,0,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"6">0,255,1,0,2,0,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"7">0,255,1,255,2,0,3,255,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"14">0,255</FixtureVal>
+   <FixtureVal ID=3D"20">0,0</FixtureVal>
+   <FixtureVal ID=3D"8">0,255,1,0,2,255,3,255</FixtureVal>
+   <FixtureVal ID=3D"9">0,0,1,0,2,255,3,255</FixtureVal>
+   <FixtureVal ID=3D"10">0,255,1,0,2,255,3,255</FixtureVal>
+   <FixtureVal ID=3D"11">0,0,1,0,2,255,3,255</FixtureVal>
+   <FixtureVal ID=3D"21">0,0,1,0,2,255,3,255</FixtureVal>
+   <FixtureVal ID=3D"23">0,255,1,0,2,255,3,0,4,255,6,0</FixtureVal>
+  </Function>
+  <Function ID=3D"14" Type=3D"Scene" Name=3D"Spiegelkugel Wei=C3=9F">
+   <Speed FadeIn=3D"0" FadeOut=3D"0" Duration=3D"0"/>
+   <FixtureVal ID=3D"22">0,255,1,255,2,255,3,255,4,0,6,255,7,0,8,0,9,0,10,=
+0,11,0</FixtureVal>
+  </Function>
+  <Function ID=3D"15" Type=3D"Scene" Name=3D"B=C3=BChnenlicht">
+   <Speed FadeIn=3D"1000" FadeOut=3D"1000" Duration=3D"0"/>
+   <FixtureVal ID=3D"7">0,255,1,255,2,255,3,255,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"0">0,255,1,255,2,255,3,255,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+  </Function>
+  <Function ID=3D"16" Type=3D"Scene" Name=3D"Fog">
+   <Speed FadeIn=3D"0" FadeOut=3D"0" Duration=3D"0"/>
+   <FixtureVal ID=3D"12">0,255</FixtureVal>
+  </Function>
+  <Function ID=3D"17" Type=3D"Scene" Name=3D"Kaltwei=C3=9F dunkler rechts"=
+>
+   <Speed FadeIn=3D"1000" FadeOut=3D"1000" Duration=3D"0"/>
+   <ChannelGroupsVal>0,149,4,0</ChannelGroupsVal>
+   <FixtureVal ID=3D"0">0,0,1,255,2,255,3,255,4,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"1">0,0,1,255,2,255,3,255,4,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"2">0,0,1,255,2,255,3,255,4,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"3">0,0,1,255,2,255,3,255,4,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"4">0,0,1,255,2,255,3,255,4,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"5">0,255,1,255,2,255,3,255,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"6">0,0,1,255,2,255,3,255,4,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"7">0,255,1,255,2,255,3,255,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"13">0,0</FixtureVal>
+   <FixtureVal ID=3D"15">0,0</FixtureVal>
+   <FixtureVal ID=3D"18">0,255</FixtureVal>
+   <FixtureVal ID=3D"8">0,255,1,255,2,255,3,0,4,0</FixtureVal>
+   <FixtureVal ID=3D"9">0,255,1,255,2,255,3,0,4,0</FixtureVal>
+   <FixtureVal ID=3D"10">0,255,1,255,2,255,3,255,4,0</FixtureVal>
+   <FixtureVal ID=3D"11">0,255,1,255,2,255,3,255,4,0</FixtureVal>
+   <FixtureVal ID=3D"21">0,255,1,255,2,255,3,149,4,0</FixtureVal>
+   <FixtureVal ID=3D"23">0,255,1,255,2,255,3,255,4,255,5,0,6,0</FixtureVal=
+>
+  </Function>
+  <Function ID=3D"18" Type=3D"Scene" Name=3D"Blaulicht">
+   <Speed FadeIn=3D"1000" FadeOut=3D"1000" Duration=3D"0"/>
+   <ChannelGroupsVal>0,255,1,0,2,0,3,255,4,0</ChannelGroupsVal>
+   <FixtureVal ID=3D"0">0,255,1,0,2,0,3,255,4,161,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"1">0,255,1,0,2,0,3,255,4,95,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"2">0,255,1,0,2,0,3,255,4,127,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"3">0,255,1,0,2,0,3,255,4,96,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"4">0,255,1,0,2,0,3,255,4,96,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"5">0,255,1,0,2,0,3,255,4,105,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"6">0,255,1,0,2,0,3,255,4,117,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"7">0,255,1,0,2,0,3,255,4,143,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"8">0,0,1,0,2,255,3,255,4,155</FixtureVal>
+   <FixtureVal ID=3D"9">0,0,1,0,2,255,3,255,4,93</FixtureVal>
+   <FixtureVal ID=3D"10">0,0,1,0,2,255,3,255,4,79</FixtureVal>
+   <FixtureVal ID=3D"11">0,0,1,0,2,255,3,255,4,183</FixtureVal>
+   <FixtureVal ID=3D"21">0,0,1,0,2,255,3,255,4,69</FixtureVal>
+   <FixtureVal ID=3D"23">0,0,1,0,2,255,3,0,4,255,5,174,6,0</FixtureVal>
+  </Function>
+  <Function ID=3D"19" Type=3D"Scene" Name=3D"Blackout">
+   <Speed FadeIn=3D"1000" FadeOut=3D"1000" Duration=3D"0"/>
+   <FixtureVal ID=3D"0">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"1">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"2">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"3">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"4">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"5">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"6">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"7">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"12">0,0</FixtureVal>
+   <FixtureVal ID=3D"13">0,0</FixtureVal>
+   <FixtureVal ID=3D"15">0,0</FixtureVal>
+   <FixtureVal ID=3D"18">0,0</FixtureVal>
+   <FixtureVal ID=3D"16">0,0</FixtureVal>
+   <FixtureVal ID=3D"17">0,0</FixtureVal>
+   <FixtureVal ID=3D"19">0,0</FixtureVal>
+   <FixtureVal ID=3D"14">0,0</FixtureVal>
+   <FixtureVal ID=3D"20">0,0</FixtureVal>
+   <FixtureVal ID=3D"22">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0=
+</FixtureVal>
+   <FixtureVal ID=3D"8">0,0,1,0,2,0,3,0,4,0</FixtureVal>
+   <FixtureVal ID=3D"9">0,0,1,0,2,0,3,0,4,0</FixtureVal>
+   <FixtureVal ID=3D"10">0,0,1,0,2,0,3,0,4,0</FixtureVal>
+   <FixtureVal ID=3D"11">0,0,1,0,2,0,3,0,4,0</FixtureVal>
+   <FixtureVal ID=3D"21">0,0,1,0,2,0,3,0,4,0</FixtureVal>
+   <FixtureVal ID=3D"23">0,0,1,0,2,0,3,0,4,0,5,0,6,0</FixtureVal>
+  </Function>
+  <Function ID=3D"20" Type=3D"Scene" Name=3D"Warmwei=C3=9F Par dunkler">
+   <Speed FadeIn=3D"1000" FadeOut=3D"1000" Duration=3D"0"/>
+   <ChannelGroupsVal>0,255,1,255,2,255,3,107,5,124,4,0</ChannelGroupsVal>
+   <FixtureVal ID=3D"0">0,255,1,255,2,255,3,107,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"1">0,255,1,255,2,255,3,107,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"2">0,255,1,255,2,255,3,107,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"3">0,255,1,255,2,255,3,107,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"4">0,255,1,255,2,255,3,107,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"5">0,255,1,255,2,255,3,107,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"6">0,255,1,255,2,255,3,107,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"7">0,255,1,255,2,255,3,107,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"8">0,255,1,255,2,107,3,255,4,0</FixtureVal>
+   <FixtureVal ID=3D"9">0,255,1,255,2,107,3,255,4,0</FixtureVal>
+   <FixtureVal ID=3D"10">0,255,1,255,2,107,3,255,4,0</FixtureVal>
+   <FixtureVal ID=3D"11">0,255,1,255,2,107,3,255,4,0</FixtureVal>
+   <FixtureVal ID=3D"14">0,124</FixtureVal>
+   <FixtureVal ID=3D"20">0,124</FixtureVal>
+   <FixtureVal ID=3D"13">0,124</FixtureVal>
+   <FixtureVal ID=3D"15">0,124</FixtureVal>
+   <FixtureVal ID=3D"18">0,124</FixtureVal>
+   <FixtureVal ID=3D"16">0,124</FixtureVal>
+   <FixtureVal ID=3D"17">0,124</FixtureVal>
+   <FixtureVal ID=3D"19">0,124</FixtureVal>
+   <FixtureVal ID=3D"21">4,0</FixtureVal>
+   <FixtureVal ID=3D"23">0,255,1,255,2,114,3,255,4,255,5,0,6,0</FixtureVal=
+>
+  </Function>
+  <Function ID=3D"21" Type=3D"Chaser" Name=3D"Theater">
+   <Speed FadeIn=3D"1000" FadeOut=3D"1000" Duration=3D"4294967294"/>
+   <Direction>Forward</Direction>
+   <RunOrder>Loop</RunOrder>
+   <SpeedModes FadeIn=3D"PerStep" FadeOut=3D"PerStep" Duration=3D"PerStep"=
+/>
+   <Step Number=3D"0" FadeIn=3D"500" Hold=3D"4294967294" FadeOut=3D"1000">=
+1</Step>
+   <Step Number=3D"1" FadeIn=3D"1000" Hold=3D"4294967294" FadeOut=3D"1000"=
+>19</Step>
+   <Step Number=3D"2" FadeIn=3D"0" Hold=3D"4294967294" FadeOut=3D"0">15</S=
+tep>
+   <Step Number=3D"3" FadeIn=3D"0" Hold=3D"4294967294" FadeOut=3D"1000">19=
+</Step>
+   <Step Number=3D"4" FadeIn=3D"1000" Hold=3D"4294967294" FadeOut=3D"400">=
+1</Step>
+   <Step Number=3D"5" FadeIn=3D"400" Hold=3D"4294967294" FadeOut=3D"1000">=
+19</Step>
+   <Step Number=3D"6" FadeIn=3D"0" Hold=3D"4294967294" FadeOut=3D"0">15</S=
+tep>
+   <Step Number=3D"7" FadeIn=3D"0" Hold=3D"4294967294" FadeOut=3D"1000">19=
+</Step>
+   <Step Number=3D"8" FadeIn=3D"1000" Hold=3D"4294967294" FadeOut=3D"10">2=
+5</Step>
+   <Step Number=3D"9" FadeIn=3D"10" Hold=3D"4294967294" FadeOut=3D"1000">1=
+9</Step>
+   <Step Number=3D"10" FadeIn=3D"1000" Hold=3D"4294967294" FadeOut=3D"1000=
+">25</Step>
+   <Step Number=3D"11" FadeIn=3D"1000" Hold=3D"4294967294" FadeOut=3D"1000=
+">27</Step>
+   <Step Number=3D"12" FadeIn=3D"1000" Hold=3D"4294967294" FadeOut=3D"1000=
+">1</Step>
+   <Step Number=3D"13" FadeIn=3D"1000" Hold=3D"4294967294" FadeOut=3D"8000=
+">12</Step>
+   <Step Number=3D"14" FadeIn=3D"8000" Hold=3D"4294967294" FadeOut=3D"1000=
+">23</Step>
+   <Step Number=3D"15" FadeIn=3D"1000" Hold=3D"4294967294" FadeOut=3D"0">1=
+9</Step>
+   <Step Number=3D"16" FadeIn=3D"0" Hold=3D"4294967294" FadeOut=3D"0">15</=
+Step>
+   <Step Number=3D"17" FadeIn=3D"0" Hold=3D"4294967294" FadeOut=3D"1000">1=
+9</Step>
+   <Step Number=3D"18" FadeIn=3D"1000" Hold=3D"4294967294" FadeOut=3D"10">=
+12</Step>
+   <Step Number=3D"19" FadeIn=3D"10" Hold=3D"4294967294" FadeOut=3D"10">19=
+</Step>
+   <Step Number=3D"20" FadeIn=3D"10" Hold=3D"4294967294" FadeOut=3D"1000">=
+12</Step>
+   <Step Number=3D"21" FadeIn=3D"1000" Hold=3D"4294967294" FadeOut=3D"1000=
+">18</Step>
+   <Step Number=3D"22" FadeIn=3D"1000" Hold=3D"4294967294" FadeOut=3D"1000=
+">19</Step>
+   <Step Number=3D"23" FadeIn=3D"1000" Hold=3D"4294967294" FadeOut=3D"1000=
+">1</Step>
+   <Step Number=3D"24" FadeIn=3D"1000" Hold=3D"4294967294" FadeOut=3D"1000=
+">19</Step>
+   <Step Number=3D"25" FadeIn=3D"1000" Hold=3D"4294967294" FadeOut=3D"10">=
+23</Step>
+   <Step Number=3D"26" FadeIn=3D"10" Hold=3D"700" FadeOut=3D"50">19</Step>
+   <Step Number=3D"27" FadeIn=3D"10" Hold=3D"10" FadeOut=3D"50">23</Step>
+   <Step Number=3D"28" FadeIn=3D"10" Hold=3D"4294967294" FadeOut=3D"10">19=
+</Step>
+   <Step Number=3D"29" FadeIn=3D"0" Hold=3D"4294967294" FadeOut=3D"0">15</=
+Step>
+   <Step Number=3D"30" FadeIn=3D"0" Hold=3D"4294967294" FadeOut=3D"1000">1=
+9</Step>
+   <Step Number=3D"31" FadeIn=3D"1000" Hold=3D"4294967294" FadeOut=3D"300"=
+>17</Step>
+   <Step Number=3D"32" FadeIn=3D"300" Hold=3D"4294967294" FadeOut=3D"300">=
+19</Step>
+   <Step Number=3D"33" FadeIn=3D"300" Hold=3D"4294967294" FadeOut=3D"1000"=
+>17</Step>
+   <Step Number=3D"34" FadeIn=3D"1000" Hold=3D"4294967294" FadeOut=3D"1000=
+">19</Step>
+   <Step Number=3D"35" FadeIn=3D"1000" Hold=3D"4294967294" FadeOut=3D"1000=
+">1</Step>
+   <Step Number=3D"36" FadeIn=3D"1000" Hold=3D"4294967294" FadeOut=3D"1000=
+">19</Step>
+  </Function>
+  <Function ID=3D"22" Type=3D"Scene" Name=3D"Kaltwei=C3=9F dunkler links">
+   <Speed FadeIn=3D"1000" FadeOut=3D"1000" Duration=3D"0"/>
+   <ChannelGroupsVal>0,149,4,0</ChannelGroupsVal>
+   <FixtureVal ID=3D"0">0,150,1,255,2,255,3,255,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"1">0,255,1,255,2,255,3,255,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"2">0,255,1,255,2,255,3,255,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"3">0,0,1,255,2,255,3,255,4,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"4">0,0,1,255,2,255,3,255,4,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"5">0,0,1,255,2,255,3,255,4,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"6">0,255,1,255,2,255,3,255,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"7">0,0,1,255,2,255,3,255,4,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"13">0,0</FixtureVal>
+   <FixtureVal ID=3D"15">0,0</FixtureVal>
+   <FixtureVal ID=3D"18">0,0</FixtureVal>
+   <FixtureVal ID=3D"8">0,255,1,255,2,255,3,255,4,0</FixtureVal>
+   <FixtureVal ID=3D"9">0,255,1,255,2,255,3,255,4,0</FixtureVal>
+   <FixtureVal ID=3D"10">0,255,1,255,2,255,3,0,4,0</FixtureVal>
+   <FixtureVal ID=3D"11">0,255,1,255,2,255,3,0,4,0</FixtureVal>
+   <FixtureVal ID=3D"21">0,255,1,255,2,255,3,149,4,0</FixtureVal>
+   <FixtureVal ID=3D"23">0,255,1,255,2,255,3,255,4,0,5,0,6,0</FixtureVal>
+  </Function>
+  <Function ID=3D"23" Type=3D"Scene" Name=3D"Kaltwei=C3=9F dunkler">
+   <Speed FadeIn=3D"1000" FadeOut=3D"1000" Duration=3D"0"/>
+   <ChannelGroupsVal>0,146,4,0</ChannelGroupsVal>
+   <FixtureVal ID=3D"0">0,146,1,255,2,255,3,255,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"1">0,146,1,255,2,255,3,255,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"2">0,146,1,255,2,255,3,255,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"3">0,146,1,255,2,255,3,255,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"4">0,146,1,255,2,255,3,255,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"5">0,146,1,255,2,255,3,255,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"6">0,146,1,255,2,255,3,255,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"7">0,146,1,255,2,255,3,255,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"13">0,0</FixtureVal>
+   <FixtureVal ID=3D"15">0,0</FixtureVal>
+   <FixtureVal ID=3D"18">0,0</FixtureVal>
+   <FixtureVal ID=3D"8">0,255,1,255,2,255,3,146,4,0</FixtureVal>
+   <FixtureVal ID=3D"9">0,255,1,255,2,255,3,146,4,0</FixtureVal>
+   <FixtureVal ID=3D"10">0,255,1,255,2,255,3,146,4,0</FixtureVal>
+   <FixtureVal ID=3D"11">0,255,1,255,2,255,3,146,4,0</FixtureVal>
+   <FixtureVal ID=3D"21">0,255,1,255,2,255,3,146,4,0</FixtureVal>
+   <FixtureVal ID=3D"23">0,255,1,255,2,255,3,255,4,146,5,0,6,0</FixtureVal=
+>
+  </Function>
+  <Function ID=3D"24" Type=3D"RGBMatrix" Name=3D"Neue RGB Matrix 24">
+   <Speed FadeIn=3D"0" FadeOut=3D"0" Duration=3D"500"/>
+   <Direction>Forward</Direction>
+   <RunOrder>Loop</RunOrder>
+   <Algorithm Type=3D"Script">Stripes</Algorithm>
+   <DimmerControl>1</DimmerControl>
+   <MonoColor>4294901760</MonoColor>
+   <FixtureGroup>4294967295</FixtureGroup>
+  </Function>
+  <Function ID=3D"25" Type=3D"Scene" Name=3D"Warmwei=C3=9F bunt">
+   <Speed FadeIn=3D"1000" FadeOut=3D"1000" Duration=3D"0"/>
+   <ChannelGroupsVal>0,255,1,255,2,255,3,107,5,124,4,0</ChannelGroupsVal>
+   <FixtureVal ID=3D"0">0,255,1,255,2,130,3,0,4,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"1">0,255,1,255,2,171,3,165,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"2">0,255,1,255,2,255,3,0,4,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"3">0,255,1,255,2,255,3,0,4,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"4">0,255,1,255,2,255,3,0,4,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"5">0,255,1,255,2,114,3,107,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"6">0,255,1,255,2,110,3,107,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"7">0,255,1,255,2,137,3,133,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"8">0,255,1,144,2,0,3,255,4,0</FixtureVal>
+   <FixtureVal ID=3D"9">0,255,1,255,2,0,3,255,4,0</FixtureVal>
+   <FixtureVal ID=3D"10">0,255,1,180,2,107,3,255,4,0</FixtureVal>
+   <FixtureVal ID=3D"11">0,255,1,173,2,79,3,255,4,0</FixtureVal>
+   <FixtureVal ID=3D"14">0,255</FixtureVal>
+   <FixtureVal ID=3D"20">0,255</FixtureVal>
+   <FixtureVal ID=3D"13">0,255</FixtureVal>
+   <FixtureVal ID=3D"15">0,255</FixtureVal>
+   <FixtureVal ID=3D"18">0,255</FixtureVal>
+   <FixtureVal ID=3D"16">0,255</FixtureVal>
+   <FixtureVal ID=3D"17">0,255</FixtureVal>
+   <FixtureVal ID=3D"19">0,255</FixtureVal>
+   <FixtureVal ID=3D"21">4,0</FixtureVal>
+   <FixtureVal ID=3D"23">0,255,1,255,2,0,3,255,4,255,5,0,6,0</FixtureVal>
+  </Function>
+  <Function ID=3D"26" Type=3D"Scene" Name=3D"Kaltwei=C3=9F kalt">
+   <Speed FadeIn=3D"1000" FadeOut=3D"1000" Duration=3D"0"/>
+   <ChannelGroupsVal>0,255,4,0,1,214,2,212,3,255</ChannelGroupsVal>
+   <FixtureVal ID=3D"0">0,255,1,214,2,212,3,255,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"1">0,255,1,214,2,212,3,255,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"2">0,255,1,214,2,212,3,255,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"3">0,255,1,214,2,212,3,255,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"4">0,255,1,214,2,212,3,255,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"5">0,255,1,214,2,212,3,255,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"6">0,255,1,214,2,212,3,255,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"7">0,255,1,214,2,212,3,255,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"13">0,0</FixtureVal>
+   <FixtureVal ID=3D"15">0,0</FixtureVal>
+   <FixtureVal ID=3D"18">0,0</FixtureVal>
+   <FixtureVal ID=3D"8">0,214,1,212,2,255,3,255,4,0</FixtureVal>
+   <FixtureVal ID=3D"9">0,214,1,212,2,255,3,255,4,0</FixtureVal>
+   <FixtureVal ID=3D"10">0,214,1,212,2,255,3,255,4,0</FixtureVal>
+   <FixtureVal ID=3D"11">0,214,1,212,2,255,3,255,4,0</FixtureVal>
+   <FixtureVal ID=3D"21">0,214,1,212,2,255,3,255,4,0</FixtureVal>
+   <FixtureVal ID=3D"23">0,214,1,212,2,255,3,255,4,255,5,0,6,0</FixtureVal=
+>
+  </Function>
+  <Function ID=3D"27" Type=3D"Scene" Name=3D"Warmwei=C3=9F links">
+   <Speed FadeIn=3D"1000" FadeOut=3D"1000" Duration=3D"0"/>
+   <ChannelGroupsVal>0,255,1,255,2,255,3,107,4,0</ChannelGroupsVal>
+   <FixtureVal ID=3D"0">0,255,1,255,2,255,3,107,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"1">0,255,1,255,2,255,3,107,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"2">0,255,1,255,2,255,3,107,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"3">0,0,1,255,2,255,3,107,4,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"4">0,0,1,255,2,255,3,107,4,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"5">0,0,1,255,2,255,3,107,4,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"6">0,255,1,255,2,255,3,107,4,0,5,0,6,0,7,0</FixtureVa=
+l>
+   <FixtureVal ID=3D"7">0,0,1,255,2,255,3,107,4,0,5,0,6,0,7,0</FixtureVal>
+   <FixtureVal ID=3D"8">0,255,1,255,2,107,3,255,4,0</FixtureVal>
+   <FixtureVal ID=3D"9">0,255,1,255,2,107,3,0,4,0</FixtureVal>
+   <FixtureVal ID=3D"10">0,255,1,255,2,155,3,0,4,0</FixtureVal>
+   <FixtureVal ID=3D"11">0,255,1,255,2,107,3,0,4,0</FixtureVal>
+   <FixtureVal ID=3D"14">0,255</FixtureVal>
+   <FixtureVal ID=3D"20">0,0</FixtureVal>
+   <FixtureVal ID=3D"13">0,255</FixtureVal>
+   <FixtureVal ID=3D"15">0,0</FixtureVal>
+   <FixtureVal ID=3D"18">0,0</FixtureVal>
+   <FixtureVal ID=3D"16">0,0</FixtureVal>
+   <FixtureVal ID=3D"17">0,255</FixtureVal>
+   <FixtureVal ID=3D"19">0,0</FixtureVal>
+   <FixtureVal ID=3D"21">4,0</FixtureVal>
+   <FixtureVal ID=3D"23">0,255,1,255,2,131,3,255,4,0,5,0,6,0</FixtureVal>
+  </Function>
+  <Monitor DisplayMode=3D"0" ShowLabels=3D"0">
+   <Font>Arial,12,-1,5,50,0,0,0,0,0</Font>
+   <ChannelStyle>0</ChannelStyle>
+   <ValueStyle>0</ValueStyle>
+   <Grid Width=3D"5" Height=3D"3" Depth=3D"5" Units=3D"0"/>
+  </Monitor>
+ </Engine>
+ <VirtualConsole>
+  <Frame Caption=3D"">
+   <Appearance>
+    <FrameStyle>None</FrameStyle>
+    <ForegroundColor>Default</ForegroundColor>
+    <BackgroundColor>4286743170</BackgroundColor>
+    <BackgroundImage>None</BackgroundImage>
+    <Font>Default</Font>
+   </Appearance>
+   <Button Caption=3D"Nebel" ID=3D"1" Icon=3D"">
+    <WindowState Visible=3D"True" X=3D"280" Y=3D"420" Width=3D"130" Height=
+=3D"135"/>
+    <Appearance>
+     <FrameStyle>None</FrameStyle>
+     <ForegroundColor>Default</ForegroundColor>
+     <BackgroundColor>Default</BackgroundColor>
+     <BackgroundImage>None</BackgroundImage>
+     <Font>Default</Font>
+    </Appearance>
+    <Function ID=3D"16"/>
+    <Action>Flash</Action>
+    <Intensity Adjust=3D"False">100</Intensity>
+   </Button>
+   <Slider Caption=3D"Strobe" ID=3D"0" WidgetStyle=3D"Slider" InvertedAppe=
+arance=3D"false">
+    <WindowState Visible=3D"True" X=3D"0" Y=3D"395" Width=3D"55" Height=3D=
+"400"/>
+    <Appearance>
+     <FrameStyle>Sunken</FrameStyle>
+     <ForegroundColor>Default</ForegroundColor>
+     <BackgroundColor>Default</BackgroundColor>
+     <BackgroundImage>None</BackgroundImage>
+     <Font>Default</Font>
+    </Appearance>
+    <Input Universe=3D"2" Channel=3D"0"/>
+    <SliderMode ValueDisplayStyle=3D"Exact" ClickAndGoType=3D"None" Monito=
+r=3D"false">Level</SliderMode>
+    <Level LowLimit=3D"0" HighLimit=3D"255" Value=3D"0">
+     <Channel Fixture=3D"0">4</Channel>
+     <Channel Fixture=3D"1">4</Channel>
+     <Channel Fixture=3D"2">4</Channel>
+     <Channel Fixture=3D"3">4</Channel>
+     <Channel Fixture=3D"4">4</Channel>
+     <Channel Fixture=3D"5">4</Channel>
+     <Channel Fixture=3D"6">4</Channel>
+     <Channel Fixture=3D"7">4</Channel>
+     <Channel Fixture=3D"8">4</Channel>
+     <Channel Fixture=3D"9">4</Channel>
+     <Channel Fixture=3D"10">4</Channel>
+     <Channel Fixture=3D"11">4</Channel>
+     <Channel Fixture=3D"21">4</Channel>
+     <Channel Fixture=3D"22">5</Channel>
+     <Channel Fixture=3D"23">5</Channel>
+    </Level>
+    <Playback>
+     <Function>4294967295</Function>
+    </Playback>
+   </Slider>
+   <Button Caption=3D"Bunt" ID=3D"2" Icon=3D"">
+    <WindowState Visible=3D"True" X=3D"610" Y=3D"95" Width=3D"135" Height=
+=3D"125"/>
+    <Appearance>
+     <FrameStyle>None</FrameStyle>
+     <ForegroundColor>Default</ForegroundColor>
+     <BackgroundColor>Default</BackgroundColor>
+     <BackgroundImage>None</BackgroundImage>
+     <Font>Default</Font>
+    </Appearance>
+    <Function ID=3D"9"/>
+    <Action>Toggle</Action>
+    <Intensity Adjust=3D"False">100</Intensity>
+   </Button>
+   <Clock Type=3D"Clock" Caption=3D"" ID=3D"4">
+    <WindowState Visible=3D"True" X=3D"0" Y=3D"0" Width=3D"150" Height=3D"=
+50"/>
+    <Appearance>
+     <FrameStyle>None</FrameStyle>
+     <ForegroundColor>Default</ForegroundColor>
+     <BackgroundColor>Default</BackgroundColor>
+     <BackgroundImage>None</BackgroundImage>
+     <Font>MS Shell Dlg 2,-1,28,5,75,0,0,0,0,0</Font>
+    </Appearance>
+   </Clock>
+   <Button Caption=3D"Rot" ID=3D"5" Icon=3D"">
+    <WindowState Visible=3D"True" X=3D"450" Y=3D"95" Width=3D"130" Height=
+=3D"125"/>
+    <Appearance>
+     <FrameStyle>None</FrameStyle>
+     <ForegroundColor>Default</ForegroundColor>
+     <BackgroundColor>Default</BackgroundColor>
+     <BackgroundImage>None</BackgroundImage>
+     <Font>Default</Font>
+    </Appearance>
+    <Function ID=3D"2"/>
+    <Action>Toggle</Action>
+    <Intensity Adjust=3D"False">100</Intensity>
+   </Button>
+   <Button Caption=3D"Spiegelkugel Wei=C3=9F" ID=3D"6" Icon=3D"">
+    <WindowState Visible=3D"True" X=3D"35" Y=3D"95" Width=3D"80" Height=3D=
+"80"/>
+    <Appearance>
+     <FrameStyle>None</FrameStyle>
+     <ForegroundColor>Default</ForegroundColor>
+     <BackgroundColor>Default</BackgroundColor>
+     <BackgroundImage>None</BackgroundImage>
+     <Font>Default</Font>
+    </Appearance>
+    <Function ID=3D"14"/>
+    <Action>Toggle</Action>
+    <Intensity Adjust=3D"False">100</Intensity>
+   </Button>
+   <Button Caption=3D"Warmwei=C3=9F" ID=3D"31" Icon=3D"">
+    <WindowState Visible=3D"True" X=3D"285" Y=3D"95" Width=3D"125" Height=
+=3D"125"/>
+    <Appearance>
+     <FrameStyle>None</FrameStyle>
+     <ForegroundColor>Default</ForegroundColor>
+     <BackgroundColor>Default</BackgroundColor>
+     <BackgroundImage>None</BackgroundImage>
+     <Font>Default</Font>
+    </Appearance>
+    <Function ID=3D"1"/>
+    <Action>Toggle</Action>
+    <Intensity Adjust=3D"False">100</Intensity>
+   </Button>
+   <Slider Caption=3D"Nebel" ID=3D"3" WidgetStyle=3D"Slider" InvertedAppea=
+rance=3D"false">
+    <WindowState Visible=3D"True" X=3D"55" Y=3D"395" Width=3D"55" Height=
+=3D"400"/>
+    <Appearance>
+     <FrameStyle>Sunken</FrameStyle>
+     <ForegroundColor>Default</ForegroundColor>
+     <BackgroundColor>Default</BackgroundColor>
+     <BackgroundImage>None</BackgroundImage>
+     <Font>Default</Font>
+    </Appearance>
+    <SliderMode ValueDisplayStyle=3D"Exact" ClickAndGoType=3D"None" Monito=
+r=3D"false">Level</SliderMode>
+    <Level LowLimit=3D"0" HighLimit=3D"255" Value=3D"0">
+     <Channel Fixture=3D"12">0</Channel>
+    </Level>
+    <Playback>
+     <Function>4294967295</Function>
+    </Playback>
+   </Slider>
+   <Button Caption=3D"B=C3=BChnenlicht" ID=3D"7" Icon=3D"">
+    <WindowState Visible=3D"True" X=3D"285" Y=3D"260" Width=3D"125" Height=
+=3D"135"/>
+    <Appearance>
+     <FrameStyle>None</FrameStyle>
+     <ForegroundColor>Default</ForegroundColor>
+     <BackgroundColor>Default</BackgroundColor>
+     <BackgroundImage>None</BackgroundImage>
+     <Font>Default</Font>
+    </Appearance>
+    <Function ID=3D"15"/>
+    <Action>Toggle</Action>
+    <Intensity Adjust=3D"False">100</Intensity>
+   </Button>
+   <Button Caption=3D"Kaltwei=C3=9F" ID=3D"8" Icon=3D"">
+    <WindowState Visible=3D"True" X=3D"450" Y=3D"260" Width=3D"130" Height=
+=3D"135"/>
+    <Appearance>
+     <FrameStyle>None</FrameStyle>
+     <ForegroundColor>Default</ForegroundColor>
+     <BackgroundColor>Default</BackgroundColor>
+     <BackgroundImage>None</BackgroundImage>
+     <Font>Default</Font>
+    </Appearance>
+    <Function ID=3D"12"/>
+    <Action>Toggle</Action>
+    <Intensity Adjust=3D"False">100</Intensity>
+   </Button>
+   <Button Caption=3D"Kaltwei=C3=9F dunkler" ID=3D"9" Icon=3D"">
+    <WindowState Visible=3D"True" X=3D"610" Y=3D"260" Width=3D"135" Height=
+=3D"125"/>
+    <Appearance>
+     <FrameStyle>None</FrameStyle>
+     <ForegroundColor>Default</ForegroundColor>
+     <BackgroundColor>Default</BackgroundColor>
+     <BackgroundImage>None</BackgroundImage>
+     <Font>Default</Font>
+    </Appearance>
+    <Function ID=3D"23"/>
+    <Action>Toggle</Action>
+    <Intensity Adjust=3D"False">100</Intensity>
+   </Button>
+   <SoloFrame Caption=3D"" ID=3D"10">
+    <Appearance>
+     <FrameStyle>Sunken</FrameStyle>
+     <ForegroundColor>Default</ForegroundColor>
+     <BackgroundColor>Default</BackgroundColor>
+     <BackgroundImage>None</BackgroundImage>
+     <Font>Default</Font>
+    </Appearance>
+    <WindowState Visible=3D"True" X=3D"820" Y=3D"115" Width=3D"625" Height=
+=3D"435"/>
+    <AllowChildren>True</AllowChildren>
+    <AllowResize>True</AllowResize>
+    <ShowHeader>True</ShowHeader>
+    <ShowEnableButton>True</ShowEnableButton>
+    <Mixing>False</Mixing>
+    <Collapsed>False</Collapsed>
+    <Disabled>False</Disabled>
+    <Button Caption=3D"Kaltwei=C3=9F" ID=3D"12" Icon=3D"">
+     <WindowState Visible=3D"True" X=3D"15" Y=3D"55" Width=3D"100" Height=
+=3D"110"/>
+     <Appearance>
+      <FrameStyle>None</FrameStyle>
+      <ForegroundColor>Default</ForegroundColor>
+      <BackgroundColor>Default</BackgroundColor>
+      <BackgroundImage>None</BackgroundImage>
+      <Font>Default</Font>
+     </Appearance>
+     <Function ID=3D"12"/>
+     <Action>Toggle</Action>
+     <Intensity Adjust=3D"False">100</Intensity>
+    </Button>
+    <Button Caption=3D"Blaulicht" ID=3D"13" Icon=3D"">
+     <WindowState Visible=3D"True" X=3D"500" Y=3D"55" Width=3D"90" Height=
+=3D"110"/>
+     <Appearance>
+      <FrameStyle>None</FrameStyle>
+      <ForegroundColor>Default</ForegroundColor>
+      <BackgroundColor>Default</BackgroundColor>
+      <BackgroundImage>None</BackgroundImage>
+      <Font>Default</Font>
+     </Appearance>
+     <Function ID=3D"18"/>
+     <Action>Toggle</Action>
+     <Intensity Adjust=3D"False">100</Intensity>
+    </Button>
+    <Button Caption=3D"Kaltwei=C3=9F dunkler" ID=3D"14" Icon=3D"">
+     <WindowState Visible=3D"True" X=3D"135" Y=3D"55" Width=3D"105" Height=
+=3D"110"/>
+     <Appearance>
+      <FrameStyle>None</FrameStyle>
+      <ForegroundColor>Default</ForegroundColor>
+      <BackgroundColor>Default</BackgroundColor>
+      <BackgroundImage>None</BackgroundImage>
+      <Font>Default</Font>
+     </Appearance>
+     <Function ID=3D"23"/>
+     <Action>Toggle</Action>
+     <Intensity Adjust=3D"False">100</Intensity>
+    </Button>
+    <Button Caption=3D"B=C3=BChnenlicht" ID=3D"15" Icon=3D"">
+     <WindowState Visible=3D"True" X=3D"380" Y=3D"55" Width=3D"100" Height=
+=3D"110"/>
+     <Appearance>
+      <FrameStyle>None</FrameStyle>
+      <ForegroundColor>Default</ForegroundColor>
+      <BackgroundColor>Default</BackgroundColor>
+      <BackgroundImage>None</BackgroundImage>
+      <Font>Default</Font>
+     </Appearance>
+     <Function ID=3D"15"/>
+     <Action>Toggle</Action>
+     <Intensity Adjust=3D"False">100</Intensity>
+    </Button>
+    <Button Caption=3D"Blackout" ID=3D"16" Icon=3D"">
+     <WindowState Visible=3D"True" X=3D"260" Y=3D"55" Width=3D"100" Height=
+=3D"110"/>
+     <Appearance>
+      <FrameStyle>None</FrameStyle>
+      <ForegroundColor>Default</ForegroundColor>
+      <BackgroundColor>Default</BackgroundColor>
+      <BackgroundImage>None</BackgroundImage>
+      <Font>Default</Font>
+     </Appearance>
+     <Function ID=3D"19"/>
+     <Action>Toggle</Action>
+     <Intensity Adjust=3D"False">100</Intensity>
+    </Button>
+    <Button Caption=3D"Warmwei=C3=9F" ID=3D"17" Icon=3D"">
+     <WindowState Visible=3D"True" X=3D"15" Y=3D"205" Width=3D"100" Height=
+=3D"130"/>
+     <Appearance>
+      <FrameStyle>None</FrameStyle>
+      <ForegroundColor>Default</ForegroundColor>
+      <BackgroundColor>Default</BackgroundColor>
+      <BackgroundImage>None</BackgroundImage>
+      <Font>Default</Font>
+     </Appearance>
+     <Function ID=3D"20"/>
+     <Action>Toggle</Action>
+     <Intensity Adjust=3D"False">100</Intensity>
+    </Button>
+    <Button Caption=3D"Warmwei=C3=9F bunt" ID=3D"18" Icon=3D"">
+     <WindowState Visible=3D"True" X=3D"135" Y=3D"205" Width=3D"105" Heigh=
+t=3D"130"/>
+     <Appearance>
+      <FrameStyle>None</FrameStyle>
+      <ForegroundColor>Default</ForegroundColor>
+      <BackgroundColor>Default</BackgroundColor>
+      <BackgroundImage>None</BackgroundImage>
+      <Font>Default</Font>
+     </Appearance>
+     <Function ID=3D"25"/>
+     <Action>Toggle</Action>
+     <Intensity Adjust=3D"False">100</Intensity>
+    </Button>
+    <Button Caption=3D"Warmwei=C3=9F links" ID=3D"19" Icon=3D"">
+     <WindowState Visible=3D"True" X=3D"260" Y=3D"205" Width=3D"100" Heigh=
+t=3D"130"/>
+     <Appearance>
+      <FrameStyle>None</FrameStyle>
+      <ForegroundColor>Default</ForegroundColor>
+      <BackgroundColor>Default</BackgroundColor>
+      <BackgroundImage>None</BackgroundImage>
+      <Font>Default</Font>
+     </Appearance>
+     <Function ID=3D"27"/>
+     <Action>Toggle</Action>
+     <Intensity Adjust=3D"False">100</Intensity>
+    </Button>
+    <Button Caption=3D"Kaltwei=C3=9F dunkler rechts" ID=3D"21" Icon=3D"">
+     <WindowState Visible=3D"True" X=3D"380" Y=3D"205" Width=3D"100" Heigh=
+t=3D"130"/>
+     <Appearance>
+      <FrameStyle>None</FrameStyle>
+      <ForegroundColor>Default</ForegroundColor>
+      <BackgroundColor>Default</BackgroundColor>
+      <BackgroundImage>None</BackgroundImage>
+      <Font>Default</Font>
+     </Appearance>
+     <Function ID=3D"17"/>
+     <Action>Toggle</Action>
+     <Intensity Adjust=3D"False">100</Intensity>
+    </Button>
+   </SoloFrame>
+   <Button Caption=3D"Blaulicht" ID=3D"11" Icon=3D"">
+    <WindowState Visible=3D"True" X=3D"450" Y=3D"420" Width=3D"130" Height=
+=3D"135"/>
+    <Appearance>
+     <FrameStyle>None</FrameStyle>
+     <ForegroundColor>Default</ForegroundColor>
+     <BackgroundColor>Default</BackgroundColor>
+     <BackgroundImage>None</BackgroundImage>
+     <Font>Default</Font>
+    </Appearance>
+    <Function ID=3D"18"/>
+    <Action>Toggle</Action>
+    <Intensity Adjust=3D"False">100</Intensity>
+   </Button>
+   <CueList Caption=3D"Cue-Liste" ID=3D"20">
+    <WindowState Visible=3D"True" X=3D"820" Y=3D"570" Width=3D"490" Height=
+=3D"235"/>
+    <Appearance>
+     <FrameStyle>Sunken</FrameStyle>
+     <ForegroundColor>Default</ForegroundColor>
+     <BackgroundColor>Default</BackgroundColor>
+     <BackgroundImage>None</BackgroundImage>
+     <Font>Default</Font>
+    </Appearance>
+    <Chaser>21</Chaser>
+    <NextPrevBehavior>0</NextPrevBehavior>
+    <Next/>
+    <Previous/>
+    <Playback/>
+    <Stop/>
+   </CueList>
+  </Frame>
+  <Properties>
+   <Size Width=3D"1920" Height=3D"1080"/>
+   <GrandMaster ChannelMode=3D"Intensity" ValueMode=3D"Reduce" SliderMode=
+=3D"Normal"/>
+  </Properties>
+ </VirtualConsole>
+ <SimpleDesk>
+  <Engine>
+   <CueStack ID=3D"0">
+    <Speed FadeIn=3D"0" FadeOut=3D"0" Duration=3D"4294967295"/>
+    <Cue Name=3D"Cue 1">
+     <Value Channel=3D"0">255</Value>
+     <Value Channel=3D"1">255</Value>
+     <Speed FadeIn=3D"0" FadeOut=3D"0" Duration=3D"0"/>
+    </Cue>
+    <Cue Name=3D"Cue 2">
+     <Value Channel=3D"29">0</Value>
+     <Value Channel=3D"32">0</Value>
+     <Value Channel=3D"0">0</Value>
+     <Value Channel=3D"1">0</Value>
+     <Value Channel=3D"26">0</Value>
+     <Value Channel=3D"27">0</Value>
+     <Value Channel=3D"24">0</Value>
+     <Value Channel=3D"25">0</Value>
+     <Value Channel=3D"30">0</Value>
+     <Value Channel=3D"31">0</Value>
+     <Speed FadeIn=3D"0" FadeOut=3D"0" Duration=3D"0"/>
+    </Cue>
+   </CueStack>
+   <CueStack ID=3D"1">
+    <Speed FadeIn=3D"0" FadeOut=3D"0" Duration=3D"4294967295"/>
+    <Cue Name=3D"Cue 1">
+     <Value Channel=3D"82">211</Value>
+     <Value Channel=3D"40">235</Value>
+     <Value Channel=3D"83">203</Value>
+     <Value Channel=3D"41">255</Value>
+     <Value Channel=3D"80">217</Value>
+     <Value Channel=3D"81">215</Value>
+     <Value Channel=3D"34">236</Value>
+     <Value Channel=3D"35">249</Value>
+     <Value Channel=3D"38">0</Value>
+     <Value Channel=3D"39">234</Value>
+     <Value Channel=3D"36">246</Value>
+     <Value Channel=3D"37">249</Value>
+     <Value Channel=3D"74">225</Value>
+     <Value Channel=3D"75">224</Value>
+     <Value Channel=3D"72">232</Value>
+     <Value Channel=3D"73">225</Value>
+     <Value Channel=3D"26">255</Value>
+     <Value Channel=3D"27">255</Value>
+     <Value Channel=3D"24">255</Value>
+     <Value Channel=3D"25">255</Value>
+     <Speed FadeIn=3D"0" FadeOut=3D"0" Duration=3D"0"/>
+    </Cue>
+   </CueStack>
+  </Engine>
+ </SimpleDesk>
+</Workspace>
+
+--------------F8EA95D295315238B9A834F8--

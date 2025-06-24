@@ -1,0 +1,624 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <bounce-mc.us18_95538553.355726-c3aa4fbce5@mail157.atl21.rsgsv.net>
+Received: from mail-hub01.belwue.de ([129.143.76.41] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.12)
+  with ESMTPS id 49427322 for technikag@fichte-gymnasium.de; Wed, 29 Jun 2022 12:01:07 +0200
+Received: from mail-in02.belwue.de (mail-in02.belwue.de [129.143.76.2])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub01.belwue.de (Postfix) with ESMTPS id 4LXxmy5zZwz52Fxx
+	for <technikag@fichte-gymnasium.de>; Wed, 29 Jun 2022 12:01:06 +0200 (CEST)
+Received: from mail157.atl21.rsgsv.net (mail157.atl21.rsgsv.net [205.201.133.157])
+	(using TLSv1.2 with cipher ADH-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mail-in02.belwue.de (Postfix) with ESMTPS id 4LXxmx45ykzB15f7
+	for <technikag@fichte-gymnasium.de>; Wed, 29 Jun 2022 12:01:05 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=pioneerdj.com; s=k1;
+	t=1656496864; x=1656799264; i=news@pioneerdj.com;
+	bh=oRdfTvJDyr71bHobf4fdaZPx+DnYYy9c+obVM7Q3V3Y=;
+	h=Subject:From:Reply-To:To:Date:Message-ID:X-MC-User:Feedback-ID:
+	 List-ID:List-Unsubscribe:List-Unsubscribe-Post:Content-Type:
+	 MIME-Version:CC:Date:Subject:From;
+	b=v88V5DJ6nrpgBknbFbXElinUe53GI7lAK9/EWmw+jBcO32fs9uJak5A4iXPftX/ZR
+	 IJiw8EBsgMtaeocHMzzl5maiC/fVUyuTx5S7Y+4zJ2F+D7cGCUks7D+eGMTuuATh58
+	 K63TivyqSreANZfyJaCzRlfv/h36aGqEBw7Ph8f8=
+Received: from localhost (localhost [127.0.0.1])
+	by mail157.atl21.rsgsv.net (Mailchimp) with ESMTP id 4LXxmw3NkWzNCx1ZC
+	for <technikag@fichte-gymnasium.de>; Wed, 29 Jun 2022 10:01:04 +0000 (GMT)
+Subject: =?utf-8?Q?Essenzielles=20Update=20f=C3=BCr=20Benutzer=20der=20Abos=20Core=2FCreative=2FProfessional=20mit=20rekordbox=206?=
+From: =?utf-8?Q?rekordbox=20Support?= <news@pioneerdj.com>
+Reply-To: =?utf-8?Q?rekordbox=20Support?= <news@pioneerdj.com>
+To: <technikag@fichte-gymnasium.de>
+Date: Wed, 29 Jun 2022 10:00:24 +0000
+Message-ID: <a11b2e22559cbff6610dd8a27.c3aa4fbce5.20220629100010.de0df3bef8.47ebdb9d@mail157.atl21.rsgsv.net>
+X-Mailer: Mailchimp Mailer - **CIDde0df3bef8c3aa4fbce5**
+X-Campaign: mailchimpa11b2e22559cbff6610dd8a27.de0df3bef8
+X-campaignid: mailchimpa11b2e22559cbff6610dd8a27.de0df3bef8
+X-Report-Abuse: Please report abuse for this campaign here: https://mailchimp.com/contact/abuse/?u=a11b2e22559cbff6610dd8a27&id=de0df3bef8&e=c3aa4fbce5
+X-MC-User: a11b2e22559cbff6610dd8a27
+Feedback-ID: 95538553:95538553.355726:us18:mc
+List-ID: a11b2e22559cbff6610dd8a27mc list <a11b2e22559cbff6610dd8a27.110406.list-id.mcsv.net>
+X-Accounttype: pd
+List-Unsubscribe: <https://pioneerdj.us18.list-manage.com/unsubscribe?u=a11b2e22559cbff6610dd8a27&id=0de61f52e3&e=c3aa4fbce5&c=de0df3bef8>, <mailto:unsubscribe-mc.us18_a11b2e22559cbff6610dd8a27.de0df3bef8-c3aa4fbce5@unsubscribe.mailchimpapp.net?subject=unsubscribe>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_649427675"
+MIME-Version: 1.0
+X-Rspamd-UID: 8a147b
+X-Rspamd-Queue-Id: 4LXxmx45ykzB15f7
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_649427675
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+Du musst rekordbox aktualisieren=2C um es ab Dezember 2022 weiterhin zu ve=
+rwenden. Bitte f=C3=BChre hierzu die folgenden Schritte aus.
+
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C  =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C  =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C  =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C  =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C  =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C
+
+Open (https://mailchi.mp/12cf105e0778/subject-line-from-the-copy-tab-in-th=
+e-google-sheet-355726?e=3Dc3aa4fbce5) in browser
+https://rekordbox.com/de/?utm_source=3Dpdjc-allsubs&utm_medium=3Demail&utm=
+_content=3Dpdjc-essentialupdatever6-ga-270622&utm_campaign=3Dpdjc-em-de-ga=
+&utm_term=3Dheader-logo
+Essenzielles Update f=C3=BCr Benutzer der Abos Core/Creative/Professional=
+ mit rekordbox 6
+
+Vielen Dank=2C dass du rekordbox verwendest.
+
+Im Dezember 2022 wird der rekordbox=E2=80=91Server upgedatet. Wenn du derz=
+eit rekordbox 6 mit einem Core-=2C Creative-=2C oder Professional-Abo verw=
+endest=2C musst du rekordbox aktualisieren=2C um es ab Dezember 2022 weite=
+rhin zu verwenden. Bitte f=C3=BChre hierzu die folgenden Schritte aus.
+rekordbox Version / Abonnement            Aktion bis Ende Dezember 2022
+Version 6.0.0=E2=80=916.6.3
+Abonnements Core=2C Creative und Professional Aktualisiere auf die neueste=
+ Version 6.6.4
+
+[1] Um die Version der aktuell verwendeten Software zu =C3=BCberpr=C3=BCf=
+en=2C w=C3=A4hle im Men=C3=BC der rekordbox-Software f=C3=BCr Mac [=C3=9C=
+ber rekordbox] im Tab [rekordbox] oder in der Registerkarte [Hilfe] f=C3=
+=BCr Windows die Option [=C3=9Cber rekordbox].
+
+[2] Um auf die neueste Ausgabe von Version 6 zu aktualisieren=2C w=C3=A4h=
+le in der rekordbox-Software auf der Registerkarte [Hilfe] im Men=C3=BC d=
+ie Option [rekordbox Update Manager].
+
+Dein rekordbox-Team
+=C2=A9 2022 AlphaTheta Corporation (https://alphatheta.com/en/#company-inf=
+o)
+Diese Nachricht wurde dir von der AlphaTheta Corporation (https://alphathe=
+ta.com/en/#company-info) gesendet.
+Um Kontakt mit uns aufzunehmen oder uns Feedback zu geben=2C kannst du hie=
+r klicken (https://www.pioneerdj.com/de-de/support/contact/?utm_source=3Dp=
+djc-allsubs&utm_medium=3Demail&utm_content=3Dpdjc-essentialupdatever6-ga-2=
+70622&utm_campaign=3Dpdjc-em-de-ga&utm_term=3Dcontact) .
+Falls das Bild nicht korrekt angezeigt wird=2C kannst du dich hier genauer=
+ informieren (https://mailchi.mp/12cf105e0778/subject-line-from-the-copy-t=
+ab-in-the-google-sheet-355726?e=3Dc3aa4fbce5) .
+Falls du solche Informationen in Zukunft nicht mehr von AlphaTheta Corpora=
+tion erhalten m=C3=B6chtest=2C l=C3=B6sche dich einfach aus der Empf=C3=A4=
+ngerliste (https://pioneerdj.us18.list-manage.com/unsubscribe?u=3Da11b2e22=
+559cbff6610dd8a27&id=3D0de61f52e3&e=3Dc3aa4fbce5&c=3Dde0df3bef8) .
+--_----------=_MCPart_649427675
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+  <title>Essenzielles Update f=C3=BCr Benutzer der Abos Core/Creative/Prof=
+essional mit rekordbox 6 </title>
+  <meta http-equiv=3D"content-type" content=3D"text/html; charset=3Dutf-8"=
+>
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width=2C initial-scale=
+=3D1.0">
+  <style type=3D"text/css">
+    body {
+      width: 100% !important;
+      margin-top: 0;
+      margin-right: 0;
+      margin-bottom: 0;
+      margin-left: 0;
+      padding-top: 0;
+      padding-right: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      font-size: 16px;
+      font-family:Arial=2C Helvetica=2C sans-serif;
+      background-color: #282828;
+    }
+
+    img {
+      border: 0;
+      -ms-interpolation-mode: bicubic;
+    }
+
+    div=2Ca=2Ctd {
+      -webkit-text-size-adjust: 100%;
+      -moz-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table=2Ctable td {
+      border-collapse: collapse;
+    }
+
+    #outlook a {
+      padding: 0;
+    }
+
+    .mcnPreviewText{
+      display: none !important;
+    }
+
+    /* iOS BLUE LINKS */
+    a[x-apple-data-detectors] {
+      color: inherit !important;
+      text-decoration: none !important;
+      font-size: inherit !important;
+      font-family: inherit !important;
+      font-weight: inherit !important;
+      line-height: inherit !important;
+    }
+
+    .ReadMsgBody=2C.ExternalClass {
+      width: 100%;
+      background-color: #FFF !important;
+    }
+
+    .ExternalClass=2C.ExternalClass td=2C.ExternalClass span {
+      line-height: 100%;
+    }
+
+    .yshortcuts=2C.yshortcuts a=2C.yshortcuts a span=2Ca span.yshortcuts {
+      color: #000001;
+      text-decoration: none !important;
+      border-bottom: none !important;
+      background: none !important;
+    }
+
+    td[class=3Dmobile-spacer] {
+      display: none;
+    }
+
+    a {
+      color: #ffffff;
+    }
+
+    a.lnk-external=2C
+    a[class=3D"lnk-external"] {
+      color: #007DE1;
+      text-decoration: underline;
+    }
+
+    @media only screen and (max-width: 600px) {
+      .logo {
+        max-width: 150px !important;
+      }
+
+      .mb-block {
+        display: block !important;
+        width: 100% !important;
+      }
+
+      .mb-full {
+        width: 100% !important;
+      }
+
+      .mb-block-half {
+        display: block !important;
+        width: 50% !important;
+      }
+
+      .mb-align-center {
+        text-align: center !important;
+      }
+
+      .centered {
+        text-align: center !important;
+      }
+
+      .mb-pl-none {
+        padding: 0 !important;
+      }
+
+      .mb-pt--4 {
+        padding-top: 16px !important;
+      }
+
+
+      .mb-small-title {
+        font-size: 24px !important;
+        line-height: 27px !important;
+        letter-spacing: 3px !important;
+      }
+
+       .mb-fs-reset {
+        font-size: inherit !important;
+      }
+
+
+      table[class=3D'none']=2Ctd[class=3D'none']=2C.none {
+        display: none !important;
+        visibility: hidden !important;
+      }
+
+      table[class=3D'wrapper']=2C
+      table[class=3D'block']=2C
+      .block {
+        width: 100% !important;
+        text-align: center;
+      }
+
+      table[class=3D'block-inner'] {
+        width: 80% !important;
+      }
+
+      img[class=3D'visual'] {
+        width: 100% !important;
+        max-width: 100% !important;
+        height: auto !important;
+      }
+
+      /*td[class=3Dfooter] {
+        width: 100% !important;
+        text-align: center !important;
+      }*/
+
+      td[class=3Dmobile-spacer] {
+        display: block !important;
+        width: 100% !important;
+      }
+
+      td[class=3D'feature-store-item']=2C
+      td[class=3D'feature-store-image']=2C
+      .feature-store-item=2C
+      .feature-store-image {
+        text-align: center !important;
+      }
+
+      table[class=3D'feature-store-cta']=2C
+      .feature-store-cta {
+          float: none !important;
+          margin-left: auto !important;
+          margin-right: auto;
+        }
+
+      td[class=3D'feature-store-text']=2C
+      .feature-store-text
+      {
+        padding: 16px !important;
+      }
+
+    }
+  </style>
+</head>
+<body bgcolor=3D"#282828" style=3D"margin:0; padding:0; width:100% !import=
+ant;">
+
+  <div style=3D"display: none; max-height: 0px; overflow: hidden;">Du muss=
+t rekordbox aktualisieren=2C um es ab Dezember 2022 weiterhin zu verwenden=
+=2E Bitte f=C3=BChre hierzu die folgenden Schritte aus.</div>
+  <div style=3D"display: none; max-height: 0px; overflow: hidden;">&nbsp;&=
+zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&=
+nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&=
+nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp=
+;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&=
+nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp=
+;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&=
+zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp=
+;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&=
+zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&=
+zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&=
+nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&=
+nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp=
+;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;</div>
+
+  <table bgcolor=3D"#282828" width=3D"600" border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"0" align=3D"center" class=3D"wrapper">
+<tr bgcolor=3D"#282828">
+  <td>
+    <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ align=3D"center" bgcolor=3D"#282828">
+      <tbody>
+        <tr>
+          <td align=3D"center" valign=3D"middle" style=3D"padding: 12px 0;=
+ font-family: Arial=2C Helvetica=2C sans-serif; font-size: 10px; color: #6=
+56565; line-height: 15px;">
+            <a href=3D"https://mailchi.mp/12cf105e0778/subject-line-from-t=
+he-copy-tab-in-the-google-sheet-355726?e=3Dc3aa4fbce5" style=3D"color: #6565=
+65; opacity: .7;">Open</a> in browser
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </td>
+</tr>
+<tr bgcolor=3D"#141414">
+  <td bgcolor=3D"#141414" style=3D"padding: 32px 0;">
+
+    <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ align=3D"center" style=3D"min-width: 100%;">
+      <tr>
+        <td align=3D"center" width=3D"100%">
+                      <a href=3D"https://pioneerdj.us18.list-manage.com/tr=
+ack/click?u=3Da11b2e22559cbff6610dd8a27&id=3Dade4a34a6e&e=3Dc3aa4fbce5" t=
+arget=3D"_blank">
+
+              <img src=3D"https://mcusercontent.com/a11b2e22559cbff6610dd8=
+a27/images/d458e8a9-b39c-4805-88b7-40216cccfea6.png" width=3D"186" alt=3D"=
+Pioneer DJ logo" class=3D"logo">
+
+                      </a>
+                  </td>
+      </tr>
+    </table>
+
+  </td>
+</tr>
+<tr bgcolor=3D"#141414">
+  <td bgcolor=3D"#141414">
+
+    <table align=3D"center" width=3D"100%" border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"0">
+      <tbody>
+        <tr>
+          <td align=3D"center" style=3D"padding: 0 16px 32px;">
+            <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+              <tbody>
+                <tr>
+                  <td align=3D"center" valign=3D"middle" style=3D"font-fam=
+ily: Arial=2C Helvetica=2C sans-serif;font-size: 18px; text-align: center;=
+ line-height: 27px; color: #ffffff; text-transform: normal; letter-spacing=
+: normal; font-weight: normal;">
+                    Essenzielles Update f=C3=BCr Benutzer der Abos Core/Cr=
+eative/Professional mit rekordbox&nbsp;6                   </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+  </td>
+</tr>
+
+<tr bgcolor=3D"#ffffff">
+  <td style=3D"padding: 32px 32px;" bgcolor=3D"#ffffff">
+
+    <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ align=3D"left">
+      <tr>
+        <td align=3D"left" style=3D"color: #141414; font-family: Arial=2C=
+ Helvetica=2C sans-serif; font-size: 16px; line-height: 26px; opacity: 0.8=
+5; text-align: left;">
+          <p>Vielen Dank=2C dass du rekordbox verwendest.</p>
+
+<p style=3D"margin-bottom: 1.5em">Im Dezember&nbsp;2022 wird der rekordbox=
+&#8209;Server upgedatet. Wenn du derzeit rekordbox&nbsp;6 mit einem Core-=
+=2C Creative-=2C oder Professional-Abo verwendest=2C musst du rekordbox ak=
+tualisieren=2C um es ab Dezember&nbsp;2022 weiterhin zu verwenden. Bitte f=
+=C3=BChre hierzu die folgenden Schritte aus.</p>
+
+<table width=3D"100%" cellpadding=3D"8" style=3D"border-collapse: collapse=
+; color: #141414; font-family: Arial=2C Helvetica=2C sans-serif; font-size=
+: 16px; opacity: 0.85; text-align: left; mso-line-height-rule: exactly; li=
+ne-height: 26px; mso-text-raise: 2px;">
+    <tr>
+        <td style=3D"border: 1px solid black; font-weight: bold;" valign=
+=3D"middle" align=3D"left">rekordbox Version&nbsp;/ Abonnement</td>
+        <td style=3D"border: 1px solid black; font-weight: bold;" valign=
+=3D"middle" align=3D"left">Aktion bis Ende Dezember&nbsp;2022</td>
+    </tr>
+    <tr>
+        <td style=3D"border: 1px solid black;" valign=3D"middle" align=3D"=
+left">Version&nbsp;6.0.0&#8209;6.6.3<br>Abonnements Core=2C Creative und P=
+rofessional</td>
+        <td style=3D"border: 1px solid black;" valign=3D"middle" align=3D"=
+left">Aktualisiere auf die neueste Version&nbsp;6.6.4</td>
+    </tr>
+</table>
+
+<p style=3D"margin-top: 1.5em">[1] Um die Version der aktuell verwendeten=
+ Software zu =C3=BCberpr=C3=BCfen=2C w=C3=A4hle im Men=C3=BC der rekordbox=
+-Software f=C3=BCr Mac [=C3=9Cber&nbsp;rekordbox] im Tab [rekordbox] ode=
+r in der Registerkarte [Hilfe] f=C3=BCr Windows die Option [=C3=9Cber&nb=
+sp;rekordbox].</p>
+
+<p>[2] Um auf die neueste Ausgabe von Version&nbsp;6 zu aktualisieren=2C=
+ w=C3=A4hle in der rekordbox-Software auf der Registerkarte [Hilfe] im Me=
+n=C3=BC die Option [rekordbox&nbsp;Update&nbsp;Manager].</p>
+
+<p>Dein rekordbox-Team</p>        </td>
+      </tr>
+    </table>
+
+  </td>
+</tr>
+
+<tr bgcolor=3D"#141414">
+  <td>
+    <table width=3D"100%" bgcolor=3D"#141414" border=3D"0" cellspacing=3D"=
+0" cellpadding=3D"0" style=3D"min-width: 100%;">
+      <tbody>
+        <tr>
+          <td style=3D"padding: 16px 32px;">
+            <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" style=3D"min-width: 100%;">
+              <tbody>
+                <tr>
+
+                  <td align=3D"right" valign=3D"middle" class=3D"footer" s=
+tyle=3D"font-size: 12px; color: #9C9C9C; line-height: 12px;">
+                    <span style=3D"font-family: Arial=2C Helvetica=2C sans=
+-serif;">=C2=A9 2022</span> <a href=3D"https://pioneerdj.us18.list-manage.=
+com/track/click?u=3Da11b2e22559cbff6610dd8a27&id=3D63bffbcb23&e=3Dc3aa4fbce5" style=3D"color:#9C9C9C;text-decoration:none; font-family: Arial=2C He=
+lvetica=2C sans-serif;" target=3D"_blank">AlphaTheta Corporation</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+
+        <!-- <tr>
+          <td>
+            Android Google App Fix Start
+            <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" width=3D"100%">
+              <tbody>
+                <tr>
+                  <td style=3D"background-color: #141414; line-height: 1px=
+; height: 1px; min-width: 600px;" class=3D"none">
+                    <img src=3D"https://gallery.mailchimp.com/417300380d24=
+c63ae678bacf4/images/adf5d246-6714-4a59-89d8-a0c4747c4ba2.jpg" height=3D"1=
+" width=3D"600" style=3D"max-height: 1px; min-height: 1px; display: block;=
+ width: 600px; min-width: 600px;" alt=3D""/>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            Android Google App Fix End
+          </td>
+        </tr> -->
+      </tbody>
+    </table>
+  </td>
+</tr>
+
+<tr bgcolor=3D"#282828">
+  <td>
+    <table width=3D"100%" bgcolor=3D"#282828" border=3D"0" cellspacing=3D"=
+0" cellpadding=3D"0">
+      <tbody>
+        <tr>
+          <td height=3D"20"></td>
+        </tr>
+
+        <tr>
+          <td align=3D"center">
+            <table width=3D"90%" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0">
+              <tbody>
+                <tr>
+                  <td align=3D"center" valign=3D"middle" style=3D"font-fam=
+ily: Arial=2C Helvetica=2C sans-serif; font-size: 11px; color: #9C9C9C; li=
+ne-height: 19px;">
+                    <span style=3D"font-family: Arial=2C Helvetica=2C sans=
+-serif; color: #9C9C9C">Diese Nachricht wurde dir von der <a href=3D"https=
+://pioneerdj.us18.list-manage.com/track/click?u=3Da11b2e22559cbff6610dd8a2=
+7&id=3Dd89e7ee8c4&e=3Dc3aa4fbce5" style=3D"font-family: Arial=2C Helvetic=
+a=2C sans-serif; opacity: .6; color: #9C9C9C;text-decoration:underline;" t=
+arget=3D"_blank">AlphaTheta Corporation</a> gesendet.</span>
+                  </td>
+                </tr>
+
+                <tr>
+                  <td height=3D"10"></td>
+                </tr>
+
+                <tr>
+                  <td align=3D"center" valign=3D"middle" style=3D"font-fam=
+ily: Arial=2C Helvetica=2C sans-serif;font-size:11px;color:#9C9C9C;line-he=
+ight:19px;">
+                    Um Kontakt mit uns aufzunehmen oder uns Feedback zu ge=
+ben=2C kannst du <a href=3D"https://pioneerdj.us18.list-manage.com/track/c=
+lick?u=3Da11b2e22559cbff6610dd8a27&id=3D0d726cfad9&e=3Dc3aa4fbce5" style=
+=3D"font-family: Arial=2C Helvetica=2C sans-serif; opacity: .6; color: #9C=
+9C9C;text-decoration:underline;" target=3D"_blank">hier klicken</a>.
+                  </td>
+                </tr>
+
+                <tr>
+                  <td height=3D"10"></td>
+                </tr>
+
+                <tr>
+                  <td align=3D"center" valign=3D"middle" style=3D"font-fam=
+ily: Arial=2C Helvetica=2C sans-serif;font-size:11px;color:#9C9C9C;line-he=
+ight:19px;">
+                    Falls das Bild nicht korrekt angezeigt wird=2C kannst=
+ du dich <a href=3D"https://mailchi.mp/12cf105e0778/subject-line-from-the-=
+copy-tab-in-the-google-sheet-355726?e=3Dc3aa4fbce5" style=3D"font-family: Ar=
+ial=2C Helvetica=2C sans-serif; opacity: .6; color: #9C9C9C;text-decoratio=
+n:underline;" target=3D"_blank">hier genauer informieren</a>.
+                  </td>
+                </tr>
+
+                               <tr>
+                  <td height=3D"10"></td>
+                </tr>
+
+                <tr>
+                  <td align=3D"center" valign=3D"middle" style=3D"font-fam=
+ily: Arial=2C Helvetica=2C sans-serif; font-size: 1px; color: #9C9C9C; opa=
+city: 0; display: none; height: 1px; overflow: hidden;">
+                    Falls du solche Informationen in Zukunft nicht mehr vo=
+n AlphaTheta&nbsp;Corporation erhalten m=C3=B6chtest=2C <a href=3D"https:/=
+/pioneerdj.us18.list-manage.com/unsubscribe?u=3Da11b2e22559cbff6610dd8a27&=
+id=3D0de61f52e3&e=3Dc3aa4fbce5&c=3Dde0df3bef8" style=3D"font-family: Arial=
+=2C Helvetica=2C sans-serif; font-size: 1px; color: #9C9C9C; text-decorati=
+on: underline; opacity: 0; display: none; height: 1px; overflow: hidden;"=
+ target=3D"_blank">l=C3=B6sche dich einfach aus der Empf=C3=A4ngerliste</a=
+>.
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+
+        <tr>
+          <td height=3D"10"></td>
+        </tr>
+      </tbody>
+    </table>
+  </td>
+</tr>
+  </table>
+<img src=3D"https://pioneerdj.us18.list-manage.com/track/open.php?u=3Da11b=
+2e22559cbff6610dd8a27&id=3Dde0df3bef8&e=3Dc3aa4fbce5" height=3D"1" width=
+=3D"1" alt=3D""></body>
+</html>
+--_----------=_MCPart_649427675--

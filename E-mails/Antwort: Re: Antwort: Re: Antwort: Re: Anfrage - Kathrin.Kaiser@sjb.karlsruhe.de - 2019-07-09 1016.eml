@@ -1,0 +1,561 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <Kathrin.Kaiser@sjb.karlsruhe.de>
+Received: from cst201.belwue.de ([129.143.2.72] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.2.12)
+  with ESMTP id 2181597 for technikag@fichte-gymnasium.de; Tue, 09 Jul 2019 10:16:56 +0200
+Received: from mail.karlsruhe.de (mail3.karlsruhe.de [193.197.165.66])
+	by cst201.belwue.de with ESMTPS id x698Gqg1017531
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=NOT)
+	for <technikag@fichte-gymnasium.de>; Tue, 9 Jul 2019 10:16:52 +0200 (MEST)
+	env-from (Kathrin.Kaiser@sjb.karlsruhe.de)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=sjb.karlsruhe.de; s=20171004; h=Content-Type:Date:From:Message-ID:Subject:
+	MIME-Version:To:References:In-Reply-To:Sender:Reply-To:Cc:
+	Content-Transfer-Encoding:Content-ID:Content-Description:Resent-Date:
+	Resent-From:Resent-Sender:Resent-To:Resent-Cc:Resent-Message-ID:List-Id:
+	List-Help:List-Unsubscribe:List-Subscribe:List-Post:List-Owner:List-Archive;
+	 bh=3v48bGsFj/6kHvDdVHrf9b373hQ64GQ1HkYhVQb5tO4=; b=SZxvNbYOHtWQrmCnfmroGtUVF
+	cNar3QcxN+L1KHe050gHcriuGXcj6q5MVY8bteHG1w8hmHMxzXZvPVJmem/7aaqe9fAz0sc5qiceP
+	yxMg6xTLs+HDmB17IJJz/9wl3Xsncbqd+sRlTYVFbI9SrZfSJz5ZCWESipU2/QC76rz2c=;
+In-Reply-To: <ea1ffbb5-b6c1-685c-2f6d-93c7920f6673@fichte-gymnasium.de>
+References: <OF292E2A94.C5E5D644-ONC1258427.0056306A-C1258427.0056BBEC@poa.karlsruhe.de> <c3a16c7c-b5c0-0cc1-5f36-56bc86b21aed@fichte-gymnasium.de> <OF50377CEC.945495B8-ONC125842B.0029A6F8-C125842B.0029CDEB@poa.karlsruhe.de> <3d569ff0-94c5-87ad-7efc-2eee4581d520@fichte-gymnasium.de> <OFB27610E2.870E8000-ONC125842E.00253B42-C125842E.0025F043@poa.karlsruhe.de> <ea1ffbb5-b6c1-685c-2f6d-93c7920f6673@fichte-gymnasium.de>
+To: TechnikAG <technikag@fichte-gymnasium.de>
+MIME-Version: 1.0
+Subject: Antwort: Re: Antwort: Re: Antwort: Re: Anfrage
+X-KeepSent: B8D908D8:47F012EF-C1258432:002D732C;
+ type=4; name=$KeepSent
+Message-ID: <OFB8D908D8.47F012EF-ONC1258432.002D732C-C1258432.002D7F0E@poa.karlsruhe.de>
+From: Kathrin.Kaiser@sjb.karlsruhe.de
+Date: Tue, 9 Jul 2019 10:16:52 +0200
+Content-Type: multipart/alternative; boundary="=_alternative 002D7F0DC1258432_="
+X-DCC-BelWue-Metrics: cst201.belwue.de 1243; Body=1 Fuz1=1 Fuz2=1
+
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--=_alternative 002D7F0DC1258432_=
+Content-Type: text/plain; charset="ISO-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo Levin,=20
+
+danke dir- Herrn M=FCller sollte ich noch Bescheid sagen, danke f=FCr den=20
+Hinweis!=20
+
+Mit besten Gr=FC=DFen,=20
+Kathrin Kaiser
+Schulsozialarbeit Fichte-Gymnasium
+Sophienstr. 12-16
+76133 Karlsruhe
+----------------------------------------------------------------
+Stadt Karlsruhe
+Sozial- und Jugendbeh=F6rde
+Fachbereich Jugendhilfe und Soziale Dienste
+Abteilung Schulsozialarbeit
+
+Telefon: 0721-133 3832
+Email: kathrin.kaiser@sjb.karlsruhe.de
+www.karlsruhe.de/sodi
+
+
+
+Von:    TechnikAG <technikag@fichte-gymnasium.de>
+An:     Kathrin.Kaiser@sjb.karlsruhe.de,=20
+Datum:  09.07.2019 10:13
+Betreff:        Re: Antwort: Re: Antwort: Re: Anfrage
+
+
+
+Hallo Frau Kaiser,
+das klingt alles schonmal ganz gut. Wei=DF Herr M=FCller denn Bescheid, dam=
+it=20
+er dann die Schule schon um 6:45h aufschlie=DFt?=20
+Ansonsten werden wir am Dienstag erst Abends nach der Unterstufenparty=20
+aufbauen.=20
+Wegen genauerem Equipment  bzgl. der Pr=E4sentation werde ich dann nochmal =
+
+mit ihm telefonieren.
+Viele Gr=FC=DFe
+Levin
+Am 05.07.2019 um 08:54 schrieb Kathrin.Kaiser@sjb.karlsruhe.de:
+Hallo Levin,=20
+
+ich habe bis jetzt noch keine Antworten bekommen auf eure Fragen.=20
+Aus der Erfahrung vom letzten Jahr, w=FCrde ich sagen:=20
+- Deckenlicht reicht, es ist kein Theaterst=FCck, das ausgeleuchtet werden =
+
+muss, sondern ein Schauspieler, der ein Kabarettprogramm vortr=E4gt=20
+- Beamer wird gebraucht, er zeigt Bilder und hat eine PPP=20
+- Die B=FChne muss nicht besonders gro=DF sein, es ist wie gesagt ein=20
+Ein-Mann-Kabarett.=20
+
+Die 1.Vorstellung beginnt um 7.45Uhr, Schauspieler und Techniker werden um =
+
+6.45Uhr da sein, ich hab ihnen gesagt, dass du 7.15Uhr da bist. Zur Info=20
+seine Aussage:=20
+
+"Eine halbe Stunde wird zu knapp. =20
+Aus Erfahrung: Eine Stunde vorher macht Sinn!=20
+Die Technik AG kann aber am Vortag schonmal checken dass das Mikro=20
+funktioniert,=20
+Batterien ausreichend geladen oder Esatzbatterien da sind =20
+und der Beamer l=E4uft :)=20
+Das sind so immer die Kernprobleme nach 3 Jahren Homologie ;)=20
+Wenn noch was ist k=F6nnen wir gerne auch nochmal telefonieren: 0176 831 27=
+=20
+829=20
+
+LG Timo Becker"=20
+
+Die 2.Vorstellung ist um 9.45Uhr-11.15Uhr, so dass wir dann ganz gut Zeit=20
+haben, f=FCr die Mensa umzubauen.=20
+Ich h=E4ng dir nochmal den "Strukturbogen" an.=20
+
+
+
+Wei=DFt du, wann ihr am Dienstag (16.7.) aufbaut? Dann w=FCrde ich=20
+vorbeikommen, wenn es nicht zu sp=E4t ist (um 15.30Uhr muss ich meinen Sohn=
+=20
+abholen).=20
+
+Mit besten Gr=FC=DFen,=20
+Kathrin Kaiser=20
+Schulsozialarbeit Fichte-Gymnasium=20
+Sophienstr. 12-16=20
+76133 Karlsruhe=20
+----------------------------------------------------------------=20
+Stadt Karlsruhe=20
+Sozial- und Jugendbeh=F6rde=20
+Fachbereich Jugendhilfe und Soziale Dienste=20
+Abteilung Schulsozialarbeit=20
+
+Telefon: 0721-133 3832=20
+Email: kathrin.kaiser@sjb.karlsruhe.de=20
+www.karlsruhe.de/sodi=20
+
+
+
+Von:        TechnikAG <technikag@fichte-gymnasium.de>=20
+An:        Kathrin.Kaiser@sjb.karlsruhe.de,=20
+Datum:        03.07.2019 08:01=20
+Betreff:        Re: Antwort: Re: Anfrage=20
+
+
+
+Hallo Frau Kaiser,=20
+eine Frage noch: Wissen Sie, ob es f=FCr das Theaterst=FCck spezielles Lich=
+t=20
+braucht oder das Deckenlicht ausreicht? Au=DFerdem w=E4re es gut zu wissen,=
+ ob=20
+der Beamer gebraucht wird. Wie gro=DF soll die B=FChne dann eigentlich sein=
+,=20
+sind 4*8 m gut?=20
+Wie es jetzt aussieht sollten wir ohne Hilfe auskommen.=20
+Viele Gr=FC=DFe=20
+Levin=20
+Am 02.07.2019 um 09:36 schrieb Kathrin.Kaiser@sjb.karlsruhe.de:=20
+Hallo Levin,=20
+
+danke dir!=20
+Der Schauspieler bringt auch einen Techniker mit- nur kann der nat=FCrlich =
+
+nicht aufbauen.=20
+Sag Bescheid, wenn ihr Leute zum Aufbau braucht, das sollte kein Problem=20
+sein, ich wollte es nicht an euch "abdr=FCcken".=20
+
+Mit besten Gr=FC=DFen,=20
+Kathrin Kaiser=20
+Schulsozialarbeit Fichte-Gymnasium=20
+Sophienstr. 12-16=20
+76133 Karlsruhe=20
+----------------------------------------------------------------=20
+Stadt Karlsruhe=20
+Sozial- und Jugendbeh=F6rde=20
+Fachbereich Jugendhilfe und Soziale Dienste=20
+Abteilung Schulsozialarbeit=20
+
+Telefon: 0721-133 3832=20
+Email: kathrin.kaiser@sjb.karlsruhe.de=20
+www.karlsruhe.de/sodi=20
+
+
+
+Von:        TechnikAG <technikag@fichte-gymnasium.de>=20
+An:        Kathrin.Kaiser@sjb.karlsruhe.de,=20
+Datum:        29.06.2019 17:47=20
+Betreff:        Re: Anfrage=20
+
+
+
+Hallo Frau Kaiser,=20
+momentan sieht es leider so aus, als w=E4ren viele Techniker nicht da, ich =
+
+hoffe aber, dass sich noch ein paar melden. An sich sollte es f=FCr die=20
+Betreuung des Events kein Problem sein, wenn nur ich da bin, aber f=FCr den=
+=20
+Auf- und Abbau der B=FChne brauche ich nat=FCrlich noch Verst=E4rkung; fall=
+s=20
+sich da niemand finden sollte, spreche ich Sie nochmal an.=20
+Die Zeiten gehen soweit klar, ich denke ich kann morgens ab etwa Viertel=20
+nach sieben da sein.=20
+Viele Gr=FC=DFe=20
+Levin=20
+Am 28.06.2019 um 17:47 schrieb Kathrin.Kaiser@sjb.karlsruhe.de:=20
+Hallo Levin,=20
+
+vielleicht k=F6nnt ihr euch erinnern, vor einem Jahr war Timo Becker mit=20
+seinem Programm "Homologie" zu Gast in der Mensa.=20
+Der wird nun wieder kommen.=20
+Frage: K=F6nntet ihr B=FChne und Technik aufbauen? Am besten am Tag davor. =
+Und=20
+ab wann k=F6nnte jemand morgens da sein?=20
+Herr B=E4ckel wird euch auch nochmal ansprechen.=20
+
+Ich h=E4ng dir mal den Strukturbogen an, vielleicht erinnerst du dich an=20
+den. Ich nehme an, den kann ich genauso =FCbernehmen? Auch mit deiner=20
+Telefonnummer?=20
+
+
+
+Die Auff=FChrungen sind am Mittwoch, 17.7., am liebsten w=E4re es uns ca.=20
+7.45-9.15Uhr und 9.45-11.15Uhr. W=E4re das machbar f=FCr euch?=20
+Der Schauspieler wird sicher fr=FCher da sein und die Technik ausprobieren =
+
+wollen. Und danach m=FCssten wir wieder umbauen, ihr wisst, die Mensa wird =
+
+gebraucht.=20
+
+Bitte gib mir eine R=FCckmeldung, auch wenn ihr Unterst=FCtzung braucht. Da=
+nke=20
+dir!=20
+
+Mit besten Gr=FC=DFen,=20
+Kathrin Kaiser=20
+Schulsozialarbeit Fichte-Gymnasium=20
+Sophienstr. 12-16=20
+76133 Karlsruhe=20
+----------------------------------------------------------------=20
+Stadt Karlsruhe=20
+Sozial- und Jugendbeh=F6rde=20
+Fachbereich Jugendhilfe und Soziale Dienste=20
+Abteilung Schulsozialarbeit=20
+
+Telefon: 0721-133 3832=20
+Email: kathrin.kaiser@sjb.karlsruhe.de=20
+www.karlsruhe.de/sodi=20
+
+--=_alternative 002D7F0DC1258432_=
+Content-Type: text/html; charset="ISO-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<font size=3D2 face=3D"sans-serif">Hallo Levin, </font>
+<br>
+<br><font size=3D2 face=3D"sans-serif">danke dir- Herrn M=FCller sollte ich=
+ noch
+Bescheid sagen, danke f=FCr den Hinweis! </font>
+<br>
+<br><font size=3D2 face=3D"sans-serif">Mit besten Gr=FC=DFen, </font>
+<br><font size=3D2 face=3D"sans-serif">Kathrin Kaiser</font>
+<br><font size=3D2 face=3D"sans-serif">Schulsozialarbeit Fichte-Gymnasium</=
+font>
+<br><font size=3D2 face=3D"sans-serif">Sophienstr. 12-16</font>
+<br><font size=3D2 face=3D"sans-serif">76133 Karlsruhe</font>
+<br><font size=3D2 face=3D"sans-serif">------------------------------------=
+----------------------------</font>
+<br><font size=3D2 face=3D"sans-serif">Stadt Karlsruhe</font>
+<br><font size=3D2 face=3D"sans-serif">Sozial- und Jugendbeh=F6rde</font>
+<br><font size=3D2 face=3D"sans-serif">Fachbereich Jugendhilfe und Soziale
+Dienste</font>
+<br><font size=3D2 face=3D"sans-serif">Abteilung Schulsozialarbeit</font>
+<br>
+<br><font size=3D2 face=3D"sans-serif">Telefon: 0721-133 3832</font>
+<br><font size=3D2 face=3D"sans-serif">Email: kathrin.kaiser@sjb.karlsruhe.=
+de</font>
+<br><a href=3Dwww.karlsruhe.de/sodi><font size=3D2 face=3D"sans-serif">www.=
+karlsruhe.de/sodi</font></a>
+<br>
+<br>
+<br>
+<br><font size=3D1 color=3D#5f5f5f face=3D"sans-serif">Von: &nbsp; &nbsp; &=
+nbsp;
+&nbsp;</font><font size=3D1 face=3D"sans-serif">TechnikAG &lt;technikag@fic=
+hte-gymnasium.de&gt;</font>
+<br><font size=3D1 color=3D#5f5f5f face=3D"sans-serif">An: &nbsp; &nbsp; &n=
+bsp;
+&nbsp;</font><font size=3D1 face=3D"sans-serif">Kathrin.Kaiser@sjb.karlsruh=
+e.de,
+</font>
+<br><font size=3D1 color=3D#5f5f5f face=3D"sans-serif">Datum: &nbsp; &nbsp;=
+ &nbsp;
+&nbsp;</font><font size=3D1 face=3D"sans-serif">09.07.2019 10:13</font>
+<br><font size=3D1 color=3D#5f5f5f face=3D"sans-serif">Betreff: &nbsp; &nbs=
+p;
+&nbsp; &nbsp;</font><font size=3D1 face=3D"sans-serif">Re: Antwort:
+Re: Antwort: Re: Anfrage</font>
+<br>
+<hr noshade>
+<br>
+<br>
+<br><font size=3D3>Hallo Frau Kaiser,</font>
+<p><font size=3D3>das klingt alles schonmal ganz gut. Wei=DF Herr M=FCller =
+denn
+Bescheid, damit er dann die Schule schon um 6:45h aufschlie=DFt? </font>
+<p><font size=3D3>Ansonsten werden wir am Dienstag erst Abends nach der Unt=
+erstufenparty
+aufbauen.&nbsp;</font>
+<p><font size=3D3>Wegen genauerem Equipment&nbsp; bzgl. der Pr=E4sentation
+werde ich dann nochmal mit ihm telefonieren.</font>
+<p><font size=3D3>Viele Gr=FC=DFe</font>
+<p><font size=3D3>Levin</font>
+<p><font size=3D3>Am 05.07.2019 um 08:54 schrieb </font><a href=3Dmailto:Ka=
+thrin.Kaiser@sjb.karlsruhe.de><font size=3D3 color=3Dblue><u>Kathrin.Kaiser=
+@sjb.karlsruhe.de</u></font></a><font size=3D3>:</font>
+<br><font size=3D2 face=3D"sans-serif">Hallo Levin, </font><font size=3D3><=
+br>
+</font><font size=3D2 face=3D"sans-serif"><br>
+ich habe bis jetzt noch keine Antworten bekommen auf eure Fragen. <br>
+Aus der Erfahrung vom letzten Jahr, w=FCrde ich sagen: <br>
+- Deckenlicht reicht, es ist kein Theaterst=FCck, das ausgeleuchtet werden
+muss, sondern ein Schauspieler, der ein Kabarettprogramm vortr=E4gt</font><=
+font size=3D3>
+</font><font size=3D2 face=3D"sans-serif"><br>
+- Beamer wird gebraucht, er zeigt Bilder und hat eine PPP</font><font size=
+=3D3>
+</font><font size=3D2 face=3D"sans-serif"><br>
+- Die B=FChne muss nicht besonders gro=DF sein, es ist wie gesagt ein Ein-M=
+ann-Kabarett.
+</font><font size=3D3><br>
+</font><font size=3D2 face=3D"sans-serif"><br>
+Die 1.Vorstellung beginnt um 7.45Uhr, Schauspieler und Techniker werden
+um 6.45Uhr da sein, ich hab ihnen gesagt, dass du 7.15Uhr da bist. Zur
+Info seine Aussage: </font><font size=3D3><br>
+<br>
+&quot;Eine halbe Stunde wird zu knapp.&nbsp; <br>
+Aus Erfahrung: Eine Stunde vorher macht Sinn! <br>
+Die Technik AG kann aber am Vortag schonmal checken dass das Mikro funktion=
+iert,
+<br>
+Batterien ausreichend geladen oder Esatzbatterien da sind&nbsp; <br>
+und der Beamer l=E4uft :) <br>
+Das sind so immer die Kernprobleme nach 3 Jahren Homologie ;) <br>
+Wenn noch was ist k=F6nnen wir gerne auch nochmal telefonieren: 0176 831
+27 829 <br>
+<br>
+LG Timo Becker&quot; <br>
+</font><font size=3D2 face=3D"sans-serif"><br>
+Die 2.Vorstellung ist um 9.45Uhr-11.15Uhr, so dass wir dann ganz gut Zeit
+haben, f=FCr die Mensa umzubauen. <br>
+Ich h=E4ng dir nochmal den &quot;Strukturbogen&quot; an. </font><font size=
+=3D3><br>
+<br>
+<br>
+</font><font size=3D2 face=3D"sans-serif"><br>
+Wei=DFt du, wann ihr am Dienstag (16.7.) aufbaut? Dann w=FCrde ich vorbeiko=
+mmen,
+wenn es nicht zu sp=E4t ist (um 15.30Uhr muss ich meinen Sohn abholen). </f=
+ont><font size=3D3><br>
+</font><font size=3D2 face=3D"sans-serif"><br>
+Mit besten Gr=FC=DFen, <br>
+Kathrin Kaiser</font><font size=3D3> </font><font size=3D2 face=3D"sans-ser=
+if"><br>
+Schulsozialarbeit Fichte-Gymnasium</font><font size=3D3> </font><font size=
+=3D2 face=3D"sans-serif"><br>
+Sophienstr. 12-16</font><font size=3D3> </font><font size=3D2 face=3D"sans-=
+serif"><br>
+76133 Karlsruhe</font><font size=3D3> </font><font size=3D2 face=3D"sans-se=
+rif"><br>
+----------------------------------------------------------------</font><fon=
+t size=3D3>
+</font><font size=3D2 face=3D"sans-serif"><br>
+Stadt Karlsruhe</font><font size=3D3> </font><font size=3D2 face=3D"sans-se=
+rif"><br>
+Sozial- und Jugendbeh=F6rde</font><font size=3D3> </font><font size=3D2 fac=
+e=3D"sans-serif"><br>
+Fachbereich Jugendhilfe und Soziale Dienste</font><font size=3D3> </font><f=
+ont size=3D2 face=3D"sans-serif"><br>
+Abteilung Schulsozialarbeit</font><font size=3D3> <br>
+</font><font size=3D2 face=3D"sans-serif"><br>
+Telefon: 0721-133 3832</font><font size=3D3> </font><font size=3D2 face=3D"=
+sans-serif"><br>
+Email: </font><a href=3Dmailto:kathrin.kaiser@sjb.karlsruhe.de><font size=
+=3D2 color=3Dblue face=3D"sans-serif"><u>kathrin.kaiser@sjb.karlsruhe.de</u=
+></font></a><font size=3D3>
+</font><font size=3D3 color=3Dblue><u><br>
+</u></font><a href=3Dwww.karlsruhe.de/sodi><font size=3D2 color=3Dblue face=
+=3D"sans-serif"><u>www.karlsruhe.de/sodi</u></font></a><font size=3D3>
+<br>
+<br>
+<br>
+</font><font size=3D1 color=3D#5f5f5f face=3D"sans-serif"><br>
+Von: &nbsp; &nbsp; &nbsp; &nbsp;</font><font size=3D1 face=3D"sans-serif">T=
+echnikAG
+</font><a href=3D"mailto:technikag@fichte-gymnasium.de"><font size=3D1 colo=
+r=3Dblue face=3D"sans-serif"><u>&lt;technikag@fichte-gymnasium.de&gt;</u></=
+font></a><font size=3D3>
+</font><font size=3D1 color=3D#5f5f5f face=3D"sans-serif"><br>
+An: &nbsp; &nbsp; &nbsp; &nbsp;</font><a href=3Dmailto:Kathrin.Kaiser@sjb.k=
+arlsruhe.de><font size=3D1 color=3Dblue face=3D"sans-serif"><u>Kathrin.Kais=
+er@sjb.karlsruhe.de</u></font></a><font size=3D1 face=3D"sans-serif">,
+</font><font size=3D1 color=3D#5f5f5f face=3D"sans-serif"><br>
+Datum: &nbsp; &nbsp; &nbsp; &nbsp;</font><font size=3D1 face=3D"sans-serif"=
+>03.07.2019
+08:01</font><font size=3D3> </font><font size=3D1 color=3D#5f5f5f face=3D"s=
+ans-serif"><br>
+Betreff: &nbsp; &nbsp; &nbsp; &nbsp;</font><font size=3D1 face=3D"sans-seri=
+f">Re:
+Antwort: Re: Anfrage</font><font size=3D3> <br>
+</font>
+<hr noshade><font size=3D3><br>
+<br>
+<br>
+Hallo Frau Kaiser, </font>
+<p><font size=3D3>eine Frage noch: Wissen Sie, ob es f=FCr das Theaterst=FC=
+ck
+spezielles Licht braucht oder das Deckenlicht ausreicht? Au=DFerdem w=E4re
+es gut zu wissen, ob der Beamer gebraucht wird. Wie gro=DF soll die B=FChne
+dann eigentlich sein, sind 4*8 m gut? </font>
+<p><font size=3D3>Wie es jetzt aussieht sollten wir ohne Hilfe auskommen.
+</font>
+<p><font size=3D3>Viele Gr=FC=DFe </font>
+<p><font size=3D3>Levin </font>
+<p><font size=3D3>Am 02.07.2019 um 09:36 schrieb </font><a href=3Dmailto:Ka=
+thrin.Kaiser@sjb.karlsruhe.de><font size=3D3 color=3Dblue><u>Kathrin.Kaiser=
+@sjb.karlsruhe.de</u></font></a><font size=3D3>:
+</font><font size=3D2 face=3D"sans-serif"><br>
+Hallo Levin, <br>
+<br>
+danke dir! <br>
+Der Schauspieler bringt auch einen Techniker mit- nur kann der nat=FCrlich
+nicht aufbauen. <br>
+Sag Bescheid, wenn ihr Leute zum Aufbau braucht, das sollte kein Problem
+sein, ich wollte es nicht an euch &quot;abdr=FCcken&quot;. <br>
+<br>
+Mit besten Gr=FC=DFen, <br>
+Kathrin Kaiser</font><font size=3D3> </font><font size=3D2 face=3D"sans-ser=
+if"><br>
+Schulsozialarbeit Fichte-Gymnasium</font><font size=3D3> </font><font size=
+=3D2 face=3D"sans-serif"><br>
+Sophienstr. 12-16</font><font size=3D3> </font><font size=3D2 face=3D"sans-=
+serif"><br>
+76133 Karlsruhe</font><font size=3D3> </font><font size=3D2 face=3D"sans-se=
+rif"><br>
+----------------------------------------------------------------</font><fon=
+t size=3D3>
+</font><font size=3D2 face=3D"sans-serif"><br>
+Stadt Karlsruhe</font><font size=3D3> </font><font size=3D2 face=3D"sans-se=
+rif"><br>
+Sozial- und Jugendbeh=F6rde</font><font size=3D3> </font><font size=3D2 fac=
+e=3D"sans-serif"><br>
+Fachbereich Jugendhilfe und Soziale Dienste</font><font size=3D3> </font><f=
+ont size=3D2 face=3D"sans-serif"><br>
+Abteilung Schulsozialarbeit</font><font size=3D3> </font><font size=3D2 fac=
+e=3D"sans-serif"><br>
+<br>
+Telefon: 0721-133 3832</font><font size=3D3> </font><font size=3D2 face=3D"=
+sans-serif"><br>
+Email: </font><a href=3Dmailto:kathrin.kaiser@sjb.karlsruhe.de><font size=
+=3D2 color=3Dblue face=3D"sans-serif"><u>kathrin.kaiser@sjb.karlsruhe.de</u=
+></font></a><font size=3D3>
+</font><font size=3D3 color=3Dblue><u><br>
+</u></font><a href=3Dwww.karlsruhe.de/sodi><font size=3D2 color=3Dblue face=
+=3D"sans-serif"><u>www.karlsruhe.de/sodi</u></font></a><font size=3D3>
+<br>
+<br>
+</font><font size=3D1 color=3D#5f5f5f face=3D"sans-serif"><br>
+<br>
+Von: &nbsp; &nbsp; &nbsp; &nbsp;</font><font size=3D1 face=3D"sans-serif">T=
+echnikAG
+</font><a href=3D"mailto:technikag@fichte-gymnasium.de"><font size=3D1 colo=
+r=3Dblue face=3D"sans-serif"><u>&lt;technikag@fichte-gymnasium.de&gt;</u></=
+font></a><font size=3D3>
+</font><font size=3D1 color=3D#5f5f5f face=3D"sans-serif"><br>
+An: &nbsp; &nbsp; &nbsp; &nbsp;</font><a href=3Dmailto:Kathrin.Kaiser@sjb.k=
+arlsruhe.de><font size=3D1 color=3Dblue face=3D"sans-serif"><u>Kathrin.Kais=
+er@sjb.karlsruhe.de</u></font></a><font size=3D1 face=3D"sans-serif">,
+</font><font size=3D1 color=3D#5f5f5f face=3D"sans-serif"><br>
+Datum: &nbsp; &nbsp; &nbsp; &nbsp;</font><font size=3D1 face=3D"sans-serif"=
+>29.06.2019
+17:47</font><font size=3D3> </font><font size=3D1 color=3D#5f5f5f face=3D"s=
+ans-serif"><br>
+Betreff: &nbsp; &nbsp; &nbsp; &nbsp;</font><font size=3D1 face=3D"sans-seri=
+f">Re:
+Anfrage</font><font size=3D3> </font>
+<p>
+<hr noshade><font size=3D3><br>
+<br>
+<br>
+Hallo Frau Kaiser, </font>
+<p><font size=3D3>momentan sieht es leider so aus, als w=E4ren viele Techni=
+ker
+nicht da, ich hoffe aber, dass sich noch ein paar melden. An sich sollte
+es f=FCr die Betreuung des Events kein Problem sein, wenn nur ich da bin,
+aber f=FCr den Auf- und Abbau der B=FChne brauche ich nat=FCrlich noch Vers=
+t=E4rkung;
+falls sich da niemand finden sollte, spreche ich Sie nochmal an. </font>
+<p><font size=3D3>Die Zeiten gehen soweit klar, ich denke ich kann morgens
+ab etwa Viertel nach sieben da sein. </font>
+<p><font size=3D3>Viele Gr=FC=DFe </font>
+<p><font size=3D3>Levin </font>
+<p><font size=3D3>Am 28.06.2019 um 17:47 schrieb </font><a href=3Dmailto:Ka=
+thrin.Kaiser@sjb.karlsruhe.de><font size=3D3 color=3Dblue><u>Kathrin.Kaiser=
+@sjb.karlsruhe.de</u></font></a><font size=3D3>:
+</font>
+<p><font size=3D2 face=3D"sans-serif">Hallo Levin, <br>
+<br>
+vielleicht k=F6nnt ihr euch erinnern, vor einem Jahr war Timo Becker mit
+seinem Programm &quot;Homologie&quot; zu Gast in der Mensa. <br>
+Der wird nun wieder kommen. <br>
+Frage: K=F6nntet ihr B=FChne und Technik aufbauen? Am besten am Tag davor.
+Und ab wann k=F6nnte jemand morgens da sein?</font><font size=3D3> </font><=
+font size=3D2 face=3D"sans-serif"><br>
+Herr B=E4ckel wird euch auch nochmal ansprechen. <br>
+<br>
+Ich h=E4ng dir mal den Strukturbogen an, vielleicht erinnerst du dich an
+den. Ich nehme an, den kann ich genauso =FCbernehmen? Auch mit deiner Telef=
+onnummer?</font><font size=3D3>
+<br>
+</font><font size=3D2 face=3D"sans-serif"><br>
+<br>
+<br>
+Die Auff=FChrungen sind am Mittwoch, 17.7., am liebsten w=E4re es uns ca. 7=
+.45-9.15Uhr
+und 9.45-11.15Uhr. W=E4re das machbar f=FCr euch?</font><font size=3D3> </f=
+ont><font size=3D2 face=3D"sans-serif"><br>
+Der Schauspieler wird sicher fr=FCher da sein und die Technik ausprobieren
+wollen. Und danach m=FCssten wir wieder umbauen, ihr wisst, die Mensa wird
+gebraucht. <br>
+<br>
+Bitte gib mir eine R=FCckmeldung, auch wenn ihr Unterst=FCtzung braucht. Da=
+nke
+dir!</font><font size=3D3> </font><font size=3D2 face=3D"sans-serif"><br>
+<br>
+Mit besten Gr=FC=DFen, <br>
+Kathrin Kaiser</font><font size=3D3> </font><font size=3D2 face=3D"sans-ser=
+if"><br>
+Schulsozialarbeit Fichte-Gymnasium</font><font size=3D3> </font><font size=
+=3D2 face=3D"sans-serif"><br>
+Sophienstr. 12-16</font><font size=3D3> </font><font size=3D2 face=3D"sans-=
+serif"><br>
+76133 Karlsruhe</font><font size=3D3> </font><font size=3D2 face=3D"sans-se=
+rif"><br>
+----------------------------------------------------------------</font><fon=
+t size=3D3>
+</font><font size=3D2 face=3D"sans-serif"><br>
+Stadt Karlsruhe</font><font size=3D3> </font><font size=3D2 face=3D"sans-se=
+rif"><br>
+Sozial- und Jugendbeh=F6rde</font><font size=3D3> </font><font size=3D2 fac=
+e=3D"sans-serif"><br>
+Fachbereich Jugendhilfe und Soziale Dienste</font><font size=3D3> </font><f=
+ont size=3D2 face=3D"sans-serif"><br>
+Abteilung Schulsozialarbeit</font><font size=3D3> </font><font size=3D2 fac=
+e=3D"sans-serif"><br>
+<br>
+Telefon: 0721-133 3832</font><font size=3D3> </font><font size=3D2 face=3D"=
+sans-serif"><br>
+Email: </font><a href=3Dmailto:kathrin.kaiser@sjb.karlsruhe.de><font size=
+=3D2 color=3Dblue face=3D"sans-serif"><u>kathrin.kaiser@sjb.karlsruhe.de</u=
+></font></a><font size=3D3>
+</font><font size=3D3 color=3Dblue><u><br>
+</u></font><a href=3Dwww.karlsruhe.de/sodi><font size=3D2 color=3Dblue face=
+=3D"sans-serif"><u>www.karlsruhe.de/sodi</u></font></a><font size=3D3>
+</font>
+<p>
+--=_alternative 002D7F0DC1258432_=--

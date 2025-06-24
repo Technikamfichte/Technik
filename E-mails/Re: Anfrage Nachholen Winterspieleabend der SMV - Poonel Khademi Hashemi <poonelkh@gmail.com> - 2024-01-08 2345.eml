@@ -1,0 +1,134 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <poonelkh@gmail.com>
+Received: from mail-hub02.belwue.de ([2001:7c0:0:76::42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 79404560 for technikag@fichte-gymnasium.de; Mon, 08 Jan 2024 23:45:53 +0100
+Received: from mail-in03.belwue.de (mail-in03.belwue.de [129.143.76.3])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4T88Ks3v20z7Gmw
+	for <technikag@fichte-gymnasium.de>; Mon,  8 Jan 2024 23:45:53 +0100 (CET)
+Received: from mail-pl1-x636.google.com (mail-pl1-x636.google.com [IPv6:2607:f8b0:4864:20::636])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in03.belwue.de (Postfix) with ESMTPS id 4T88Ks1R1BzcVJ
+	for <technikag@fichte-gymnasium.de>; Mon,  8 Jan 2024 23:45:53 +0100 (CET)
+Received: by mail-pl1-x636.google.com with SMTP id d9443c01a7336-1d427518d52so16103635ad.0
+        for <technikag@fichte-gymnasium.de>; Mon, 08 Jan 2024 14:45:53 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20230601; t=1704753951; x=1705358751; darn=fichte-gymnasium.de;
+        h=to:subject:message-id:date:from:in-reply-to:references:mime-version
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=PBNX1c44y7wKnM29AEOmYzM1BR12rny2abK3m3IRR4Q=;
+        b=nZjVqB1nwyEFPfk8wxjhXyTd+mBcX2rW+eTvDhHsniLXdkTaSnyBRZNWL5yMg+Os+O
+         4sxiyxufXw/qVVYHeV63Hq7Lmxn1zxQcRV4VmaowonuljbiVcBh3+ldGAuWbQ2pZ8uWB
+         16FBWOkCDteonR1//hCNSKyy0/v0I0brg1iGQ0qPY26DGH7xMikLMgOthxUoy6modwtC
+         3oofcX4w/RrtUNulj/lrS3jfkYzu1FW4m44CrHE86R1S6uPX7Q2PdO0B8+fNXC5oJz8y
+         AGs7x60ECJepn77tsuUCNsF1YYPNcgWFHz7PzAohe7cMecQKIJt3ap7il2ZhVyYav5mY
+         fJxQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20230601; t=1704753951; x=1705358751;
+        h=to:subject:message-id:date:from:in-reply-to:references:mime-version
+         :x-gm-message-state:from:to:cc:subject:date:message-id:reply-to;
+        bh=PBNX1c44y7wKnM29AEOmYzM1BR12rny2abK3m3IRR4Q=;
+        b=jmsDCJJSk9UoGBukUmUrvxdHPzYEDAVk3h04x0l0OSV/YFGV9ijR+YlXXF8qxYHJ7f
+         PHTEeY7/rCPyWWakwDKXEtFkag2rlZcRQ1Dx8QxMgdLVsxaGVDWweL7wkb9gXbdUDyGY
+         tN4sSJA7D4UlvHZ11Nb0rVOKArCPWh5wynMNX76gUwiHkqtMkvSoSGIVTFmbWunUnoIT
+         jYNizLJQJy+EiJaAvlN5X7f/Kxlfaa7qrWaj+X4nthUm1chL26AVlB7pkxlUSUE68NgG
+         UcmQewnlIlcZBmmKPtBRecE/oqO5q3/wcoqyYOBFKi2IM8CMdj6r9g6nmszYohJFo59o
+         2cGQ==
+X-Gm-Message-State: AOJu0Yx18OIEA58MzZ5yQHoj2mazDCDphPoUcMMUWBTmbI0V/L2xp7am
+	gIAM8XmdyAL0b6mR8UtKLr4lCQMoTXVweeNldXS0jooT
+X-Google-Smtp-Source: AGHT+IElT7bCg9CfJFd+DQZpg8EYcfk7vvkGFfDswyen9rKK/6OZS155t5BH1J0uiDAeLQWczPnpm5TlzxWmp33sais=
+X-Received: by 2002:a17:903:40c2:b0:1d3:485a:833d with SMTP id
+ t2-20020a17090340c200b001d3485a833dmr466309pld.39.1704753951241; Mon, 08 Jan
+ 2024 14:45:51 -0800 (PST)
+MIME-Version: 1.0
+References: <CACpPHQz-_C3iqi_+4Jr8zgZf9kj2Ef+Xj7qnyseM7U74m3dbbg@mail.gmail.com>
+ <auto-000077373903@frontend02.mbox1.belwue.de>
+In-Reply-To: <auto-000077373903@frontend02.mbox1.belwue.de>
+From: Poonel Khademi Hashemi <poonelkh@gmail.com>
+Date: Mon, 8 Jan 2024 23:45:40 +0100
+Message-ID: <CACpPHQxw4Ze4RN7NJe0BerGjNz3AMfZ3V7+L0_y31x41vxqhRg@mail.gmail.com>
+Subject: Re: Anfrage Nachholen Winterspieleabend der SMV
+To: Florian Brunnert <technikag@fichte-gymnasium.de>
+Content-Type: multipart/alternative; boundary="000000000000b1786f060e76f5a8"
+X-Rspamd-SPAM-Probability: 0
+X-Rspamd-UID: 891980
+X-Rspamd-Queue-Id: 4T88Ks1R1BzcVJ
+
+--000000000000b1786f060e76f5a8
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hey, ja das mit den Getr=C3=A4nken k=C3=B6nnen wir so machen :)
+
+Florian Brunnert <technikag@fichte-gymnasium.de> schrieb am Mo. 8. Jan.
+2024 um 22:31:
+
+> Hi,
+> ja f=C3=BCr uns passt das.
+>
+> Wir von der K2 haben immernoch Getr=C3=A4nke, wollt ihr die verkaufen (wi=
+e es
+> f=C3=BCr den Winterspieleabend vor den Ferien geplant war)?
+>
+> Mit freundlichen Gr=C3=BC=C3=9Fen
+> Florian
+>
+>
+> -------- Urspr=C3=BCngliche Nachricht --------
+> Von: Poonel Khademi Hashemi <poonelkh@gmail.com>
+> Datum: 07.01.24 18:55 (GMT+01:00)
+> An: Florian Brunnert <technikag@fichte-gymnasium.de>,
+> lucas.schuett@fichte-gymnasium.de
+> Betreff: Anfrage Nachholen Winterspieleabend der SMV
+>
+> Liebe Technik AG,
+> der Winterspieleabend musste vor den Weihnachtsfeiern ausfallen, daher
+> w=C3=BCrde der Party AK sehr gerne diesen Abend nachholen.
+> Der neue Termin w=C3=A4re der 17.01.23. Was wir uns genau darunter vorste=
+llen
+> hatten wir ja schon abgekl=C3=A4rt, es w=C3=BCrde alles beim alten sonst =
+bleiben :)
+> Passt der Termin f=C3=BCr euch?
+> Mit freundlichen Gruessen, der Party AK.
+>
+
+--000000000000b1786f060e76f5a8
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">Hey, ja das mit den Getr=C3=A4nken k=C3=B6nnen wir so mac=
+hen :)=C2=A0</div><div><br><div class=3D"gmail_quote"><div dir=3D"ltr" clas=
+s=3D"gmail_attr">Florian Brunnert &lt;<a href=3D"mailto:technikag@fichte-gy=
+mnasium.de">technikag@fichte-gymnasium.de</a>&gt; schrieb am Mo. 8. Jan. 20=
+24 um 22:31:<br></div><blockquote class=3D"gmail_quote" style=3D"margin:0 0=
+ 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><div dir=3D"auto">Hi,<=
+div dir=3D"auto">ja f=C3=BCr uns passt das.</div><div dir=3D"auto"><br></di=
+v><div dir=3D"auto">Wir von der K2 haben immernoch Getr=C3=A4nke, wollt ihr=
+ die verkaufen (wie es f=C3=BCr den Winterspieleabend vor den Ferien geplan=
+t war)?</div><div dir=3D"auto"><br></div><div dir=3D"auto">Mit freundlichen=
+ Gr=C3=BC=C3=9Fen=C2=A0</div><div dir=3D"auto">Florian=C2=A0</div><div dir=
+=3D"auto"><div dir=3D"auto"><br></div></div><div><br></div><div align=3D"le=
+ft" dir=3D"auto" style=3D"font-size:100%;color:#000000"><div>-------- Urspr=
+=C3=BCngliche Nachricht --------</div><div>Von: Poonel Khademi Hashemi &lt;=
+<a href=3D"mailto:poonelkh@gmail.com" target=3D"_blank">poonelkh@gmail.com<=
+/a>&gt; </div><div>Datum: 07.01.24  18:55  (GMT+01:00) </div><div>An: Flori=
+an Brunnert &lt;<a href=3D"mailto:technikag@fichte-gymnasium.de" target=3D"=
+_blank">technikag@fichte-gymnasium.de</a>&gt;, <a href=3D"mailto:lucas.schu=
+ett@fichte-gymnasium.de" target=3D"_blank">lucas.schuett@fichte-gymnasium.d=
+e</a> </div><div>Betreff: Anfrage Nachholen Winterspieleabend der SMV </div=
+><div><br></div></div></div><div dir=3D"auto">Liebe Technik AG,=C2=A0<div d=
+ir=3D"auto">der Winterspieleabend musste vor den Weihnachtsfeiern ausfallen=
+, daher w=C3=BCrde der Party AK sehr gerne diesen Abend nachholen.</div><di=
+v dir=3D"auto">Der neue Termin w=C3=A4re der 17.01.23. Was wir uns genau da=
+runter vorstellen hatten wir ja schon abgekl=C3=A4rt, es w=C3=BCrde alles b=
+eim alten sonst bleiben :)=C2=A0</div><div dir=3D"auto">Passt der Termin f=
+=C3=BCr euch?=C2=A0</div><div dir=3D"auto">Mit freundlichen Gruessen, der P=
+arty AK.=C2=A0</div>
+</div></blockquote></div></div>
+
+--000000000000b1786f060e76f5a8--

@@ -1,0 +1,157 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <corneliaklose@cornelia-klose.com>
+Received: from mail-hub02.belwue.de ([129.143.76.42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 79378487 for technikag@fichte-gymnasium.de; Tue, 12 Dec 2023 14:37:56 +0100
+Received: from mail-in04.belwue.de (mail-in04.belwue.de [IPv6:2001:7c0:0:76::4])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4SqKS42QxBz7L1r
+	for <technikag@fichte-gymnasium.de>; Tue, 12 Dec 2023 14:37:56 +0100 (CET)
+Received: from mout.kundenserver.de (mout.kundenserver.de [212.227.17.24])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange ECDHE (P-256) server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in04.belwue.de (Postfix) with ESMTPS id 4SqKS40320z57913
+	for <technikag@fichte-gymnasium.de>; Tue, 12 Dec 2023 14:37:55 +0100 (CET)
+Received: from smtpclient.apple ([77.21.253.142]) by mrelayeu.kundenserver.de
+ (mreue106 [212.227.15.183]) with ESMTPSA (Nemesis) id
+ 1MDPqi-1r5rgC1r9i-00AVTf for <technikag@fichte-gymnasium.de>; Tue, 12 Dec
+ 2023 14:37:54 +0100
+Content-Type: multipart/alternative; boundary=Apple-Mail-E87188A5-F940-42E4-A845-CA023C335D4E
+Content-Transfer-Encoding: 7bit
+From: Cornelia Klose <corneliaklose@cornelia-klose.com>
+Mime-Version: 1.0 (1.0)
+Subject: Re: Mikrostative von Peter
+Date: Tue, 12 Dec 2023 14:37:53 +0100
+Message-Id: <8F6A9844-0157-4C14-871A-667EFD1C840F@cornelia-klose.com>
+References: <f6fb8e3f-b719-4565-b5b1-8f256adad3a1@email.android.com>
+In-Reply-To: <f6fb8e3f-b719-4565-b5b1-8f256adad3a1@email.android.com>
+To: Ismael Biber <technikag@fichte-gymnasium.de>
+X-Mailer: iPad Mail (19H370)
+X-Provags-ID: V03:K1:RVG6jXhujOHE3NeFyl1FrPGYFpjnpgJnu/gekm7r1kY9Z9X+QRL
+ KcfBjHjRfhi5NeVU+F5sCg8yZnCnjGXAtCIFyk4keCBnpgv4tHnDiHm8pmWcg0Idx8SdfNn
+ y/e/4o/SDAR27GflZgIg26MjqLmd3wWUhwWlzUfW7sQhjIjoWBXYj9c9YI69Ir2OWEsYV2a
+ 5jVgYlYe6YN2jr97WY0Ug==
+X-Spam-Flag: NO
+UI-OutboundReport: notjunk:1;M01:P0:/QPY1xepWlM=;B9WdPKWzzrTBQ76ZTSCai2yAN1F
+ pLBKwsBDvVikMhHndAbD777f55hbmfwgb8OxxcYcH2DCy8iPDWHqFq9G49HrempwK0GZO7tSA
+ vujXjIJCs1pvO7F2xGgPv5ixx2HIIJVNm9tax8dRLsdZFYE2yaLERpULwtG3JVnvGEJYlB6KU
+ VmQzQc7JnM483a/l87WNpu4FegFgX+Xhb9Y0jQGdX1EOJiRYXv0O28qDeE0tFSanCknurwT3t
+ CWSKQOswxJoL/2H1SRkkINd4kR1FY9dUWl9wu+sENvIfA53A/CiLBgXtVktizKuEi9/DsDnxk
+ hSbbLEijQtUCgO03gkIIrhYQQoHAH5qNFvPjYFxcyC9GwEokLCRiyXr0DpvWGxiic3uss5TWF
+ SMWPd6f7LRcC8ftQDiFuwoeALfkhjpAdg/xWF1xvK8XDn7DJ9lV9KzuAypP3q6mqjsmDAPGR8
+ LIB3nQxuncmZVvIdQdLGqT6scXeRPC0Hs2jlF9rgcy4gwvlGBwB+6OMVmKakkyzkIhqiDXE7c
+ vpqdJ64jUr86ss5q/ES3Ez41o1CZJYKVAMA4f3VeYYCcmIACzTDKjza81P1O95TZrGNpM1BL4
+ rh0K4sT7jE1HI+RUsrrG99m+2FLAolGRr9AM3PpILdgMMllmw4rX+tThwkChWS5LfzkeG3Esu
+ +gNMC8pe+0eMJReSbgL6ohKrS409dbeEjVjNti/E/eZLv+FIL76OHRM4Fku6YE0pO/REJrJ5z
+ u1ELl1oUv3Pp7qM6+V3Kcle9DP4qeYGPhF7czeMsXAuo6WUMjhi2VX7nyXMGSZuWc/j7s9yQF
+ Hto2AJNWKPxbWxyL+et7bx0E75E6HW/oNpWqK2QafUHly9k1t1tPlmvSJ1AemgFaEcuCPybBo
+ hsmXhT3SvmbzKDw==
+X-Rspamd-Queue-Id: 4SqKS40320z57913
+X-Rspamd-UID: 911e11
+
+
+--Apple-Mail-E87188A5-F940-42E4-A845-CA023C335D4E
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hallo Imael, ich bin leider nicht in der Schule, da ich nun v=C3=B6llig erk=C3=
+=A4ltet bin. Danke f=C3=BCr die schnelle Antwort. Wenn sich die Stative anfi=
+nden, nehme ich sie gerne am Do/Fr mit, vielleicht kann man sie in dem Fall i=
+m Technikraum innen neben der T=C3=BCr anlehnen=E2=80=A6
+(Ich hoffe, mein Arzt schreibt mich nicht l=C3=A4nger krank, mal sehen).
+Viele Gr=C3=BC=C3=9Fe und nochmals Danke an das ganze Team, war sch=C3=B6n g=
+estern!
+C. Klose
+
+Cornelia Klose
+Auf der Heide 9 b
+67360 Lingenfeld
+
+
+> Am 12.12.2023 um 12:21 schrieb Ismael Biber <technikag@fichte-gymnasium.de=
+>:
+>=20
+> =EF=BB=BF
+> Hallo Frau Klose,
+>=20
+> Das k=C3=B6nnen wir gerne heute noch kl=C3=A4ren, haben Sie um 14Uhr ca. 5=
+ Minuten Zeit daf=C3=BCr?
+>=20
+> MFG
+> Ismael Biber
+>=20
+> Am 12.12.2023 11:56 schrieb Cornelia Klose <corneliaklose@cornelia-klose.c=
+om>:
+> Liebes Team der Technik AG,
+> gestern sind mehrere Mikrostative von Peter liegengeblieben oder an den fa=
+lschen Platz gekommen.
+> Im einzelnen handelt es sich um:
+> 1 schwarzes Mikrofonstativ mit Galgen
+> 1 Mikrofonstativ ohne Galgen mit zwei bunten Aufklebern.
+> Er hatte beide hinter den Vorhang gelegt, weil er diese Mikrofonierung in d=
+er Mensa dann nicht benutzt hat.
+> K=C3=B6nnten die Stative im hinteren Raum gelandet sein? Peter braucht sie=
+ am Wochenende, ich w=C3=A4re froh um schnelle Kl=C3=A4rung. Dankesch=C3=B6n=
+.
+>=20
+> Das Rockshop Mikrofonstativ, das auch noch rumstand, ist nicht aus der Mus=
+iksammlung, ich habe es auf dem Fl=C3=BCgel geparkt=E2=80=A6 Hatte das nicht=
+ sowieso einen Defekt? Dann w=C3=BCrde ich es entsorgen.
+>=20
+> Viele Gr=C3=BC=C3=9Fe,
+> Cornelia Klose
+>=20
+>=20
+> Cornelia Klose
+> Auf der Heide 9 b
+> 67360 Lingenfeld
+>=20
+>=20
+
+--Apple-Mail-E87188A5-F940-42E4-A845-CA023C335D4E
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto">Hallo Imael, ich bin leider nicht in der Sc=
+hule, da ich nun v=C3=B6llig erk=C3=A4ltet bin. Danke f=C3=BCr die schnelle A=
+ntwort. Wenn sich die Stative anfinden, nehme ich sie gerne am Do/Fr mit, vi=
+elleicht kann man sie in dem Fall im Technikraum innen neben der T=C3=BCr an=
+lehnen=E2=80=A6<div>(Ich hoffe, mein Arzt schreibt mich nicht l=C3=A4nger kr=
+ank, mal sehen).</div><div>Viele Gr=C3=BC=C3=9Fe und nochmals Danke an das g=
+anze Team, war sch=C3=B6n gestern!</div><div>C. Klose<br><br><div dir=3D"ltr=
+"><div><span style=3D"font-size: 13pt;">Cornelia Klose</span></div><div><div=
+>Auf der Heide 9 b</div><div>67360 Lingenfeld</div><div><br></div></div></di=
+v><div dir=3D"ltr"><br><blockquote type=3D"cite">Am 12.12.2023 um 12:21 schr=
+ieb Ismael Biber &lt;technikag@fichte-gymnasium.de&gt;:<br><br></blockquote>=
+</div><blockquote type=3D"cite"><div dir=3D"ltr">=EF=BB=BF<div dir=3D"auto">=
+<div>Hallo Frau Klose,</div><div dir=3D"auto"><br></div><div dir=3D"auto">Da=
+s k=C3=B6nnen wir gerne heute noch kl=C3=A4ren, haben Sie um 14Uhr ca. 5 Min=
+uten Zeit daf=C3=BCr?</div><div><br></div><div data-smartmail=3D"gmail_signa=
+ture">MFG<br>Ismael Biber</div></div><div class=3D"gmail_extra"><br><div cla=
+ss=3D"gmail_quote">Am 12.12.2023 11:56 schrieb Cornelia Klose &lt;corneliakl=
+ose@cornelia-klose.com&gt;:<br type=3D"attribution"><blockquote class=3D"quo=
+te" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">=
+<div dir=3D"auto">Liebes Team der Technik AG,<div>gestern sind mehrere Mikro=
+stative von Peter liegengeblieben oder an den falschen Platz gekommen.</div>=
+<div>Im einzelnen handelt es sich um:<br><div>1 schwarzes Mikrofonstativ mit=
+ Galgen</div><div>1 Mikrofonstativ ohne Galgen mit zwei bunten Aufklebern.</=
+div><div>Er hatte beide hinter den Vorhang gelegt, weil er diese Mikrofonier=
+ung in der Mensa dann nicht benutzt hat.</div><div>K=C3=B6nnten die Stative i=
+m hinteren Raum gelandet sein? Peter braucht sie am Wochenende, ich w=C3=A4r=
+e froh um schnelle Kl=C3=A4rung. Dankesch=C3=B6n.</div><div><br></div><div>D=
+as Rockshop Mikrofonstativ, das auch noch rumstand, ist nicht aus der Musiks=
+ammlung, ich habe es auf dem Fl=C3=BCgel geparkt=E2=80=A6 Hatte das nicht so=
+wieso einen Defekt? Dann w=C3=BCrde ich es entsorgen.</div><div><br></div><d=
+iv>Viele Gr=C3=BC=C3=9Fe,</div><div>Cornelia Klose</div><div><br><br><div di=
+r=3D"ltr"><div><span style=3D"font-size:13pt">Cornelia Klose</span></div><di=
+v><div>Auf der Heide 9 b</div><div>67360 Lingenfeld</div><div><br></div></di=
+v></div></div></div></div></blockquote></div><br></div></div></blockquote></=
+div></body></html>=
+
+--Apple-Mail-E87188A5-F940-42E4-A845-CA023C335D4E--

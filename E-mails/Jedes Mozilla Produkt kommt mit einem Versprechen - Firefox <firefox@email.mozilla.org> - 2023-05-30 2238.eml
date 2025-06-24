@@ -1,0 +1,1224 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <v-dcbpao_bcnnfpjfnb_ejpbfcjl_ejpbebjc_a@bounce.email.mozilla.org>
+Received: from mail-hub02.belwue.de ([2001:7c0:0:76::42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 69690813 for technikag@fichte-gymnasium.de; Tue, 30 May 2023 22:38:43 +0200
+Received: from mail-in02.belwue.de (mail-in02.belwue.de [IPv6:2001:7c0:0:76::2])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4QW4430qsZz5cgJ
+	for <technikag@fichte-gymnasium.de>; Tue, 30 May 2023 22:38:43 +0200 (CEST)
+Received: from mail10196.em.mozilla.org (mail10196.em.mozilla.org [74.112.70.248])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in02.belwue.de (Postfix) with ESMTPS id 4QW4415F0pzB17t9
+	for <technikag@fichte-gymnasium.de>; Tue, 30 May 2023 22:38:41 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=spop1024; d=email.mozilla.org;
+ h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:
+ X-CSA-Complaints:List-Unsubscribe-Post:List-Unsubscribe;
+ i=firefox@email.mozilla.org;
+ bh=lOuQHFwRoYcUoE/loWCg5X8gsuXLHwgStR79EBglA/s=;
+ b=GPPoKOtskQfg/tCEh2vMgLkMlJCpWvtSuNtqIooBguRScn6zfDoxGITfeg31zr++cjBBRuFJ57kq
+   z4I/YOdHEuvJOCiRHy4eGoS54Q8JU6SyE79g1RFPos8V9Gj1dYMdaIWeFN06S4LI488sVlgRyvo4
+   +V2OZyGBzYZsUkQ/5qY=
+Received: by bg92-ca-ue1.prod.awspr id hepfd02vq6gl for <technikag@fichte-gymnasium.de>; Tue, 30 May 2023 20:38:40 +0000 (envelope-from <v-dcbpao_bcnnfpjfnb_ejpbfcjl_ejpbebjc_a@bounce.email.mozilla.org>)
+Date: Tue, 30 May 2023 20:38:40 +0000 (UTC)
+From: Firefox <firefox@email.mozilla.org>
+Reply-To: firefox@email.mozilla.org
+To: technikag@fichte-gymnasium.de
+Message-ID: <1355854073.219069741685479120372.JavaMail.app@bg92-ca-ue1.prod.awspr>
+Subject: Jedes Mozilla Produkt kommt mit einem Versprechen
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_381367_376933798.1685479119996"
+x-mid: 3284750
+X-CSA-Complaints: csa-complaints@eco.de
+x-rpcampaign: sp3284750
+x-job: 3284750
+x-orgId: 11776
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+List-Unsubscribe: <https://links.email.mozilla.org/luoo/v1/ZXRLZGZSWXBmV3NIMUFFd0N4aEs4c1RSRmlKc0N3VGVzdVI1bXR3bkFwQTJKQTJjaWxDWXVRL2ZZcUJTVHpoaTlnejBPMFYrcllXZ2dsTDJLcEROeHc9PQS2>, <mailto:v-dcbpao_bcnnfpjfnb_ejpbfcjl_ejpbebjc_a@bounce.email.mozilla.org?subject=Unsubscribe>
+X-Rspamd-SPAM-Probability: 0
+X-Rspamd-Queue-Id: 4QW4415F0pzB17t9
+X-Rspamd-UID: 4378c7
+
+------=_Part_381367_376933798.1685479119996
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Firefox=20
+***********************
+F=C3=BCr ein besseres Web
+***********************
+
+Mit Firefox hast du dich f=C3=BCr den einzigen etablierten Browser entschie=
+den, der von einer Non-Profit unterst=C3=BCtzt wird. Mozillas Ziel ist ein =
+offenes, inklusives und f=C3=BCr alle zug=C3=A4ngliches Web.
+
+Wir haben unsere Werte in einem Manifest festgehalten, von dem wir glauben,=
+ dass es das Fundament eines gesunden Internets sein sollte. Aus diesem Gru=
+nd sind eben diese Prinzipien auch die Grundlage all unserer Produkte.=20
+
+F=C3=BCr Mozilla stehst du an erster Stelle und wir sind davon =C3=BCberzeu=
+gt, dass Menschen immer wichtiger als Profit bleiben m=C3=BCssen, um das In=
+ternet als globale und offene Ressource f=C3=BCr alle zu erhalten.
+
+Du m=C3=B6chtest Neuigkeiten und Tipps zu Mozilla und unseren Produkten erh=
+alten?=20
+
+Abonniere unseren Newsletter
+>> https://links.email.mozilla.org/els/v2/Ddg~QWGpWrTA/VFhKdi8veU8ya3h6OWVJ=
+WjRrMkFUSFEwMHNGN0FjQUNRRmJJSzNWRk9kTXJwaXorQzBDdFIvMk40WStBRVorZUNsVHFJcDl=
+XWFBOeUhqRExiSkRsVkk5aksxbnVKSEJSSUw5cUFCb2ovQTlVR1VIalBZeFVBeldQUEErdkxOVF=
+k3dkU4NFNYQ1YwOD0S1/                                                       =
+                                                                =20
+
+Twitter
+>> https://links.email.mozilla.org/els/v2/N-x4cv39vVfY/VFhKdi8veU8ya3h6OWVJ=
+WjRrMkFUSFEwMHNGN0FjQUNRRmJJSzNWRk9kTXJwaXorQzBDdFIvMk40WStBRVorZUNsVHFJcDl=
+XWFBOeUhqRExiSkRsVkk5aksxbnVKSEJSSUw5cUFCb2ovQTlVR1VIalBZeFVBeldQUEErdkxOVF=
+k3dkU4NFNYQ1YwOD0S1/=20
+
+Instagram
+>> https://links.email.mozilla.org/els/v2/37~xHRNvRbQ3/VFhKdi8veU8ya3h6OWVJ=
+WjRrMkFUSFEwMHNGN0FjQUNRRmJJSzNWRk9kTXJwaXorQzBDdFIvMk40WStBRVorZUNsVHFJcDl=
+XWFBOeUhqRExiSkRsVkk5aksxbnVKSEJSSUw5cUFCb2ovQTlVR1VIalBZeFVBeldQUEErdkxOVF=
+k3dkU4NFNYQ1YwOD0S1/=20
+
+Youtube
+>> https://links.email.mozilla.org/els/v2/~8_WQ7gm73fY/VFhKdi8veU8ya3h6OWVJ=
+WjRrMkFUSFEwMHNGN0FjQUNRRmJJSzNWRk9kTXJwaXorQzBDdFIvMk40WStBRVorZUNsVHFJcDl=
+XWFBOeUhqRExiSkRsVkk5aksxbnVKSEJSSUw5cUFCb2ovQTlVR1VIalBZeFVBeldQUEErdkxOVF=
+k3dkU4NFNYQ1YwOD0S1/=20
+
+
+*****************************************************
+
+Du erh=C3=A4ltst diese E-Mail technikag@fichte-gymnasium.de , weil du mit d=
+er E-Mail-Adresse deines Firefox-Kontos den Newsletter Tipps zu Firefox Acc=
+ounts abonniert hast.
+
+Wenn du diese E-Mails nicht mehr erhalten m=C3=B6chtest, kannst du dich hie=
+r abmelden oder deine Einstellungen jederzeit anpassen.
+>> https://links.email.mozilla.org/els/v2/dpANQZ03Zdfd/VFhKdi8veU8ya3h6OWVJ=
+WjRrMkFUSFEwMHNGN0FjQUNRRmJJSzNWRk9kTXJwaXorQzBDdFIvMk40WStBRVorZUNsVHFJcDl=
+XWFBOeUhqRExiSkRsVkk5aksxbnVKSEJSSUw5cUFCb2ovQTlVR1VIalBZeFVBeldQUEErdkxOVF=
+k3dkU4NFNYQ1YwOD0S1/YTdZcWNvRnliZFdEMTQrTTZ3QmpXN2lkaUFEeFZXRFdOTmZlM3pyRjV=
+NZm5LY1pNaG5qRmhIa3BaOC9LN2MvOE9vc2p2N1lnUlpQVFMrdnljZ0RQY1E9PQS2=20
+
+>> https://links.email.mozilla.org/els/v2/rjAzQN8XNwt4/VFhKdi8veU8ya3h6OWVJ=
+WjRrMkFUSFEwMHNGN0FjQUNRRmJJSzNWRk9kTXJwaXorQzBDdFIvMk40WStBRVorZUNsVHFJcDl=
+XWFBOeUhqRExiSkRsVkk5aksxbnVKSEJSSUw5cUFCb2ovQTlVR1VIalBZeFVBeldQUEErdkxOVF=
+k3dkU4NFNYQ1YwOD0S1/YTdZcWNvRnliZFdEMTQrTTZ3QmpXN2lkaUFEeFZXRFdOTmZlM3pyRjV=
+NZm5LY1pNaG5qRmhIa3BaOC9LN2MvOE9vc2p2N1lnUlpQVFMrdnljZ0RQY1E9PQS2 =20
+
+Verwalte deine Firefox=E2=80=93Kontoeinstellungen, indem du deine Konto=E2=
+=80=93Seite besuchst.=20
+>> https://links.email.mozilla.org/els/v2/WY4WC-ag-zfV/VFhKdi8veU8ya3h6OWVJ=
+WjRrMkFUSFEwMHNGN0FjQUNRRmJJSzNWRk9kTXJwaXorQzBDdFIvMk40WStBRVorZUNsVHFJcDl=
+XWFBOeUhqRExiSkRsVkk5aksxbnVKSEJSSUw5cUFCb2ovQTlVR1VIalBZeFVBeldQUEErdkxOVF=
+k3dkU4NFNYQ1YwOD0S1/ =20
+
+>> https://links.email.mozilla.org/els/v2/P3XghEpVENf0/VFhKdi8veU8ya3h6OWVJ=
+WjRrMkFUSFEwMHNGN0FjQUNRRmJJSzNWRk9kTXJwaXorQzBDdFIvMk40WStBRVorZUNsVHFJcDl=
+XWFBOeUhqRExiSkRsVkk5aksxbnVKSEJSSUw5cUFCb2ovQTlVR1VIalBZeFVBeldQUEErdkxOVF=
+k3dkU4NFNYQ1YwOD0S1/                                                       =
+    =20
+2 Harrison St. #175, San Francisco, California=C2=A094105=C2=A0USA    =20
+
+Mozilla Corporation
+2 Harrison St. #175, San Francisco, California 94105 USA
+
+CRN: 2759208
+Vertretungsberechtigte: Frank Huang, Jeff Garver, Mitchell Baker
+legal-notices@mozilla.com
+
+Rechtliches=20
+>> https://links.email.mozilla.org/els/v2/b98DJ2mx24Fx/VFhKdi8veU8ya3h6OWVJ=
+WjRrMkFUSFEwMHNGN0FjQUNRRmJJSzNWRk9kTXJwaXorQzBDdFIvMk40WStBRVorZUNsVHFJcDl=
+XWFBOeUhqRExiSkRsVkk5aksxbnVKSEJSSUw5cUFCb2ovQTlVR1VIalBZeFVBeldQUEErdkxOVF=
+k3dkU4NFNYQ1YwOD0S1/=20
+
+Datenschutz
+>> https://links.email.mozilla.org/els/v2/vpALQ~VP~jck/VFhKdi8veU8ya3h6OWVJ=
+WjRrMkFUSFEwMHNGN0FjQUNRRmJJSzNWRk9kTXJwaXorQzBDdFIvMk40WStBRVorZUNsVHFJcDl=
+XWFBOeUhqRExiSkRsVkk5aksxbnVKSEJSSUw5cUFCb2ovQTlVR1VIalBZeFVBeldQUEErdkxOVF=
+k3dkU4NFNYQ1YwOD0S1/=20
+
+
+------=_Part_381367_376933798.1685479119996
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/htm=
+l4/strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+<head></head>
+<head>
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0"/>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+    <title key=3D"1">Jedes Mozilla Produkt kommt mit einem Versprechen</tit=
+le>
+    <style key=3D"2" type=3D"text/css">
+        .layout-table a:link{color:blue;text-decoration:underline;}.layout-=
+table a:visited{color:purple;text-decoration:underline;}.layout-table a:lin=
+k:active{color:red}.layout-table a:visited:active{color:purple}.layout-tabl=
+e address{display:block;font-style:italic}.layout-table area{}.layout-table=
+ article{display:block}.layout-table aside{display:block}.layout-table b{fo=
+nt-weight:700}.layout-table bdo{unicode-bidi:bidi-override}.layout-table bl=
+ockquote{display:block;margin:1em 40px}.layout-table body{margin:8px}.layou=
+t-table body:focus{outline:none}.layout-table caption{display:table-caption=
+;text-align:center}.layout-table cite{font-style:italic}.layout-table code{=
+font-family:monospace}.layout-table col{display:table-column}.layout-table =
+colgroup{display:table-column-group}.layout-table datalist{}.layout-table d=
+d{display:block;margin-left:40px}.layout-table del{text-decoration:line-thr=
+ough}.layout-table details{display:block}.layout-table dfn{font-style:itali=
+c}.layout-table div{display:block; margin: 0}.layout-table dl{display:block=
+;margin:1em 0}.layout-table dt{display:block}.layout-table em{font-style:it=
+alic}.layout-table embed:focus{outline:none}.layout-table fieldset{display:=
+block;margin-left:2px;margin-right:2px;border:2px groove;padding:.35em .75e=
+m .625em}.layout-table figcaption{display:block}.layout-table figure{displa=
+y:block;margin:1em 40px}.layout-table footer{display:block}.layout-table fo=
+rm{display:block;margin-top:0}.layout-table h1{display:block;font-weight:40=
+0;margin:0 0}.layout-table h2{display:block;font-weight:400;margin:0 0}.lay=
+out-table h3{display:block;font-weight:400;margin:0 0}.layout-table h4{disp=
+lay:block;font-weight:400;margin:0 0}.layout-table h5{display:block;font-we=
+ight:400;margin:0 0}.layout-table h6{display:block;font-weight:400;margin:0=
+ 0}.layout-table head{}.layout-table header{display:block}.layout-table hr{=
+display:block;border-style:inset;border-width:1px;margin:.5em auto}.layout-=
+table html{display:block}.layout-table html:focus{outline:none}.layout-tabl=
+e i{font-style:italic}.layout-table iframe:focus{outline:none}.layout-table=
+ iframe[seamless]{display:block}.layout-table img{display:inline-block; max=
+-width: 100%;}.layout-table ins{text-decoration:underline}.layout-table kbd=
+{font-family:monospace}.layout-table label{cursor:default}.layout-table leg=
+end{display:block;padding-left:2px;padding-right:2px;border:none}.layout-ta=
+ble li{display:list-item}.layout-table link{}.layout-table map{display:inli=
+ne}.layout-table menu{display:block;list-style-type:disc;padding-left:40px;=
+margin:1em 0}.layout-table nav{display:block}.layout-table object:focus{out=
+line:none}.layout-table ol{display:block;list-style-type:decimal;padding-le=
+ft:40px;}.layout-table output{display:inline}.layout-table p{display:block;=
+margin:0 0}.layout-table param{}.layout-table pre{display:block;font-family=
+:monospace;white-space:pre-wrap;margin:0 0}.layout-table q{display:inline}.=
+layout-table q::before{content:open-quote}.layout-table q::after{content:cl=
+ose-quote}.layout-table rt{line-height:normal}.layout-table s{text-decorati=
+on:line-through}.layout-table samp{font-family:monospace}.layout-table scri=
+pt{}.layout-table section{display:block}.layout-table small{}.layout-table =
+strike{text-decoration:line-through}.layout-table strong{font-weight:700}.l=
+ayout-table style{}.layout-table sub{vertical-align:sub;}.layout-table summ=
+ary{display:block}.layout-table sup{vertical-align:super;}.layout-table tab=
+le{display:table;border-collapse:separate;border-spacing:2px;border-color:g=
+ray}.layout-table tbody{display:table-row-group;vertical-align:middle;borde=
+r-color:inherit}.layout-table td{display:table-cell;vertical-align:inherit}=
+.layout-table tfoot{display:table-footer-group;vertical-align:middle;border=
+-color:inherit}.layout-table th{display:table-cell;vertical-align:inherit;f=
+ont-weight:700;text-align:center}.layout-table thead{display:table-header-g=
+roup;vertical-align:middle;border-color:inherit}.layout-table title{}.layou=
+t-table tr{display:table-row;vertical-align:inherit;border-color:inherit}.l=
+ayout-table u{text-decoration:underline}.layout-table ul{display:block;list=
+-style-type:disc;padding-left:40px;margin:1em 0 1px em 0}.layout-table var{=
+font-style:italic}
+        .layout-table .noBorderSpacing{border-spacing:0!important;}
+        div, p, a, li, td {-webkit-text-size-adjust:none; -ms-text-size-adj=
+ust:none;}
+        #outlook a {padding:0;}
+        .ReadMsgBody {width:100%;}
+        .ExternalClass {width:100%;}
+        .ExternalClass * {line-height:110%;}
+        @media screen and (max-width: 480px) {
+            table.layout-table { height:unset !important; }
+            .layout-grid-cell { height: auto !important; width: 100% !impor=
+tant; }
+            tr { display: table-row !important; display: grid !important; }
+            colgroup.displayNone, tr.displayNone, td.displayNone, div.displ=
+ayNone {display:none !important;}
+            .w100per {width: 100% !important;}
+            .image-group-cell {width: initial !important}
+        }
+        @media screen and (max-width: 480px) {
+            .hide-on-mobile{display:none !important;}
+            table.hide-on-mobile{display:none !important;}
+            tr.hide-on-mobile{display:none !important;}
+            .layout-grid-cell-content-mso {width: auto !important;}
+            .layout-table .hide-on-desktop{display:block !important;}
+            .layout-table table.hide-on-desktop{display:table !important;}
+            .layout-table tr.hide-on-desktop{display:table-row !important;}
+            .layout-table tr.hide-on-desktop.displayBlock{display:grid !imp=
+ortant;}=20
+        }
+        @media screen and (min-width: 480px) {
+            .hide-on-mobile{display:block !important;}
+            table.hide-on-mobile{display:table !important;}
+            tr.hide-on-mobile{display:table-row !important;}
+            .layout-table .hide-on-desktop{display:none !important;}
+            .layout-table table.hide-on-desktop{display:none !important;}
+            .layout-table tr.hide-on-desktop{display:none !important;}
+            .content-editor .layout-table .hide-on-desktop{display:block !i=
+mportant;}
+            .content-editor .layout-table table.hide-on-desktop{display:tab=
+le !important;}
+            .content-editor .layout-table tr.hide-on-desktop{display:table-=
+row !important;}
+        }
+    </style>
+    <!--[if gte mso 9]>
+    <style key=3D"3" type=3D"text/css">
+            .tofev7 {font-family: Arial, Helvetica, sans-serif;}
+            .zgzb9ab {font-family: arial:bold;}
+            .b82pehb {font-family: arial:normal;}
+            .a8oizd {font-family: helvetica;}
+            .vg1kgq {font-family: helvetica:bold;}
+            .heiu97 {font-family: helvetica:normal;}
+            .ktr83o {font-family: sans-serif;}
+            .qeqa3w {font-family: sans-serif:bold;}
+            .xdhjelb {font-family: sans-serif:normal;}
+    </style>
+    <![endif]-->
+    <!--[if gte mso 9]>
+        <style type=3D"text/css">
+            .layout-body .hide-on-desktop,
+            .layout-body .hide-on-desktop table,
+            .layout-body .hide-on-desktop td,
+            .layout-body .hide-on-desktop tr,
+            .layout-body .hide-on-desktop a,
+            .layout-body .hide-on-desktop span,
+            .layout-body .hide-on-desktop p,
+            .layout-body .hide-on-desktop div {background-color: transparen=
+t !important;display: none !important;max-height: 0 !important;line-height:=
+ 0 !important;mso-hide:all !important; margin: 0 !important; padding: 0 !im=
+portant; height: 0 !important;}
+        </style>
+    <![endif]-->
+    <!--[if gt mso 14]>
+    <style type=3D"text/css" media=3D"all">
+    /* Outlook 2013 weird horizontal lines fix */
+    tr {line-height: 0px; border-collapse: collapse;}
+    </style>
+    <![endif]-->
+</head>
+<body class=3D"layout-body"  style=3D"background-color:transparent;">
+<div id=3D"mktcloud-preheader" key=3D"preheader" style=3D"display:none;max-=
+height:0px;overflow:hidden;"><p id=3D"mktcloud-preheader-text">F=C3=BCr dei=
+n Online-Leben</p><div style=3D"display:none;max-height:0px;overflow:hidden=
+;">&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#=
+847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; =
+&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847=
+; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#8=
+47; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &=
+#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847;=
+ &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#84=
+7; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#=
+847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; =
+&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847=
+; &#847; &#847; &#847; &#847; &#847; &#847;</div></div>
+<table class=3D"layout-table" key=3D"3" align=3D"center" style=3D"table-lay=
+out:fixed;height:auto;width:100% !important;background-color:transparent;" =
+cellspacing=3D"0" cellpadding=3D"0">
+    <colgroup class=3D"displayNone" key=3D"1">
+        <col width=3D"50%" key=3D"0">
+        <col width=3D"107px" key=3D"1">
+        <col width=3D"107px" key=3D"2">
+        <col width=3D"107px" key=3D"3">
+        <col width=3D"107px" key=3D"4">
+        <col width=3D"107px" key=3D"5">
+        <col width=3D"107px" key=3D"6">
+        <col width=3D"50%" key=3D"7">
+    </colgroup>
+   =20
+           =20
+                <tr class=3D"layout-grid-row displayBlock "  style=3D"heigh=
+t:100%;background-color:#ffffff;" data-content-item-id=3D"376b6184-1db0-415=
+a-be70-e1af16b62e52">
+                    <td class=3D"layout-grid-section-cell displayNone" key=
+=3D"before"></td>
+                        <!--[if gte mso 9][!tonline]>
+                        <td class=3D"layout-grid-cell target source" colSpa=
+n=3D"6" width=3D"640" valign=3D"top" style=3D"width:640px; height:100%;vert=
+ical-align:top;            ">
+                        <![endif]-->
+                        <!--[if !gte mso 9]><!-->
+                        <td class=3D"layout-grid-cell displayBlock target s=
+ource" colSpan=3D"6" valign=3D"top" style=3D"width:640px; height:100%;verti=
+cal-align:top;             " data-content-item-id=3D"376b6184-1db0-415a-be7=
+0-e1af16b62e52">
+                        <!-- <![endif] hidden -->   =20
+                           =20
+                                <div class=3D"layout-grid-cell-content layo=
+ut-grid-cell-content-mso" style=3D"        width:NaNpx;
+overflow-wrap:anywhere;overflow:hidden;" data-content-item-id=3D"376b6184-1=
+db0-415a-be70-e1af16b62e52">
+                                    <div>
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"  data-content-item-=
+id=3D"376b6184-1db0-415a-be70-e1af16b62e52" style=3D"width:100%;border-spac=
+ing:0!important;box-sizing:border-box;">
+   =20
+        <tr>
+            <td>
+                <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"  st=
+yle=3D"width:100%;border-spacing:0!important;background-color:transparent;"=
+>
+                   =20
+                        <tr>
+                            <td>
+                                <table border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0"   style=3D"width:100%;border-spacing:0!important;padding-left:=
+20px;padding-right:20px;padding-top:20px;padding-bottom:20px;box-sizing:bor=
+der-box;">
+                                   =20
+                                        <tr>
+                                            <td  align=3D"center">         =
+       <a name=3D"Firefox Logo" href=3D"https://links.email.mozilla.org/els=
+/v2/pKA6Q9Yj9-cK/VFM5M3hYVXlzaFRJeEk5ZCtRQ3liRWRiMlgwcFo1ZWMxOUtQZ0lVK1g1NW=
+NOcUhhLzIrVnVnVjNhK0VqQzFJWWQrWVVPV3R5MVoweUVPZzhKWGdvZUlNVUZNUUVYa2l0K3pHW=
+mNPYzhPY1BYZ0JRWjNFeVhSbXBmNTJLU3JOOUhtSE5BZHd0Q1p4OD0S1/" target=3D"_blank=
+"   >
+                                                <img data-content-item-id=
+=3D"376b6184-1db0-415a-be70-e1af16b62e52" src=3D"https://content-us-9.conte=
+nt-cms.com/a9dd601b-4d21-4dfa-a627-5d08f0ab9976/dxdyn/3284750/3d31b775-d856=
+-46bf-960d-51aba092c8c3.png?resize&#x3D;167px%3A56px" alt=3D"Firefox"  bord=
+er=3D"0" style=3D"width:100%;display:block;max-width:167px!important;" widt=
+h=3D"167"/>
+                                                </a>
+                                            </td>
+                                        </tr>
+                                   =20
+                                </table>
+                            </td>
+                        </tr>
+                   =20
+                </table>
+            </td>
+        </tr>
+   =20
+</table>
+
+</div>
+
+                                </div>
+                           =20
+                                <div class=3D"layout-grid-cell-content layo=
+ut-grid-cell-content-mso" style=3D"        width:NaNpx;
+overflow-wrap:anywhere;overflow:hidden;" data-content-item-id=3D"376b6184-1=
+db0-415a-be70-e1af16b62e52">
+                                    <div>
+<table data-content-item-id=3D"376b6184-1db0-415a-be70-e1af16b62e52" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0"  style=3D"width:100%;border-spac=
+ing:0!important;padding-top:10px;padding-bottom:10px;padding-left:10px;padd=
+ing-right:10px;box-sizing:border-box;">
+   =20
+        <tr>
+            <td>
+                <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"  st=
+yle=3D"width:100%;border-spacing:0!important;background-color:transparent;"=
+>
+                   =20
+                        <tr>
+                            <td>                                <table bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width:100%;border-spa=
+cing:0!important;height:100%;">
+                                   =20
+                                        <tr>
+                                            <td style=3D"padding-right:20px=
+;padding-top:20px;padding-bottom:20px;padding-left:20px;">
+                                                <!--[if gte mso 9][!tonline=
+]>
+                                                <div style=3D"height:100%;w=
+ord-break: break-word;mso-line-height-rule: exactly;font-family:Arial, Helv=
+etica, sans-serif!important;font-size:16px;font-weight:normal;color: #00000=
+0;background-color:transparent;line-height: 100%;" class=3D"tofev7">
+                                                <![endif]-->
+                                                    <!--[if !gte mso 9]><!-=
+->
+                                                    <div data-content-item-=
+id=3D"376b6184-1db0-415a-be70-e1af16b62e52" style=3D"height:100%;word-break=
+: break-word;mso-line-height-rule: exactly;font-family:Arial, Helvetica, sa=
+ns-serif!important;font-size:16px;font-weight:normal;color: #000000;backgro=
+und-color:transparent;line-height:1;" class=3D"tofev7"><!-- <![endif] hidde=
+n --><h1 style=3D"color:#000000;font-family:'arial' , 'helvetica' , sans-se=
+rif;font-size:32px;font-weight:normal;text-align:center"><span style=3D"bac=
+kground-color:transparent;color:#000000"><strong>F=C3=BCr ein besseres Web<=
+/strong></span></h1></div>
+                                            </td>
+                                        </tr>
+                                   =20
+                                </table>
+                            </td>
+                        </tr>
+                   =20
+                </table>
+            </td>
+        </tr>
+   =20
+</table>
+
+</div>
+
+                                </div>
+                           =20
+                                <div class=3D"layout-grid-cell-content layo=
+ut-grid-cell-content-mso" style=3D"        width:NaNpx;
+overflow-wrap:anywhere;overflow:hidden;" data-content-item-id=3D"376b6184-1=
+db0-415a-be70-e1af16b62e52">
+                                    <div>
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"hide-on-mo=
+bile" data-content-item-id=3D"376b6184-1db0-415a-be70-e1af16b62e52" style=
+=3D"width:100%;border-spacing:0!important;box-sizing:border-box;">
+   =20
+        <tr>
+            <td>
+                <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"  st=
+yle=3D"width:100%;border-spacing:0!important;background-color:transparent;"=
+>
+                   =20
+                        <tr>
+                            <td>
+                                <table border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0"   style=3D"width:100%;border-spacing:0!important;box-sizing:bo=
+rder-box;">
+                                   =20
+                                        <tr>
+                                            <td  align=3D"center">         =
+       <a name=3D"Image Link 220428376 Header_email4_desktoppng" href=3D"ht=
+tps://links.email.mozilla.org/els/v2/8P~_J-~b-efj/VFM5M3hYVXlzaFRJeEk5ZCtRQ=
+3liRWRiMlgwcFo1ZWMxOUtQZ0lVK1g1NWNOcUhhLzIrVnVnVjNhK0VqQzFJWWQrWVVPV3R5MVow=
+eUVPZzhKWGdvZUlNVUZNUUVYa2l0K3pHWmNPYzhPY1BYZ0JRWjNFeVhSbXBmNTJLU3JOOUhtSE5=
+BZHd0Q1p4OD0S1/" target=3D"_blank"   >
+                                                <img data-content-item-id=
+=3D"376b6184-1db0-415a-be70-e1af16b62e52" src=3D"https://content-us-9.conte=
+nt-cms.com/a9dd601b-4d21-4dfa-a627-5d08f0ab9976/dxdyn/3284750/f36f57f8-1af3=
+-44ab-9e3f-de2b40b72fe3.png" alt=3D"Header Building a better Internet"  bor=
+der=3D"0" style=3D"width:100%;display:block;max-width:100%!important;" widt=
+h=3D"640"/>
+                                                </a>
+                                            </td>
+                                        </tr>
+                                   =20
+                                </table>
+                            </td>
+                        </tr>
+                   =20
+                </table>
+            </td>
+        </tr>
+   =20
+</table>
+
+</div>
+
+                                </div>
+                           =20
+                                <div class=3D"layout-grid-cell-content layo=
+ut-grid-cell-content-mso" style=3D"        width:NaNpx;
+overflow-wrap:anywhere;overflow:hidden;" data-content-item-id=3D"376b6184-1=
+db0-415a-be70-e1af16b62e52">
+                                    <div>
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"hide-on-de=
+sktop " data-content-item-id=3D"376b6184-1db0-415a-be70-e1af16b62e52" style=
+=3D"width:100%;border-spacing:0!important;box-sizing:border-box;">
+   =20
+        <tr>
+            <td>
+                <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"hide-on-desktop" style=3D"width:100%;border-spacing:0!important;backg=
+round-color:transparent;">
+                   =20
+                        <tr>
+                            <td>
+                                <table border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" class=3D"hide-on-desktop"  style=3D"width:100%;border-spacing:=
+0!important;box-sizing:border-box;">
+                                   =20
+                                        <tr>
+                                            <td  align=3D"center">         =
+       <a name=3D"Image Link 773368117 Header_email4_mobilepng" href=3D"htt=
+ps://links.email.mozilla.org/els/v2/a9KyJjK3j7c6/VFM5M3hYVXlzaFRJeEk5ZCtRQ3=
+liRWRiMlgwcFo1ZWMxOUtQZ0lVK1g1NWNOcUhhLzIrVnVnVjNhK0VqQzFJWWQrWVVPV3R5MVowe=
+UVPZzhKWGdvZUlNVUZNUUVYa2l0K3pHWmNPYzhPY1BYZ0JRWjNFeVhSbXBmNTJLU3JOOUhtSE5B=
+ZHd0Q1p4OD0S1/" target=3D"_blank"   >
+                                                <img data-content-item-id=
+=3D"376b6184-1db0-415a-be70-e1af16b62e52" src=3D"https://content-us-9.conte=
+nt-cms.com/a9dd601b-4d21-4dfa-a627-5d08f0ab9976/dxdyn/3284750/6b8c8db3-55b5=
+-47a2-8a7c-252504fca268.png" alt=3D"Header Building a better Internet mobil=
+e"  border=3D"0" style=3D"width:100%;display:block;max-width:100%!important=
+;" width=3D"640"/>
+                                                </a>
+                                            </td>
+                                        </tr>
+                                   =20
+                                </table>
+                            </td>
+                        </tr>
+                   =20
+                </table>
+            </td>
+        </tr>
+   =20
+</table>
+
+</div>
+
+                                </div>
+                           =20
+                                <div class=3D"layout-grid-cell-content layo=
+ut-grid-cell-content-mso" style=3D"        width:NaNpx;
+overflow-wrap:anywhere;overflow:hidden;" data-content-item-id=3D"376b6184-1=
+db0-415a-be70-e1af16b62e52">
+                                    <div>
+<table data-content-item-id=3D"376b6184-1db0-415a-be70-e1af16b62e52" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0"  style=3D"width:100%;border-spac=
+ing:0!important;padding-top:0px; padding-bottom:0px;box-sizing:border-box;"=
+>
+   =20
+        <tr>
+            <td>
+                <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"  st=
+yle=3D"width:100%;border-spacing:0!important;background-color:transparent;"=
+>
+                   =20
+                        <tr>
+                            <td>                                <table bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width:100%;border-spa=
+cing:0!important;height:100%;">
+                                   =20
+                                        <tr>
+                                            <td style=3D"padding-right:40px=
+;padding-top:40px;padding-bottom:30px;padding-left:40px;">
+                                                <!--[if gte mso 9][!tonline=
+]>
+                                                <div style=3D"height:100%;w=
+ord-break: break-word;mso-line-height-rule: exactly;font-family:Arial, Helv=
+etica, sans-serif!important;font-size:16px;font-weight:normal;color: #00000=
+0;background-color:transparent;line-height: 160%;" class=3D"tofev7">
+                                                <![endif]-->
+                                                    <!--[if !gte mso 9]><!-=
+->
+                                                    <div data-content-item-=
+id=3D"376b6184-1db0-415a-be70-e1af16b62e52" style=3D"height:100%;word-break=
+: break-word;mso-line-height-rule: exactly;font-family:Arial, Helvetica, sa=
+ns-serif!important;font-size:16px;font-weight:normal;color: #000000;backgro=
+und-color:transparent;line-height:1.6;" class=3D"tofev7"><!-- <![endif] hid=
+den --><p style=3D"text-align:center"><span style=3D"background-color:trans=
+parent;color:#000000">Mit Firefox hast du dich f=C3=BCr den einzigen etabli=
+erten Browser entschieden, der von einer Non-Profit unterst=C3=BCtzt wird. =
+Mozillas Ziel ist ein offenes, inklusives und f=C3=BCr alle zug=C3=A4nglich=
+es Web.</span></p><p style=3D"text-align:center">&nbsp;</p><p style=3D"text=
+-align:center"><span style=3D"background-color:transparent;color:#000000">W=
+ir haben unsere Werte in einem </span><a style=3D"color:#0068ff;text-decora=
+tion:none" href=3D"https://links.email.mozilla.org/els/v2/V70mH3dY3pfm/VFM5=
+M3hYVXlzaFRJeEk5ZCtRQ3liRWRiMlgwcFo1ZWMxOUtQZ0lVK1g1NWNOcUhhLzIrVnVnVjNhK0V=
+qQzFJWWQrWVVPV3R5MVoweUVPZzhKWGdvZUlNVUZNUUVYa2l0K3pHWmNPYzhPY1BYZ0JRWjNFeV=
+hSbXBmNTJLU3JOOUhtSE5BZHd0Q1p4OD0S1/" name=3D"Text Link 218442067 Manifest"=
+  data-key=3D"f633975c-81cc-4d1f-91a7-585686ca6c6d:2b331779-5c1f-4bd8-ac9c-=
+27d56dad3117" target=3D"_blank" rel=3D"noopener noreferrer noopener norefer=
+rer"><span style=3D"background-color:transparent;color:#0060df">Manifest</s=
+pan></a><span style=3D"background-color:transparent;color:#000000"> festgeh=
+alten, von dem wir glauben, dass es das Fundament eines gesunden Internets =
+sein sollte. Aus diesem Grund sind eben diese Prinzipien auch die Grundlage=
+ all unserer Produkte.&nbsp;</span></p><p style=3D"text-align:center">&nbsp=
+;</p><p style=3D"text-align:center"><span style=3D"background-color:transpa=
+rent;color:#000000">F=C3=BCr Mozilla stehst du an erster Stelle und wir sin=
+d davon =C3=BCberzeugt, dass Menschen immer wichtiger als Profit bleiben m=
+=C3=BCssen, um das Internet als globale und offene Ressource f=C3=BCr alle =
+zu erhalten.</span></p><p style=3D"text-align:center">&nbsp;</p><p style=3D=
+"text-align:center"><span style=3D"background-color:transparent;color:#0000=
+00">Du m=C3=B6chtest Neuigkeiten und Tipps zu Mozilla und unseren Produkten=
+ erhalten?</span></p></div>
+                                            </td>
+                                        </tr>
+                                   =20
+                                </table>
+                            </td>
+                        </tr>
+                   =20
+                </table>
+            </td>
+        </tr>
+   =20
+</table>
+
+</div>
+
+                                </div>
+                        </td>
+                    <td class=3D"layout-grid-section-cell displayNone" key=
+=3D"after"></td>
+                </tr>
+           =20
+           =20
+                <tr class=3D"layout-grid-row displayBlock "  style=3D"heigh=
+t:100%;background-color:#ffffff;" data-content-item-id=3D"376b6184-1db0-415=
+a-be70-e1af16b62e52">
+                    <td class=3D"layout-grid-section-cell displayNone" key=
+=3D"before"></td>
+                        <!--[if gte mso 9][!tonline]>
+                        <td class=3D"layout-grid-cell target source" colSpa=
+n=3D"6" width=3D"640" valign=3D"top" style=3D"width:640px; height:100%;vert=
+ical-align:top;            ">
+                        <![endif]-->
+                        <!--[if !gte mso 9]><!-->
+                        <td class=3D"layout-grid-cell displayBlock target s=
+ource" colSpan=3D"6" valign=3D"top" style=3D"width:640px; height:100%;verti=
+cal-align:top;             " data-content-item-id=3D"376b6184-1db0-415a-be7=
+0-e1af16b62e52">
+                        <!-- <![endif] hidden -->   =20
+                           =20
+                                <div class=3D"layout-grid-cell-content layo=
+ut-grid-cell-content-mso" style=3D"        width:NaNpx;
+overflow-wrap:anywhere;overflow:hidden;" data-content-item-id=3D"376b6184-1=
+db0-415a-be70-e1af16b62e52">
+                                    <div>
+<table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=
+=3D"presentation" style=3D"width:100%;min-width:100%;box-sizing:border-box;=
+border-spacing:0!important;">
+ =20
+    <tr>
+      <td>
+        <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" role=3D"presentation" style=3D"width:100%;min-width:100%;box-sizing:bor=
+der-box;border-spacing:0!important;">
+         =20
+            <tr>
+              <td bgcolor=3D"transparent" style=3D"background:transparent;"=
+>
+                <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" role=3D"presentation" style=3D"width:100%;min-width:100%;box-si=
+zing:border-box;border-spacing:0!important;padding-left:10px;padding-right:=
+10px;padding-top:10px;padding-bottom:10px;mso-padding-left-alt:0;mso-paddin=
+g-right-alt:0;">
+                 =20
+                    <tr>
+                      <td align=3D"center">
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" style=3D"box-sizing:border-box;border-spacing:=
+0!important;">
+                         =20
+                            <tr>
+                              <!--[if gte mso 9][!tonline]>
+                              <td style=3D"width:10px;"></td>
+                              <![endif]-->
+                              <!--[if !gte mso 9]><!--><!-- <![endif] hidde=
+n -->
+                              <td bgcolor=3D"#0060DF" align=3D"center" styl=
+e=3D"padding-top:15px;padding-bottom:15px;padding-left:50px;padding-right:5=
+0px;color:#FFFFFF;border-top-left-radius:4px;border-top-right-radius:4px;bo=
+rder-bottom-left-radius:4px;border-bottom-right-radius:4px;">              =
+                  <a key=3D"button-376b6184-1db0-415a-be70-e1af16b62e52"  n=
+ame=3D"email_cta_main" href=3D"https://links.email.mozilla.org/els/v2/7P~pJ=
+3wr3kfg/VFM5M3hYVXlzaFRJeEk5ZCtRQ3liRWRiMlgwcFo1ZWMxOUtQZ0lVK1g1NWNOcUhhLzI=
+rVnVnVjNhK0VqQzFJWWQrWVVPV3R5MVoweUVPZzhKWGdvZUlNVUZNUUVYa2l0K3pHWmNPYzhPY1=
+BYZ0JRWjNFeVhSbXBmNTJLU3JOOUhtSE5BZHd0Q1p4OD0S1/" target=3D"_blank"  class=
+=3D"tofev7" style=3D"display:block;text-align:center;text-decoration:none;c=
+ursor:pointer;font-family:Arial, Helvetica, sans-serif !important;font-size=
+:16px;font-weight:bold;color:#FFFFFF;">
+                                  <span data-content-item-id=3D"376b6184-1d=
+b0-415a-be70-e1af16b62e52">Abonniere unseren Newsletter</span>
+                                </a>
+                              </td>
+                              <!--[if gte mso 9][!tonline]>
+                              <td style=3D"width:10px;"></td>
+                              <![endif]-->
+                              <!--[if !gte mso 9]><!--><!-- <![endif] hidde=
+n -->
+                            </tr>
+                         =20
+                        </table>
+                      </td>
+                    </tr>
+                 =20
+                </table>
+              </td>
+            </tr>
+         =20
+        </table>
+      </td>
+    </tr>
+ =20
+</table>
+
+</div>
+
+                                </div>
+                           =20
+                                <div class=3D"layout-grid-cell-content layo=
+ut-grid-cell-content-mso" style=3D"        width:NaNpx;
+overflow-wrap:anywhere;overflow:hidden;" data-content-item-id=3D"376b6184-1=
+db0-415a-be70-e1af16b62e52">
+                                    <div>
+<table data-content-item-id=3D"376b6184-1db0-415a-be70-e1af16b62e52" style=
+=3D"box-sizing:border-box;border-spacing: 0px !important; width:100%; backg=
+round-color:transparent; height:50px;" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" >
+   =20
+        <tr>
+            <td style=3D"height:50px; font-size:50px; line-height:50px;">  =
+              <!--[if (gte mso 9)]><br /><![endif]--></td>
+        </tr>
+   =20
+</table>
+</div>
+
+                                </div>
+                           =20
+                                <div class=3D"layout-grid-cell-content layo=
+ut-grid-cell-content-mso" style=3D"        width:NaNpx;
+overflow-wrap:anywhere;overflow:hidden;" data-content-item-id=3D"376b6184-1=
+db0-415a-be70-e1af16b62e52">
+                                    <div>
+<table width=3D"100%" class=3D"hide-on-mobile" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" role=3D"presentation" style=3D"width:100%;min-width:10=
+0%;box-sizing:border-box;border-spacing:0!important;">
+   =20
+        <tr>
+            <td style=3D"padding-top:0px;padding-bottom:0px;">
+                <table data-content-item-id=3D"376b6184-1db0-415a-be70-e1af=
+16b62e52" width=3D"100%" class=3D"hide-on-mobile" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"width:100%;min-widt=
+h:100%;box-sizing:border-box;border-spacing:0!important;">
+                   =20
+                        <tr>                            <td class=3D"wch-ht=
+ml-block" data-content-item-id=3D"376b6184-1db0-415a-be70-e1af16b62e52" sty=
+le=3D"font-size:16px;padding-top:0px;padding-bottom:0px;">
+                                <table class=3D"tg" width=3D"640" style=3D"=
+border-collapse:collapse;border-spacing:0;">
+
+  <tr style=3D"background-color:#FEEB8C;border-color:#000000;font-size:20px=
+;text-align:center;vertical-align:top ;font-family:Arial;"padding=3D"30px 2=
+0px 30px 20px" text-color=3D"#333336">
+    <td style=3D"padding:30px 20px 10px 20px; color:#333336;" class=3D"tg-v=
+l0j" colspan=3D"6"><span style=3D"font-weight:bold" text-color=3D"#333336" =
+>Gl=C3=BCckwunsch, jetzt bist du Firefox Profi!</span></td>
+  </tr>
+  <tr style=3D"background-color:#FEEB8C;border-color:#000000;text-align:cen=
+ter;vertical-align:top;font-family:Arial;">
+    <td class=3D"tg-kzzi"width=3D"10%"></td>
+    <td style=3D"padding:30px 0px 0px 0px"class=3D"tg-kzzi"><center><img sr=
+c=3D"https://content-us-9.content-cms.com/a9dd601b-4d21-4dfa-a627-5d08f0ab9=
+976/dxdyn/wca_image_swap/fd87e61e-0c16-4d09-82a0-93ee815c4930.png" alt=3D"I=
+mage" width=3D"40" height=3D"40"></center></td>
+    <td style=3D"padding:30px 0px 0px 0px" class=3D"tg-kzzi"width=3D"20%"><=
+center><img src=3D"https://content-us-9.content-cms.com/a9dd601b-4d21-4dfa-=
+a627-5d08f0ab9976/dxdyn/wca_image_swap/fd87e61e-0c16-4d09-82a0-93ee815c4930=
+.png" alt=3D"Image" width=3D"40" height=3D"40"></center></td>
+    <td style=3D"padding:30px 0px 0px 0px" class=3D"tg-kzzi"width=3D"20%"><=
+center><img src=3D"https://content-us-9.content-cms.com/a9dd601b-4d21-4dfa-=
+a627-5d08f0ab9976/dxdyn/wca_image_swap/fd87e61e-0c16-4d09-82a0-93ee815c4930=
+.png" alt=3D"Image" width=3D"40" height=3D"40"></center></td>
+    <td style=3D"padding:30px 0px 0px 0px" class=3D"tg-kzzi"width=3D"20%"><=
+center><img src=3D"https://content-us-9.content-cms.com/a9dd601b-4d21-4dfa-=
+a627-5d08f0ab9976/dxdyn/wca_image_swap/fd87e61e-0c16-4d09-82a0-93ee815c4930=
+.png" alt=3D"Image" width=3D"40" height=3D"40"></center></td>
+    <td class=3D"tg-kzzi"width=3D"10%"></td>
+  </tr>
+  <tr style=3D"background-color:#FEEB8C;border-color:#000000;font-size:16px=
+;text-align:center;vertical-align:top ;font-family:Arial;">
+    <td></td>
+    <td style=3D"padding:20px 0px 50px 0px; color:#333336;">Dein <br>Firefo=
+x</td>
+    <td style=3D"padding:20px 0px 50px 0px; color:#333336;">Entdecke  <br>d=
+ie Features</td>
+    <td style=3D"padding:20px 0px 50px 0px; color:#333336;">Vorteile  <br>d=
+eines Kontos</td>
+    <td style=3D"padding:20px 0px 50px 0px; color:#333336;">Unsere<br>Missi=
+on</td>
+    <td class=3D"tg-kzzy"></td>
+  </tr>
+
+</table>
+                            </td>
+                        </tr>
+                   =20
+                </table>
+            </td>
+        </tr>
+   =20
+</table>
+
+</div>
+
+                                </div>
+                           =20
+                                <div class=3D"layout-grid-cell-content layo=
+ut-grid-cell-content-mso" style=3D"        width:NaNpx;
+overflow-wrap:anywhere;overflow:hidden;" data-content-item-id=3D"376b6184-1=
+db0-415a-be70-e1af16b62e52">
+                                    <div>
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"hide-on-de=
+sktop " data-content-item-id=3D"376b6184-1db0-415a-be70-e1af16b62e52" style=
+=3D"width:100%;border-spacing:0!important;box-sizing:border-box;">
+   =20
+        <tr>
+            <td>
+                <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"hide-on-desktop" style=3D"width:100%;border-spacing:0!important;backg=
+round-color:transparent;">
+                   =20
+                        <tr>
+                            <td>
+                                <table border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" class=3D"hide-on-desktop"  style=3D"width:100%;border-spacing:=
+0!important;box-sizing:border-box;">
+                                   =20
+                                        <tr>
+                                            <td  align=3D"center">         =
+       <a name=3D"Image Link 277311695 Screenshot 20221125 at 161606 Acoust=
+ic Campaignpng" href=3D"https://links.email.mozilla.org/els/v2/_Km_QkDbk~BY=
+/VFM5M3hYVXlzaFRJeEk5ZCtRQ3liRWRiMlgwcFo1ZWMxOUtQZ0lVK1g1NWNOcUhhLzIrVnVnVj=
+NhK0VqQzFJWWQrWVVPV3R5MVoweUVPZzhKWGdvZUlNVUZNUUVYa2l0K3pHWmNPYzhPY1BYZ0JRW=
+jNFeVhSbXBmNTJLU3JOOUhtSE5BZHd0Q1p4OD0S1/" target=3D"_blank"   >
+                                                <img data-content-item-id=
+=3D"376b6184-1db0-415a-be70-e1af16b62e52" src=3D"https://content-us-9.conte=
+nt-cms.com/a9dd601b-4d21-4dfa-a627-5d08f0ab9976/dxdyn/3284750/cb9fb599-a373=
+-4d3c-b7a0-3ab8e00077a9.png" alt=3D"Onboarding Steps"  border=3D"0" style=
+=3D"width:100%;display:block;max-width:640px!important;" width=3D"640"/>
+                                                </a>
+                                            </td>
+                                        </tr>
+                                   =20
+                                </table>
+                            </td>
+                        </tr>
+                   =20
+                </table>
+            </td>
+        </tr>
+   =20
+</table>
+
+</div>
+
+                                </div>
+                           =20
+                                <div class=3D"layout-grid-cell-content layo=
+ut-grid-cell-content-mso" style=3D"        width:NaNpx;
+overflow-wrap:anywhere;overflow:hidden;" data-content-item-id=3D"376b6184-1=
+db0-415a-be70-e1af16b62e52">
+                                    <div>
+<table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=
+=3D"presentation" style=3D"width:100%;min-width:100%;box-sizing:border-box;=
+border-spacing:0!important;">
+ =20
+    <tr>
+      <td bgcolor=3D"#000000" style=3D"background:#000000">
+      <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" role=3D"presentation" style=3D"width:100%;min-width:100%;box-sizing:borde=
+r-box;border-spacing:0!important;">
+       =20
+          <tr>
+            <td align=3D"center" style=3D"padding-top:15px;padding-left:10p=
+x;padding-right:10px;padding-bottom:5px;mso-padding-left-alt:0;mso-padding-=
+right-alt:0;">              <table border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" role=3D"presentation" style=3D"box-sizing:border-box;border-spacin=
+g:0!important; margin-bottom:0rem !important;">
+               =20
+                  <tr align=3D"center">
+                    <td style=3D"padding-bottom:5px;">
+                      <table align=3D"center">
+                        <tr style=3D"display: table-row !important;">
+                          <td style=3D"padding-top:15px;padding-left:24px;p=
+adding-right:24px;">
+                            <a data-content-item-id=3D"376b6184-1db0-415a-b=
+e70-e1af16b62e52" name=3D"Firefox Twitter" href=3D"https://links.email.mozi=
+lla.org/els/v2/2d~8Qd_0dLfY/VFM5M3hYVXlzaFRJeEk5ZCtRQ3liRWRiMlgwcFo1ZWMxOUt=
+QZ0lVK1g1NWNOcUhhLzIrVnVnVjNhK0VqQzFJWWQrWVVPV3R5MVoweUVPZzhKWGdvZUlNVUZNUU=
+VYa2l0K3pHWmNPYzhPY1BYZ0JRWjNFeVhSbXBmNTJLU3JOOUhtSE5BZHd0Q1p4OD0S1/" targe=
+t=3D"_blank" >
+                              <img data-content-item-id=3D"376b6184-1db0-41=
+5a-be70-e1af16b62e52"  border=3D"0" src=3D"https://content-us-9.content-cms=
+.com/a9dd601b-4d21-4dfa-a627-5d08f0ab9976/acoustic/email/social/w/20/Twitte=
+r.png" alt=3D"" spname=3D"">
+                            </a>
+                          </td>
+                          <td style=3D"padding-top:15px;padding-left:24px;p=
+adding-right:24px;">
+                            <a data-content-item-id=3D"376b6184-1db0-415a-b=
+e70-e1af16b62e52" name=3D"Firefox Instgram" href=3D"https://links.email.moz=
+illa.org/els/v2/A-0Ac~me~qcd/VFM5M3hYVXlzaFRJeEk5ZCtRQ3liRWRiMlgwcFo1ZWMxOU=
+tQZ0lVK1g1NWNOcUhhLzIrVnVnVjNhK0VqQzFJWWQrWVVPV3R5MVoweUVPZzhKWGdvZUlNVUZNU=
+UVYa2l0K3pHWmNPYzhPY1BYZ0JRWjNFeVhSbXBmNTJLU3JOOUhtSE5BZHd0Q1p4OD0S1/" targ=
+et=3D"_blank" >
+                              <img data-content-item-id=3D"376b6184-1db0-41=
+5a-be70-e1af16b62e52"  border=3D"0" src=3D"https://content-us-9.content-cms=
+.com/a9dd601b-4d21-4dfa-a627-5d08f0ab9976/acoustic/email/social/w/20/Instag=
+ram.png" alt=3D"" spname=3D"">
+                            </a>
+                          </td>
+                          <td style=3D"padding-top:15px;padding-left:24px;p=
+adding-right:24px;">
+                            <a data-content-item-id=3D"376b6184-1db0-415a-b=
+e70-e1af16b62e52" name=3D"Firefox Youtube" href=3D"https://links.email.mozi=
+lla.org/els/v2/-Z~dQLqeL8SD/VFM5M3hYVXlzaFRJeEk5ZCtRQ3liRWRiMlgwcFo1ZWMxOUt=
+QZ0lVK1g1NWNOcUhhLzIrVnVnVjNhK0VqQzFJWWQrWVVPV3R5MVoweUVPZzhKWGdvZUlNVUZNUU=
+VYa2l0K3pHWmNPYzhPY1BYZ0JRWjNFeVhSbXBmNTJLU3JOOUhtSE5BZHd0Q1p4OD0S1/" targe=
+t=3D"_blank" >
+                              <img data-content-item-id=3D"376b6184-1db0-41=
+5a-be70-e1af16b62e52"  border=3D"0" src=3D"https://content-us-9.content-cms=
+.com/a9dd601b-4d21-4dfa-a627-5d08f0ab9976/acoustic/email/social/w/20/Youtub=
+e.png" alt=3D"" spname=3D"">
+                            </a>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+               =20
+              </table>
+            </td>
+          </tr>
+       =20
+      </table>
+      </td>
+    </tr>
+ =20
+</table>
+
+</div>
+
+                                </div>
+                           =20
+                                <div class=3D"layout-grid-cell-content layo=
+ut-grid-cell-content-mso" style=3D"        width:NaNpx;
+overflow-wrap:anywhere;overflow:hidden;" data-content-item-id=3D"376b6184-1=
+db0-415a-be70-e1af16b62e52">
+                                    <div>
+<table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=
+=3D"presentation" style=3D"width:100%;min-width:100%;box-sizing:border-box;=
+border-spacing:0!important;">
+   =20
+      <tr>
+        <td bgcolor=3D"#000000"  style=3D"background:#000000">
+          <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" style=3D"width:100%;min-width:100%;box-sizing:=
+border-box;border-spacing:0!important;padding-left:0px;padding-right:0px;pa=
+dding-top:0px;padding-bottom:0px;">
+           =20
+              <tr>
+                <td align=3D"center">                    <hr data-content-i=
+tem-id=3D"376b6184-1db0-415a-be70-e1af16b62e52" align=3D"center" width=3D"1=
+00%" style=3D"margin-left:0;margin-right:0;opacity:1;border-width:1px 0px 0=
+px 0px;border-color:#ffffff;border-style:solid;">
+                </td>
+              </tr>
+           =20
+          </table>
+        </td>
+      </tr>
+   =20
+</table>
+
+</div>
+
+                                </div>
+                           =20
+                                <div class=3D"layout-grid-cell-content layo=
+ut-grid-cell-content-mso" style=3D"        width:NaNpx;
+overflow-wrap:anywhere;overflow:hidden;" data-content-item-id=3D"376b6184-1=
+db0-415a-be70-e1af16b62e52">
+                                    <div>
+<table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=
+=3D"presentation" style=3D"width:100%;min-width:100%;box-sizing:border-box;=
+border-spacing:0!important;">
+   =20
+        <tr>
+            <td style=3D"padding-top:0px;padding-bottom:0px;">
+                <table data-content-item-id=3D"376b6184-1db0-415a-be70-e1af=
+16b62e52" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" r=
+ole=3D"presentation" style=3D"width:100%;min-width:100%;box-sizing:border-b=
+ox;border-spacing:0!important;">
+                   =20
+                        <tr>                            <td class=3D"wch-ht=
+ml-block" data-content-item-id=3D"376b6184-1db0-415a-be70-e1af16b62e52" sty=
+le=3D"font-size:16px;padding-top:0px;padding-bottom:0px;">
+                                <table role=3D"presentation" cellspacing=3D=
+"0" cellpadding=3D"0" style=3D"background-color:#000000;" width=3D"100%">
+                       <tr>
+                        <td align=3D"center" style=3D"font-family: Helvetic=
+a, Geneva, Tahoma, Verdana, sans-serif; font-size: 14px; line-height: 18px;=
+ color: #ffffff; padding: 0px 20px 30px;">
+<br/><br/>
+            Du erh=C3=A4ltst diese E-Mail technikag@fichte-gymnasium.de, we=
+il du mit der E-Mail-Adresse deines Firefox-Kontos den Newsletter Tipps zu =
+Firefox Accounts abonniert hast.                         =20
+<br/><br/>
+Wenn du diese E-Mails nicht mehr erhalten m=C3=B6chtest, kannst du dich hie=
+r <a target=3D"_blank" name=3D"unsubscribe"  href=3D"https://links.email.mo=
+zilla.org/els/v2/KAWzCyL6y9c4/VFM5M3hYVXlzaFRJeEk5ZCtRQ3liRWRiMlgwcFo1ZWMxO=
+UtQZ0lVK1g1NWNOcUhhLzIrVnVnVjNhK0VqQzFJWWQrWVVPV3R5MVoweUVPZzhKWGdvZUlNVUZN=
+UUVYa2l0K3pHWmNPYzhPY1BYZ0JRWjNFeVhSbXBmNTJLU3JOOUhtSE5BZHd0Q1p4OD0S1/K0RNV=
+ll2MWNTMVFlNjgxRVk2UXE5aHNVZW5kWDRnaXJSOXdTeTNOd3VWSUpmcDcyWnpUQW9HamxGTUlW=
+UjNLWmZoTGxoMTVGQTd1UDN2bURFekgvQVE9PQS2"  style=3D"color: #ffffff;text-dec=
+oration: underline;">abmelden</a> oder deine <a target=3D"_blank" name=3D"p=
+references"  href=3D"https://links.email.mozilla.org/els/v2/yvVqJpRkp6BP/VF=
+M5M3hYVXlzaFRJeEk5ZCtRQ3liRWRiMlgwcFo1ZWMxOUtQZ0lVK1g1NWNOcUhhLzIrVnVnVjNhK=
+0VqQzFJWWQrWVVPV3R5MVoweUVPZzhKWGdvZUlNVUZNUUVYa2l0K3pHWmNPYzhPY1BYZ0JRWjNF=
+eVhSbXBmNTJLU3JOOUhtSE5BZHd0Q1p4OD0S1/K0RNVll2MWNTMVFlNjgxRVk2UXE5aHNVZW5kW=
+DRnaXJSOXdTeTNOd3VWSUpmcDcyWnpUQW9HamxGTUlWUjNLWmZoTGxoMTVGQTd1UDN2bURFekgv=
+QVE9PQS2"  style=3D"color: #ffffff;text-decoration: underline;">Einstellung=
+en</a> jederzeit anpassen.
+<br/><br/>
+Verwalte deine Firefox=E2=80=93Kontoeinstellungen, indem du deine <a target=
+=3D"_blank" name=3D"account"  href=3D"https://links.email.mozilla.org/els/v=
+2/jbArQE-pE~fg/VFM5M3hYVXlzaFRJeEk5ZCtRQ3liRWRiMlgwcFo1ZWMxOUtQZ0lVK1g1NWNO=
+cUhhLzIrVnVnVjNhK0VqQzFJWWQrWVVPV3R5MVoweUVPZzhKWGdvZUlNVUZNUUVYa2l0K3pHWmN=
+PYzhPY1BYZ0JRWjNFeVhSbXBmNTJLU3JOOUhtSE5BZHd0Q1p4OD0S1/"  style=3D"color: #=
+ffffff;text-decoration: underline;">Konto=E2=80=93Seite</a> besuchst.
+=20
+</td></tr></table>
+                            </td>
+                        </tr>
+                   =20
+                </table>
+            </td>
+        </tr>
+   =20
+</table>
+
+</div>
+
+                                </div>
+                           =20
+                                <div class=3D"layout-grid-cell-content layo=
+ut-grid-cell-content-mso" style=3D"        width:NaNpx;
+overflow-wrap:anywhere;overflow:hidden;" data-content-item-id=3D"376b6184-1=
+db0-415a-be70-e1af16b62e52">
+                                    <div>
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"  data-content-item-=
+id=3D"376b6184-1db0-415a-be70-e1af16b62e52" style=3D"width:100%;border-spac=
+ing:0!important;box-sizing:border-box;">
+   =20
+        <tr>
+            <td>
+                <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"  st=
+yle=3D"width:100%;border-spacing:0!important;background-color:#000000;">
+                   =20
+                        <tr>
+                            <td>
+                                <table border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0"   style=3D"width:100%;border-spacing:0!important;box-sizing:bo=
+rder-box;">
+                                   =20
+                                        <tr>
+                                            <td  align=3D"center">         =
+       <a name=3D"footer_mozlogo" href=3D"https://links.email.mozilla.org/e=
+ls/v2/k3A~hkmwkrBL/VFM5M3hYVXlzaFRJeEk5ZCtRQ3liRWRiMlgwcFo1ZWMxOUtQZ0lVK1g1=
+NWNOcUhhLzIrVnVnVjNhK0VqQzFJWWQrWVVPV3R5MVoweUVPZzhKWGdvZUlNVUZNUUVYa2l0K3p=
+HWmNPYzhPY1BYZ0JRWjNFeVhSbXBmNTJLU3JOOUhtSE5BZHd0Q1p4OD0S1/" target=3D"_bla=
+nk"   >
+                                                <img data-content-item-id=
+=3D"376b6184-1db0-415a-be70-e1af16b62e52" src=3D"https://content-us-9.conte=
+nt-cms.com/a9dd601b-4d21-4dfa-a627-5d08f0ab9976/dxdyn/3284750/7742c797-ed14=
+-478d-b27c-6d2ace3f9ad8.png?resize&#x3D;150px%3A43px" alt=3D"Mozilla"  bord=
+er=3D"0" style=3D"width:100%;display:block;max-width:150px!important;" widt=
+h=3D"150"/>
+                                                </a>
+                                            </td>
+                                        </tr>
+                                   =20
+                                </table>
+                            </td>
+                        </tr>
+                   =20
+                </table>
+            </td>
+        </tr>
+   =20
+</table>
+
+</div>
+
+                                </div>
+                           =20
+                                <div class=3D"layout-grid-cell-content layo=
+ut-grid-cell-content-mso" style=3D"        width:NaNpx;
+overflow-wrap:anywhere;overflow:hidden;" data-content-item-id=3D"376b6184-1=
+db0-415a-be70-e1af16b62e52">
+                                    <div>
+<table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=
+=3D"presentation" style=3D"width:100%;min-width:100%;box-sizing:border-box;=
+border-spacing:0!important;">
+   =20
+        <tr>
+            <td style=3D"padding-top:0px;padding-bottom:0px;">
+                <table data-content-item-id=3D"376b6184-1db0-415a-be70-e1af=
+16b62e52" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" r=
+ole=3D"presentation" style=3D"width:100%;min-width:100%;box-sizing:border-b=
+ox;border-spacing:0!important;">
+                   =20
+                        <tr>                            <td class=3D"wch-ht=
+ml-block" data-content-item-id=3D"376b6184-1db0-415a-be70-e1af16b62e52" sty=
+le=3D"font-size:16px;padding-top:0px;padding-bottom:0px;">
+                                <table role=3D"presentation" cellspacing=3D=
+"0" cellpadding=3D"0" style=3D"background-color:#000000;" width=3D"100%">
+                       <tr>
+                        <td align=3D"center" style=3D"font-family: Helvetic=
+a, Geneva, Tahoma, Verdana, sans-serif; font-size: 14px; line-height: 18px;=
+ color: #ffffff; padding: 0px 20px 40px;">
+<br/><br/>Mozilla Corporation<br />2 Harrison St. #175, San Francisco, Cali=
+fornia&nbsp;94105&nbsp;USA
+<br/><br/>
+                          CRN: 2759208
+                          <br/>
+                          Vertretungsberechtigte: Frank Huang, Jeff Garver,=
+ Mitchell<span>&nbsp;</span>Baker
+                          <br>
+                          <a name=3D"legal_notices"  href=3D"mailto:legal-n=
+otices@mozilla.com" style=3D"text-decoration: none; color:#ffffff;" target=
+=3D"_blank"  >legal-notices@mozilla.com</a>
+                          <br/><br/>
+
+                        <a target=3D"_blank" name=3D"legal"  href=3D"https:=
+//links.email.mozilla.org/els/v2/xdAYQ72m70fY/VFM5M3hYVXlzaFRJeEk5ZCtRQ3liR=
+WRiMlgwcFo1ZWMxOUtQZ0lVK1g1NWNOcUhhLzIrVnVnVjNhK0VqQzFJWWQrWVVPV3R5MVoweUVP=
+ZzhKWGdvZUlNVUZNUUVYa2l0K3pHWmNPYzhPY1BYZ0JRWjNFeVhSbXBmNTJLU3JOOUhtSE5BZHd=
+0Q1p4OD0S1/"  style=3D"color: #ffffff;text-decoration: underline;">Rechtlic=
+hes</a> =E2=80=A2 <a target=3D"_blank" name=3D"privacy"  href=3D"https://li=
+nks.email.mozilla.org/els/v2/mWAeBPRvPWB7/VFM5M3hYVXlzaFRJeEk5ZCtRQ3liRWRiM=
+lgwcFo1ZWMxOUtQZ0lVK1g1NWNOcUhhLzIrVnVnVjNhK0VqQzFJWWQrWVVPV3R5MVoweUVPZzhK=
+WGdvZUlNVUZNUUVYa2l0K3pHWmNPYzhPY1BYZ0JRWjNFeVhSbXBmNTJLU3JOOUhtSE5BZHd0Q1p=
+4OD0S1/"  style=3D"color: #ffffff;text-decoration: underline;">Datenschutz<=
+/a>
+                          </td></tr></table>
+                            </td>
+                        </tr>
+                   =20
+                </table>
+            </td>
+        </tr>
+   =20
+</table>
+
+</div>
+
+                                </div>
+                        </td>
+                    <td class=3D"layout-grid-section-cell displayNone" key=
+=3D"after"></td>
+                </tr>
+           =20
+   =20
+</table>
+<IMG src=3D"https://links.email.mozilla.org/eos/v1/bkdWYTRuUWpRTWpBUGFoUTEx=
+SlhLR0ptZG1QSUd3TXpOYkRGS3UrS1piTFJINTk1TGw5T0lvN1FsQXljejJLWUVBa2NvMGpFR28=
+4YlpZcXNKeUszOC9HaEpRMkMwQjBtei84VC9uY0xLNWFCanBHTmlmejRuZXByVXlTdTVzODFKRT=
+hPZjhaN2RBWWMwSGNWcXRPR0JEZ3ZMcTN3STRaemJvY0orU1RPWXJFaGlHMUdXUElOSjZkZWFWe=
+msyWWlzeERiTkZaaDc0Mkk9S0" style=3D"display: none"></body>
+</html>
+
+
+
+------=_Part_381367_376933798.1685479119996--
+

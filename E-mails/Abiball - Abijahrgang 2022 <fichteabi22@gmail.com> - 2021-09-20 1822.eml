@@ -1,0 +1,86 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <fichteabi22@gmail.com>
+Received: from mail-hub01.belwue.de ([2001:7c0:0:76::41] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.7f)
+  with ESMTPS id 34728113 for technikag@fichte-gymnasium.de; Mon, 20 Sep 2021 18:22:24 +0200
+Received: from mail-in01.belwue.de (mail-in01.belwue.de [129.143.76.1])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(Client did not present a certificate)
+	by mail-hub01.belwue.de (Postfix) with ESMTPS id 4HCqb36hfpz5294v
+	for <technikag@fichte-gymnasium.de>; Mon, 20 Sep 2021 18:22:20 +0200 (CEST)
+Received: from mail-ed1-x52a.google.com (mail-ed1-x52a.google.com [IPv6:2a00:1450:4864:20::52a])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mail-in01.belwue.de (Postfix) with ESMTPS id 4HCqb04NyDz4xR8y
+	for <technikag@fichte-gymnasium.de>; Mon, 20 Sep 2021 18:22:14 +0200 (CEST)
+Received: by mail-ed1-x52a.google.com with SMTP id h17so63601505edj.6
+        for <technikag@fichte-gymnasium.de>; Mon, 20 Sep 2021 09:22:14 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=F3/toXQnG7wNAOHLf34KEhEb5/ZLOqp5Uy/+yRmAzso=;
+        b=mJjYpmDjFzPj4niSW+ug677peLHi2oEB9RT8yfBAXFYLZvr4EEfYny9MsJdov8kCMM
+         GAXO3DhF/FV7wCcQzc7zWxzfSnP/NHRd51aHYVR0oBlVmtfxnwmiO/5v0e3fFCwskkL1
+         ePBkLEJ0WaYLPKjjzYMjhNn97d4KI1170qmOtUMC8fl+S7rPeO+xGCu94SoLjR9sxN6z
+         XTpwbCy7qVgqxY2IXNL0y0tby+anETgrkvSzQqppAlIfIcbKAEts1PHk5G3MqNSTPNTi
+         gRZvi+aIP3gP8i9UOWdK1Mf2HOSqK+M/Y/gWJYJqt/F/FIiaeMtI/bDJDWRd1SKWFUBh
+         kcng==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=F3/toXQnG7wNAOHLf34KEhEb5/ZLOqp5Uy/+yRmAzso=;
+        b=6avMFSNroE3ddhyRYJtCnkGXyerQZU6Wh6xyWQ4YYBwKE/jTo1mKU1KF6uBezQFaGA
+         IzWvYo4DTjBeX/FN/qqMfsgva9mx0IlAF1hs8jDpwE7TwSWsrFNPa58yaRuvH0JT8ISw
+         x2SU0BvQ76rEq8cT3fBlg5Qe6rY7y0Lv6ina+EYOr0bz7LJrzSsubRHWHqUXlB+RKoPt
+         feJPpG2rLUv0dhTShNgXvxx0BVYonrI6uAIz1pQpYpIviKqlC+F591Ux8L0LOmZ4QfIi
+         yeNd18ySPoPuztczO3IJNxFRPDu/JHLWpxDmYdPJar7rDELldNQwNSNUrc0zz/JoVWJO
+         gAbg==
+X-Gm-Message-State: AOAM531at8d0ie+9+G3zQLfz8HttNdWACFxEhhFIVTe/hdHfCMutTgkk
+	7Eb8cnC3IACrkWjA9IPWxfNRqSSDQ5nE17fnAt8XGcxy
+X-Google-Smtp-Source: ABdhPJxrZ6eFp40DodOAeZf+zfQYD9SUk3gBNwCncW9isnb/sjslkoONmpJGa7uv/Va+Sooc3oZbhkLoTdOtgSb6rVE=
+X-Received: by 2002:a17:906:7145:: with SMTP id z5mr21092871ejj.363.1632154932554;
+ Mon, 20 Sep 2021 09:22:12 -0700 (PDT)
+MIME-Version: 1.0
+From: Abijahrgang 2022 <fichteabi22@gmail.com>
+Date: Mon, 20 Sep 2021 18:22:01 +0200
+Message-ID: <CAD56KKAFZSZE-_tjAWid34yovjNPjLQAhOKCs8Q_OqGDedrMZg@mail.gmail.com>
+Subject: Abiball
+To: technikag@fichte-gymnasium.de
+Content-Type: multipart/alternative; boundary="000000000000f949eb05cc6faeef"
+X-Rspamd-Queue-Id: 4HCqb04NyDz4xR8y
+X-Rspamd-UID: fbb40b
+
+--000000000000f949eb05cc6faeef
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Sehr geehrte Technik-AG des Fichte-Gymnasiums,
+
+unser Jahrgang plant einen Abiball gegen Ende des Schuljahres und w=C3=BCrd=
+e
+daf=C3=BCr gerne eure Dienste in Anspruch nehmen. Der Ball findet entsprech=
+end
+nach dem Abitur statt und ben=C3=B6tigt entsprechende Beleuchtung und
+Tontechnik, au=C3=9Ferdem planen wir einen Bandauftrit.
+Genauer Standort und Zeit sind (noch) nicht bekannt, werden aber dann
+bekannt gegeben.
+
+Mit freundlichen Gr=C3=BC=C3=9Fen,
+Leo Helbig
+Abi-Jahrgang 2022 des Fichte-Gymnasiums Karlsruhe
+
+--000000000000f949eb05cc6faeef
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div>Sehr geehrte Technik-AG des Fichte-Gymnasiums,</div><=
+div><br></div><div>unser Jahrgang plant einen Abiball gegen Ende des Schulj=
+ahres und w=C3=BCrde daf=C3=BCr gerne eure Dienste in Anspruch nehmen. Der =
+Ball findet entsprechend nach dem Abitur statt und ben=C3=B6tigt entspreche=
+nde Beleuchtung und Tontechnik, au=C3=9Ferdem planen wir einen Bandauftrit.=
+<br>Genauer Standort und Zeit sind (noch) nicht bekannt, werden aber dann b=
+ekannt gegeben.<br><br></div><div>Mit freundlichen Gr=C3=BC=C3=9Fen,<br></d=
+iv><div>Leo Helbig<br></div><div>Abi-Jahrgang 2022 des Fichte-Gymnasiums Ka=
+rlsruhe<br></div></div>
+
+--000000000000f949eb05cc6faeef--

@@ -1,0 +1,319 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <levin.kiefer@web.de>
+Received: from cst101.belwue.de ([129.143.2.71] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.2.14)
+  with ESMTP id 6157242 for technikag@fichte-gymnasium.de; Tue, 24 Sep 2019 21:24:23 +0200
+Received: from mout.web.de (mout.web.de [212.227.15.14])
+	by cst101.belwue.de with ESMTPS id x8OJOFbV020326
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=NOT)
+	for <technikag@fichte-gymnasium.de>; Tue, 24 Sep 2019 21:24:20 +0200 (MEST)
+	env-from (levin.kiefer@web.de)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=web.de;
+	s=dbaedf251592; t=1569353055;
+	bh=ca6qR4iMfVLbrsSDXxgF+l/VpFWbsbklaV7MJzsQQBc=;
+	h=X-UI-Sender-Class:Subject:References:To:From:Date:In-Reply-To;
+	b=LKHx3O3ZzfiF5H4PKdV9JApS/ToUeM4ofvw6t7s0VzDM4fiK2XgTURaaVfDWQXc+o
+	 DzZaNXYKxw6cBl/vVuSFkEgEG+oHCB9yMxdCTmJ5Q+6BfjdvwJtiXvSSnsqVyx/KPl
+	 QH9h0dZrl/yNs7DgSHtbsWvd5STZZQuFB4+k2L6g=
+X-UI-Sender-Class: c548c8c5-30a9-4db5-a2e7-cb6cb037b8f9
+Received: from [192.168.178.80] ([5.56.253.116]) by smtp.web.de (mrweb002
+ [213.165.67.108]) with ESMTPSA (Nemesis) id 0Lvk9E-1i7OFW3p5I-017Ur7 for
+ <technikag@fichte-gymnasium.de>; Tue, 24 Sep 2019 21:16:06 +0200
+Subject: Fwd: Re: Technik am 14.11.
+References: <b4c6dbe1-79f7-f5bb-e286-d9617986c8f9@xenia-theater.de>
+To: technikag@fichte-gymnasium.de
+From: Levin Kiefer <levin.kiefer@web.de>
+X-Forwarded-Message-Id: <b4c6dbe1-79f7-f5bb-e286-d9617986c8f9@xenia-theater.de>
+Message-ID: <b3342824-e1c5-7ebc-5a32-d080718da423@web.de>
+Date: Tue, 24 Sep 2019 21:16:06 +0200
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:60.0) Gecko/20100101
+ Thunderbird/60.9.0
+MIME-Version: 1.0
+In-Reply-To: <b4c6dbe1-79f7-f5bb-e286-d9617986c8f9@xenia-theater.de>
+Content-Type: multipart/alternative;
+ boundary="------------92D54B5D01F68D8EDF4D97F0"
+X-Provags-ID: V03:K1:perg8UrAsEIKNJPqtBcDoMnoDhoN5VBlGZn1xsV4X3p0ICQkK7Q
+ Nls0tfCPQP7YhKMs27IXuzWMu5i15s6H5HjNSYMv5ASSFn6p0OA9IeZr7zvApTGKpiiVqxN
+ trtY0EhOebPKrNaRoadzZUVpMqYtJCyCeuj7gnCzek6iuXQxOiQVkaitZFQE+FNTokxnTvB
+ dmhfT5WRJxIN577fUKS6g==
+X-Spam-Flag: NO
+X-UI-Out-Filterresults: notjunk:1;V03:K0:Qwd2nYEMkpk=:dOH8oOPGf/cwmUScNwhQWT
+ 41VX9MxflmCairyVBcAAYhfp2dzJoOzMcV2PjAkO8+yTYhj1LVAfNfDZs60dQSCzXvvIxoiU6
+ yLsKfTJqlaRMt9Y3iKlfirZO0TejDhvp93RP4QrU4Gq+ZFCM9KlHkEhaQt2NlA5aHbb5ctuO7
+ f1nKJNF6ZivYUZWL1ZisEy56Ntj8DbaxXVFd4WgEwYyTSrxqWPTeh6B2xaBuLm1mDU/O2zxpb
+ 1iumXvrekZ3C3TRlLCFMencTDbRTb/7Dws7124HY7wbHB2FcOFFmVizWuD/0SgDzDSlKNnRuu
+ Bcifoa3YClap+W2Kj+y6KMTQOLRntqVNR/Hm9dYEi7xFG3P6UJjUgTgWx6gndwj0qpziNY+as
+ v7SwzSq6vLex1hd0aWX9zwCoAgUCrI0b1DvJSoxmfQYbleYzYZdCm/QecSgcxP24r9xEmKTUI
+ WmBjamFRbM7srkUFidCkQYDj9DAuHJ8f1ht/0W/1srBhRhPKDgO8pWZUct5/kKM/qM14gJJXF
+ MMOcZKCh2P3R8djmcgNBX/1jlt+5Z1yz4xcyo77Y0+znoXQv4WGLg7ihQThc9ASXd3ri8J3dX
+ T0a9egiDav0VYxe+nJrLU6RMoRe16GHlhixdIUZ/mVRsOhyyxtSK0cxrmKqkeM7dUHYGyTEf+
+ 5LjQIL68H+3+h3JqDmo2bFA9GTyl+ROvQzRGyOMkrW6sugWidomHhVf+8K9NDf+TJG630xz5o
+ XzBoWaPMHmOYDaNS7k6BX+y12O4qD2qVQTD22mTw2mG67X8BBFfCh63gEfEexU2R6QGcrADvS
+ FI5Qmu3KukU/jwNphfISo9lTU8wRh83jwgr8uCqkDf+XtL0GAA/65zBnS3rFJQcy6dyZbkGXN
+ CXoOOWbfxYGEluMZlAK70yt400l+zUIYEUBXUfGLgAvONmrGYD21nm0oY44kLFhVJF+Orf0QX
+ mXdkdGd1GZJHLQNd/OTuQlEG4ccHm8JDQwaSJtc9HinRF5GTkhgh0kgCyL8HO29IadV7iYIrg
+ 6aSYJsMPAET+M0/XtP8Aez9q1CxQwVlev2p2Ilr+1x1tnFdYU2BRrdteCo7nIKadURZ01oUGB
+ +iBkPMTmAEVVbdGRLsGVKHy8kgVKFy3paAWdk6xqKq9897b9Tom5V+29flG6TzlZ044UyOGBA
+ sHJvQc4KgCg+bVuWxhB1p5mNnCnZD0iIMn0N7YbJZkeB5QCW/Jb/i/dnwZLwpYXtAygZrPtp4
+ MIemcmIVnGyZM/yvW3DlPybjExFynhhzT92slO1HscBjpXXs+jFyH91mrBqY=
+X-DCC-BelWue-Metrics: cst101.belwue.de 1243; Body=2 Fuz1=3 Fuz2=3
+
+This is a multi-part message in MIME format.
+--------------92D54B5D01F68D8EDF4D97F0
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+=2D------- Weitergeleitete Nachricht --------
+Betreff: 	Re: Technik am 14.11.
+Datum: 	Tue, 24 Sep 2019 12:01:24 +0200
+Von: 	Xenia-Theater <kontakt@xenia-theater.de>
+An: 	Uta Lanske (Fichte-Gymnasium) <uta.lanske@fichte-gymnasium.de>,
+'Levin Kiefer' <levin.kiefer@web.de>
+
+
+
+Liebe Uta, liebes Technik-Team, lieber Levin,
+
+wir haben es uns so vorgestellt:
+
+Mi., 13.11.: Vormittags B=FChnenbildaufbau ab ca. 9 Uhr. Daf=FCr m=FCssten=
+ die
+Podeste schon stehen.
+Mehr als 2 Stunden brauchen wir nicht, reicht bis zum Mensabetrieb, bis
+wann genau k=F6nnen wir bleiben, 11 Uhr oder 11.30 Uhr?
+Nachmittags Probe nur f=FCr die Schauspieler 15.00 Uhr bis 17 Uhr
+
+Do., 14.11. ca. 8 Uhr bis 11 /11.30 Uhr Lichteinrichten mit dem
+Technikteam. Geht es so in Ordnung?
+
+Ab 17.30 Uhr Vorbereitung der Schauspieler
+
+*Do., 14.11. um 19.30 Uhr Auff=FChrung
+*
+
+**Klaus, unser Techniker wird das Licht w=E4hrend der Vorstellung fahren.
+
+
+Eine Frage noch: K=F6nnten wir einen zus=E4tzlichen Raum als Garderobe bek=
+ommen?
+
+Vielen Dank im Voraus!
+
+Wir freuen uns auf die Zusammenarbeit!
+
+Herzliche Gr=FC=DFe
+Nathalie
+
+
+_____________________________
+
+Xenia-Theater
+Nathalie Cellier / Peter Steiner
+R=FCppurrer Str. 41
+76137 Karlsruhe
+Tel: ++ 49 (0)721 38 00 97
+kontakt@xenia-theater.de
+www.xenia-theater.de
+______________________________
+
+Am 23.09.2019 um 19:21 schrieb Uta Lanske (Fichte-Gymnasium):
+>
+> Liebe Nathalie, lieber Peter, liebe Technik-AG, lieber Levin,
+>
+> nach der Auff=FChrung ist vor der Auff=FChrung des Xenia-Theaters, mit =
+=84Le
+> silence de la mer=93: am 14.11.
+>
+> Die Zeiten f=FCr Aufbau, Proben und Abbau sollten wir bald kl=E4ren =96
+> vielleicht ist es am leichtesten, wenn ihr, Nathalie und Peter, sagt,
+> wann ihr kommen m=F6chtet? Ihr kennt ja die Fichte-Mensa-spezifischen
+> Rahmenbedingungen, um die wir herumarbeiten m=FCssen=85
+>
+> Mit herzlichen Gr=FC=DFen
+>
+> Uta
+>
+
+--------------92D54B5D01F68D8EDF4D97F0
+Content-Type: text/html; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+  <head>
+
+    <meta http-equiv=3D"content-type" content=3D"text/html; charset=3Dwind=
+ows-1252">
+  </head>
+  <body text=3D"#000000" bgcolor=3D"#FFFFFF">
+    <p><br>
+    </p>
+    <div class=3D"moz-forward-container"><br>
+      <br>
+      -------- Weitergeleitete Nachricht --------
+      <table class=3D"moz-email-headers-table" cellspacing=3D"0"
+        cellpadding=3D"0" border=3D"0">
+        <tbody>
+          <tr>
+            <th valign=3D"BASELINE" nowrap=3D"nowrap" align=3D"RIGHT">Betr=
+eff:
+            </th>
+            <td>Re: Technik am 14.11.</td>
+          </tr>
+          <tr>
+            <th valign=3D"BASELINE" nowrap=3D"nowrap" align=3D"RIGHT">Datu=
+m: </th>
+            <td>Tue, 24 Sep 2019 12:01:24 +0200</td>
+          </tr>
+          <tr>
+            <th valign=3D"BASELINE" nowrap=3D"nowrap" align=3D"RIGHT">Von:=
+ </th>
+            <td>Xenia-Theater <a class=3D"moz-txt-link-rfc2396E" href=3D"m=
+ailto:kontakt@xenia-theater.de">&lt;kontakt@xenia-theater.de&gt;</a></td>
+          </tr>
+          <tr>
+            <th valign=3D"BASELINE" nowrap=3D"nowrap" align=3D"RIGHT">An: =
+</th>
+            <td>Uta Lanske (Fichte-Gymnasium)
+              <a class=3D"moz-txt-link-rfc2396E" href=3D"mailto:uta.lanske=
+@fichte-gymnasium.de">&lt;uta.lanske@fichte-gymnasium.de&gt;</a>, 'Levin K=
+iefer'
+              <a class=3D"moz-txt-link-rfc2396E" href=3D"mailto:levin.kief=
+er@web.de">&lt;levin.kiefer@web.de&gt;</a></td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <br>
+      <meta http-equiv=3D"Content-Type" content=3D"text/html;
+        charset=3Dwindows-1252">
+      <p><font size=3D"-1">Liebe Uta, liebes Technik-Team, lieber Levin,<b=
+r>
+        </font></p>
+      <p><font size=3D"-1">wir haben es uns so vorgestellt:</font></p>
+      <p><font size=3D"-1">Mi., 13.11.: Vormittags B=FChnenbildaufbau ab c=
+a.
+          9 Uhr. Daf=FCr m=FCssten die Podeste schon stehen. <br>
+          Mehr als 2 Stunden brauchen wir nicht, reicht bis zum
+          Mensabetrieb, bis wann genau k=F6nnen wir bleiben, 11 Uhr oder
+          11.30 Uhr?<br>
+          Nachmittags Probe nur f=FCr die Schauspieler 15.00 Uhr bis 17
+          Uhr</font></p>
+      <p><font size=3D"-1">Do., 14.11. ca. 8 Uhr bis 11 /11.30 Uhr
+          Lichteinrichten mit dem Technikteam. Geht es so in Ordnung?<br>
+        </font></p>
+      <p><font size=3D"-1">Ab 17.30 Uhr Vorbereitung der Schauspieler</fon=
+t></p>
+      <b><font size=3D"-1">Do., 14.11. um 19.30 Uhr Auff=FChrung<br>
+        </font></b>
+      <p><b><font size=3D"-1"> </font></b><font size=3D"-1">Klaus, unser
+          Techniker wird das Licht w=E4hrend der Vorstellung fahren.</font=
+></p>
+      <p><br>
+        <font size=3D"-1"><font size=3D"-1">Eine Frage noch: K=F6nnten wir
+            einen zus=E4tzlichen Raum als Garderobe bekommen?</font></font=
+></p>
+      <p><font size=3D"-1"><font size=3D"-1">Vielen Dank im Voraus!</font>=
+</font></p>
+      <p><font size=3D"-1"><font size=3D"-1">Wir freuen uns auf die
+            Zusammenarbeit!</font></font></p>
+      <p><font size=3D"-1"><font size=3D"-1">Herzliche Gr=FC=DFe<br>
+            Nathalie<br>
+          </font></font></p>
+      <p><font size=3D"-1"><font size=3D"-1"><br>
+          </font></font></p>
+      <pre class=3D"moz-signature" cols=3D"72">___________________________=
+__
+
+Xenia-Theater
+Nathalie Cellier / Peter Steiner
+R=FCppurrer Str. 41
+76137 Karlsruhe
+Tel: ++ 49 (0)721 38 00 97
+<a class=3D"moz-txt-link-abbreviated" href=3D"mailto:kontakt@xenia-theater=
+.de" moz-do-not-send=3D"true">kontakt@xenia-theater.de</a>
+<a class=3D"moz-txt-link-abbreviated" href=3D"http://www.xenia-theater.de"=
+ moz-do-not-send=3D"true">www.xenia-theater.de</a>
+______________________________</pre>
+      <div class=3D"moz-cite-prefix">Am 23.09.2019 um 19:21 schrieb Uta
+        Lanske (Fichte-Gymnasium):<br>
+      </div>
+      <blockquote type=3D"cite"
+        cite=3D"mid:000b01d57233$68511320$38f33960$@fichte-gymnasium.de">
+        <meta http-equiv=3D"Content-Type" content=3D"text/html;
+          charset=3Dwindows-1252">
+        <meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered
+          medium)">
+        <style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.E-MailFormatvorlage17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 70.85pt 2.0cm 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+=2D-></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+        <div class=3D"WordSection1">
+          <p class=3D"MsoNormal">Liebe Nathalie, lieber Peter, liebe
+            Technik-AG, lieber Levin,<o:p></o:p></p>
+          <p class=3D"MsoNormal"><o:p>=A0</o:p></p>
+          <p class=3D"MsoNormal">nach der Auff=FChrung ist vor der
+            Auff=FChrung des Xenia-Theaters, mit =84Le silence de la mer=
+=93:
+            am 14.11. <br>
+            <br>
+            <o:p></o:p></p>
+          <p class=3D"MsoNormal">Die Zeiten f=FCr Aufbau, Proben und Abbau
+            sollten wir bald kl=E4ren =96 vielleicht ist es am leichtesten=
+,
+            wenn ihr, Nathalie und Peter, sagt, wann ihr kommen m=F6chtet?
+            Ihr kennt ja die Fichte-Mensa-spezifischen
+            Rahmenbedingungen, um die wir herumarbeiten m=FCssen=85<o:p></=
+o:p></p>
+          <p class=3D"MsoNormal"><o:p>=A0</o:p></p>
+          <p class=3D"MsoNormal">Mit herzlichen Gr=FC=DFen<o:p></o:p></p>
+          <p class=3D"MsoNormal">Uta <o:p></o:p></p>
+          <p class=3D"MsoNormal"><o:p>=A0</o:p></p>
+          <p class=3D"MsoNormal"><o:p>=A0</o:p></p>
+        </div>
+      </blockquote>
+    </div>
+  </body>
+</html>
+
+--------------92D54B5D01F68D8EDF4D97F0--

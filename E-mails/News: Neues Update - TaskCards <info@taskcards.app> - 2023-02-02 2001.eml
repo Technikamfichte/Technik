@@ -1,0 +1,505 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <bounces-7t7m2-info=taskcards.app@jw.d.sender-sib.com>
+Received: from mail-hub02.belwue.de ([2001:7c0:0:76::42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.13)
+  with ESMTPS id 61117728 for technikag@fichte-gymnasium.de; Thu, 02 Feb 2023 20:02:57 +0100
+Received: from mail-in01.belwue.de (mail-in01.belwue.de [129.143.76.1])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4P77TY1sNKz3KVp
+	for <technikag@fichte-gymnasium.de>; Thu,  2 Feb 2023 20:02:57 +0100 (CET)
+Received: from jw.d.sender-sib.com (jw.d.sender-sib.com [77.32.148.101])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in01.belwue.de (Postfix) with ESMTPS id 4P77TX1WXqz53FvN
+	for <technikag@fichte-gymnasium.de>; Thu,  2 Feb 2023 20:02:56 +0100 (CET)
+DKIM-Signature: a=rsa-sha256; bh=0l90RpFt7MEiNfqjBB+az1a4iaKtpV0d4Udhw8l5YmE=;
+ c=relaxed/relaxed; d=taskcards.app;
+ h=to:cc:from:reply-to:subject:date:mime-version:content-type:list-id:list-unsubscribe:x-csa-complaints:list-unsubscribe-post:message-id:sender:x-sib-id:x-mailin-client:x-mailin-campaign:feedback-id;
+ q=dns/txt; s=mail; t=1675364492; v=1;
+ b=ace79ZsIii0XwKgoSoL9QxrmTtqnNvd1kNUf+WBwogtw2zzZjrK6oj7I2laIkMPcAUHjxsg9
+ 1nt/tY+5gTfjS3UkpYIFJsSdjfY5ebvG603mDapyVhStTKgrdNB8gWXvpqD+zFB/zayKZwNiycX
+ ERvZwzZs0/pAfYmYLoPl/iIM=
+To: <technikag@fichte-gymnasium.de>
+Subject: News: Neues Update
+Content-Type: multipart/alternative; boundary="-------?=_72908-7176527612470"
+Date: Thu, 02 Feb 2023 19:01:32 +0000
+Feedback-ID: 77.32.148.101:4488862_22:4488862:Sendinblue
+From: TaskCards <info@taskcards.app>
+List-Id: NDQ4ODg2Mi04NTkxNC0z <NDQ4ODg2Mi04NTkxNC0z.list-id.mailin.fr>
+List-Unsubscribe: <mailto:unsubscribe@jw.d.sender-sib.com?subject=unsub-11rvsnzokugbj&body=11rvsnzokugbj>,<https://7t7m2.r.ag.d.sendibm3.com/mk/un/li/Z6YZ2UtCO7bqLQUkctfE6iBTjRjXioxL3xVSvyQyU_Zt5HlTLJIxpNgDdmALpERkr-YYgZ9elxCOJLKhuu3axucsZY6wkSgNO6u6-6LDJh_5oDEDyXm66nonKLDmD01YYX-_kZ3edNBh5ReTlB5qWMBsYVZnxyoKeLhtNW9i4mSAugsY0Ke1UdU>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+MIME-Version: 1.0
+Message-Id: <202302021901.11rvsnzokugbj@jw.d.sender-sib.com>
+Precedence: bulk
+Reply-To: support@taskcards.app
+X-Csa-Complaints: csa-complaints@eco.de
+X-Mailer: Sendinblue
+X-Mailin-Campaign: 22
+X-Mailin-Client: 4488862
+X-sib-id: aioIGd84lKpiMSFV1iRguTnonadUwXOdiPG2iSJDwy99lAAQtPeYVL-wGcMtLUCcUGlfqbYQMOunaJdSzMcN0-aR3ZPJ5jvbwZhOxHosKSPFTnncutzLhinyUv57zrJLnxuFGGQo-bczOsiHz03htZN6LRfjbupaFJCJJItsMRgennoMEmWW5pbrX-taxbnk-CjZw_LlzlFmG11BoZf3VovSb25xGk_wNy4Yyje_xTI
+X-Rspamd-SPAM-Probability: 0
+X-Rspamd-UID: a8f390
+X-Rspamd-Queue-Id: 4P77TX1WXqz53FvN
+
+---------?=_72908-7176527612470
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+
+**TaskCards |=C2=A0www.taskcards.de**
+
+###Neues Update
+
+Liebe Nutzer:innen,
+-------------------
+
+Heute Nacht gab es auf **taskcards.de** ein Update.=C2=A0
+
+Leider wird TaskCards nicht bei jedem User automatisch aktualisiert. Sollte=
+t Ihr Probleme beim Aufrufen von Pinnw=C3=A4nden haben, **l=C3=B6scht bitte=
+ Euren Browser-Cache** (Anleitung: [https://7t7m2.r.ag.d.sendibm3.com/mk/cl=
+/f/XKoC8dEAmjvBS8SYW3OW0PsFR8mY-cMAWQ8tJDXY0ZSWyfWXj9B64Qz1TpCCJDqbDcRB4jb0=
+WsCzUjz7vFVMcLeWLpa1Y3g7iJPSFe7OmAVGv2p2RoaQ4tT2Joh6EnEfgMc8wbBfRvSR4aoTEsI=
+ox_gvWzpvZOHLwH4cr4PzaMrawWoKwx0sfeccIRDqmBvBS77sF7ZsjuE](https://browser-c=
+ache-leeren.de)).
+
+Dear users,
+-----------
+
+Tonight there was an update on **taskcards.de**.
+
+Unfortunately TaskCards is not updated automatically for every user. If you=
+ have problems accessing boards, please **delete your browser cache** (inst=
+ructions: [https://7t7m2.r.ag.d.sendibm3.com/mk/cl/f/YsEYQhqoQUIDmbeougnEfu=
+zAh-tQaOUKA3DyfWgN_ymzrtaDU4IM_6eAih6JrPrLhigw7g5JkZooGS7Yd7cXjJCsoOWbY8OWo=
+vg7tlVcyCGlQj2TuLRJb8QjPYvaNkWe2TR_Mxkk50HCDp7EJ-48GUSVYIKP6n7hXoEeV7kfhhgR=
+JAcE6moZbCzrbjZnyxfi0vEo/](https://clear-my-cache.com)).
+
+####Ihr TaskCards-Team
+
+[support@taskcards.app](mailto:info@taskcards.de?subject=3DFrage%20an%20Tas=
+kCards)
+
+[Impressum](https://7t7m2.r.ag.d.sendibm3.com/mk/cl/f/e4rGkTvXydrYnZvAXQz2x=
+m2W9wWKrQDy5TFnYaIjOs1OhvQPIksp5ZX6Hfj5IoSzwDUdhHzRghfe9WLocmorlFYilPtzScD0=
+Ga1-S5ktD3xW5OipLw02dF0zNlPaIorxTlBaQF93WQRbJd9_jICtXNSIjk1V8ONamJ7OVKLcj73=
+0okPvOF8K4Kw7TUokjZgkqPtHWl6urTm0WR0ppHceA4zTUfNcL46V)
+
+[Datenschutz](https://7t7m2.r.ag.d.sendibm3.com/mk/cl/f/rMci_AlafOKxBIpMmna=
+Nk9GMGR3-E7cJQTt83arc98TnNTWAE8a9UvUkN7JgIl0DNxxP5Kej_jK3-p7bU0mb0XzGLqk31r=
+qelGcQWX5Qn9lo9lcRed-wjF_steseWfDI7M3BK7LR_woIEEztP_cd-f-izlv161xkyOU0TBtEk=
+QuQH2sZirsvfhXw5EyLUaS0AlkqPE42vI8FT5Ykc3cCwWQXkbdSLnftzJPkyQSp)
+
+[Nutzungsbedingungen](https://7t7m2.r.ag.d.sendibm3.com/mk/cl/f/QpYlT8CoX4U=
+FDZLxH0LFmLkwZyGKXpE-DPBdsmsnhH5cvdkEtUsOJtuU82K62MwfiiPNyu-nfVekoa4yAkjtnH=
+tCZIa8V94O0e7m69mF2vk_tPdJaBF_QZnvQoOtNIO7S4K2ZcnmrgcscksyDgvadSwZlfIFtQ_rM=
+wN_7drcf3koNWnoqprLfF_5VYY4rs8w7iyiaDDpwXcffJTNv6yV6jJpI-Hw4reJLQSEJg)
+
+dSign Systems GmbH, Waldhausstra=C3=9Fe 14, 98574 Schmalkalden
+Gesch=C3=A4ftsf=C3=BChrer: Christian Dornheim, Sitz der Gesellschaft: Schma=
+lkalden
+Handelsregister: HRB507202, Registergericht: Amtsgericht Jena
+Umsatzsteuer-ID: DE279512303, Steuernummer: 171/107/07649=C2=A0
+
+
+---------?=_72908-7176527612470
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns=3D"http://www.w3.org/1999/xht=
+ml" xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micros=
+oft-com:office:office"><head><meta http-equiv=3D"Content-Type" content=3D"t=
+ext/html; charset=3Dutf-8"/><meta http-equiv=3D"X-UA-Compatible" content=3D=
+"IE=3Dedge"/><meta name=3D"format-detection" content=3D"telephone=3Dno"/><m=
+eta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.0"=
+/><title></title><style type=3D"text/css" emogrify=3D"no">#outlook a{paddin=
+g:0;}.ExternalClass{width:100%;}.ExternalClass, .ExternalClass p, .External=
+Class span, .ExternalClass font, .ExternalClass td, .ExternalClass div{line=
+-height:100%;}table td{border-collapse:collapse;mso-line-height-rule:exactl=
+y;}.editable.image{font-size:0 !important;line-height:0 !important;}.nl2go_=
+preheader{display:none !important;mso-hide:all !important;mso-line-height-r=
+ule:exactly;visibility:hidden !important;line-height:0px !important;font-si=
+ze:0px !important;}body{width:100% !important;-webkit-text-size-adjust:100%=
+;-ms-text-size-adjust:100%;margin:0;padding:0;}img{outline:none;text-decora=
+tion:none;-ms-interpolation-mode:bicubic;}a img{border:none;}table{border-c=
+ollapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;}th{font-weight:=
+normal;text-align:left;}*[class=3D"gmail-fix"]{display:none !important;}</s=
+tyle><style type=3D"text/css" emogrify=3D"no"> @media (max-width:600px){.gm=
+x-killpill{content:' \03D1'}}</style><style type=3D"text/css" emogrify=3D"n=
+o">@media (max-width:600px){.gmx-killpill{content:' \03D1'}.r0-c{box-sizing=
+:border-box !important;text-align:center !important;valign:top !important;w=
+idth:320px !important}.r1-o{border-style:solid !important;margin:0 auto 0 a=
+uto !important;width:320px !important}.r2-i{background-color:#e1eff5 !impor=
+tant}.r3-c{box-sizing:border-box !important;text-align:center !important;va=
+lign:top !important;width:100% !important}.r4-o{border-style:solid !importa=
+nt;margin:0 auto 0 auto !important;width:100% !important}.r5-i{background-c=
+olor:#294174 !important;padding-bottom:10px !important;padding-left:15px !i=
+mportant;padding-right:15px !important;padding-top:3px !important}.r6-c{box=
+-sizing:border-box !important;valign:top !important;width:100% !important}.=
+r7-o{border-style:solid !important;width:100% !important}.r8-i{padding-left=
+:10px !important;padding-right:10px !important}.r9-c{box-sizing:border-box =
+!important;text-align:left !important;valign:top !important;width:100% !imp=
+ortant}.r10-o{border-style:solid !important;margin:0 auto 0 0 !important;wi=
+dth:100% !important}.r11-i{padding-top:10px !important;text-align:left !imp=
+ortant}.r12-i{padding-bottom:0px !important;padding-left:0px !important;pad=
+ding-right:0px !important;padding-top:0px !important;text-align:left !impor=
+tant}.r13-o{background-size:cover !important;border-style:solid !important;=
+margin:0 auto 0 auto !important;width:100% !important}.r14-i{background-col=
+or:#ffffff !important;padding-bottom:0px !important;padding-left:5px !impor=
+tant;padding-right:5px !important;padding-top:0px !important}.r15-c{box-siz=
+ing:border-box !important;display:block !important;valign:top !important;wi=
+dth:100% !important}.r16-i{padding-left:0px !important;padding-right:0px !i=
+mportant}.r17-o{border-style:solid !important;margin:0 auto 0 0 !important;=
+margin-bottom:0px !important;margin-top:0px !important;width:100% !importan=
+t}.r18-i{padding-bottom:0px !important;padding-left:0px !important;padding-=
+right:0px !important;padding-top:5px !important;text-align:left !important}=
+.r19-i{padding-bottom:10px !important;padding-top:15px !important;text-alig=
+n:left !important}.r20-i{background-color:#294174 !important;color:#3b3f44 =
+!important;padding-bottom:0px !important;padding-left:5px !important;paddin=
+g-right:5px !important;padding-top:15px !important}.r21-i{color:#3b3f44 !im=
+portant;padding-left:0px !important;padding-right:0px !important}.r22-i{col=
+or:#3b3f44 !important;padding-bottom:0px !important;padding-left:0px !impor=
+tant;padding-right:0px !important;padding-top:0px !important;text-align:lef=
+t !important}.r23-c{box-sizing:border-box !important;text-align:right !impo=
+rtant;width:100% !important}.r24-o{border-style:solid !important;margin:0 0=
+ 0 auto !important;width:100% !important}.r25-i{color:#3b3f44 !important;fo=
+nt-size:0px !important;padding-bottom:5px !important;padding-left:190px !im=
+portant;padding-right:0px !important;padding-top:5px !important}.r26-c{box-=
+sizing:border-box !important;width:32px !important}.r27-o{border-style:soli=
+d !important;margin-right:8px !important;width:32px !important}.r28-i{color=
+:#3b3f44 !important;padding-bottom:5px !important;padding-top:5px !importan=
+t}.r29-o{background-size:cover !important;border-style:solid !important;mar=
+gin:0 auto 0 auto !important;margin-bottom:0px !important;margin-top:0px !i=
+mportant;width:100% !important}.r30-i{background-color:#294174 !important;c=
+olor:#3b3f44 !important;padding-bottom:15px !important;padding-left:15px !i=
+mportant;padding-right:15px !important;padding-top:0px !important}.r31-i{co=
+lor:#3b3f44 !important;padding-top:15px !important;text-align:center !impor=
+tant}.r32-i{background-color:#e1eff5 !important;padding-bottom:20px !import=
+ant;padding-left:15px !important;padding-right:15px !important;padding-top:=
+20px !important}.r33-i{padding-bottom:0px !important;padding-left:0px !impo=
+rtant;padding-right:0px !important;padding-top:0px !important;text-align:ce=
+nter !important}body{-webkit-text-size-adjust:none}.nl2go-responsive-hide{d=
+isplay:none}.nl2go-body-table{min-width:unset !important}.mobshow{height:au=
+to !important;overflow:visible !important;max-height:unset !important;visib=
+ility:visible !important;border:none !important}.resp-table{display:inline-=
+table !important}.magic-resp{display:table-cell !important}}</style><!--[if=
+ !mso]><!--><style type=3D"text/css" emogrify=3D"no">@import url("https://f=
+onts.googleapis.com/css2?family=3DMontserrat");</style><!--<![endif]--><sty=
+le type=3D"text/css">p, h1, h2, h3, h4, ol, ul{margin:0;}a, a:link{color:#0=
+092ff;text-decoration:underline}.nl2go-default-textstyle{color:#3b3f44;font=
+-family:arial,helvetica,sans-serif;font-size:16px;line-height:1.5}.default-=
+button{border-radius:10px;color:#ffffff;font-family:arial,helvetica,sans-se=
+rif;font-size:16px;font-style:normal;font-weight:normal;line-height:1.15;te=
+xt-decoration:none;width:50%}.default-heading1{color:#1F2D3D;font-family:ar=
+ial,helvetica,sans-serif;font-size:36px}.default-heading2{color:#1F2D3D;fon=
+t-family:arial,helvetica,sans-serif;font-size:32px}.default-heading3{color:=
+#1F2D3D;font-family:arial,helvetica,sans-serif;font-size:24px}.default-head=
+ing4{color:#1F2D3D;font-family:arial,helvetica,sans-serif;font-size:18px}a[=
+x-apple-data-detectors]{color:inherit !important;text-decoration:inherit !i=
+mportant;font-size:inherit !important;font-family:inherit !important;font-w=
+eight:inherit !important;line-height:inherit !important;}.no-show-for-you{b=
+order:none;display:none;float:none;font-size:0;height:0;line-height:0;max-h=
+eight:0;mso-hide:all;overflow:hidden;table-layout:fixed;visibility:hidden;w=
+idth:0;}</style><!--[if mso]><xml> <o:OfficeDocumentSettings> <o:AllowPNG/>=
+ <o:PixelsPerInch>96</o:PixelsPerInch> </o:OfficeDocumentSettings> </xml><!=
+[endif]--><style type=3D"text/css">a:link{color:#0092ff;text-decoration:und=
+erline}</style></head><body bgcolor=3D"#e1eff5" text=3D"#3b3f44" link=3D"#0=
+092ff" yahoo=3D"fix" style=3D"background-color:#e1eff5"> <table cellpadding=
+=3D"0" border=3D"0" cellspacing=3D"0" style=3D" mso-hide:all;display:none">=
+<tr><td>Bei Problemen l=C3=B6scht bitte Euren Browser-Cache</td></tr></tabl=
+e> <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" role=3D"presenta=
+tion" class=3D"nl2go-body-table" width=3D"100%" style=3D"background-color:#=
+e1eff5;width:100%"><tbody><tr><td align=3D"center" class=3D"r0-c"> <table c=
+ellspacing=3D"0" cellpadding=3D"0" border=3D"0" role=3D"presentation" width=
+=3D"600" class=3D"r1-o" style=3D"table-layout:fixed;width:600px"><tbody><tr=
+><td valign=3D"top" class=3D"r2-i" style=3D"background-color:#e1eff5"> <tab=
+le width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" role=3D"=
+presentation"><tbody><tr><td class=3D"r3-c" align=3D"center"> <table cellsp=
+acing=3D"0" cellpadding=3D"0" border=3D"0" role=3D"presentation" width=3D"1=
+00%" class=3D"r4-o" style=3D"table-layout:fixed;width:100%"><tbody><tr><td =
+class=3D"r5-i" style=3D"background-color:#294174;padding-bottom:10px;paddin=
+g-top:3px"> <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" borde=
+r=3D"0" role=3D"presentation"><tbody><tr><th width=3D"100%" valign=3D"top" =
+class=3D"r6-c" style=3D"font-weight:normal"> <table cellspacing=3D"0" cellp=
+adding=3D"0" border=3D"0" role=3D"presentation" width=3D"100%" class=3D"r7-=
+o" style=3D"table-layout:fixed;width:100%"><tbody><tr><td valign=3D"top" cl=
+ass=3D"r8-i" style=3D"padding-left:10px;padding-right:10px"> <table width=
+=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" role=3D"presenta=
+tion"><tbody><tr><td class=3D"r9-c" align=3D"left"> <table cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0" role=3D"presentation" width=3D"100%" class=
+=3D"r10-o" style=3D"table-layout:fixed;width:100%"><tbody><tr><td align=3D"=
+left" valign=3D"top" class=3D"r11-i nl2go-default-textstyle" style=3D"color=
+:#3b3f44;font-family:arial,helvetica,sans-serif;font-size:16px;line-height:=
+1.5;padding-top:10px;text-align:left"> <div><p style=3D"margin:0"><span sty=
+le=3D"color:#ffffff"><strong>TaskCards |=C2=A0www.taskcards.de</strong></sp=
+an></p></div> </td> </tr></tbody></table></td> </tr><tr><td class=3D"r9-c" =
+align=3D"left"> <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" rol=
+e=3D"presentation" width=3D"100%" class=3D"r10-o" style=3D"table-layout:fix=
+ed;width:100%"><tbody><tr><td align=3D"left" valign=3D"top" class=3D"r12-i =
+nl2go-default-textstyle" style=3D"color:#3b3f44;font-family:arial,helvetica=
+,sans-serif;font-size:16px;line-height:1.5;text-align:left"> <div><h3 class=
+=3D"default-heading3" style=3D"margin:0;color:#1f2d3d;font-family:arial,hel=
+vetica,sans-serif;font-size:24px"><span style=3D"color:#ffffff;font-size:22=
+px">Neues Update</span></h3></div> </td> </tr></tbody></table></td> </tr></=
+tbody></table></td> </tr></tbody></table></th> </tr></tbody></table></td> <=
+/tr></tbody></table></td> </tr><tr><td class=3D"r3-c" align=3D"center"> <ta=
+ble cellspacing=3D"0" cellpadding=3D"0" border=3D"0" role=3D"presentation" =
+width=3D"100%" class=3D"r13-o" style=3D"table-layout:fixed;width:100%"><tbo=
+dy><tr><td class=3D"r14-i" style=3D"background-color:#ffffff;padding-top:10=
+px"> <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"=
+ role=3D"presentation"><tbody><tr><th width=3D"100%" valign=3D"top" class=
+=3D"r15-c" style=3D"font-weight:normal"> <table cellspacing=3D"0" cellpaddi=
+ng=3D"0" border=3D"0" role=3D"presentation" width=3D"100%" class=3D"r7-o" s=
+tyle=3D"table-layout:fixed;width:100%"><tbody><tr><td valign=3D"top" class=
+=3D"r16-i" style=3D"padding-left:15px;padding-right:15px"> <table width=3D"=
+100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" role=3D"presentation=
+"><tbody><tr><td class=3D"r9-c" align=3D"left"> <table cellspacing=3D"0" ce=
+llpadding=3D"0" border=3D"0" role=3D"presentation" width=3D"100%" class=3D"=
+r17-o" style=3D"table-layout:fixed;width:100%"><tbody><tr><td align=3D"left=
+" valign=3D"top" class=3D"r18-i nl2go-default-textstyle" style=3D"color:#3b=
+3f44;font-family:arial,helvetica,sans-serif;font-size:16px;line-height:1.5;=
+padding-top:5px;text-align:left"> <div><p style=3D"margin:0;font-size:22px"=
+><span style=3D"color:#294174;font-size:20px">Liebe Nutzer:innen,</span></p=
+></div> </td> </tr></tbody></table></td> </tr><tr><td class=3D"r9-c" align=
+=3D"left"> <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" role=3D"=
+presentation" width=3D"100%" class=3D"r10-o" style=3D"table-layout:fixed;wi=
+dth:100%"><tbody><tr><td align=3D"left" valign=3D"top" class=3D"r19-i nl2go=
+-default-textstyle" style=3D"color:#3b3f44;font-family:arial,helvetica,sans=
+-serif;font-size:16px;line-height:1.5;padding-bottom:10px;padding-top:15px;=
+text-align:left"> <div><p style=3D"margin:0"><span style=3D"color:#294174">=
+Heute Nacht gab es auf <strong>taskcards.de</strong> ein Update.=C2=A0</spa=
+n></p><p style=3D"margin:0"><span style=3D"color:#294174">Leider wird TaskC=
+ards nicht bei jedem User automatisch aktualisiert. Solltet Ihr Probleme be=
+im Aufrufen von Pinnw=C3=A4nden haben, <strong>l=C3=B6scht bitte Euren Brow=
+ser-Cache</strong> (Anleitung: </span><a href=3D"https://7t7m2.r.ag.d.sendi=
+bm3.com/mk/cl/f/XKoC8dEAmjvBS8SYW3OW0PsFR8mY-cMAWQ8tJDXY0ZSWyfWXj9B64Qz1TpC=
+CJDqbDcRB4jb0WsCzUjz7vFVMcLeWLpa1Y3g7iJPSFe7OmAVGv2p2RoaQ4tT2Joh6EnEfgMc8wb=
+BfRvSR4aoTEsIox_gvWzpvZOHLwH4cr4PzaMrawWoKwx0sfeccIRDqmBvBS77sF7ZsjuE" targ=
+et=3D"_blank" style=3D"color:#0092ff;text-decoration:underline" sib_link_id=
+=3D"0"><span style=3D"color:#294174">https://browser-cache-leeren.de</span>=
+</a><span style=3D"color:#294174">).</span></p></div> </td> </tr></tbody></=
+table></td> </tr><tr><td class=3D"r9-c" align=3D"left"> <table cellspacing=
+=3D"0" cellpadding=3D"0" border=3D"0" role=3D"presentation" width=3D"100%" =
+class=3D"r17-o" style=3D"table-layout:fixed;width:100%"><tbody><tr><td alig=
+n=3D"left" valign=3D"top" class=3D"r18-i nl2go-default-textstyle" style=3D"=
+color:#3b3f44;font-family:arial,helvetica,sans-serif;font-size:16px;line-he=
+ight:1.5;padding-top:5px;text-align:left"> <div><p style=3D"margin:0;font-s=
+ize:22px"><span style=3D"color:#294174;font-size:20px">Dear users,</span></=
+p></div> </td> </tr></tbody></table></td> </tr><tr><td class=3D"r9-c" align=
+=3D"left"> <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" role=3D"=
+presentation" width=3D"100%" class=3D"r10-o" style=3D"table-layout:fixed;wi=
+dth:100%"><tbody><tr><td align=3D"left" valign=3D"top" class=3D"r19-i nl2go=
+-default-textstyle" style=3D"color:#3b3f44;font-family:arial,helvetica,sans=
+-serif;font-size:16px;line-height:1.5;padding-bottom:10px;padding-top:15px;=
+text-align:left"> <div><p style=3D"margin:0"><span style=3D"color:#294174">=
+Tonight there was an update on <strong>taskcards.de</strong>.</span></p><p =
+style=3D"margin:0"><span style=3D"color:#294174">Unfortunately TaskCards is=
+ not updated automatically for every user. If you have problems accessing b=
+oards, please <strong>delete your browser cache</strong> (instructions: </s=
+pan><a href=3D"https://7t7m2.r.ag.d.sendibm3.com/mk/cl/f/YsEYQhqoQUIDmbeoug=
+nEfuzAh-tQaOUKA3DyfWgN_ymzrtaDU4IM_6eAih6JrPrLhigw7g5JkZooGS7Yd7cXjJCsoOWbY=
+8OWovg7tlVcyCGlQj2TuLRJb8QjPYvaNkWe2TR_Mxkk50HCDp7EJ-48GUSVYIKP6n7hXoEeV7kf=
+hhgRJAcE6moZbCzrbjZnyxfi0vEo" target=3D"_blank" style=3D"color:#0092ff;text=
+-decoration:underline" sib_link_id=3D"1"><span style=3D"color:#294174">http=
+s://clear-my-cache.com/</span></a><span style=3D"color:#294174">).</span></=
+p></div> </td> </tr></tbody></table></td> </tr></tbody></table></td> </tr><=
+/tbody></table></th> </tr></tbody></table></td> </tr></tbody></table></td> =
+</tr><tr><td class=3D"r3-c" align=3D"center"> <table cellspacing=3D"0" cell=
+padding=3D"0" border=3D"0" role=3D"presentation" width=3D"100%" class=3D"r4=
+-o" style=3D"table-layout:fixed;width:100%"><tbody><tr><td class=3D"r20-i" =
+style=3D"background-color:#294174;color:#3b3f44;font-family:arial,helvetica=
+,sans-serif;font-size:16px;padding-bottom:10px;padding-top:20px"> <table wi=
+dth=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" role=3D"prese=
+ntation"><tbody><tr><th width=3D"50%" valign=3D"top" class=3D"r15-c" style=
+=3D"font-weight:normal"> <table cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0" role=3D"presentation" width=3D"100%" class=3D"r7-o" style=3D"table-l=
+ayout:fixed;width:100%"><tbody><tr><td valign=3D"top" class=3D"r21-i" style=
+=3D"color:#3b3f44;font-family:arial,helvetica,sans-serif;font-size:16px;pad=
+ding-left:15px;padding-right:15px"> <table width=3D"100%" cellspacing=3D"0"=
+ cellpadding=3D"0" border=3D"0" role=3D"presentation"><tbody><tr><td class=
+=3D"r9-c" align=3D"left"> <table cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0" role=3D"presentation" width=3D"100%" class=3D"r10-o" style=3D"table-=
+layout:fixed;width:100%"><tbody><tr><td align=3D"left" valign=3D"top" class=
+=3D"r22-i nl2go-default-textstyle" style=3D"line-height:1.5;color:#3b3f44;f=
+ont-family:arial,helvetica,sans-serif;font-size:16px;text-align:left"> <div=
+><h4 class=3D"default-heading4" style=3D"margin:0;font-family:arial,helveti=
+ca,sans-serif;color:#1F2D3D;font-size:18px"><span style=3D"color:#ffffff">I=
+hr TaskCards-Team</span></h4></div> </td> </tr></tbody></table></td> </tr><=
+tr><td class=3D"r9-c" align=3D"left"> <table cellspacing=3D"0" cellpadding=
+=3D"0" border=3D"0" role=3D"presentation" width=3D"100%" class=3D"r10-o" st=
+yle=3D"table-layout:fixed;width:100%"><tbody><tr><td align=3D"left" valign=
+=3D"top" class=3D"r12-i nl2go-default-textstyle" style=3D"color:#3b3f44;fon=
+t-family:arial,helvetica,sans-serif;font-size:16px;line-height:1.5;text-ali=
+gn:left"> <div><p style=3D"margin:0"><a href=3D"mailto:info@taskcards.de?su=
+bject=3DFrage%20an%20TaskCards" target=3D"_blank" style=3D"color:#0092ff;te=
+xt-decoration:underline"><span style=3D"color:#ffffff">support@taskcards.ap=
+p</span></a></p></div> </td> </tr></tbody></table></td> </tr></tbody></tabl=
+e></td> </tr></tbody></table></th> <th width=3D"50%" valign=3D"top" class=
+=3D"r15-c" style=3D"font-weight:normal"> <table cellspacing=3D"0" cellpaddi=
+ng=3D"0" border=3D"0" role=3D"presentation" width=3D"100%" class=3D"r7-o" s=
+tyle=3D"table-layout:fixed;width:100%"><tbody><tr><td valign=3D"top" class=
+=3D"r21-i" style=3D"color:#3b3f44;font-family:arial,helvetica,sans-serif;fo=
+nt-size:16px;padding-left:15px;padding-right:15px"> <table width=3D"100%" c=
+ellspacing=3D"0" cellpadding=3D"0" border=3D"0" role=3D"presentation"><tbod=
+y><tr><td class=3D"r23-c" align=3D"right"> <table cellspacing=3D"0" cellpad=
+ding=3D"0" border=3D"0" role=3D"presentation" width=3D"270" class=3D"r24-o"=
+ style=3D"table-layout:fixed;width:270px"><tbody><tr><td valign=3D"top" cla=
+ss=3D""> <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0" role=3D"presentation"><tbody><tr><td class=3D"r23-c" align=3D"right"=
+ style=3D"display:inline-block"> <table cellspacing=3D"0" cellpadding=3D"0"=
+ border=3D"0" role=3D"presentation" width=3D"270" class=3D"r24-o" style=3D"=
+table-layout:fixed;width:270px"><tbody><tr><td class=3D"r25-i" style=3D"col=
+or:#3b3f44;font-family:arial,helvetica,sans-serif;font-size:16px;padding-le=
+ft:144px"> <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0" role=3D"presentation"><tbody><tr><th width=3D"42" valign=3D"" class=
+=3D"r26-c mobshow resp-table" style=3D"font-weight:normal"> <table cellspac=
+ing=3D"0" cellpadding=3D"0" border=3D"0" role=3D"presentation" width=3D"100=
+%" class=3D"r27-o" style=3D"table-layout:fixed;width:100%"><tbody><tr><td c=
+lass=3D"r28-i" style=3D"color:#3b3f44;font-family:arial,helvetica,sans-seri=
+f;font-size:0px;line-height:0px;padding-bottom:5px;padding-top:5px"> <a hre=
+f=3D"https://7t7m2.r.ag.d.sendibm3.com/mk/cl/f/t2LaNrvWTZdycPb0DXCK2w7WRYC5=
+gBZB3OXAIfHS_bcDelkz5kYlnOvIrUB1-R9MkVcCIPF7ABQg7UmxgaHt9CtDx8vKjsK1lrObTOw=
+M_O8v5bahNe2sMhFHnQ_YM_uC3zAyQwz6K3J-xBkcNTZ6J-j66p0XOgfXvSJWEhkey5RpG1wn-X=
+0EvFYqywSWX_G59iJ5PMREeMt8" target=3D"_blank" style=3D"color:#0092ff;text-d=
+ecoration:underline" sib_link_id=3D"2"> <img src=3D"https://sendinblue-temp=
+lates.s3.eu-west-3.amazonaws.com/icons/rounded_colored/twitter_32px.png" wi=
+dth=3D"32" border=3D"0" class=3D"" style=3D"display:block;width:100%"/></a>=
+ </td> <td class=3D"nl2go-responsive-hide" width=3D"10" style=3D"font-size:=
+0px;line-height:1px">=C2=AD </td> </tr></tbody></table></th> <th width=3D"4=
+2" valign=3D"" class=3D"r26-c mobshow resp-table" style=3D"font-weight:norm=
+al"> <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" role=3D"presen=
+tation" width=3D"100%" class=3D"r27-o" style=3D"table-layout:fixed;width:10=
+0%"><tbody><tr><td class=3D"r28-i" style=3D"color:#3b3f44;font-family:arial=
+,helvetica,sans-serif;font-size:0px;line-height:0px;padding-bottom:5px;padd=
+ing-top:5px"> <a href=3D"https://7t7m2.r.ag.d.sendibm3.com/mk/cl/f/Ms4SaIlg=
+PjLCdpJuer6NBuhmAym15zDvE1uoZ_Mz1l1RknQlk7gLCBAJziUtqu4nz-UGXcrHwzsu2CeAEjR=
+LKz91utI7yBkr34BPSRphcnvbkmpFaTW2Y0ILWTORAtp1G1aqsE89TvVdyYEf3GEEeqasDs28Fn=
+OFnh5icBvPcbSJYAODJ87PkDOZ1UgT" target=3D"_blank" style=3D"color:#0092ff;te=
+xt-decoration:underline" sib_link_id=3D"3"> <img src=3D"https://sendinblue-=
+templates.s3.eu-west-3.amazonaws.com/icons/rounded_colored/facebook_32px.pn=
+g" width=3D"32" border=3D"0" class=3D"" style=3D"display:block;width:100%"/=
+></a> </td> <td class=3D"nl2go-responsive-hide" width=3D"10" style=3D"font-=
+size:0px;line-height:1px">=C2=AD </td> </tr></tbody></table></th> <th width=
+=3D"42" valign=3D"" class=3D"r26-c mobshow resp-table" style=3D"font-weight=
+:normal"> <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" role=3D"p=
+resentation" width=3D"100%" class=3D"r27-o" style=3D"table-layout:fixed;wid=
+th:100%"><tbody><tr><td class=3D"r28-i" style=3D"color:#3b3f44;font-family:=
+arial,helvetica,sans-serif;font-size:0px;line-height:0px;padding-bottom:5px=
+;padding-top:5px"> <a href=3D"https://7t7m2.r.ag.d.sendibm3.com/mk/cl/f/Gxo=
+Ukt4Fu3WXvIPDzWqk31GOGvT7hkbhUZ6FrZSek91ekOpH_8OhbdmTC8DhyL2nPZkZx7p4pO5xJv=
+i102u7R6AggdKK8WXOVknhKG4C_PgINjrmBi0EJ8XEvbDszoqa1rranQnjdbzmG3LYOryA_In2m=
+e6zgYTbw5ZNcXFnq29BPhIUVGD3Bxm1AkUBidO4lpx1q0pVmz11yhCdo9AWmxU" target=3D"_=
+blank" style=3D"color:#0092ff;text-decoration:underline" sib_link_id=3D"4">=
+ <img src=3D"https://sendinblue-templates.s3.eu-west-3.amazonaws.com/icons/=
+rounded_colored/instagram_32px.png" width=3D"32" border=3D"0" class=3D"" st=
+yle=3D"display:block;width:100%"/></a> </td> <td class=3D"nl2go-responsive-=
+hide" width=3D"10" style=3D"font-size:0px;line-height:1px">=C2=AD </td> </t=
+r></tbody></table></th> </tr></tbody></table></td> </tr></tbody></table></t=
+d> </tr></tbody></table></td> </tr></tbody></table></td> </tr></tbody></tab=
+le></td> </tr></tbody></table></th> </tr></tbody></table></td> </tr></tbody=
+></table></td> </tr><tr><td class=3D"r3-c" align=3D"center"> <table cellspa=
+cing=3D"0" cellpadding=3D"0" border=3D"0" role=3D"presentation" width=3D"10=
+0%" class=3D"r29-o" style=3D"table-layout:fixed;width:100%"><tbody><tr><td =
+class=3D"r30-i" style=3D"background-color:#294174;color:#3b3f44;font-family=
+:arial,helvetica,sans-serif;font-size:16px;padding-bottom:15px"> <table wid=
+th=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" role=3D"presen=
+tation"><tbody><tr><th width=3D"33.33%" valign=3D"top" class=3D"r15-c" styl=
+e=3D"font-weight:normal"> <table cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0" role=3D"presentation" width=3D"100%" class=3D"r7-o" style=3D"table-l=
+ayout:fixed;width:100%"><tbody><tr><td valign=3D"top" class=3D"r21-i" style=
+=3D"color:#3b3f44;font-family:arial,helvetica,sans-serif;font-size:16px;pad=
+ding-left:15px;padding-right:15px"> <table width=3D"100%" cellspacing=3D"0"=
+ cellpadding=3D"0" border=3D"0" role=3D"presentation"><tbody><tr><td class=
+=3D"r9-c" align=3D"left"> <table cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0" role=3D"presentation" width=3D"100%" class=3D"r10-o" style=3D"table-=
+layout:fixed;width:100%"><tbody><tr><td align=3D"center" valign=3D"top" cla=
+ss=3D"r31-i nl2go-default-textstyle" style=3D"line-height:1.5;color:#3b3f44=
+;font-family:arial,helvetica,sans-serif;font-size:16px;padding-top:15px;tex=
+t-align:center"> <div><p style=3D"margin:0"><a href=3D"https://7t7m2.r.ag.d=
+.sendibm3.com/mk/cl/f/e4rGkTvXydrYnZvAXQz2xm2W9wWKrQDy5TFnYaIjOs1OhvQPIksp5=
+ZX6Hfj5IoSzwDUdhHzRghfe9WLocmorlFYilPtzScD0Ga1-S5ktD3xW5OipLw02dF0zNlPaIorx=
+TlBaQF93WQRbJd9_jICtXNSIjk1V8ONamJ7OVKLcj730okPvOF8K4Kw7TUokjZgkqPtHWl6urTm=
+0WR0ppHceA4zTUfNcL46V" target=3D"_blank" style=3D"color:#0092ff;text-decora=
+tion:underline" sib_link_id=3D"5"><span style=3D"color:#ffffff">Impressum</=
+span></a></p></div> </td> </tr></tbody></table></td> </tr></tbody></table><=
+/td> </tr></tbody></table></th> <th width=3D"33.33%" valign=3D"top" class=
+=3D"r15-c" style=3D"font-weight:normal"> <table cellspacing=3D"0" cellpaddi=
+ng=3D"0" border=3D"0" role=3D"presentation" width=3D"100%" class=3D"r7-o" s=
+tyle=3D"table-layout:fixed;width:100%"><tbody><tr><td valign=3D"top" class=
+=3D"r21-i" style=3D"color:#3b3f44;font-family:arial,helvetica,sans-serif;fo=
+nt-size:16px;padding-left:15px;padding-right:15px"> <table width=3D"100%" c=
+ellspacing=3D"0" cellpadding=3D"0" border=3D"0" role=3D"presentation"><tbod=
+y><tr><td class=3D"r9-c" align=3D"left"> <table cellspacing=3D"0" cellpaddi=
+ng=3D"0" border=3D"0" role=3D"presentation" width=3D"100%" class=3D"r10-o" =
+style=3D"table-layout:fixed;width:100%"><tbody><tr><td align=3D"center" val=
+ign=3D"top" class=3D"r31-i nl2go-default-textstyle" style=3D"line-height:1.=
+5;color:#3b3f44;font-family:arial,helvetica,sans-serif;font-size:16px;paddi=
+ng-top:15px;text-align:center"> <div><p style=3D"margin:0"><a href=3D"https=
+://7t7m2.r.ag.d.sendibm3.com/mk/cl/f/rMci_AlafOKxBIpMmnaNk9GMGR3-E7cJQTt83a=
+rc98TnNTWAE8a9UvUkN7JgIl0DNxxP5Kej_jK3-p7bU0mb0XzGLqk31rqelGcQWX5Qn9lo9lcRe=
+d-wjF_steseWfDI7M3BK7LR_woIEEztP_cd-f-izlv161xkyOU0TBtEkQuQH2sZirsvfhXw5EyL=
+UaS0AlkqPE42vI8FT5Ykc3cCwWQXkbdSLnftzJPkyQSp" target=3D"_blank" style=3D"co=
+lor:#0092ff;text-decoration:underline" sib_link_id=3D"6"><span style=3D"col=
+or:#ffffff">Datenschutz</span></a></p></div> </td> </tr></tbody></table></t=
+d> </tr></tbody></table></td> </tr></tbody></table></th> <th width=3D"33.33=
+%" valign=3D"top" class=3D"r15-c" style=3D"font-weight:normal"> <table cell=
+spacing=3D"0" cellpadding=3D"0" border=3D"0" role=3D"presentation" width=3D=
+"100%" class=3D"r7-o" style=3D"table-layout:fixed;width:100%"><tbody><tr><t=
+d valign=3D"top" class=3D"r21-i" style=3D"color:#3b3f44;font-family:arial,h=
+elvetica,sans-serif;font-size:16px;padding-left:15px;padding-right:15px"> <=
+table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" role=
+=3D"presentation"><tbody><tr><td class=3D"r9-c" align=3D"left"> <table cell=
+spacing=3D"0" cellpadding=3D"0" border=3D"0" role=3D"presentation" width=3D=
+"100%" class=3D"r10-o" style=3D"table-layout:fixed;width:100%"><tbody><tr><=
+td align=3D"center" valign=3D"top" class=3D"r31-i nl2go-default-textstyle" =
+style=3D"line-height:1.5;color:#3b3f44;font-family:arial,helvetica,sans-ser=
+if;font-size:16px;padding-top:15px;text-align:center"> <div><p style=3D"mar=
+gin:0"><a href=3D"https://7t7m2.r.ag.d.sendibm3.com/mk/cl/f/QpYlT8CoX4UFDZL=
+xH0LFmLkwZyGKXpE-DPBdsmsnhH5cvdkEtUsOJtuU82K62MwfiiPNyu-nfVekoa4yAkjtnHtCZI=
+a8V94O0e7m69mF2vk_tPdJaBF_QZnvQoOtNIO7S4K2ZcnmrgcscksyDgvadSwZlfIFtQ_rMwN_7=
+drcf3koNWnoqprLfF_5VYY4rs8w7iyiaDDpwXcffJTNv6yV6jJpI-Hw4reJLQSEJg" target=
+=3D"_blank" style=3D"color:#0092ff;text-decoration:underline" sib_link_id=
+=3D"7"><span style=3D"color:#ffffff">Nutzungsbedingungen</span></a></p></di=
+v> </td> </tr></tbody></table></td> </tr></tbody></table></td> </tr></tbody=
+></table></th> </tr></tbody></table></td> </tr></tbody></table></td> </tr><=
+tr><td class=3D"r3-c" align=3D"center"> <table cellspacing=3D"0" cellpaddin=
+g=3D"0" border=3D"0" role=3D"presentation" width=3D"100%" class=3D"r4-o" st=
+yle=3D"table-layout:fixed;width:100%"><tbody><tr><td class=3D"r32-i" style=
+=3D"background-color:#e1eff5;padding-bottom:20px;padding-top:20px"> <table =
+width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" role=3D"pre=
+sentation"><tbody><tr><th width=3D"100%" valign=3D"top" class=3D"r15-c" sty=
+le=3D"font-weight:normal"> <table cellspacing=3D"0" cellpadding=3D"0" borde=
+r=3D"0" role=3D"presentation" width=3D"100%" class=3D"r7-o" style=3D"table-=
+layout:fixed;width:100%"><tbody><tr><td valign=3D"top" class=3D"r16-i" styl=
+e=3D"padding-left:15px;padding-right:15px"> <table width=3D"100%" cellspaci=
+ng=3D"0" cellpadding=3D"0" border=3D"0" role=3D"presentation"><tbody><tr><t=
+d class=3D"r9-c" align=3D"left"> <table cellspacing=3D"0" cellpadding=3D"0"=
+ border=3D"0" role=3D"presentation" width=3D"100%" class=3D"r10-o" style=3D=
+"table-layout:fixed;width:100%"><tbody><tr><td align=3D"center" valign=3D"t=
+op" class=3D"r33-i nl2go-default-textstyle" style=3D"color:#3b3f44;font-fam=
+ily:arial,helvetica,sans-serif;font-size:16px;line-height:1.15;text-align:c=
+enter"> <div><p style=3D"margin:0"><span style=3D"color:#294174;font-size:1=
+1px">dSign Systems GmbH, Waldhausstra=C3=9Fe 14, 98574 Schmalkalden</span><=
+br/><span style=3D"color:#294174;font-size:11px">Gesch=C3=A4ftsf=C3=BChrer:=
+ Christian Dornheim, Sitz der Gesellschaft: Schmalkalden</span><br/><span s=
+tyle=3D"color:#294174;font-size:11px">Handelsregister: HRB507202, Registerg=
+ericht: Amtsgericht Jena</span><br/><span style=3D"color:#294174;font-size:=
+11px">Umsatzsteuer-ID: DE279512303, Steuernummer: 171/107/07649=C2=A0</span=
+></p></div> </td> </tr></tbody></table></td> </tr></tbody></table></td> </t=
+r></tbody></table></th> </tr></tbody></table></td> </tr></tbody></table></t=
+d> </tr></tbody></table></td> </tr></tbody></table></td> </tr></tbody></tab=
+le> <div align=3D"center" style=3D"color:#727272;font-size:10px">Klicken Si=
+e <a style=3D"color:#01a4c6" target=3D"_blank" href=3D"https://7t7m2.r.ag.d=
+.sendibm3.com/mk/un/j8DZk3Sms2r8IcQ_liJC7yh_EG4cOuNd1f4aKUi1VAvPvIcNT824ID4=
+4_rlcRKZBb_P_CSpFyP7g7f1S9vWvrYxGRmKdvTyjQgTLRm1Yfq0yrXFGkIB80YQRmuDdxmpO7f=
+XdMTsIXqbVlR2E24c4hWIjbtvCMvlrZzUHRqwHJH92tHuDmVd9YYI">hier</a>, wenn Sie s=
+ich von unserem Newsletter abmelden m=C3=B6chten.</div><div><img width=3D"1=
+" height=3D"1" src=3D"https://7t7m2.r.ag.d.sendibm3.com/mk/op/Th1zS1S3fJIWx=
+atCnErYZZLonPUm0huUORFoVg8Iuey7ajluctm0jhdN5fvza9c6RGc-z4bFLPG9yOUkOmSP2zAR=
+tPX0vRy-qJlsFeUAfXcsufa3nEZrdUJF9VexKoLVBygaopEM1A"/></div> </body></html>
+
+---------?=_72908-7176527612470--
+

@@ -1,0 +1,999 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <bounce@protect.mcafee.com>
+Received: from mail-hub02.belwue.de ([2001:7c0:0:76::42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 68799493 for technikag@fichte-gymnasium.de; Sat, 27 May 2023 10:32:58 +0200
+Received: from mail-in01.belwue.de (mail-in01.belwue.de [129.143.76.1])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4QSw616gmvz16mx
+	for <technikag@fichte-gymnasium.de>; Sat, 27 May 2023 10:32:57 +0200 (CEST)
+Received: from r70.protect.mcafee.com (r70.protect.mcafee.com [172.82.221.70])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mail-in01.belwue.de (Postfix) with ESMTPS id 4QSw601pLzz53HkR
+	for <technikag@fichte-gymnasium.de>; Sat, 27 May 2023 10:32:55 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=protect.mcafee.com;
+	s=mcafeeint; t=1685176373;
+	bh=YTiu8VdaZRb+hXKp7Nnpwzag87G8en2VbMQPqTOnOrU=;
+	h=From:Date:Subject:To:MIME-Version:Message-ID:Content-Type;
+	b=FYEC/hl40Rx5W/IsHGvYm2PkUnUSU6mcKQeciVAd4AdFROBv7gYAsu5YBmNeJ4cLR
+	 hzrY6XZ20pZG+duIzoyT3YL9Hn+TVAT8ZTFnnafWP2Wr2XKy8nJ80RGvkDvQqfFTW3
+	 r+Ep7oqFpCo3Q03bBSWUVCxHEk+9fnzID7HoAWu8uI9kxenW80GBjI3TyULq4YjVx/
+	 0aHY/DDgDYODZKCUTvYVOguPE2/xIb3WnBb/d092DIlfk3CXe6UcHqnf6gfzloH0ig
+	 OZ71pK0FmUHMVyZ2LCM95FSm5dlghBNqeVLUeSVWDjQ+WI721iYVldIW4Nb7+jbdGt
+	 raywtT7QylHjg==
+X-MSFBL: PK7hqbSBIHBmU8VpNZfbKh84UBamDByuFYBYGZ3cLZM=|eyJyIjoidGVjaG5pa2F
+	nQGZpY2h0ZS1neW1uYXNpdW0uZGUiLCJiIjoiYXdzX21jYWZlZWluY19wcm9kMl9
+	kZWZhdWx0X21vbWVudHVtMTdfbXRhMDAyXzE3Mi44Mi4yMjEuNzAiLCJyY3B0X21
+	ldGEiOnsgImluIjogIm1jYWZlZWlfbWt0X3Byb2QyIiwgInIiOiAidGVjaG5pa2F
+	nQGZpY2h0ZS1neW1uYXNpdW0uZGUiLCAibSI6ICIyNTY1ODczMzUzIiwgImQiOiA
+	iMTMzMzQwOTQwNCIsICJpIjogIkE3Mjk3NzZBNTI0NUIxNTkwQTQ5MEQ0NEBBZG9
+	iZU9yZyIgfSwiZyI6ImRlZmF1bHRfYjE5NDk2ODUtZmYyNi00NjMxLWI0OTAtOTY
+	zMjllOGJmYjBiIn0=
+Received: from [10.139.37.129] ([10.139.37.129:56159] helo=r71.protect.mcafee.com)
+	by momentum17.or1.cpt.adobe.net (envelope-from <bounce@protect.mcafee.com>)
+	(ecelerity 4.2.38.62370 r(:)) with ESMTP
+	id 5D/7D-28145-530C1746; Sat, 27 May 2023 01:32:53 -0700
+From: "McAfee" <info@protect.mcafee.com>
+Date: Sat, 27 May 2023 01:32:51 -0700
+Subject: Ihre letzte Chance auf den Sonderpreis
+To: <technikag@fichte-gymnasium.de>
+Reply-To: "McAfee" <Reply-Protect@mcafee.com>
+MIME-Version: 1.0
+X-mailer: nlserver, Build 7.0.0.10643
+Message-ID: <AC70000000098F01EC94F7A367Cmcafeei_mkt_prod2@protect.mcafee.com>
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+X-Rspamd-SPAM-Probability: 0
+X-Rspamd-Queue-Id: 4QSw601pLzz53HkR
+X-Rspamd-UID: 8d791c
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office" class=3D"id=
+c0_334 lbdaewjf odsbus pydofnbt gxlhjoad jaqkewqe"><head><meta http-equiv=
+=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><meta name=3D"view=
+port" content=3D"width=3Ddevice-width, initial-scale=3D1.0"><meta http-equi=
+v=3D"X-UA-Compatible" content=3D"IE=3Dedge"><meta name=3D"robots" content=
+=3D"no index"><meta name=3D"x-apple-disable-message-reformatting"><meta nam=
+e=3D"format-detection" content=3D"telephone=3Dno"><meta name=3D"format-dete=
+ction" content=3D"address=3Dno"><meta name=3D"robots" content=3D"noindex,no=
+follow"><link rel=3D"preconnect" href=3D"https://fonts.googleapis.com"><lin=
+k rel=3D"preconnect" href=3D"https://fonts.gstatic.com" crossorigin=3D""><l=
+ink href=3D"https://fonts.googleapis.com/css2=3Ffamily=3DPoppins:ital,wght@=
+0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&amp;display=3Ds=
+wap" rel=3D"stylesheet"><link href=3D"https://fonts.googleapis.com/css2=3Ff=
+amily=3DOpen+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600=
+;1,700;1,800&amp;display=3Dswap" rel=3D"stylesheet"><title>Ihre letzte Chan=
+ce auf den Sonderpreis</title><link rel=3D"icon" type=3D"image/x-icon" href=
+=3D"https://www.mcafee.com/etc.clientlibs/mcafee-consumer-wcm-themes/resour=
+ces/favicon.ico"><style>
+      @import url('https://fonts.googleapis.com/css2=3Ffamily=3DOpen+Sans:i=
+tal,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;=
+1,800&family=3DPoppins:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;=
+1,500;1,600;1,700&display=3Dswap');
+    </style><style type=3D"text/css">
+      /* Client-specific Styles */ /* setup webfonts */ * {
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%;
+      }
+      #outlook a {
+        padding: 0;
+      }
+      html, body {
+        width: 100% !important;
+        -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+        margin: 0 auto !important;
+        padding: 0 !important;
+        min-width: 100%;
+      }
+      th {
+        font-weight: normal !important;
+      }
+      .ExternalClass {
+        width: 100%;
+      }
+      .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass=
+ font, .ExternalClass td, .ExternalClass div {
+        line-height: 100%;
+      }
+      .backgroundTable {
+        margin: 0;
+        padding: 0;
+        width: 100% !important;
+        line-height: 100% !important;
+      }
+      .backgroundImageTable {
+        margin: 0;
+        padding: 0;
+      }
+      img {
+        outline: none;
+        text-decoration: none;
+        border: none;
+      }
+      a img {
+        border: none;
+      }
+      a[href^=3Dtel] {
+        color: inherit;
+        text-decoration: none;
+      }
+      .sup {
+        -webkit-text-size-adjust: none;
+      }
+      html {
+        -webkit-text-size-adjust: none;
+      }
+      a[x-apple-data-detectors] {
+        color: inherit !important;
+        text-decoration: none !important;
+        font-size: inherit !important;
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+      }
+      .x-gmail-data-detectors, .x-gmail-data-detectors *, .aBn {
+        border-bottom: 0 !important;
+        cursor: default !important;
+      }
+      div, a, tr, td, table, body, span, img, td, th, sup {
+        -webkit-text-size-adjust: none;
+        -ms-text-size-adjust: none;
+        -moz-text-size-adjust: none;
+        text-size-adjust: none;
+        mso-line-height-rule: exactly !important;
+      }
+      #MessageViewBody a {
+        color: inherit;
+        text-decoration: none;
+        font-size: inherit;
+        font-family: inherit;
+        font-weight: inherit;
+        line-height: inherit;
+      }
+      table, tr, td, th, img {
+        border-spacing: 0;
+        cell-spacing: 0;
+        mso-table-lspace: 0;
+        mso-table-rspace: 0;
+      }
+
+      .preheader {
+        display: none !important;
+        visibility: hidden;
+        opacity: 0;
+        color: transparent;
+        height: 0;
+        width: 0;
+      }
+
+      @media only screen and (max-width: 480px) {
+        .noneMobile {
+          display: none!important;
+        }
+        .hide {
+          display: none !important;
+          font-size: 0 !important;
+          max-height: 0 !important;
+          line-height: 0 !important;
+          padding: 0 !important;
+          mso-hide: all !important; /* hide elements in Outlook 2007-2013 *=
+/
+        }
+        .show {
+          display: block !important;
+          width: 100% !important;
+          overflow: visible !important;
+          float: none !important;
+          max-height: inherit !important;
+          line-height: inherit !important;
+        }
+        .show {
+          display: table!important;
+          display: block!important;
+        }
+        .tbl {
+          width: 100% !important;
+          clear: both !important;
+          float: inherit !important;
+          height: auto !important;
+          min-width: 100% !important;
+          max-width: 100% !important;
+        }
+        .img_full {
+          width: 100% !important;
+          max-width: 100% !important;
+          height: auto !important;
+          min-height: inherit !important;
+        }
+
+        .drop {
+          display: block !important;
+          float: inherit!important;
+          width: 100% !important;
+          padding: 0 !important;
+        }
+        .drop {
+          display: table!important;
+          display: block!important;
+        }
+        .widthauto {
+          width: auto !important;
+          margin: 0 auto !important;
+          float: inherit !important;
+          min-width: inherit !important;
+        }
+
+        .pad_LR10 {
+          padding-left: 10px !important;
+          padding-right: 10px !important;
+        }
+        .pad_LR15 {
+          padding-left: 15px !important;
+          padding-right: 15px !important;
+        }
+        .pad_LR20 {
+          padding-left: 20px !important;
+          padding-right: 20px !important;
+        }
+        .pad_LR30 {
+          padding-left: 30px !important;
+          padding-right: 30px !important;
+        }
+        .pad_LR18 {
+          padding-left: 18px !important;
+          padding-right: 18px !important;
+        }
+        .Pad_T0 {padding-top:0px !important; }
+        .Pad_T15 {padding-top:15px !important; }
+        .Pad_T20 {padding-top:18px !important; }
+        .Pad_T22 {padding-top:20px !important; }
+        .Pad_T26 {padding-top:26px !important; }
+        .Pad_T30 {padding-top:30px !important; }
+        .Pad_T40 {padding-top:40px !important; }
+        .Pad_TB15 {padding-top:15px !important;padding-bottom:15px !importa=
+nt; }
+        .Pad_T8 {padding-top:4px !important; }
+        .Pad_B3 {padding-bottom:3px !important; }
+        .Pad_B26 {padding-bottom:26px !important; }
+        .Pad_B20 {padding-bottom:20px !important; }
+        .Pad_B35 {padding-bottom:35px !important; }
+        .Pad_TB10 {padding-top:10px !important; padding-bottom:10px !import=
+ant; }
+        .Pad_TB10 {padding-top:10px !important; padding-bottom:10px !import=
+ant; }
+        .logoimg {
+          width: 124px !important; height: auto !important;
+        }
+        .hp_img { width: 50px !important; height: auto !important; }
+        .bird_img { width: 40px !important; height: auto !important; }
+        .font8 { font-size: 11px !important; line-height: 14px !important; =
+}
+        .font6 { font-size: 6px !important; line-height: 10px !important; }
+        .font11 { font-size: 11px !important; line-height: 16px !important;=
+ }
+        .font12 { font-size: 12px !important; line-height: 16px !important;=
+ }
+        .font14 { font-size: 14px !important; line-height: 18px !important;=
+ }
+        .font16 { font-size: 16px !important; line-height: 20px !important;=
+ }
+        .font18 { font-size: 18px !important; line-height: 22px !important;=
+ }
+        .font20 { font-size: 20px !important; line-height: 24px !important;=
+ }
+        .font24 { font-size: 24px !important; line-height: 28px !important;=
+ }
+        .font10 { font-size: 10px !important; line-height: 14px !important;=
+ }
+        .font32 { font-size: 32px !important; line-height: 36px !important;=
+ }
+        .btn_width {width: 150px !important;  }
+        .width_116 {width: 116px !important; height: auto !important; }
+        .width_135 {width: 140px !important; }
+        .width_145 {width: 145px !important; }
+        .width_142 {width: 142px !important; }
+        .width_68 {width: 68px !important; height: auto !important; }
+        .width_28 {width: 28px !important; height: auto !important; }
+        .width_90 {width: 90px !important; height: auto !important; }
+        .width_30 {width: 30px !important; height: auto !important; }
+        .height25 {height: 25px !important; }
+        .btn_height {height: 28px !important; }
+        .Pad_R10 {padding-right: 10px !important; }
+        .Pad_R16 {padding-right: 16px !important;}
+        .text_center { text-align: center !important; }
+        .brk { display: block !important; }
+        .width_80 { width: 64% !important; margin: 0 auto !important; }
+        .height_auto {height: auto !important;}
+        .height_28 {height: 28px !important;}
+
+
+        /* Targets Gmail */
+        u ~ div .full-wrap {
+          min-width: 100vw;
+        } /* Targets Gmail on Android */
+        div > u ~ div .full-wrap {
+          min-width: 100%;
+        }
+      }
+      @media only screen and (min-width: 320px) and (max-width: 374px) {
+        .pad_LR20 {padding-left: 10px !important; padding-right: 10px !impo=
+rtant;}
+        .pad_LR18 { padding-left: 10px !important; padding-right: 10px !imp=
+ortant; }
+      }=09
+    </style><!--[if mso | ie]>
+<style> body, table, td, span, a, strong, tr, sup {font-family: 'Open Sans'=
+, Arial, Helvetica, sans-serif !important;} .sup { vertical-align: 1px !imp=
+ortant; font-size: 100% !important; } </style>
+<![endif]--><!--[if ie]>
+<style> .sup { vertical-align: 6px !important; font-size: 80% !important; }=
+ </style>
+<![endif]--><!--[if (gte mso 9)|(IE)]>
+<style type=3D"text/css"> table { border-collapse: collapse; border-spacing=
+: 0; mso-line-height-rule: exactly; mso-margin-bottom-alt: 0; mso-margin-to=
+p-alt: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt;} </style>
+<![endif]--><!--[if gte mso 9]>
+<xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+<![endif]--></head><body style=3D"-webkit-text-size-adjust:none;-webkit-fon=
+t-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;-ms-text-size-adj=
+ust:none;margin:auto;background-color:#ffffff;padding:0;" class=3D"is-html-=
+mode" data-contenteditable=3D"true">
+    <span style=3D"display:none !important;visibility:hidden;mso-hide:all;o=
+pacity:0;" class=3D"preheader">Jetzt alle Vorteile von McAfee LiveSafe kenn=
+enlernen</span><!-- START OF MAIN BODY WRAPPER --><table width=3D"100%" bor=
+der=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" bgcolor=3D"#=
+F3F3F3" class=3D"full-wrap"><tbody><tr><td valign=3D"top" align=3D"center" =
+bgcolor=3D"#F3F3F3"><!-- START OF GMAIL WRAPPER --><table width=3D"680" sty=
+le=3D"max-width:680px;width:680px;min-width:680px;" bgcolor=3D"#ffffff" bor=
+der=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" class=3D"tbl=
+"><tbody><tr><td align=3D"center" valign=3D"top"><!-- View online section s=
+tarts --><table class=3D"spacer float-center" style=3D"border-spacing:0;bor=
+der-collapse:collapse;padding:0;vertical-align:top;width:100%;margin:0 auto=
+;float:none;text-align:center;" width=3D"100%" valign=3D"top" align=3D"cent=
+er" bgcolor=3D"#f3f3f3"><tbody><tr style=3D"padding:0;vertical-align:top;te=
+xt-align:left;" valign=3D"top" align=3D"left"><td style=3D"word-wrap:break-=
+word;vertical-align:top;color:#0a0a0a;font-family:'Open Sans', Arial, sans-=
+serif;font-weight:normal;padding:0;margin:0;text-align:left;mso-line-height=
+-rule:exactly;font-size:16px;line-height:16px;border-collapse:collapse;padd=
+ing-bottom:6px;padding-top:6px;" valign=3D"top" align=3D"left">
+
+  <p align=3Dcenter>  
+    
+  
+  <a style=3D"text-decoration:underline; color:#434343; font-family:'Open S=
+ans', Arial, Helvetica, sans-serif; font-size:12px; display:block;" href=3D=
+"https://mcafeeinc-mkt-prod2-t.adobe-campaign.com/r/=3Fid=3Dh98f01ec9,4f7a3=
+67c,4f7a3680&e=3DcDE9QGNPVm5odDRzWjRjQTNqQ1Bfem1uUW5TdGFkckFDSnhGM2JOQW1Pa2=
+pITGExRkJVR1o1a210ZFl3ZVFqVHVvMzVIQ21nZGJDcHBIa3BxcVE4RjM5VHVQSmpaTGM3ZW9JY=
+1lBanBBR2w5dm90VXN4Qlo&s=3DmG0IdVCVzG22mfOh4GsUYhcsH5KAyd5Ek-tPfzaJiws" _la=
+bel=3D"Mirror page" _type=3D"mirrorPage" ><span class=3D"mso_text">Im Brows=
+er anzeigen</span></a>
+      
+  
+  </p>
+
+</td></tr></tbody></table><!-- View online section starts --><!-- Header st=
+arts --><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0"><tbody><tr><td align=3D"center" valign=3D"top" bgcolor=3D"#ffffff"><tab=
+le width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tbody><=
+tr><td align=3D"center" valign=3D"top" class=3D"pad_LR20 Pad_TB15" style=3D=
+"padding-left:20px;padding-right:10px;padding-top:30px;padding-bottom:25px;=
+"><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><t=
+body><tr><td align=3D"center" valign=3D"top"><table width=3D"100%" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tbody><tr><td align=3D"left" va=
+lign=3D"top"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tbody=
+><tr><td align=3D"left" valign=3D"top" style=3D"padding-top:17px;"><a href=
+=3D"https://mcafeeinc-mkt-prod2-t.adobe-campaign.com/r/=3Fid=3Dh98f01ec9,4f=
+7a367c,4f7a397e&e=3DcDE9MTM1NyZwMj00MzAmcDM9MjAyM18wNV8yN19BVFBfTENNX0RheTI=
+1X0RFX0RFX0RNMjExNDc5MSZwND1ETTIxMTQ3OTEmcDU9MCZwNj0yRzN5bC1tWmdTQkNwNWNxRj=
+hEa2J5S2pUdDA1RC1YbWNjVUFCcUpnQ3NYc2NFaW9oazI5Qkh3S0swRlBPUGVNMCZwNz1FbWFpb=
+CZwOD0yMDIzMDYyMSZwOT1kZS1kZQ&s=3Dq0G34tigLcnq8tXG9h9MC5x1sLLe2FJZIUq6mrL8s=
+Fs" target=3D"_blank" data-nl-type=3D"externalLink" ><span class=3D"hide"><=
+img src=3D"https://www.mcafee.com/content/dam/email/na-atp/2020/q3/Cyber_Aw=
+areness/mcafee-logo-red.png" width=3D"168" border=3D"0" style=3D"display:bl=
+ock;" class=3D"logoimg"></span> <!--[if !mso]><!--> <span style=3D"display:=
+none;overflow:hidden;mso-hide:all;" class=3D"show"><img src=3D"https://www.=
+mcafee.com/content/dam/email/na-atp/2020/q3/Cyber_Awareness/mcafee-logo-red=
+.png" alt=3D"" width=3D"128" style=3D"display:block;height:auto;" border=3D=
+"0"></span><!--<![endif]--></a></td></tr></tbody></table></td></tr><tr><td =
+align=3D"left" valign=3D"top" style=3D"padding-top:10px;width:190px;">
+                                                                           =
+   <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" class=3D"mwidtha=
+uto"><tbody><tr><td align=3D"left" valign=3D"middle" class=3D"font8" style=
+=3D"font-family:'Poppins', 'Open Sans', Arial, sans-serif;font-size:12px;li=
+ne-height:18px;mso-line-height-rule:exactly;color:#000000;font-weight:600;"=
+>Empfohlen von:</td><td align=3D"left" valign=3D"middle" style=3D"padding-l=
+eft:4px;"><a target=3D"_blank" href=3D"https://mcafeeinc-mkt-prod2-t.adobe-=
+campaign.com/r/=3Fid=3Dh98f01ec9,4f7a367c,4f7a3982&e=3DcDE9MTM1NyZwMj00MzAm=
+cDM9MjAyM18wNV8yN19BVFBfTENNX0RheTI1X0RFX0RFX0RNMjExNDc5MSZwND1ETTIxMTQ3OTE=
+mcDU9MCZwNj0yRzN5bC1tWmdTQkNwNWNxRjhEa2J5S2pUdDA1RC1YbWNjVUFCcUpnQ3NYc2NFaW=
+9oazI5Qkh3S0swRlBPUGVNMCZwNz1FbWFpbCZwOD0yMDIzMDYyMSZwOT1kZS1kZQ&s=3DzKe1AD=
+LDw3fBcxNOOI1TUtzhn1fcxoCCHVo-j0COlgA" x-cq-linkchecker=3D"skip" data-nl-ty=
+pe=3D"externalLink" ><img src=3D"https://www.mcafee.com/content/dam/global/=
+partner-logo/dlp-hp.png" alt=3D"HP" width=3D"60" border=3D"0" style=3D"disp=
+lay:block;" class=3D"hp_img"></a></td></tr></tbody></table> 
+                                                                           =
+   </td></tr></tbody></table></td><td align=3D"right" valign=3D"top"><table=
+ border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"width_142"><tbod=
+y><tr><td align=3D"right" valign=3D"top" class=3D" Pad_T8 Pad_B3" style=3D"=
+padding:0px;"><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadd=
+ing=3D"0" class=3D"tbl"><tbody><tr><th align=3D"center" valign=3D"top" clas=
+s=3D"drop" style=3D"padding:0px;margin:0px;font-weight:normal;"><table widt=
+h=3D"180" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"width_1=
+16"><tbody><tr><td align=3D"left" valign=3D"top"><table width=3D"174" class=
+=3D"btn_width" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tbody><tr>=
+<td align=3D"left" valign=3D"top" style=3D"border:2px solid #e00000;border-=
+radius:50px;"><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadd=
+ing=3D"0"><tbody><tr><td align=3D"center" bgcolor=3D"#ffffff" class=3D"font=
+12" height=3D"26" valign=3D"middle" style=3D"border-radius:50px;font-weight=
+:bold;font-family:'Poppins', 'Open Sans', Arial, sans-serif;font-size:14px;=
+line-height:18px;mso-line-height-rule:exactly;letter-spacing:0em;color:#e00=
+000;"><a href=3D"https://mcafeeinc-mkt-prod2-t.adobe-campaign.com/r/=3Fid=
+=3Dh98f01ec9,4f7a367c,4f7a3983&e=3DcDE9MTM1NyZwMj00MzAmcDM9MjAyM18wNV8yN19B=
+VFBfTENNX0RheTI1X0RFX0RFX0RNMjExNDc5MSZwND1ETTIxMTQ3OTEmcDU9MCZwNj0yRzN5bC1=
+tWmdTQkNwNWNxRjhEa2J5S2pUdDA1RC1YbWNjVUFCcUpnQ3NYc2NFaW9oazI5Qkh3S0swRlBPUG=
+VNMCZwNz1FbWFpbCZwOD0yMDIzMDYyMSZwOT1kZS1kZQ&s=3Dkq2_KrDvW9mNpVzp8LkTaZcesE=
+IqcqptexJAb7zNFa8" target=3D"_blank" style=3D"text-decoration:none;color:#e=
+00000;" data-nl-type=3D"externalLink" >Early-Bird-Angebot</a></td></tr></tb=
+ody></table></td></tr></tbody></table></td></tr><tr><td align=3D"center" va=
+lign=3D"top" class=3D"font10 text_center" style=3D"font-family:'Poppins', '=
+Open Sans', Arial, sans-serif;font-size:12px;line-height:14px;mso-line-heig=
+ht-rule:exactly;color:#000000;font-weight:400;padding-top:2px;"><span style=
+=3D"font-weight:bold;">Unser bestes Angebot!</span> <br> <span style=3D"fon=
+t-family:'Open Sans', Arial, sans-serif;">Gilt nur noch bis zum <br>1. Jun =
+2023<br></span></td></tr></tbody></table></th></tr></tbody></table></td></t=
+r></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td>=
+</tr></tbody></table><!-- Header ends --><!-- Hero section starts --><table=
+ cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%"><tbody><tr=
+><td align=3D"center" valign=3D"top"><a class=3D"arc-link" data-nl-type=3D"=
+externalLink" target=3D"_blank" href=3D"https://mcafeeinc-mkt-prod2-t.adobe=
+-campaign.com/r/=3Fid=3Dh98f01ec9,4f7a367c,4f7a39a2&e=3DcDE9MTM1NyZwMj00MzA=
+mcDM9MjAyM18wNV8yN19BVFBfTENNX0RheTI1X0RFX0RFX0RNMjExNDc5MSZwND1ETTIxMTQ3OT=
+EmcDU9MCZwNj0yRzN5bC1tWmdTQkNwNWNxRjhEa2J5S2pUdDA1RC1YbWNjVUFCcUpnQ3NYc2NFa=
+W9oazI5Qkh3S0swRlBPUGVNMCZwNz1FbWFpbCZwOD0yMDIzMDYyMSZwOT1kZS1kZQ&s=3DJ1Dm2=
+aTUqk3g3RTfjcnykDWOkWvYMRG7YgB8ZsBQ5lw" ><img src=3D"https://www.mcafee.com=
+/content/dam/email/na-atp/2021/DE_LCM/DE_DE_NewLCM_nonHP_01.jpg" width=3D"6=
+80" border=3D"0" style=3D"display:block;" class=3D"img_full"></a></td></tr>=
+</tbody></table><!-- Hero section ends --><!-- Content1 section starts --><=
+table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%"><tbod=
+y><tr><td align=3D"center" valign=3D"top" class=3D"Pad_B20" style=3D"paddin=
+g-bottom:16px;padding-top:30px;"><table cellpadding=3D"0" cellspacing=3D"0"=
+ border=3D"0" width=3D"100%"><tbody><tr><td align=3D"center" valign=3D"top"=
+ class=3D"font24 Pad_T0" style=3D"font-family:'Poppins', 'Open Sans', Arial=
+, sans-serif;font-size:30px;line-height:1.2;mso-line-height-rule:exactly;co=
+lor:#000000;font-weight:bold;padding-top:4px;" data-contenteditable=3D"true=
+"><a style=3D"color:#000000;text-decoration:none;" class=3D"arc-link" targe=
+t=3D"_blank" data-nl-type=3D"externalLink" href=3D"https://mcafeeinc-mkt-pr=
+od2-t.adobe-campaign.com/r/=3Fid=3Dh98f01ec9,4f7a367c,4f7a39a3&e=3DcDE9MTM1=
+NyZwMj00MzAmcDM9MjAyM18wNV8yN19BVFBfTENNX0RheTI1X0RFX0RFX0RNMjExNDc5MSZwND1=
+ETTIxMTQ3OTEmcDU9MCZwNj0yRzN5bC1tWmdTQkNwNWNxRjhEa2J5S2pUdDA1RC1YbWNjVUFCcU=
+pnQ3NYc2NFaW9oazI5Qkh3S0swRlBPUGVNMCZwNz1FbWFpbCZwOD0yMDIzMDYyMSZwOT1kZS1kZ=
+Q&s=3DY5NroTJhesExc6jBBtVole_66WeNC9RX63fcwaFYm3M" >Schnell sein lohnt sich=
+</a></td></tr><tr><td align=3D"center" valign=3D"top" class=3D"pad_LR20" st=
+yle=3D"font-family:'Open Sans', Arial, sans-serif;font-size:14px;line-heigh=
+t:1.2;mso-line-height-rule:exactly;color:#000000;font-weight:400;padding-to=
+p:8px;padding-left:30px;padding-right:30px;" data-contenteditable=3D"true">=
+<a style=3D"color:#000000;text-decoration:none;" class=3D"arc-link" target=
+=3D"_blank" data-nl-type=3D"externalLink" href=3D"https://mcafeeinc-mkt-pro=
+d2-t.adobe-campaign.com/r/=3Fid=3Dh98f01ec9,4f7a367c,4f7a39a4&e=3DcDE9MTM1N=
+yZwMj00MzAmcDM9MjAyM18wNV8yN19BVFBfTENNX0RheTI1X0RFX0RFX0RNMjExNDc5MSZwND1E=
+TTIxMTQ3OTEmcDU9MCZwNj0yRzN5bC1tWmdTQkNwNWNxRjhEa2J5S2pUdDA1RC1YbWNjVUFCcUp=
+nQ3NYc2NFaW9oazI5Qkh3S0swRlBPUGVNMCZwNz1FbWFpbCZwOD0yMDIzMDYyMSZwOT1kZS1kZQ=
+&s=3D6C3kFfawCBPxLOD9N4CGfPZ2kuLmJiRf8sW-9l397nE" >Verpassen Sie nicht den =
+Anschluss und nutzen <span style=3D"color:#0098d3;">Sie diese letzte Chance=
+ auf</span> unser zeitlich begrenztes Angebot auf <span style=3D"font-weigh=
+t:bold;">ein Jahr Premium-Virenschutz</span>.</a></td></tr><tr><td align=3D=
+"center" valign=3D"top" class=3D"Pad_TB15" style=3D"padding-top:20px;paddin=
+g-bottom:22px;"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" wid=
+th=3D"181" class=3D"width_135"><tbody><tr><td align=3D"center" valign=3D"to=
+p" height=3D"34" class=3D"height_28" bgcolor=3D"#E01919" style=3D"border:0p=
+x solid #E01919;border-radius:50px;"><table cellpadding=3D"0" width=3D"100%=
+" cellspacing=3D"0" border=3D"0"><tbody><tr><td align=3D"center" valign=3D"=
+middle" class=3D"font14 height_28" style=3D"font-family:'Poppins', 'Open Sa=
+ns', Arial, sans-serif;font-size:18px;line-height:24px;mso-line-height-rule=
+:exactly;color:#ffffff;font-weight:bold;height:36px;" height=3D"36"><a href=
+=3D"https://mcafeeinc-mkt-prod2-t.adobe-campaign.com/r/=3Fid=3Dh98f01ec9,4f=
+7a367c,4f7a39a5&e=3DcDE9MTM1NyZwMj00MzAmcDM9MjAyM18wNV8yN19BVFBfTENNX0RheTI=
+1X0RFX0RFX0RNMjExNDc5MSZwND1ETTIxMTQ3OTEmcDU9MCZwNj0yRzN5bC1tWmdTQkNwNWNxRj=
+hEa2J5S2pUdDA1RC1YbWNjVUFCcUpnQ3NYc2NFaW9oazI5Qkh3S0swRlBPUGVNMCZwNz1FbWFpb=
+CZwOD0yMDIzMDYyMSZwOT1kZS1kZQ&s=3DyRY5TQjClQUzmnBlNGIT73YLlfbc1pW6Waxeanm1p=
+k0" target=3D"_blank" style=3D"text-decoration:none;color:#ffffff;display:b=
+lock;" data-nl-type=3D"externalLink" >Abo verl&#xE4;ngern</a></td></tr></tb=
+ody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr><=
+/tbody></table><!-- Content1 section ends --><!-- Content 2 starts --><tabl=
+e cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%"><tbody><t=
+r><td align=3D"center" valign=3D"top" style=3D"padding-bottom:25px;" class=
+=3D"pad_LR18 Pad_B35"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"=
+0" width=3D"640" class=3D"tbl"><tbody><tr><td align=3D"center" valign=3D"to=
+p" bgcolor=3D"#f0f1f6" style=3D"border-radius:30px;"><table cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0" width=3D"100%"><tbody><tr><td align=3D"ce=
+nter" valign=3D"top" class=3D"Pad_B35" style=3D"padding-bottom:30px;padding=
+-top:35px;"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=
+=3D"100%"><tbody><tr><td align=3D"center" valign=3D"top" class=3D"font18 pa=
+d_LR18" style=3D"font-family:'Poppins', 'Open Sans', Arial, sans-serif;font=
+-size:21px;line-height:1.2;mso-line-height-rule:exactly;color:#000000;font-=
+weight:bold;padding-top:4px;" data-contenteditable=3D"true"><a style=3D"col=
+or:#000000;text-decoration:none;" target=3D"_blank" class=3D"arc-link" data=
+-nl-type=3D"externalLink" href=3D"https://mcafeeinc-mkt-prod2-t.adobe-campa=
+ign.com/r/=3Fid=3Dh98f01ec9,4f7a367c,4f7a39a6&e=3DcDE9MTM1NyZwMj00MzAmcDM9M=
+jAyM18wNV8yN19BVFBfTENNX0RheTI1X0RFX0RFX0RNMjExNDc5MSZwND1ETTIxMTQ3OTEmcDU9=
+RW1haWwmcDY9MjAyMzA2MjEmcDc9ZGUtZGU&s=3DRPrZ83bF_uu3Y2F3L9LQQX3zjU_VbXFmMyr=
+3-_sD-gI" >McAfee ist mehr als nur Virenschutz. <br class=3D"hide"><span st=
+yle=3D"color:#0098d3;">Und zwar sehr viel mehr.</span></a><span style=3D"co=
+lor:#0098d3;"></span></td></tr><tr><td align=3D"center" valign=3D"top" clas=
+s=3D"pad_LR18"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" widt=
+h=3D"53%" class=3D"tbl"><tbody><tr><td align=3D"center" valign=3D"top" styl=
+e=3D"font-family:'Open Sans', Arial, sans-serif;font-size:14px;line-height:=
+1.2;mso-line-height-rule:exactly;color:#000000;font-weight:400;padding-top:=
+10px;">Wir sch&#xFC;tzen Sie und Ihre Familie vor den neuesten Bedrohungen =
+&#x2013; auch in Sachen Datenschutz! <br><span style=3D"color:#0098d3;" dat=
+a-contenteditable=3D"true"><a style=3D"color:#0098d3;text-decoration:none;"=
+ target=3D"_blank" class=3D"arc-link" data-nl-type=3D"externalLink" href=3D=
+"https://mcafeeinc-mkt-prod2-t.adobe-campaign.com/r/=3Fid=3Dh98f01ec9,4f7a3=
+67c,4f7a39a7&e=3DcDE9MTM1NyZwMj00MzAmcDM9MjAyM18wNV8yN19BVFBfTENNX0RheTI1X0=
+RFX0RFX0RNMjExNDc5MSZwND1ETTIxMTQ3OTEmcDU9RW1haWwmcDY9MjAyMzA2MjEmcDc9ZGUtZ=
+GU&s=3DbqH1qmJCn1g7SQSOiXTtCdwFoO41GYnJmnj77gglzKM" >Mehr&nbsp;dazu auf uns=
+erem Blog und auf Twitter</a>.</span></td></tr></tbody></table></td></tr><t=
+r><td align=3D"center" valign=3D"top" class=3D"pad_LR18 Pad_T15" style=3D"p=
+adding-top:28px;"><a class=3D"arc-link" data-nl-type=3D"externalLink" href=
+=3D"https://mcafeeinc-mkt-prod2-t.adobe-campaign.com/r/=3Fid=3Dh98f01ec9,4f=
+7a367c,4f7a39a8&e=3DcDE9MTM1NyZwMj00MzAmcDM9MjAyM18wNV8yN19BVFBfTENNX0RheTI=
+1X0RFX0RFX0RNMjExNDc5MSZwND1ETTIxMTQ3OTEmcDU9RW1haWwmcDY9MjAyMzA2MjEmcDc9ZG=
+UtZGU&s=3DyS6NIoxyjThP_MY21wVpPxfpYqg9c7BVYwHsv3Go9QQ" target=3D"_blank" ><=
+img src=3D"https://www.mcafee.com/content/dam/email/na-atp/2021/DE_LCM/DE_D=
+E_NewLCM_nonHP_02.png" width=3D"550" border=3D"0" style=3D"display:block;" =
+class=3D"img_full"></a></td></tr><!-- 4 col section starts --><tr><td align=
+=3D"center" valign=3D"top" style=3D"padding-top:8px;" class=3D"Pad_T0"><tab=
+le cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%"><tbody><=
+tr><th align=3D"center" valign=3D"top" class=3D"drop" style=3D"padding:0px;=
+margin:0px;font-weight:normal;"><table cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" width=3D"100%"><tbody><tr><td align=3D"center" valign=3D"top">=
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%"><tbo=
+dy><tr><td align=3D"center" valign=3D"top" class=3D"Pad_T20 "><a class=3D"a=
+rc-link" target=3D"_blank" data-nl-type=3D"externalLink" href=3D"https://mc=
+afeeinc-mkt-prod2-t.adobe-campaign.com/r/=3Fid=3Dh98f01ec9,4f7a367c,4f7a39a=
+9&e=3DcDE9MTM1NyZwMj00MzAmcDM9MjAyM18wNV8yN19BVFBfTENNX0RheTI1X0RFX0RFX0RNM=
+jExNDc5MSZwND1ETTIxMTQ3OTEmcDU9RW1haWwmcDY9MjAyMzA2MjEmcDc9ZGUtZGU&s=3DYVUl=
+JBDkG31haT-vHlAKeDuZ4iKlCoE9V1hzaLUPWCo" ><img src=3D"https://www.mcafee.co=
+m/content/dam/email/na-atp/2021/DE_LCM/DE_DE_NewLCM_nonHP_03.png" width=3D"=
+51" border=3D"0" style=3D"display:block;"></a></td></tr><tr><td align=3D"ce=
+nter" valign=3D"top" style=3D"font-family:'Open Sans', Arial, sans-serif;fo=
+nt-size:14px;line-height:1.2;mso-line-height-rule:exactly;color:#000000;fon=
+t-weight:400;padding-top:10px;" data-contenteditable=3D"true"><a style=3D"c=
+olor:#000000;text-decoration:none;" target=3D"_blank" class=3D"arc-link" da=
+ta-nl-type=3D"externalLink" href=3D"https://mcafeeinc-mkt-prod2-t.adobe-cam=
+paign.com/r/=3Fid=3Dh98f01ec9,4f7a367c,4f7a39aa&e=3DcDE9MTM1NyZwMj00MzAmcDM=
+9MjAyM18wNV8yN19BVFBfTENNX0RheTI1X0RFX0RFX0RNMjExNDc5MSZwND1ETTIxMTQ3OTEmcD=
+U9RW1haWwmcDY9MjAyMzA2MjEmcDc9ZGUtZGU&s=3DjrXEnnVWhmmppBa-f-0nWmUPNhnP6mive=
+nn3K7UZCLI" >Preisgekr&#xF6;nter<br> Virenschutz</a></td></tr></tbody></tab=
+le></td><td align=3D"center" valign=3D"top"><table cellpadding=3D"0" cellsp=
+acing=3D"0" border=3D"0" width=3D"100%"><tbody><tr><td align=3D"center" val=
+ign=3D"top" class=3D"Pad_T20"><a class=3D"arc-link" target=3D"_blank" data-=
+nl-type=3D"externalLink" href=3D"https://mcafeeinc-mkt-prod2-t.adobe-campai=
+gn.com/r/=3Fid=3Dh98f01ec9,4f7a367c,4f7a39ab&e=3DcDE9MTM1NyZwMj00MzAmcDM9Mj=
+AyM18wNV8yN19BVFBfTENNX0RheTI1X0RFX0RFX0RNMjExNDc5MSZwND1ETTIxMTQ3OTEmcDU9R=
+W1haWwmcDY9MjAyMzA2MjEmcDc9ZGUtZGU&s=3DkBS6vflw_qt9soKtivFebwq_aNhFP_lPDwpO=
+P275BFY" ><img src=3D"https://www.mcafee.com/content/dam/email/na-atp/2021/=
+DE_LCM/DE_DE_NewLCM_nonHP_M3_10.png" width=3D"49" border=3D"0" style=3D"dis=
+play:block;"></a></td></tr><tr><td align=3D"center" valign=3D"top" style=3D=
+"font-family:'Open Sans', Arial, sans-serif;font-size:14px;line-height:1.2;=
+mso-line-height-rule:exactly;color:#000000;font-weight:400;padding-top:10px=
+;" data-contenteditable=3D"true"><a style=3D"color:#000000;text-decoration:=
+none;" target=3D"_blank" class=3D"arc-link" data-nl-type=3D"externalLink" h=
+ref=3D"https://mcafeeinc-mkt-prod2-t.adobe-campaign.com/r/=3Fid=3Dh98f01ec9=
+,4f7a367c,4f7a39ac&e=3DcDE9MTM1NyZwMj00MzAmcDM9MjAyM18wNV8yN19BVFBfTENNX0Rh=
+eTI1X0RFX0RFX0RNMjExNDc5MSZwND1ETTIxMTQ3OTEmcDU9RW1haWwmcDY9MjAyMzA2MjEmcDc=
+9ZGUtZGU&s=3DETpeuKXl3L1QCb5yOYOSKM3NLfaKGK6eqUEHNcDrwhc" >Sicheres Surfen<=
+/a></td></tr></tbody></table></td></tr></tbody></table></th><th align=3D"ce=
+nter" valign=3D"top" class=3D"drop" style=3D"padding:0px;margin:0px;font-we=
+ight:normal;"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=
+=3D"100%"><tbody><tr><td align=3D"center" valign=3D"top"><table cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%"><tbody><tr><td align=
+=3D"center" valign=3D"top" class=3D"Pad_T20"><a class=3D"arc-link" target=
+=3D"_blank" data-nl-type=3D"externalLink" href=3D"https://mcafeeinc-mkt-pro=
+d2-t.adobe-campaign.com/r/=3Fid=3Dh98f01ec9,4f7a367c,4f7a39ad&e=3DcDE9MTM1N=
+yZwMj00MzAmcDM9MjAyM18wNV8yN19BVFBfTENNX0RheTI1X0RFX0RFX0RNMjExNDc5MSZwND1E=
+TTIxMTQ3OTEmcDU9RW1haWwmcDY9MjAyMzA2MjEmcDc9ZGUtZGU&s=3DDR0PYmI2mJEEl-0PZEL=
+LDd8ujdgCWQWH4WS4XiMTAgQ" ><img src=3D"https://www.mcafee.com/content/dam/e=
+mail/na-atp/2021/DE_LCM/DE_DE_NewLCM_nonHP_05.png" width=3D"50" border=3D"0=
+" style=3D"display:block;"></a></td></tr><tr><td align=3D"center" valign=3D=
+"top" style=3D"font-family:'Open Sans', Arial, sans-serif;font-size:14px;li=
+ne-height:1.2;mso-line-height-rule:exactly;color:#000000;font-weight:400;pa=
+dding-top:10px;" data-contenteditable=3D"true"><a style=3D"color:#000000;te=
+xt-decoration:none;" target=3D"_blank" class=3D"arc-link" data-nl-type=3D"e=
+xternalLink" href=3D"https://mcafeeinc-mkt-prod2-t.adobe-campaign.com/r/=3F=
+id=3Dh98f01ec9,4f7a367c,4f7a39ae&e=3DcDE9MTM1NyZwMj00MzAmcDM9MjAyM18wNV8yN1=
+9BVFBfTENNX0RheTI1X0RFX0RFX0RNMjExNDc5MSZwND1ETTIxMTQ3OTEmcDU9RW1haWwmcDY9M=
+jAyMzA2MjEmcDc9ZGUtZGU&s=3D_DK_2W0sVdqmulF2wKHMagigKXT6srwN4EMwuoy4ynU" >Ve=
+rklick-Schutz</a></td></tr></tbody></table></td><td align=3D"center" valign=
+=3D"top"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"1=
+00%"><tbody><tr><td align=3D"center" valign=3D"top" class=3D"Pad_T20"><a cl=
+ass=3D"arc-link" target=3D"_blank" data-nl-type=3D"externalLink" href=3D"ht=
+tps://mcafeeinc-mkt-prod2-t.adobe-campaign.com/r/=3Fid=3Dh98f01ec9,4f7a367c=
+,4f7a39af&e=3DcDE9MTM1NyZwMj00MzAmcDM9MjAyM18wNV8yN19BVFBfTENNX0RheTI1X0RFX=
+0RFX0RNMjExNDc5MSZwND1ETTIxMTQ3OTEmcDU9RW1haWwmcDY9MjAyMzA2MjEmcDc9ZGUtZGU&=
+s=3DrYGi4HDew3-jLda5KRCmRxCtaqPhvwdPATivrS7Soy0" ><img src=3D"https://www.m=
+cafee.com/content/dam/email/na-atp/2021/DE_LCM/DE_DE_NewLCM_nonHP_07.png" w=
+idth=3D"50" border=3D"0" style=3D"display:block;"></a></td></tr><tr><td ali=
+gn=3D"center" valign=3D"top" style=3D"font-family:'Open Sans', Arial, sans-=
+serif;font-size:14px;line-height:1.2;mso-line-height-rule:exactly;color:#00=
+0000;font-weight:400;padding-top:10px;" data-contenteditable=3D"true"><a st=
+yle=3D"color:#000000;text-decoration:none;" target=3D"_blank" class=3D"arc-=
+link" data-nl-type=3D"externalLink" href=3D"https://mcafeeinc-mkt-prod2-t.a=
+dobe-campaign.com/r/=3Fid=3Dh98f01ec9,4f7a367c,4f7a39b0&e=3DcDE9MTM1NyZwMj0=
+0MzAmcDM9MjAyM18wNV8yN19BVFBfTENNX0RheTI1X0RFX0RFX0RNMjExNDc5MSZwND1ETTIxMT=
+Q3OTEmcDU9RW1haWwmcDY9MjAyMzA2MjEmcDc9ZGUtZGU&s=3DE9E2jF4oW_eouZDHmjciDowGJ=
+3Jn8HayvOqs-lRpOrY" >Kundenservice</a></td></tr></tbody></table></td></tr><=
+/tbody></table></th></tr></tbody></table></td></tr><!-- 4 col section ends =
+--></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td=
+></tr></tbody></table><!-- Content 2 ends --><!-- BG section starts --><tab=
+le cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"324" class=3D"=
+tbl"><tbody><tr><td align=3D"center" valign=3D"top" class=3D"pad_LR18"><tab=
+le class=3D"tbl" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"=
+354" align=3D"right"><tbody><tr><td align=3D"center" valign=3D"top"><table =
+cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%"><tbody><tr>=
+<td align=3D"right" valign=3D"top" width=3D"186"></td><td align=3D"right" v=
+align=3D"top"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=
+=3D"100%"><tbody><tr><td align=3D"right" valign=3D"top" class=3D"Pad_R16"><=
+a class=3D"arc-link" target=3D"_blank" data-nl-type=3D"externalLink" href=
+=3D"https://mcafeeinc-mkt-prod2-t.adobe-campaign.com/r/=3Fid=3Dh98f01ec9,4f=
+7a367c,4f7a39b1&e=3DcDE9MTM1NyZwMj00MzAmcDM9MjAyM18wNV8yN19BVFBfTENNX0RheTI=
+1X0RFX0RFX0RNMjExNDc5MSZwND1ETTIxMTQ3OTEmcDU9MCZwNj0yRzN5bC1tWmdTQkNwNWNxRj=
+hEa2J5S2pUdDA1RC1YbWNjVUFCcUpnQ3NYc2NFaW9oazI5Qkh3S0swRlBPUGVNMCZwNz1FbWFpb=
+CZwOD0yMDIzMDYyMSZwOT1kZS1kZQ&s=3DKSCesY9f3atYsLvKywojacwn1kg2c1Z_FE82gMdCB=
+lg" ><span class=3D"hide"><img src=3D"https://www.mcafee.com/content/dam/em=
+ail/na-atp/2021/DE_LCM/DE_DE_Variable_D25_011.png" width=3D"158" border=3D"=
+0" style=3D"display:block;" class=3D"logoimg"></span> <!--[if !mso]><!--> <=
+span style=3D"display:none;overflow:hidden;mso-hide:all;" class=3D"show"><i=
+mg src=3D"https://www.mcafee.com/content/dam/email/na-atp/2021/DE_LCM/DE_DE=
+_NewLCM_nonHP_11.png" width=3D"168" border=3D"0" style=3D"display:block;"><=
+/span><!--<![endif]--></a>
+
+                                                  </td></tr></tbody></table=
+></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></ta=
+ble><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">=
+<tbody><tr><td align=3D"center" valign=3D"top" class=3D"pad_LR18" style=3D"=
+padding-bottom:3px;"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+" width=3D"354" class=3D"tbl"><tbody><tr><td align=3D"center" valign=3D"top=
+" style=3D"border:1px solid #f61f1f;border-radius:20px;"><table cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%"><tbody><tr><td align=
+=3D"center" valign=3D"top" class=3D"font20" style=3D"font-family:'Open Sans=
+', Arial;font-size:21px;line-height:1.2;mso-line-height-rule:exactly;color:=
+#000000;font-weight:bold;padding-top:18px;padding-bottom:20px;" data-conten=
+teditable=3D"true"><a style=3D"color:#000000;text-decoration:none;" target=
+=3D"_blank" data-nl-type=3D"externalLink" href=3D"https://mcafeeinc-mkt-pro=
+d2-t.adobe-campaign.com/r/=3Fid=3Dh98f01ec9,4f7a367c,4f7a39b2&e=3DcDE9MTM1N=
+yZwMj00MzAmcDM9MjAyM18wNV8yN19BVFBfTENNX0RheTI1X0RFX0RFX0RNMjExNDc5MSZwND1E=
+TTIxMTQ3OTEmcDU9MCZwNj0yRzN5bC1tWmdTQkNwNWNxRjhEa2J5S2pUdDA1RC1YbWNjVUFCcUp=
+nQ3NYc2NFaW9oazI5Qkh3S0swRlBPUGVNMCZwNz1FbWFpbCZwOD0yMDIzMDYyMSZwOT1kZS1kZQ=
+&s=3D-mPyOYFNNR74Ol3l1CJRs5gvwoZ4eaxOpSI-6t4VwoY" >McAfee&#xAE; LiveSafe</a=
+></td></tr><tr><td align=3D"center" valign=3D"top" style=3D"padding-bottom:=
+4px;"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tbody><tr><t=
+d align=3D"center" valign=3D"top"><table cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0"><tbody><tr><td align=3D"center" valign=3D"top" style=3D"padd=
+ing-top:2px;padding-right:6px;font-size:2px;line-height:16px;"><img src=3D"=
+https://www.mcafee.com/content/dam/email/na-atp/2021/DE_LCM/DE_DE_NewLCM_no=
+nHP_10.png" alt=3D"" width=3D"11" border=3D"0" style=3D"display:block;"></t=
+d></tr></tbody></table></td><td align=3D"center" valign=3D"top"><table cell=
+padding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%"><tbody><tr><td =
+align=3D"center" valign=3D"top" style=3D"font-family:'Open Sans', Arial;fon=
+t-size:14px;line-height:17px;mso-line-height-rule:exactly;color:#000000;fon=
+t-weight:500;">Unbegrenzte Ger&#xE4;te</td></tr></tbody></table></td></tr><=
+/tbody></table></td></tr><tr><td align=3D"center" valign=3D"top" style=3D"p=
+adding-bottom:4px;"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+><tbody><tr><td align=3D"center" valign=3D"top"><table cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0"><tbody><tr><td align=3D"center" valign=3D"top"=
+ style=3D"padding-top:2px;padding-right:6px;font-size:2px;line-height:16px;=
+"><img src=3D"https://www.mcafee.com/content/dam/email/na-atp/2021/DE_LCM/D=
+E_DE_NewLCM_nonHP_10.png" alt=3D"" width=3D"11" border=3D"0" style=3D"displ=
+ay:block;"></td></tr></tbody></table></td><td align=3D"center" valign=3D"to=
+p"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%"><=
+tbody><tr><td align=3D"center" valign=3D"top" style=3D"font-family:'Open Sa=
+ns', Arial;font-size:14px;line-height:17px;mso-line-height-rule:exactly;col=
+or:#000000;font-weight:500;">1 Jahr Virenschutz</td></tr></tbody></table></=
+td></tr></tbody></table></td></tr><tr><td align=3D"center" valign=3D"top" s=
+tyle=3D"padding-bottom:4px;"><table cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0"><tbody><tr><td align=3D"center" valign=3D"top"><table cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0"><tbody><tr><td align=3D"center" valig=
+n=3D"top" style=3D"padding-top:2px;padding-right:6px;font-size:2px;line-hei=
+ght:16px;"><img src=3D"https://www.mcafee.com/content/dam/email/na-atp/2021=
+/DE_LCM/DE_DE_NewLCM_nonHP_10.png" alt=3D"" width=3D"11" border=3D"0" style=
+=3D"display:block;"></td></tr></tbody></table></td><td align=3D"center" val=
+ign=3D"top"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=
+=3D"100%"><tbody><tr><td align=3D"center" valign=3D"top" style=3D"font-fami=
+ly:'Open Sans', Arial;font-size:14px;line-height:17px;mso-line-height-rule:=
+exactly;color:#000000;font-weight:500;">Kennwort-Manager</td></tr></tbody><=
+/table></td></tr></tbody></table></td></tr><tr><td align=3D"center" valign=
+=3D"top" style=3D"padding-bottom:4px;"><table cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0"><tbody><tr><td align=3D"center" valign=3D"top"><table c=
+ellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tbody><tr><td align=3D"cen=
+ter" valign=3D"top" style=3D"padding-top:2px;padding-right:6px;font-size:2p=
+x;line-height:16px;"><img src=3D"https://www.mcafee.com/content/dam/email/n=
+a-atp/2021/DE_LCM/DE_DE_NewLCM_nonHP_10.png" alt=3D"" width=3D"11" border=
+=3D"0" style=3D"display:block;"></td></tr></tbody></table></td><td align=3D=
+"center" valign=3D"top"><table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" width=3D"100%"><tbody><tr><td align=3D"center" valign=3D"top" style=
+=3D"font-family:'Open Sans', Arial;font-size:14px;line-height:17px;mso-line=
+-height-rule:exactly;color:#000000;font-weight:500;">Kompatibel mit mehrere=
+n Ger&#xE4;ten</td></tr></tbody></table></td></tr></tbody></table></td></tr=
+><tr><td align=3D"center" valign=3D"top"><table cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0"><tbody><tr><td align=3D"center" valign=3D"top"><table=
+ cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tbody><tr><td align=3D"c=
+enter" valign=3D"top" style=3D"padding-top:2px;padding-right:6px;font-size:=
+2px;line-height:16px;"><img src=3D"https://www.mcafee.com/content/dam/email=
+/na-atp/2021/DE_LCM/DE_DE_NewLCM_nonHP_10.png" alt=3D"" width=3D"11" border=
+=3D"0" style=3D"display:block;"></td></tr></tbody></table></td><td align=3D=
+"center" valign=3D"top"><table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" width=3D"100%"><tbody><tr><td align=3D"center" valign=3D"top" style=
+=3D"font-family:'Open Sans', Arial;font-size:14px;line-height:17px;mso-line=
+-height-rule:exactly;color:#000000;font-weight:500;">Sicheres Surfen</td></=
+tr></tbody></table></td></tr></tbody></table></td></tr><tr><td align=3D"cen=
+ter" valign=3D"top" class=3D"Pad_T26" style=3D"padding-top:16px;padding-bot=
+tom:28px;"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D=
+"188" class=3D"width_145"><tbody><tr><td align=3D"center" height=3D"36" cla=
+ss=3D"btn_height" valign=3D"top" bgcolor=3D"#E01919" style=3D"border:0px so=
+lid #E01919;border-radius:50px;"><table cellpadding=3D"0" width=3D"100%" ce=
+llspacing=3D"0" border=3D"0"><tbody><tr><td align=3D"center" valign=3D"midd=
+le" class=3D"font14 btn_height" style=3D"font-family:'Open Sans', Arial, sa=
+ns-serif;font-size:16px;line-height:20px;mso-line-height-rule:exactly;color=
+:#ffffff;font-weight:bold;height:36px;" height=3D"36"><a href=3D"https://mc=
+afeeinc-mkt-prod2-t.adobe-campaign.com/r/=3Fid=3Dh98f01ec9,4f7a367c,4f7a39b=
+3&e=3DcDE9MTM1NyZwMj00MzAmcDM9MjAyM18wNV8yN19BVFBfTENNX0RheTI1X0RFX0RFX0RNM=
+jExNDc5MSZwND1ETTIxMTQ3OTEmcDU9MCZwNj0yRzN5bC1tWmdTQkNwNWNxRjhEa2J5S2pUdDA1=
+RC1YbWNjVUFCcUpnQ3NYc2NFaW9oazI5Qkh3S0swRlBPUGVNMCZwNz1FbWFpbCZwOD0yMDIzMDY=
+yMSZwOT1kZS1kZQ&s=3DftomgtuXS3A0qX7QQlcq3AYMucUxR8PApmgG-qaTgps" target=3D"=
+_blank" style=3D"text-decoration:none;color:#ffffff;display:block;" data-nl=
+-type=3D"externalLink" >Jetzt abonnieren</a></td></tr></tbody></table></td>=
+</tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></=
+td></tr></tbody></table><!-- BG section ends --><!-- 3 col section starts -=
+-><table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=3D"100%"><t=
+body><tr><td align=3D"center" valign=3D"top" class=3D"pad_LR10 Pad_T40 Pad_=
+B35" style=3D"padding-bottom:30px;padding-top:45px;padding-right:0px;"><tab=
+le cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=3D"600" class=3D"=
+tbl"><tbody><tr><th align=3D"center" valign=3D"top" class=3D"drop" style=3D=
+"padding:0px;margin:0px;"><table cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0" width=3D"200"><tbody><tr><td align=3D"center" valign=3D"top" class=
+=3D"height_auto" height=3D"84" style=3D"padding-top:5px;"><a class=3D"arc-l=
+ink" target=3D"_blank" data-nl-type=3D"externalLink" href=3D"https://mcafee=
+inc-mkt-prod2-t.adobe-campaign.com/r/=3Fid=3Dh98f01ec9,4f7a367c,4f7a39b4&e=
+=3DcDE9MTM1NyZwMj00MzAmcDM9MjAyM18wNV8yN19BVFBfTENNX0RheTI1X0RFX0RFX0RNMjEx=
+NDc5MSZwND1ETTIxMTQ3OTEmcDU9MCZwNj0yRzN5bC1tWmdTQkNwNWNxRjhEa2J5S2pUdDA1RC1=
+YbWNjVUFCcUpnQ3NYc2NFaW9oazI5Qkh3S0swRlBPUGVNMCZwNz1FbWFpbCZwOD0yMDIzMDYyMS=
+ZwOT1kZS1kZQ&s=3Dg3r3w4ojhAki4rDta8tGdSKbm2CmxlVmDzXzCSV00OI" ><img src=3D"=
+https://www.mcafee.com/content/dam/email/na-atp/2021/DE_LCM/vpp-de-1.png" w=
+idth=3D"66" border=3D"0" style=3D"display:block;"></a></td></tr><tr><td ali=
+gn=3D"center" valign=3D"top" style=3D"font-family:'Open Sans', Arial, sans-=
+serif;font-size:14px;line-height:1.2;mso-line-height-rule:exactly;color:#00=
+0000;font-weight:bold;padding-top:10px;" data-contenteditable=3D"true"><a s=
+tyle=3D"color:#000000;text-decoration:none;" target=3D"_blank" class=3D"arc=
+-link" data-nl-type=3D"externalLink" href=3D"https://mcafeeinc-mkt-prod2-t.=
+adobe-campaign.com/r/=3Fid=3Dh98f01ec9,4f7a367c,4f7a39b5&e=3DcDE9MTM1NyZwMj=
+00MzAmcDM9MjAyM18wNV8yN19BVFBfTENNX0RheTI1X0RFX0RFX0RNMjExNDc5MSZwND1ETTIxM=
+TQ3OTEmcDU9MCZwNj0yRzN5bC1tWmdTQkNwNWNxRjhEa2J5S2pUdDA1RC1YbWNjVUFCcUpnQ3NY=
+c2NFaW9oazI5Qkh3S0swRlBPUGVNMCZwNz1FbWFpbCZwOD0yMDIzMDYyMSZwOT1kZS1kZQ&s=3D=
+7S-WXmFiZwdNs3oU0pPAfsG99Rw7-O7MOvVgLyiGYHg" >Virenschutzversprechen &gt;</=
+a></td></tr></tbody></table></th><th align=3D"center" valign=3D"top" class=
+=3D"drop" style=3D"padding:0px;margin:0px;"><table cellspacing=3D"0" cellpa=
+dding=3D"0" border=3D"0" width=3D"200"><tbody><tr><td align=3D"center" vali=
+gn=3D"top" class=3D"Pad_T22 height_auto" height=3D"83"><a class=3D"arc-link=
+" target=3D"_blank" data-nl-type=3D"externalLink" href=3D"https://mcafeeinc=
+-mkt-prod2-t.adobe-campaign.com/r/=3Fid=3Dh98f01ec9,4f7a367c,4f7a39b6&e=3Dc=
+DE9MTM1NyZwMj00MzAmcDM9MjAyM18wNV8yN19BVFBfTENNX0RheTI1X0RFX0RFX0RNMjExNDc5=
+MSZwND1ETTIxMTQ3OTEmcDU9MCZwNj0yRzN5bC1tWmdTQkNwNWNxRjhEa2J5S2pUdDA1RC1YbWN=
+jVUFCcUpnQ3NYc2NFaW9oazI5Qkh3S0swRlBPUGVNMCZwNz1FbWFpbCZwOD0yMDIzMDYyMSZwOT=
+1kZS1kZQ&s=3DgfkpYh2ngGxSMrc7CzbNdr0oDrLxZ8rDePGz6V7-Xuc" ><img src=3D"http=
+s://www.mcafee.com/content/dam/email/na-atp/2021/DE_LCM/30-day-de.png" widt=
+h=3D"84" border=3D"0" style=3D"display:block;"></a></td></tr><tr><td align=
+=3D"center" valign=3D"top" style=3D"font-family:'Open Sans', Arial, sans-se=
+rif;font-size:14px;line-height:1.2;mso-line-height-rule:exactly;color:#0000=
+00;font-weight:bold;padding-top:14px;" data-contenteditable=3D"true"><a sty=
+le=3D"color:#000000;text-decoration:none;" target=3D"_blank" class=3D"arc-l=
+ink" data-nl-type=3D"externalLink" href=3D"https://mcafeeinc-mkt-prod2-t.ad=
+obe-campaign.com/r/=3Fid=3Dh98f01ec9,4f7a367c,4f7a39b7&e=3DcDE9MTM1NyZwMj00=
+MzAmcDM9MjAyM18wNV8yN19BVFBfTENNX0RheTI1X0RFX0RFX0RNMjExNDc5MSZwND1ETTIxMTQ=
+3OTEmcDU9MCZwNj0yRzN5bC1tWmdTQkNwNWNxRjhEa2J5S2pUdDA1RC1YbWNjVUFCcUpnQ3NYc2=
+NFaW9oazI5Qkh3S0swRlBPUGVNMCZwNz1FbWFpbCZwOD0yMDIzMDYyMSZwOT1kZS1kZQ&s=3DMB=
+SNfWTYOCXO-r51Ygb8uc_AkkUAkzFRZXaUD0y14z4" >30-Tage-Geld-<br> zur&#xFC;ck-G=
+arantie &gt;</a></td></tr></tbody></table></th><th align=3D"center" valign=
+=3D"top" class=3D"drop Pad_LR0" style=3D"padding:0px;margin:0px;"><table ce=
+llspacing=3D"0" cellpadding=3D"0" border=3D"0" width=3D"200"><tbody><tr><td=
+ align=3D"center" valign=3D"top" class=3D"Pad_T22 height_auto" style=3D"pad=
+ding-top:5px;" height=3D"84"><a class=3D"arc-link" data-nl-type=3D"external=
+Link" href=3D"https://mcafeeinc-mkt-prod2-t.adobe-campaign.com/r/=3Fid=3Dh9=
+8f01ec9,4f7a367c,4f7a39b8&e=3DcDE9MTM1NyZwMj00MzAmcDM9MSZwND0xJnA1PUVtYWlsJ=
+nA2PTIwMjMwNjIxJnA3PTIwMjNfMDVfMjdfQVRQX0xDTV9EYXkyNV9ERV9ERV9ETTIxMTQ3OTEm=
+cDg9RE0yMTE0Nzkx&s=3DHRfxuG4kzUasuDnXz3srHJZhOMBPEk9YYC5SlLPrhhI" target=3D=
+"_blank" ><img src=3D"https://www.mcafee.com/content/dam/consumer/mcafee-ca=
+mpaign/assets/en-us/atp/graceperiod/support_247.png" width=3D"76" border=3D=
+"0" style=3D"display:block;"></a></td></tr><tr><td align=3D"center" valign=
+=3D"top" style=3D"font-family:'Open Sans', Arial, sans-serif;font-size:14px=
+;line-height:1.2;mso-line-height-rule:exactly;color:#000000;font-weight:bol=
+d;padding-top:10px;" data-contenteditable=3D"true"><a style=3D"color:#00000=
+0;text-decoration:none;" target=3D"_blank" class=3D"arc-link" data-nl-type=
+=3D"externalLink" href=3D"https://mcafeeinc-mkt-prod2-t.adobe-campaign.com/=
+r/=3Fid=3Dh98f01ec9,4f7a367c,4f7a39b9&e=3DcDE9MTM1NyZwMj00MzAmcDM9MSZwND0xJ=
+nA1PUVtYWlsJnA2PTIwMjMwNjIxJnA3PTIwMjNfMDVfMjdfQVRQX0xDTV9EYXkyNV9ERV9ERV9E=
+TTIxMTQ3OTEmcDg9RE0yMTE0Nzkx&s=3DLCsN6dTD-R1SP5Lz0YJtLu2cWM8UdcT7usGuF38ph8=
+s" >Kunden-Support &gt;</a></td></tr></tbody></table></th></tr></tbody></ta=
+ble></td></tr></tbody></table><!-- 3 col section ends --><!-- Footer sectio=
+n Starts --><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=
+=3D"100%"><tbody><tr><td align=3D"left" valign=3D"top" bgcolor=3D"#F5F6FA" =
+class=3D"pad_LR20" style=3D"padding-top:24px;padding-bottom:40px;padding-le=
+ft:40px;padding-right:43px;"><table cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0" width=3D"100%"><tbody><tr><td align=3D"left" valign=3D"top" style=
+=3D"font-family:'Open Sans', Arial, sans-serif;font-size:10px;line-height:1=
+.2;mso-line-height-rule:exactly;color:#333333;font-weight:400;"><span style=
+=3D"font-weight:bold;">* Wichtige Bedingungen und Angebotsdetails:</span></=
+td></tr><tr><td align=3D"left" valign=3D"top" style=3D"font-family:'Open Sa=
+ns', Arial, sans-serif;font-size:10px;line-height:1.2;mso-line-height-rule:=
+exactly;color:#333333;font-weight:400;padding-top:10px;">Bedingungen f&#xFC=
+;r Abonnements, Preise und automatische Verl&#xE4;ngerung:</td></tr><tr><td=
+ align=3D"left" valign=3D"top" style=3D"font-family:'Open Sans', Arial, san=
+s-serif;font-size:10px;line-height:1.2;mso-line-height-rule:exactly;color:#=
+333333;font-weight:400;padding-top:10px;">&#x2022; Der beim Kauf erhobene B=
+etrag ist der Preis f&#xFC;r den ersten Abonnementzeitraum. Dessen Dauer h&=
+#xE4;ngt von Ihrer Kaufentscheidung ab (z. B. 1 Monat oder 1 Jahr). Nach Ab=
+lauf der ersten Laufzeit wird das Abonnement automatisch j&#xE4;hrlich verl=
+&#xE4;ngert (au&#xDF;er bei Monatsabonnements, die monatlich verl&#xE4;nger=
+t werden) und es wird der zum Zeitpunkt der Verl&#xE4;ngerung geltende Abon=
+nementpreis erhoben, bis Sie das Abonnement k&#xFC;ndigen (Einwohner von Ve=
+rmont m&#xFC;ssen sich aktiv f&#xFC;r die automatische Verl&#xE4;ngerung re=
+gistrieren).</td></tr><tr><td align=3D"left" valign=3D"top" style=3D"font-f=
+amily:'Open Sans', Arial, sans-serif;font-size:10px;line-height:1.2;mso-lin=
+e-height-rule:exactly;color:#333333;font-weight:400;padding-top:10px;">&#x2=
+022; Preis&#xE4;nderungen vorbehalten. Wenn sich der Verl&#xE4;ngerungsprei=
+s &#xE4;ndert, benachrichtigen wir Sie zuvor, damit Sie immer auf dem Laufe=
+nden sind.</td></tr><tr><td align=3D"left" valign=3D"top" style=3D"font-fam=
+ily:'Open Sans', Arial, sans-serif;font-size:10px;line-height:1.2;mso-line-=
+height-rule:exactly;color:#333333;font-weight:400;padding-top:10px;">&#x202=
+2; Nach dem Kauf k&#xF6;nnen Sie &#xFC;ber die Seite&nbsp;<a href=3D"https:=
+//mcafeeinc-mkt-prod2-t.adobe-campaign.com/r/=3Fid=3Dh98f01ec9,4f7a367c,4f7=
+a39ba&e=3DcDE9RE0yMTE0NzkxJnAyPTIwMjNfMDVfMjdfQVRQX0xDTV9EYXkyNV9ERV9ERV9ET=
+TIxMTQ3OTE&s=3DhGaRRhbgGcHz5I3BDAI9YJqt6tlWhoMzxWRC2Z2HqNQ" target=3D"_blan=
+k" style=3D"color:#000000;text-decoration:underline;" data-nl-type=3D"exter=
+nalLink" >Mein Konto</a>&nbsp;Ihr Abonnement jederzeit k&#xFC;ndigen oder d=
+ie Einstellungen f&#xFC;r die automatische Verl&#xE4;ngerung &#xE4;ndern. W=
+eitere Informationen finden Sie&nbsp;<a href=3D"https://mcafeeinc-mkt-prod2=
+-t.adobe-campaign.com/r/=3Fid=3Dh98f01ec9,4f7a367c,4f7a39bb&e=3DcDE9RE0yMTE=
+0NzkxJnAyPTIwMjNfMDVfMjdfQVRQX0xDTV9EYXkyNV9ERV9ERV9ETTIxMTQ3OTE&s=3Dl_4LiB=
+cXq_K7hycn5qz9sRN43L_AJICH0wcwOhqcReM" target=3D"_blank" style=3D"color:#00=
+0000;text-decoration:underline;" data-nl-type=3D"externalLink" >hier</a>.</=
+td></tr><tr><td align=3D"left" valign=3D"top" style=3D"font-family:'Open Sa=
+ns', Arial, sans-serif;font-size:10px;line-height:1.2;mso-line-height-rule:=
+exactly;color:#333333;font-weight:400;padding-top:10px;" data-contenteditab=
+le=3D"true">&#x2022; Kontaktieren Sie f&#xFC;r eine R&#xFC;ckerstattung den=
+&nbsp;<a href=3D"https://mcafeeinc-mkt-prod2-t.adobe-campaign.com/r/=3Fid=
+=3Dh98f01ec9,4f7a367c,4f7a39bc&e=3DcDE9RE0yMTE0NzkxJnAyPTIwMjNfMDVfMjdfQVRQ=
+X0xDTV9EYXkyNV9ERV9ERV9ETTIxMTQ3OTE&s=3DfPP1KDKbvSbtX5Ji-2nlQYD5Ko0vPN9A2Kh=
+QybqyLsQ" style=3D"color:#000000;text-decoration:underline;" target=3D"_bla=
+nk" data-nl-type=3D"externalLink" >Kunden&#x2011;Support</a> innerhalb von =
+30 Tagen nach dem Kauf oder innerhalb von 60 Tagen nach der automatischen V=
+erl&#xE4;ngerung (bei einer Laufzeit von mindestens einem Jahr).</td></tr><=
+tr><td align=3D"left" valign=3D"top" style=3D"font-family:'Open Sans', Aria=
+l, sans-serif;font-size:10px;line-height:1.2;mso-line-height-rule:exactly;c=
+olor:#333333;font-weight:400;padding-top:10px;">&#x2022; Ihr Abonnement unt=
+erliegt unserem&nbsp;<a href=3D"https://mcafeeinc-mkt-prod2-t.adobe-campaig=
+n.com/r/=3Fid=3Dh98f01ec9,4f7a367c,4f7a39bd&e=3DcDE9MjAyM18wNV8yN19BVFBfTEN=
+NX0RheTI1X0RFX0RFX0RNMjExNDc5MQ&s=3DAYeAbMUXB5mxc29jjhZWCbQvinoxyczDmada_B0=
+J2no" target=3D"_blank" style=3D"color:#000000;text-decoration:underline;" =
+data-nl-type=3D"externalLink" >Lizenzvertrag</a>&nbsp;und unseren <a href=
+=3D"https://mcafeeinc-mkt-prod2-t.adobe-campaign.com/r/=3Fid=3Dh98f01ec9,4f=
+7a367c,4f7a39be&e=3DcDE9MjAyM18wNV8yN19BVFBfTENNX0RheTI1X0RFX0RFX0RNMjExNDc=
+5MQ&s=3Dj7gDaioRwrBk3Pe0RNdqoQ01g5FMkoJ8oOzfh68Fd3g" target=3D"_blank" styl=
+e=3D"color:#000000;text-decoration:underline;" data-nl-type=3D"externalLink=
+" >Datenschutzhinweisen</a>. Abonnements f&#xFC;r "alle" Ger&#xE4;te sind a=
+uf die unterst&#xFC;tzten Ger&#xE4;te begrenzt, die Sie besitzen. W&#xE4;hr=
+end der Laufzeit k&#xF6;nnen Produktfunktionen hinzugef&#xFC;gt, ge&#xE4;nd=
+ert oder entfernt werden. &nbsp;M&#xF6;glicherweise sind nicht alle Funktio=
+nen f&#xFC;r alle Ger&#xE4;te verf&#xFC;gbar. &nbsp;Weitere Informationen f=
+inden Sie in den&nbsp;<a href=3D"https://mcafeeinc-mkt-prod2-t.adobe-campai=
+gn.com/r/=3Fid=3Dh98f01ec9,4f7a367c,4f7a39bf&e=3DcDE9ZGUtZGUmcDI9RE0yMTE0Nz=
+kxJnAzPTIwMjNfMDVfMjdfQVRQX0xDTV9EYXkyNV9ERV9ERV9ETTIxMTQ3OTE&s=3Dorb1mUNs4=
+U0AIWUw-R3eAQxmV52hmvzjtZl1iL8kybI" style=3D"color:#000000;text-decoration:=
+underline;" target=3D"_blank" data-nl-type=3D"externalLink" >Systemanforder=
+ungen</a>.</td></tr><tr><td align=3D"left" valign=3D"top" style=3D"font-fam=
+ily:'Open Sans', Arial, sans-serif;font-size:10px;line-height:1.2;mso-line-=
+height-rule:exactly;color:#333333;font-weight:400;padding-top:10px;">[ Ihr =
+Abonnement l&#xE4;uft derzeit f&#xFC;r:&nbsp;technikag@fichte-gymnasium.de =
+]</td></tr><tr><td align=3D"left" valign=3D"top" style=3D"font-family:'Open=
+ Sans', Arial, sans-serif;font-size:10px;line-height:1.2;mso-line-height-ru=
+le:exactly;color:#333333;font-weight:400;padding-top:10px;">Stellen Sie sic=
+her, dass Sie unsere Nachrichten empfangen. Nehmen Sie <a href=3D"mailto:in=
+fo@protect.mcafee.com=3F" data-id=3D"al155685321220068ecfe" target=3D"_blan=
+k" data-nl-type=3D"externalLink" style=3D"color:#000000;text-decoration:und=
+erline;">info@protect.mcafee.com</a> in Ihr Adressbuch auf.</td></tr><tr><t=
+d align=3D"left" valign=3D"top" style=3D"font-family:'Open Sans', Arial, sa=
+ns-serif;font-size:10px;line-height:1.2;mso-line-height-rule:exactly;color:=
+#333333;font-weight:400;padding-top:10px;">Bitte antworten Sie nicht auf di=
+ese E-Mail. Diese E-Mail wurde Ihnen von einer Adresse exklusiv f&#xFC;r Be=
+nachrichtigungen gesendet, die keine eingehenden E-Mails annehmen kann. Wen=
+n Sie Support-Fragen haben, <a href=3D"https://mcafeeinc-mkt-prod2-t.adobe-=
+campaign.com/r/=3Fid=3Dh98f01ec9,4f7a367c,4f7a39de&e=3DcDE9RE0yMTE0NzkxJnAy=
+PTIwMjNfMDVfMjdfQVRQX0xDTV9EYXkyNV9ERV9ERV9ETTIxMTQ3OTE&s=3DXoL4W7Xx2cXA-Tk=
+L3YShsUpA1wUddMJtEgalVBL0U2g" target=3D"_blank" data-id=3D"al15568532122009=
+367a0" data-nl-type=3D"externalLink" data-nl-format=3D"datetime" style=3D"c=
+olor:#000000;text-decoration:underline;" >klicken Sie hier</a>.</td></tr><t=
+r><td align=3D"left" valign=3D"top" style=3D"font-family:'Open Sans', Arial=
+, sans-serif;font-size:10px;line-height:1.2;mso-line-height-rule:exactly;co=
+lor:#333333;font-weight:400;padding-top:10px;">Um keine Marketing-E-Mails v=
+on McAfee mehr zu empfangen, <a href=3D"https://mcafeeinc-mkt-prod2-t.adobe=
+-campaign.com/r/=3Fid=3Dh98f01ec9,4f7a367c,4f7a39df&e=3DcDE9dGVjaG5pa2FnQGZ=
+pY2h0ZS1neW1uYXNpdW0uZGUmcDI9RE0yMTE0NzkxJnAzPTIwMjNfMDVfMjdfQVRQX0xDTV9EYX=
+kyNV9ERV9ERV9ETTIxMTQ3OTE&s=3DM9BFUGlqiuVD8oVbyCwcZ6ZWOgYmikmDNn8ahCrxWz8" =
+target=3D"_blank" data-id=3D"al15568532122005c50b0" data-nl-type=3D"externa=
+lLink" style=3D"color:#000000;text-decoration:underline;" >klicken Sie hier=
+</a>. Wir senden Ihnen weiterhin E-Mails zu Ihrem Abonnement, bez&#xFC;glic=
+h Supportanfragen oder andere Benachrichtigungen zu Ihrem Konto.</td></tr><=
+tr><td align=3D"center" valign=3D"top" style=3D"padding-top:15px;"><table c=
+ellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%"><tbody><tr><=
+td align=3D"center" valign=3D"top" style=3D"font-family:'Open Sans', Arial,=
+ sans-serif;font-size:10px;line-height:1.2;mso-line-height-rule:exactly;col=
+or:#333333;font-weight:400;"><a href=3D"https://mcafeeinc-mkt-prod2-t.adobe=
+-campaign.com/r/=3Fid=3Dh98f01ec9,4f7a367c,4f7a39e0&e=3DcDE9MjAyM18wNV8yN19=
+BVFBfTENNX0RheTI1X0RFX0RFX0RNMjExNDc5MQ&s=3DkY0z1gbTDcCLSh6pjuxVCt6AApowMAv=
+BOfdINd3hoJc" data-id=3D"al1556853212200b8bfd" data-nl-type=3D"externalLink=
+" target=3D"_blank" style=3D"color:#000000;text-decoration:underline;" >End=
+benutzer-Lizenzvertrag</a> | <a href=3D"https://mcafeeinc-mkt-prod2-t.adobe=
+-campaign.com/r/=3Fid=3Dh98f01ec9,4f7a367c,4f7a39e1&e=3DcDE9MTM1NyZwMj1ETTI=
+xMTQ3OTEmcDM9MjAyM18wNV8yN19BVFBfTENNX0RheTI1X0RFX0RFX0RNMjExNDc5MQ&s=3DfcU=
+AUdZu3uqvSoGRCnhm94DZv0NG1FS-XVpPzk_oi9c" target=3D"_blank" data-id=3D"al15=
+56853212200776e6f" data-nl-type=3D"externalLink" style=3D"color:#000000;tex=
+t-decoration:underline;" >Mein Konto</a> | <a href=3D"https://mcafeeinc-mkt=
+-prod2-t.adobe-campaign.com/r/=3Fid=3Dh98f01ec9,4f7a367c,4f7a39e2&e=3DcDE9d=
+GVjaG5pa2FnQGZpY2h0ZS1neW1uYXNpdW0uZGUmcDI9RE0yMTE0NzkxJnAzPTIwMjNfMDVfMjdf=
+QVRQX0xDTV9EYXkyNV9ERV9ERV9ETTIxMTQ3OTE&s=3DjukovPZp-RMF_hf0MJ94U3tBgtZNMLC=
+pe61S5NiTtu0" target=3D"_blank" data-id=3D"al155685321220023385e" data-nl-t=
+ype=3D"externalLink" style=3D"color:#000000;text-decoration:underline;" >E-=
+Mails abbestellen</a> | <a href=3D"https://mcafeeinc-mkt-prod2-t.adobe-camp=
+aign.com/r/=3Fid=3Dh98f01ec9,4f7a367c,4f7a39e3&e=3DcDE9MjAyM18wNV8yN19BVFBf=
+TENNX0RheTI1X0RFX0RFX0RNMjExNDc5MQ&s=3Dsd9Ct4wJJRnsHh4EFNT3yJWjdAkI8wSB4FyR=
+htHrw3A" data-id=3D"al155685321220078b8ab" target=3D"_blank" data-nl-type=
+=3D"externalLink" style=3D"color:#000000;text-decoration:underline;" >Daten=
+schutzhinweise</a> | <a href=3D"https://mcafeeinc-mkt-prod2-t.adobe-campaig=
+n.com/r/=3Fid=3Dh98f01ec9,4f7a367c,4f7a39e4&e=3DcDE9MjAyM18wNV8yN19BVFBfTEN=
+NX0RheTI1X0RFX0RFX0RNMjExNDc5MQ&s=3DIXv4zyRfBYv57iGnOP-dTs_38yd98sctGQCl-ir=
+Kp7w" target=3D"_blank" data-id=3D"al15568532122005d5e54" data-nl-type=3D"e=
+xternalLink" style=3D"color:#000000;text-decoration:underline;" >Support</a=
+></td></tr></tbody></table></td></tr><tr><td align=3D"left" valign=3D"top" =
+style=3D"font-family:'Open Sans', Arial, sans-serif;font-size:10px;line-hei=
+ght:1.2;mso-line-height-rule:exactly;color:#333333;font-weight:400;padding-=
+top:15px;">McAfee, McAfee LiveSafe und das McAfee-Logo sind Marken oder ein=
+getragene Marken von McAfee LLC oder ihrer Niederlassungen in den USA und a=
+nderen L&#xE4;ndern. Alle anderen aufgef&#xFC;hrten Marken und Namen sind m=
+&#xF6;glicherweise Eigentum anderer Rechtsinhaber.</td></tr><tr><td align=
+=3D"left" valign=3D"top" style=3D"font-family:'Open Sans', Arial, sans-seri=
+f;font-size:10px;line-height:1.2;mso-line-height-rule:exactly;color:#333333=
+;font-weight:400;padding-top:15px;">Copyright &#xA9; 2023 McAfee LLC</td></=
+tr><tr><td align=3D"left" valign=3D"top" style=3D"font-family:'Open Sans', =
+Arial, sans-serif;font-size:10px;line-height:1.2;mso-line-height-rule:exact=
+ly;color:#333333;font-weight:400;padding-top:10px;">McAfee Ireland Limited,=
+ 1 Horgan's Quay, Waterfront Square Cork, Ireland, T23 PPT8</td></tr><tr><t=
+d align=3D"center" style=3D"padding:25px 0 0px 0;" valign=3D"middle"><a hre=
+f=3D"https://mcafeeinc-mkt-prod2-t.adobe-campaign.com/r/=3Fid=3Dh98f01ec9,4=
+f7a367c,4f7a39e5&e=3DcDE9MTM1NyZwMj00MzAmcDM9MjAyM18wNV8yN19BVFBfTENNX0RheT=
+I1X0RFX0RFX0RNMjExNDc5MSZwND1ETTIxMTQ3OTEmcDU9MCZwNj0yRzN5bC1tWmdTQkNwNWNxR=
+jhEa2J5S2pUdDA1RC1YbWNjVUFCcUpnQ3NYc2NFaW9oazI5Qkh3S0swRlBPUGVNMCZwNz1FbWFp=
+bCZwOD0yMDIzMDYyMSZwOT1kZS1kZQ&s=3D5JByUuzLd3ezrlAokqL_e8x8AX0-cNprhgWomVD2=
+vx0" target=3D"_blank" data-nl-type=3D"externalLink" ><img alt=3D"McAfee" b=
+order=3D"0" src=3D"https://www.mcafee.com/content/dam/email/na-atp/2020/q3/=
+Cyber_Awareness/mcafee-logo-red.png" width=3D"105" style=3D"display:block;w=
+idth:105px;"></a></td></tr></tbody></table></td></tr></tbody></table><!-- F=
+ooter section Ends --></td></tr></tbody></table><!-- END OF GMAIL WRAPPER -=
+-></td></tr></tbody></table><!-- END OF MAIN BODY WRAPPER --><!-- START GMA=
+IL TEXT RESIZE SPACER IMAGE --><!-- END GMAIL TEXT RESIZE SPACER IMAGE -->
+<img height=3D'0' width=3D'0' alt=3D'' src=3D'https://mcafeeinc-mkt-prod2-t=
+.adobe-campaign.com/r/=3Fid=3Dh98f01ec9,4f7a367c,1'/>
+</body></html>
+

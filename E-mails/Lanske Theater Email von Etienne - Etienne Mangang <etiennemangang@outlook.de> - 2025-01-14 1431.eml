@@ -1,0 +1,218 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <etiennemangang@outlook.de>
+Received: from mail-hub02.belwue.de ([2001:7c0:0:76::42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 98035270 for technikag@fichte-gymnasium.de; Tue, 14 Jan 2025 14:31:26 +0100
+Received: from mail-in03.belwue.de (mail-in03.belwue.de [129.143.76.3])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4YXVQQ2sgjz5NjB
+	for <technikag@fichte-gymnasium.de>; Tue, 14 Jan 2025 14:31:26 +0100 (CET)
+Received: from EUR02-AM0-obe.outbound.protection.outlook.com (mail-am0eur02olkn20804.outbound.protection.outlook.com [IPv6:2a01:111:f403:2e06::804])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange ECDHE (P-384) server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in03.belwue.de (Postfix) with ESMTPS id 4YXVQP4czrz1t92
+	for <technikag@fichte-gymnasium.de>; Tue, 14 Jan 2025 14:31:25 +0100 (CET)
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=none;
+ b=mSnwQO2l3wObNlEGl634IOr8Z9mqVO0weRVAsSZdRXKTvkKZ7EpZ+so00dtxM3T0FZdl+78UuSwvgop4g7p1C3Vvp8TVH98+CGlQ/OSiiEQpFSGIhtoJRrUs6piChm3VGNzMA4P6D3b+GdgbWcTwMd6+0NkoxLOwt9bN2LSKK/QGz7A2EWdbyD7UW5qVBrL+982anH2TU6qEgHCN9nslJfzptaIP/lsJdlSeSsk0TlETDnU23sBGx5zcbT50VmJl8OFFPhECrwHsfMAIDUXtls+NwE30Cpz9fudcyUeNh9VryFtn9GL1bT4+HhLgzan4nKXaMdZUfAoUgly93+AjDw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector10001;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=5yKQHsewCYRjrXIxby44DCpFX5U8F01GjG2YoxE2jsc=;
+ b=GVMg4mbp/z4p94y6aKj/SkMJQjSfiBtal6O3jmESgqdknXym2iZkCR3YKcWKqIu7JZA17Bp8uwu5IlCICSLiiLHFpF9dy2Hh3/53UAiC/rS0qwammaLhZk3KmnhlCdVqoHMkvxf4IaeXZd9peDpCoGAMSgZONfGQ2/MHxrPBJialYgXi75p9aQDd5OgXDa/EUl/qxLaKbJ6aadPb8XMKw0G4p/lQK+Gkovipi7jJg0RU3HHol6H2SzurQBaXQC2CxzqMPQW0k60X8L0ekmApRRIy5dbIisH2kT3r8Uxpp9l2ko9/rnGDfp1wS0P9i4UpRCTqn8tDLkhGya9Zv6bYyQ==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=none;
+ dkim=none; arc=none
+Received: from PAXPR02MB7743.eurprd02.prod.outlook.com (2603:10a6:102:20e::21)
+ by DU5PR02MB10515.eurprd02.prod.outlook.com (2603:10a6:10:519::10) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8335.18; Tue, 14 Jan
+ 2025 13:31:24 +0000
+Received: from PAXPR02MB7743.eurprd02.prod.outlook.com
+ ([fe80::d6f2:bc0a:6892:b26d]) by PAXPR02MB7743.eurprd02.prod.outlook.com
+ ([fe80::d6f2:bc0a:6892:b26d%7]) with mapi id 15.20.8356.010; Tue, 14 Jan 2025
+ 13:31:24 +0000
+From: Etienne Mangang <etiennemangang@outlook.de>
+To: "technikag@fichte-gymnasium.de" <technikag@fichte-gymnasium.de>
+Subject: Lanske Theater Email von Etienne
+Thread-Topic: Lanske Theater Email von Etienne
+Thread-Index: AQHbZogvxTaD8UXJE0ma6wRyyzvt2Q==
+Date: Tue, 14 Jan 2025 13:31:24 +0000
+Message-ID:
+ <PAXPR02MB7743361EC707B8C53C4FE6F4A9182@PAXPR02MB7743.eurprd02.prod.outlook.com>
+Accept-Language: de-DE, en-US
+Content-Language: de-DE
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+msip_labels:
+x-ms-publictraffictype: Email
+x-ms-traffictypediagnostic: PAXPR02MB7743:EE_|DU5PR02MB10515:EE_
+x-ms-office365-filtering-correlation-id: c2727a66-d231-47a5-0d5a-08dd349fbd8e
+x-microsoft-antispam:
+ BCL:0;ARA:14566002|8062599003|8060799006|15080799006|19110799003|7092599003|15030799003|461199028|3412199025|440099028|102099032;
+x-microsoft-antispam-message-info:
+ =?iso-8859-1?Q?XxQnCG/os1Cds1qo1rTTVXAdNurQ+PshCrJ72nAmqa6K2ROCloLXHoVJZr?=
+ =?iso-8859-1?Q?eAYOUieuS4FsF1FNBKwV+J4gHCQybuqX1asPqVDF1D2wLdwHxKZyxW1kmC?=
+ =?iso-8859-1?Q?IX9BEYGU6dnIIEJEg3jDX81S4TORWJiy3BRaV+wT5Xs+1wF02iGSoRfdCQ?=
+ =?iso-8859-1?Q?wgjUQl73p6zNQFhYO3vR82p1YS3oxXRn42/UOTP2o5qjYDy9q5Mwb3H/yQ?=
+ =?iso-8859-1?Q?VHCrSKfwWLM/e6rfk7QoiQk/FNgY4OMPN4ydfHIBbbTkmMgg5N8eGCV6d2?=
+ =?iso-8859-1?Q?xYRp4UszxOJ8xSRWvdtbOuO5u9LfiaQ1HeWfN3RKl1yOMt3NmD0PhPB50r?=
+ =?iso-8859-1?Q?1cIuSw98C6GZqC5k/rqbkCNB7K5uyV/ZEyAk2UiHjofhL9q6eamX4X/QDd?=
+ =?iso-8859-1?Q?BMBKWfKXQ3nMbfvxOQBucayYEn1BbwWg/GNIxCJFYE2wkp2fcf4unpNL02?=
+ =?iso-8859-1?Q?RIbXlLvnwmQs8EyC+p024FZkFzD1j4J30B7ROOSrlJG+FGl8gIPV+uKqUN?=
+ =?iso-8859-1?Q?O/0uM7UcC0kasLjRT2UqtHL34dIYZSBe2T9u9ALEKHIQ2IYXJ34tRBpPFy?=
+ =?iso-8859-1?Q?oag/LSCD20PSjEf3vg6LhPSQ49wUaMy1HLnoFxyTuaXmaOwZLgzynrJ1zc?=
+ =?iso-8859-1?Q?GW0hUWcvWy9jqNOjq/k/Zo57p/8wqxKZJNCkYcZ5bNIzANgqHmGP5quWQz?=
+ =?iso-8859-1?Q?3XRss+JaJk/MmyAYKAcLrmJxOEp6pw3hkkZK6Lk8U2GIUPDUqYxd07uWci?=
+ =?iso-8859-1?Q?gDs6pt6JCQrcNMqLZcKomE9xsKlYFuMnVIv9Nc5A/j9G0/LVC/zinafNnu?=
+ =?iso-8859-1?Q?RMyCY7TvU4kUP4S+VfivD+7k19kAYRmes4+VRX4VttM6iIVxDsb7fE+Dg0?=
+ =?iso-8859-1?Q?ezu7iYYBRB7f35kjYFnXccy1FPuxzdjUUsCfes6EeMbmGBzQozIhopfuHN?=
+ =?iso-8859-1?Q?qQM+w1oRYhYhRdtI3r+kmWOEVI+4TdAgo5lrq8OjH9wRD8cmxD/Jjv+j1w?=
+ =?iso-8859-1?Q?5ZAzMOha2XOhn/Lal+OOW4PcNrH2/7h2zMO3h0Or773ow7F97MFxGwqHaZ?=
+ =?iso-8859-1?Q?AchAkHqiuhFSRXXEolVFmkNBR5uH6dnsXgXMDwAJ2kQKcyDByTYtBQquP/?=
+ =?iso-8859-1?Q?NnQDkMbdm+QRjDjNGSavYenaZUBek=3D?=
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?iso-8859-1?Q?QSfIsyJ1vkU8Os5fux4ZKgOR67rbfQe7bQcsdNE3IWXpnc08ullvY0DCEK?=
+ =?iso-8859-1?Q?XqT9yu2GQcfR/rnaBM4qc0b3NsvxTIza5i8mpJQ4J7T4zmhRZWxt98OYPA?=
+ =?iso-8859-1?Q?qwCoD199fOaCv2KHnc+JY6KytlLbO/QBD5LNKuw4g+qRXfNXIn5RN6jmuH?=
+ =?iso-8859-1?Q?JdkRQ7YkXrI5WlFyy4488Er03IHTeCJDM6fntfbv+hO081eUF9VnSAmXzV?=
+ =?iso-8859-1?Q?vt/Vpt76IMAtjn/N2vohkoMjNUQb3QwwT4l/TP6cV1jVmN0cav+MoFK1cf?=
+ =?iso-8859-1?Q?OkK0NBlDQfptG1yYD0ACtX2QP5Jrm/ZKY6okTGMNPRc/Q3umRcvm36wD3P?=
+ =?iso-8859-1?Q?paFQcYpNdbpJupK56wMb4KR5kuBZpTaSCj2FiGUVTJwT5UwXKJkxLsm4vl?=
+ =?iso-8859-1?Q?4HW8JwU0HJX+yNwIGK2yYJEP2ulMAvD1nKpJ6ihy7I6nN6P+W8VUPT9WVS?=
+ =?iso-8859-1?Q?hwjnBOuPmJm2T0ld/x99ATIyRweCkLvol0dQgbs1Ub7sYBRBQn5EB3rHVN?=
+ =?iso-8859-1?Q?99mg3VYycXz4KLYpkGfqrVnoqh5gHlugXsleyK2oQXN7rMqK5gmhxj1Vdm?=
+ =?iso-8859-1?Q?fXcc0bANS32DoDqF2eYiQLmL83wMy3rUx5tcaSaFdjUyfuCvqQ++2FRM+W?=
+ =?iso-8859-1?Q?kPUCKtoo9AbpPU5UVAqSi0X5qvtmddiWCA4PLHAu81gMfRKqkzjdlIzAFs?=
+ =?iso-8859-1?Q?DmJxGY4+V/5GbG35zzjjPv12rDPdqDY+doNpTiK9ocz4tiiT/XlR4G/eXj?=
+ =?iso-8859-1?Q?h/dIvElVfuhpNf8Oqtn6wHAMFxNZZ6jR258AjFwSzxH8gy6kBsKB/3ArxE?=
+ =?iso-8859-1?Q?G7j8t37wibA4BC+BJ99N3biKQg+ofRlRf/2JLrP1ACu/nYlgWbH1Dg0Nm1?=
+ =?iso-8859-1?Q?f+irf+kMgtggTpPklwgG0YMXVQtM+pXwYN2K8Kq28TJF9fTD9/oXPqs73y?=
+ =?iso-8859-1?Q?+sDq9yPAyoKvkA3Wos7tRLdzhY4PQ02m7lXmPBg7p/eQWIRCRNUxVnoncs?=
+ =?iso-8859-1?Q?JyPZD1EihMC/oYitPaDqCw5cZWA0pr3npbzLVZWv9Pv/5ybg1YkqKbq+6F?=
+ =?iso-8859-1?Q?tHqctHmy/ojCCLBaIM4sQ1L7opWXmtdbDN/yAXAkkrpNJP87oWJY/yRWKH?=
+ =?iso-8859-1?Q?BBrCoOhoaAgh+9hwIRNlSroKqDJd8XFF9/8ZHtX9ET3mdZxyrjs7NSmmOl?=
+ =?iso-8859-1?Q?HgzvziK2vH8gHdw1/K80iRuAXJU3Nzyttc9t7qYabV16TFd3Pq1BdtAS/s?=
+ =?iso-8859-1?Q?wUlS4KU+kATtNpgX4Sf9SOsIw8LZDkvU/pZJ+Kea0=3D?=
+Content-Type: multipart/alternative;
+	boundary="_000_PAXPR02MB7743361EC707B8C53C4FE6F4A9182PAXPR02MB7743eurp_"
+MIME-Version: 1.0
+X-OriginatorOrg: sct-15-20-7828-19-msonline-outlook-12d23.templateTenant
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: PAXPR02MB7743.eurprd02.prod.outlook.com
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-CrossTenant-Network-Message-Id: c2727a66-d231-47a5-0d5a-08dd349fbd8e
+X-MS-Exchange-CrossTenant-originalarrivaltime: 14 Jan 2025 13:31:24.0706
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-rms-persistedconsumerorg: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DU5PR02MB10515
+X-Rspamd-SPAM-Probability: 0
+X-Rspamd-UID: 21ab14
+X-Rspamd-Queue-Id: 4YXVQQ2sgjz5NjB
+X-Rspamd-UID: 843092
+
+--_000_PAXPR02MB7743361EC707B8C53C4FE6F4A9182PAXPR02MB7743eurp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Sehr geehrte Frau Lanske,
+Ich, Etienne Mangang, sowie weitere Mitglieder der Technik AG hatten die Id=
+ee da wir die Technischen Mittel dazu haben das Theater mit Kameras zu film=
+en und aufzunehmen, sodass die Sch=FCler auch Erinnerungen an die Auff=FChr=
+ungen mitnehmen k=F6nnen. Jedoch w=FCrden wir von den Sch=FCler*innen eine =
+Einverst=E4ndniserkl=E4rung ben=F6tigen welche es uns genehmigt zu filme, s=
+ollte nicht bereits eine durch die Schule vorliegen.
+Wir w=FCrden uns um Info-Aush=E4nge vor Ort und die rechtliche Absicherung =
+k=FCmmern.
+W=E4hre das f=FCr sie ok?
+
+Zudem wollten wir uns erkundigen wann sie denn Zeit zu einer kurzen Besprec=
+hung h=E4tten um alles noch einmal durch zu gehen bevor das im Eifer des Ge=
+fechts noch unter geht. Am Besten w=E4hre dies noch diese Woche.
+
+Mit freundlichen Gr=FC=DFen
+
+Etienne Mangang
+
+
+--_000_PAXPR02MB7743361EC707B8C53C4FE6F4A9182PAXPR02MB7743eurp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"> P {margin-top:0;margin-bo=
+ttom:0;} </style>
+</head>
+<body dir=3D"ltr">
+<div class=3D"elementToProof" style=3D"text-align: left; text-indent: 0px; =
+background-color: rgb(255, 255, 255); margin: 0px; font-family: Aptos, Apto=
+s_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-s=
+ize: 12pt; color: black;">
+Sehr geehrte Frau Lanske,</div>
+<div class=3D"elementToProof" style=3D"text-align: left; text-indent: 0px; =
+background-color: rgb(255, 255, 255); margin: 0px; font-family: Aptos, Apto=
+s_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-s=
+ize: 12pt; color: black;">
+Ich, Etienne Mangang, sowie weitere Mitglieder der Technik AG hatten die Id=
+ee da wir die Technischen Mittel dazu haben das Theater mit Kameras zu film=
+en und aufzunehmen, sodass die Sch=FCler auch Erinnerungen an die Auff=FChr=
+ungen mitnehmen k=F6nnen. Jedoch w=FCrden
+ wir von den Sch=FCler*innen eine Einverst=E4ndniserkl=E4rung ben=F6tigen w=
+elche es uns genehmigt zu filme, sollte nicht bereits eine durch die Schule=
+ vorliegen.<br>
+Wir w=FCrden uns um Info-Aush=E4nge vor Ort und die rechtliche Absicherung =
+k=FCmmern.</div>
+<div class=3D"elementToProof" style=3D"text-align: left; text-indent: 0px; =
+background-color: rgb(255, 255, 255); margin: 0px; font-family: Aptos, Apto=
+s_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-s=
+ize: 12pt; color: black;">
+W=E4hre das f=FCr sie ok?</div>
+<div class=3D"elementToProof" style=3D"text-align: left; text-indent: 0px; =
+margin: 0px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, C=
+alibri, Helvetica, sans-serif; font-size: 12pt; color: black;">
+&nbsp;</div>
+<div class=3D"elementToProof" style=3D"text-align: left; text-indent: 0px; =
+background-color: rgb(255, 255, 255); margin: 0px; font-family: Aptos, Apto=
+s_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-s=
+ize: 12pt; color: black;">
+Zudem wollten wir uns erkundigen wann sie denn Zeit zu einer kurzen Besprec=
+hung h=E4tten um alles noch einmal durch zu gehen bevor das im Eifer des Ge=
+fechts noch unter geht. Am Besten w=E4hre dies noch diese Woche.</div>
+<div style=3D"text-align: left; text-indent: 0px; background-color: rgb(255=
+, 255, 255); margin: 0px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSF=
+ontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: black;"=
+>
+<br>
+</div>
+<div style=3D"text-align: left; text-indent: 0px; background-color: rgb(255=
+, 255, 255); margin: 0px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSF=
+ontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: black;"=
+>
+Mit freundlichen Gr=FC=DFen</div>
+<div style=3D"text-align: left; text-indent: 0px; background-color: rgb(255=
+, 255, 255); margin: 0px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSF=
+ontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: black;"=
+>
+<br>
+</div>
+<div style=3D"text-align: left; text-indent: 0px; background-color: rgb(255=
+, 255, 255); margin: 0px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSF=
+ontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: black;"=
+>
+Etienne Mangang</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+</body>
+</html>
+
+--_000_PAXPR02MB7743361EC707B8C53C4FE6F4A9182PAXPR02MB7743eurp_--

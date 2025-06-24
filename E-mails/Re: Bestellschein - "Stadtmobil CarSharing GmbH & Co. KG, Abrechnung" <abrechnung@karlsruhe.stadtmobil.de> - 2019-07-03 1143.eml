@@ -1,0 +1,508 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <abrechnung@karlsruhe.stadtmobil.de>
+Received: from cst201.belwue.de ([129.143.2.72] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.2.12)
+  with ESMTP id 1808605 for technikag@fichte-gymnasium.de; Wed, 03 Jul 2019 11:43:58 +0200
+Received: from mail-lj1-f199.google.com (mail-lj1-f199.google.com [209.85.208.199])
+	by cst201.belwue.de with ESMTPS id x639hnQi028759
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=NOT)
+	for <technikag@fichte-gymnasium.de>; Wed, 3 Jul 2019 11:43:54 +0200 (MEST)
+	env-from (abrechnung@karlsruhe.stadtmobil.de)
+Received: by mail-lj1-f199.google.com with SMTP id e16so433060lja.23
+        for <technikag@fichte-gymnasium.de>; Wed, 03 Jul 2019 02:43:54 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=karlsruhe.stadtmobil.de; s=google;
+        h=mime-version:references:in-reply-to:sender:from:date:message-id
+         :subject:to;
+        bh=cynYpcIu3lVci02s+px+u9BtBdO0aEWGCl5JSog8rP4=;
+        b=HkVyFCFxELgneVE3XfTDSBeRT6yWG9nEwPrq+jZojKa/SiHOHniUV8B2w3SvhCm0P2
+         kaCrveqMVIcIH+aA9ObR1fBeCBdfV918iEI/TWI1Z8p/JRg9a1tyWlAH01OFAcbt15Xf
+         OXxj6QnLo/TBR5uPQLfGaKOXHa24u06nD9qqI=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:references:in-reply-to:sender:from
+         :date:message-id:subject:to;
+        bh=cynYpcIu3lVci02s+px+u9BtBdO0aEWGCl5JSog8rP4=;
+        b=SWXJKc5dUZSBsQ6MGQG27HRDgTtQ49dGdJd5n8SIcZ3tDyoyCztgFJzhcn0EBH/0CK
+         tuCE8QdD4+VDmunzWdz/Etvb1+IzbwoUSuQC+InzAi23ZIkw1JnNaMHgw3/yAl9ftwaf
+         Gv8P2kB0hhiTjBpH7hOCEfBCDP6cFZ1D7l4Lvxek7oROite/3Mzekt6fHFuOKXkD6QzW
+         fTcb/PQmcu5b/HyAGkpVL/UW6ZdESyc5tN9k09obKPib+Vixdw41RNBFL5vRxQA14HD2
+         eHRxJKgbyiE/MWDMfIQE8E//ea/d6NGAXIKb81TAJOJtKpBCCrNXtPleHC32vV76HVyj
+         jPyg==
+X-Gm-Message-State: APjAAAU06dQ2aTAQmGS9SWvm/orG7fufZzr1SbZCVLRpzirslShNf9YB
+	lcsGmlI6e8NvVpBf4uhgp6vbj8TQW8Dz4Uw/bocyVmsoklKyBI4QGiC9SZI21zmiIKNyXDnOuGo
+	yq21FxVyi/2ouLkZKdeMS9JsbpGx5LVRJAvoL6A==
+X-Google-Smtp-Source: APXvYqx6u/dWyve1vZb36lfNaCZgmSX8MwxztpbMy2CC/pDJm0eM4Og7yAbw2trwfTktFihbfo2HR0o5nwuyBrNXVzg=
+X-Received: by 2002:a19:850a:: with SMTP id h10mr10837162lfd.142.1562147028689;
+ Wed, 03 Jul 2019 02:43:48 -0700 (PDT)
+MIME-Version: 1.0
+References: <7f516539-f5f4-1d1b-54d1-e53ec57bc7f4@fichte-gymnasium.de>
+ <CAL6dbSsgBNFesgGsA=NvVC-0kVn-hbu3_6rMM6k933JM-39woA@mail.gmail.com> <8b8419a8-d5f1-792f-f0d6-84330036d286@fichte-gymnasium.de>
+In-Reply-To: <8b8419a8-d5f1-792f-f0d6-84330036d286@fichte-gymnasium.de>
+Sender: nicole.hoffmann@karlsruhe.stadtmobil.de
+X-Google-Sender-Delegation: nicole.hoffmann@karlsruhe.stadtmobil.de
+From: "Stadtmobil CarSharing GmbH & Co. KG, Abrechnung" <abrechnung@karlsruhe.stadtmobil.de>
+Date: Wed, 3 Jul 2019 11:43:23 +0200
+X-Google-Sender-Auth: UC7slznDTJxGzrGCp_QsjabggXU
+Message-ID: <CAL6dbSuwUaYm7sdsHy6NkxjzsR22r4f_eM5TjPk_yLjw356edg@mail.gmail.com>
+Subject: Re: Bestellschein
+To: TechnikAG <technikag@fichte-gymnasium.de>
+Content-Type: multipart/alternative; boundary="000000000000bb801d058cc3b2ac"
+X-DCC-BelWue-Metrics: cst201.belwue.de 1243; Body=1 Fuz1=1 Fuz2=1
+
+--000000000000bb801d058cc3b2ac
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo Herr Kiefer,
+
+vielen Dank.
+Ich habe alles soweit notiert. Die Einzelabrechnung geht dann Ende Juli
+per Post an die Schule direkt raus. Ich werde vor der Verbuchung die
+Zahlweise auf =C3=9Cberweisung umstellen
+sodass Sie entscheiden k=C3=B6nnen wer die Forderung ausgleicht.
+
+Bei R=C3=BCckfragen stehe ich gerne zur Verf=C3=BCgung.
+
+
+Mit freundlichen Gr=C3=BC=C3=9Fen
+Nicole Hoffmann
+Abrechnung
+
+
+
+
+
+Am Mi., 3. Juli 2019 um 11:24 Uhr schrieb TechnikAG <
+technikag@fichte-gymnasium.de>:
+
+> Hallo Frau Hoffmann,
+>
+> meine Teilnehmernummer ist die 29437.
+>
+> Mit freundlichen Gr=C3=BC=C3=9Fen
+>
+> Levin Kiefer
+> Am 03.07.2019 um 10:46 schrieb Stadtmobil CarSharing GmbH & Co. KG,
+> Abrechnung:
+>
+> Hallo Herr Kiefer,
+>
+> vielen Dank f=C3=BCr die Erledigung.
+> Verraten Sie mir bitte nochmal Ihre Teilnehmernummer mit zugeh=C3=B6riger=
+ Karte?
+>
+> Vielen Dank.
+>
+>
+> Mit freundlichen Gr=C3=BC=C3=9Fen
+> Nicole Hoffmann
+> Abrechnung
+>
+>
+>
+>
+>
+> Am Di., 2. Juli 2019 um 16:30 Uhr schrieb TechnikAG <
+> technikag@fichte-gymnasium.de>:
+>
+>> Sehr geehrte Frau Hoffmann,
+>>
+>> anbei wie besprochen der Bestellschein.
+>>
+>> Ich w=C3=BCrde Sie dann bitten, die Rechnung per Post an die Schule zu
+>> schicken, wenn das nicht m=C3=B6glich ist alternativ an
+>> sekretariat@fichte-gymnasium.de.
+>>
+>> =C3=9Cber eine kurze Best=C3=A4tigung w=C3=BCrde ich mich freuen.
+>>
+>> Vielen Dank f=C3=BCr Ihre Hilfe; sollten Sie noch Fragen haben, kommen S=
+ie
+>> gerne auf mich zu.
+>>
+>> Mit freundlichen Gr=C3=BC=C3=9Fen
+>>
+>> Levin Kiefer
+>>
+>>
+>
+> ------------------------------
+> +++ flexibel, g=C3=BCnstig, umweltschonen <https://youtu.be/05WsxHU2c0E>d
+> <https://youtu.be/05WsxHU2c0E> +++
+> +++ stadtflitzer in Karlsruhe <https://youtu.be/qTLLCsQJqwQ> +++
+> ------------------------------
+> Stadtmobil CarSharing GmbH & Co. KG
+> Ludwig-Wilhelm-Stra=C3=9Fe 15
+> 76131 Karlsruhe
+> Tel.: 0721 911911-0
+> Fax:  0721 911911-6
+> Mail: info@karlsruhe.stadtmobil.de <info@stadtmobil.de>
+> Web: karlsruhe.stadtmobil.de <http://www.stadtmobil.de/>
+>
+> B=C3=BCro-=C3=96ffnungszeiten:
+> Mo.-Fr. 10 Uhr bis 18 Uhr
+> Mi. bis 19 Uhr
+> ------------------------------
+> Stadtmobil CarSharing GmbH & Co. KG
+> Amtsgericht Mannheim HRA 104662
+>
+> Komplement=C3=A4r: Stadtmobil CarSharing Verwaltungs GmbH
+> Amtsgericht Mannheim HRB 109301
+>
+> Gesch=C3=A4ftsf=C3=BChrer: Frank Ratzel, Gunnar Petersohn
+> ------------------------------
+>
+>
+
+--=20
+
+
+
++++=C2=A0flexibel, g=C3=BCnstig, umweltschonen <https://youtu.be/05WsxHU2c0=
+E>d=20
+<https://youtu.be/05WsxHU2c0E>=C2=A0++++++=C2=A0stadtflitzer in Karlsruhe=
+=20
+<https://youtu.be/qTLLCsQJqwQ>=C2=A0+++Stadtmobil CarSharing GmbH & Co. KG
+
+Ludwig-Wilhelm-Stra=C3=9Fe 15
+76131 Karlsruhe
+Tel.: 0721 911911-0
+Fax: =C2=A00721=20
+911911-6
+Mail:=C2=A0info@karlsruhe.stadtmobil.de <mailto:info@stadtmobil.de>
+
+Web: karlsruhe.stadtmobil.de <http://www.stadtmobil.de/>
+
+
+
+B=C3=BCro-=C3=96ffnungszeiten:
+Mo.-Fr. 10 Uhr bis 18 Uhr
+Mi. bis 19 Uhr
+
+Stadtmobil=20
+CarSharing GmbH & Co. KG
+Amtsgericht Mannheim HRA 104662
+
+
+Komplement=C3=A4r:=20
+Stadtmobil CarSharing Verwaltungs GmbH=C2=A0
+Amtsgericht Mannheim HRB 109301
+
+
+
+Gesch=C3=A4ftsf=C3=BChrer: Frank Ratzel, Gunnar Petersohn
+
+
+
+
+--000000000000bb801d058cc3b2ac
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div dir=3D"ltr">Hallo Herr Kiefer,<div><br></div><div>vie=
+len Dank.</div><div>Ich habe alles soweit notiert. Die Einzelabrechnung geh=
+t dann Ende Juli</div><div>per Post an die Schule direkt raus. Ich werde vo=
+r der Verbuchung die Zahlweise auf =C3=9Cberweisung umstellen</div><div>sod=
+ass Sie entscheiden k=C3=B6nnen wer die Forderung ausgleicht.</div><div><br=
+></div><div>Bei R=C3=BCckfragen stehe ich gerne zur Verf=C3=BCgung.</div><d=
+iv><div><div dir=3D"ltr" class=3D"gmail_signature" data-smartmail=3D"gmail_=
+signature"><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><di=
+v><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div dir=3D"=
+ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><d=
+iv dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=
+=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr=
+"><div><br></div><div><br></div><div dir=3D"ltr">Mit freundlichen Gr=C3=BC=
+=C3=9Fen</div><div>Nicole Hoffmann</div><div><span style=3D"font-size:12.8p=
+x">Abrechnung</span><br></div><div><br></div></div></div></div></div></div>=
+</div></div></div></div></div></div></div></div></div></div></div></div></d=
+iv></div></div></div></div></div></div></div></div></div><br></div><div><br=
+></div><div><br></div></div><br><div class=3D"gmail_quote"><div dir=3D"ltr"=
+ class=3D"gmail_attr">Am Mi., 3. Juli 2019 um 11:24=C2=A0Uhr schrieb Techni=
+kAG &lt;<a href=3D"mailto:technikag@fichte-gymnasium.de">technikag@fichte-g=
+ymnasium.de</a>&gt;:<br></div><blockquote class=3D"gmail_quote" style=3D"ma=
+rgin:0px 0px 0px 0.8ex;border-left:1px solid rgb(204,204,204);padding-left:=
+1ex">
+ =20
+   =20
+ =20
+  <div bgcolor=3D"#FFFFFF">
+    <p>Hallo Frau Hoffmann,</p>
+    <p>meine Teilnehmernummer ist die 29437.</p>
+    <p>Mit freundlichen Gr=C3=BC=C3=9Fen</p>
+    <p>Levin Kiefer<br>
+    </p>
+    <div class=3D"gmail-m_-6997590699823270886moz-cite-prefix">Am 03.07.201=
+9 um 10:46 schrieb
+      Stadtmobil CarSharing GmbH &amp; Co. KG, Abrechnung:<br>
+    </div>
+    <blockquote type=3D"cite">
+     =20
+      <div dir=3D"ltr">
+        <div dir=3D"ltr">Hallo Herr Kiefer,
+          <div><br>
+          </div>
+          <div>vielen Dank f=C3=BCr die Erledigung.</div>
+          <div>Verraten Sie mir bitte nochmal Ihre Teilnehmernummer mit
+            zugeh=C3=B6riger Karte?</div>
+          <div><br>
+          </div>
+          <div>Vielen Dank.</div>
+          <div>
+            <div>
+              <div dir=3D"ltr" class=3D"gmail-m_-6997590699823270886gmail_s=
+ignature">
+                <div dir=3D"ltr">
+                  <div>
+                    <div dir=3D"ltr">
+                      <div>
+                        <div dir=3D"ltr">
+                          <div>
+                            <div dir=3D"ltr">
+                              <div>
+                                <div dir=3D"ltr">
+                                  <div>
+                                    <div dir=3D"ltr">
+                                      <div dir=3D"ltr">
+                                        <div dir=3D"ltr">
+                                          <div dir=3D"ltr">
+                                            <div dir=3D"ltr">
+                                              <div dir=3D"ltr">
+                                                <div dir=3D"ltr">
+                                                  <div dir=3D"ltr">
+                                                    <div dir=3D"ltr">
+                                                      <div dir=3D"ltr">
+                                                        <div dir=3D"ltr">
+                                                          <div dir=3D"ltr">
+                                                          <div dir=3D"ltr">
+                                                          <div dir=3D"ltr">
+                                                          <div dir=3D"ltr">
+                                                          <div><br>
+                                                          </div>
+                                                          <div><br>
+                                                          </div>
+                                                          <div dir=3D"ltr">=
+Mit
+                                                          freundlichen
+                                                          Gr=C3=BC=C3=9Fen<=
+/div>
+                                                          <div>Nicole
+                                                          Hoffmann</div>
+                                                          <div><span style=
+=3D"font-size:12.8px">Abrechnung</span><br>
+                                                          </div>
+                                                          <div><br>
+                                                          </div>
+                                                          </div>
+                                                          </div>
+                                                          </div>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <br>
+          </div>
+          <div><br>
+          </div>
+          <div><br>
+          </div>
+        </div>
+        <br>
+        <div class=3D"gmail_quote">
+          <div dir=3D"ltr" class=3D"gmail_attr">Am Di., 2. Juli 2019 um
+            16:30=C2=A0Uhr schrieb TechnikAG &lt;<a href=3D"mailto:technika=
+g@fichte-gymnasium.de" target=3D"_blank">technikag@fichte-gymnasium.de</a>&=
+gt;:<br>
+          </div>
+          <blockquote class=3D"gmail_quote" style=3D"margin:0px 0px 0px 0.8=
+ex;border-left:1px solid rgb(204,204,204);padding-left:1ex">Sehr geehrte Fr=
+au
+            Hoffmann,<br>
+            <br>
+            anbei wie besprochen der Bestellschein.<br>
+            <br>
+            Ich w=C3=BCrde Sie dann bitten, die Rechnung per Post an die
+            Schule zu <br>
+            schicken, wenn das nicht m=C3=B6glich ist alternativ an <br>
+            <a href=3D"mailto:sekretariat@fichte-gymnasium.de" target=3D"_b=
+lank">sekretariat@fichte-gymnasium.de</a>.<br>
+            <br>
+            =C3=9Cber eine kurze Best=C3=A4tigung w=C3=BCrde ich mich freue=
+n.<br>
+            <br>
+            Vielen Dank f=C3=BCr Ihre Hilfe; sollten Sie noch Fragen haben,
+            kommen Sie <br>
+            gerne auf mich zu.<br>
+            <br>
+            Mit freundlichen Gr=C3=BC=C3=9Fen<br>
+            <br>
+            Levin Kiefer<br>
+            <br>
+          </blockquote>
+        </div>
+      </div>
+      <br>
+      <font style=3D"font-family:Roboto,arial,sans-serif;font-size:1.3em;co=
+lor:rgb(34,34,34)"><br>
+      </font><font style=3D"font-family:Roboto,arial,sans-serif;font-size:s=
+mall;color:rgb(34,34,34)">
+        <hr>+++=C2=A0<a href=3D"https://youtu.be/05WsxHU2c0E" target=3D"_bl=
+ank">flexibel, g=C3=BCnstig, umweltschonen</a></font><a href=3D"https://you=
+tu.be/05WsxHU2c0E" style=3D"font-family:Roboto,arial,sans-serif;font-size:s=
+mall" target=3D"_blank">d</a><span style=3D"font-family:Roboto,arial,sans-s=
+erif;font-size:small;color:rgb(34,34,34);background-color:rgb(255,255,255)"=
+>=C2=A0+++</span>
+      <div><font style=3D"font-family:Roboto,arial,sans-serif;font-size:sma=
+ll;color:rgb(34,34,34)">+++=C2=A0<a href=3D"https://youtu.be/qTLLCsQJqwQ" t=
+arget=3D"_blank">stadtflitzer in Karlsruhe</a></font><span style=3D"font-fa=
+mily:Roboto,arial,sans-serif;font-size:small;color:rgb(34,34,34);background=
+-color:rgb(255,255,255)">=C2=A0+++</span>
+        <div style=3D"font-family:Arial,Helvetica,sans-serif;font-size:1.3e=
+m">
+          <hr style=3D"font-size:1.3em">
+          <div style=3D"font-size:small;color:rgb(34,34,34);font-family:ari=
+al;background-color:rgb(255,255,255)">Stadtmobil
+            CarSharing GmbH &amp; Co. KG</div>
+          <div style=3D"font-size:small;color:rgb(34,34,34);font-family:ari=
+al;background-color:rgb(255,255,255)">Ludwig-Wilhelm-Stra=C3=9Fe
+            15</div>
+          <div style=3D"font-size:small;color:rgb(34,34,34);font-family:ari=
+al;background-color:rgb(255,255,255)">76131
+            Karlsruhe</div>
+          <div style=3D"font-size:small;color:rgb(34,34,34);font-family:ari=
+al;background-color:rgb(255,255,255)">Tel.:
+            0721 911911-0</div>
+          <div style=3D"font-size:small;color:rgb(34,34,34);font-family:ari=
+al;background-color:rgb(255,255,255)">Fax:
+            =C2=A00721 911911-6</div>
+          <div style=3D"font-size:small;color:rgb(34,34,34);font-family:ari=
+al;background-color:rgb(255,255,255)">Mail:=C2=A0<a href=3D"mailto:info@sta=
+dtmobil.de" style=3D"color:rgb(17,85,204)" target=3D"_blank">info@karlsruhe=
+.stadtmobil.de</a></div>
+          <div style=3D"font-size:small;color:rgb(34,34,34);font-family:ari=
+al;background-color:rgb(255,255,255)">Web:
+            <a href=3D"http://www.stadtmobil.de/" style=3D"color:rgb(17,85,=
+204)" target=3D"_blank">karlsruhe.stadtmobil.de</a></div>
+          <div style=3D"font-size:small;color:rgb(34,34,34);font-family:ari=
+al;background-color:rgb(255,255,255)"><br>
+          </div>
+          <div style=3D"font-size:small;color:rgb(34,34,34);font-family:ari=
+al;background-color:rgb(255,255,255)">B=C3=BCro-=C3=96ffnungszeiten:</div>
+          <div style=3D"font-size:small;color:rgb(34,34,34);font-family:ari=
+al;background-color:rgb(255,255,255)">Mo.-Fr.
+            10 Uhr bis 18 Uhr</div>
+          <div style=3D"font-size:small;color:rgb(34,34,34);font-family:ari=
+al;background-color:rgb(255,255,255)">Mi.
+            bis 19 Uhr</div>
+          <div style=3D"font-size:small;color:rgb(34,34,34);font-family:ari=
+al;background-color:rgb(255,255,255)">
+            <hr></div>
+          <div style=3D"font-size:small;color:rgb(34,34,34);font-family:ari=
+al;background-color:rgb(255,255,255)">Stadtmobil
+            CarSharing GmbH &amp; Co. KG</div>
+          <div style=3D"font-size:small;color:rgb(34,34,34);font-family:ari=
+al;background-color:rgb(255,255,255)">Amtsgericht
+            Mannheim HRA 104662</div>
+          <div style=3D"font-size:small;color:rgb(34,34,34);font-family:ari=
+al;background-color:rgb(255,255,255)"><br>
+          </div>
+          <div style=3D"font-size:small;color:rgb(34,34,34);font-family:ari=
+al;background-color:rgb(255,255,255)">Komplement=C3=A4r:
+            Stadtmobil CarSharing Verwaltungs GmbH=C2=A0</div>
+          <div style=3D"font-size:small;color:rgb(34,34,34);font-family:ari=
+al;background-color:rgb(255,255,255)">Amtsgericht
+            Mannheim HRB 109301</div>
+          <div style=3D"font-size:small;color:rgb(34,34,34);font-family:ari=
+al;background-color:rgb(255,255,255)"><br>
+          </div>
+          <div style=3D"font-size:small;color:rgb(34,34,34);font-family:ari=
+al;background-color:rgb(255,255,255)">Gesch=C3=A4ftsf=C3=BChrer:
+            Frank Ratzel, Gunnar Petersohn</div>
+          <div style=3D"font-size:small;color:rgb(34,34,34);font-family:ari=
+al;background-color:rgb(255,255,255)">
+            <hr></div>
+        </div>
+      </div>
+    </blockquote>
+  </div>
+
+</blockquote></div></div>
+
+<br>
+<div style=3D"font-family:arial;font-size:small;color:rgb(34,34,34);backgro=
+und-color:rgb(255,255,255)"><h1 style=3D"margin:0px 0px 13px;padding:0px;bo=
+rder:0px;display:table-cell;vertical-align:top;width:610px;word-wrap:break-=
+word;font-family:Roboto,arial,sans-serif;background-image:initial;backgroun=
+d-position:initial;background-repeat:initial"></h1></div><font style=3D"fon=
+t-family:Roboto,arial,sans-serif;font-size:1.3em;color:rgb(34,34,34)"><br><=
+/font><font style=3D"font-family:Roboto,arial,sans-serif;font-size:small;co=
+lor:rgb(34,34,34)"><hr>+++=C2=A0<a href=3D"https://youtu.be/05WsxHU2c0E" ta=
+rget=3D"_blank">flexibel, g=C3=BCnstig, umweltschonen</a></font><a href=3D"=
+https://youtu.be/05WsxHU2c0E" style=3D"font-family:Roboto,arial,sans-serif;=
+font-size:small" target=3D"_blank">d</a><span style=3D"font-family:Roboto,a=
+rial,sans-serif;font-size:small;color:rgb(34,34,34);background-color:rgb(25=
+5,255,255)">=C2=A0+++</span><div><font style=3D"font-family:Roboto,arial,sa=
+ns-serif;font-size:small;color:rgb(34,34,34)">+++=C2=A0<a href=3D"https://y=
+outu.be/qTLLCsQJqwQ" target=3D"_blank">stadtflitzer in Karlsruhe</a></font>=
+<span style=3D"font-family:Roboto,arial,sans-serif;font-size:small;color:rg=
+b(34,34,34);background-color:rgb(255,255,255)">=C2=A0+++</span><div style=
+=3D"font-family:Arial,Helvetica,sans-serif;font-size:1.3em"><hr style=3D"fo=
+nt-size:1.3em"><div style=3D"font-size:small;color:rgb(34,34,34);font-famil=
+y:arial;background-color:rgb(255,255,255)">Stadtmobil CarSharing GmbH &amp;=
+ Co. KG</div><div style=3D"font-size:small;color:rgb(34,34,34);font-family:=
+arial;background-color:rgb(255,255,255)">Ludwig-Wilhelm-Stra=C3=9Fe 15</div=
+><div style=3D"font-size:small;color:rgb(34,34,34);font-family:arial;backgr=
+ound-color:rgb(255,255,255)">76131 Karlsruhe</div><div style=3D"font-size:s=
+mall;color:rgb(34,34,34);font-family:arial;background-color:rgb(255,255,255=
+)">Tel.: 0721 911911-0</div><div style=3D"font-size:small;color:rgb(34,34,3=
+4);font-family:arial;background-color:rgb(255,255,255)">Fax: =C2=A00721 911=
+911-6</div><div style=3D"font-size:small;color:rgb(34,34,34);font-family:ar=
+ial;background-color:rgb(255,255,255)">Mail:=C2=A0<a href=3D"mailto:info@st=
+adtmobil.de" style=3D"color:rgb(17,85,204)" target=3D"_blank">info@karlsruh=
+e.<wbr>stadtmobil.de</a></div><div style=3D"font-size:small;color:rgb(34,34=
+,34);font-family:arial;background-color:rgb(255,255,255)">Web: <a href=3D"h=
+ttp://www.stadtmobil.de/" style=3D"color:rgb(17,85,204)" target=3D"_blank">=
+karlsruhe.stadtmobil.de</a></div><div style=3D"font-size:small;color:rgb(34=
+,34,34);font-family:arial;background-color:rgb(255,255,255)"><br></div><div=
+ style=3D"font-size:small;color:rgb(34,34,34);font-family:arial;background-=
+color:rgb(255,255,255)">B=C3=BCro-=C3=96ffnungszeiten:</div><div style=3D"f=
+ont-size:small;color:rgb(34,34,34);font-family:arial;background-color:rgb(2=
+55,255,255)">Mo.-Fr. 10 Uhr bis 18 Uhr</div><div style=3D"font-size:small;c=
+olor:rgb(34,34,34);font-family:arial;background-color:rgb(255,255,255)">Mi.=
+ bis 19 Uhr</div><div style=3D"font-size:small;color:rgb(34,34,34);font-fam=
+ily:arial;background-color:rgb(255,255,255)"><hr></div><div style=3D"font-s=
+ize:small;color:rgb(34,34,34);font-family:arial;background-color:rgb(255,25=
+5,255)">Stadtmobil CarSharing GmbH &amp; Co. KG</div><div style=3D"font-siz=
+e:small;color:rgb(34,34,34);font-family:arial;background-color:rgb(255,255,=
+255)">Amtsgericht Mannheim HRA 104662</div><div style=3D"font-size:small;co=
+lor:rgb(34,34,34);font-family:arial;background-color:rgb(255,255,255)"><br>=
+</div><div style=3D"font-size:small;color:rgb(34,34,34);font-family:arial;b=
+ackground-color:rgb(255,255,255)">Komplement=C3=A4r: Stadtmobil CarSharing =
+Verwaltungs GmbH=C2=A0</div><div style=3D"font-size:small;color:rgb(34,34,3=
+4);font-family:arial;background-color:rgb(255,255,255)">Amtsgericht Mannhei=
+m HRB 109301</div><div style=3D"font-size:small;color:rgb(34,34,34);font-fa=
+mily:arial;background-color:rgb(255,255,255)"><br></div><div style=3D"font-=
+size:small;color:rgb(34,34,34);font-family:arial;background-color:rgb(255,2=
+55,255)">Gesch=C3=A4ftsf=C3=BChrer: Frank Ratzel, Gunnar Petersohn</div><di=
+v style=3D"font-size:small;color:rgb(34,34,34);font-family:arial;background=
+-color:rgb(255,255,255)"><hr></div></div></div>
+--000000000000bb801d058cc3b2ac--

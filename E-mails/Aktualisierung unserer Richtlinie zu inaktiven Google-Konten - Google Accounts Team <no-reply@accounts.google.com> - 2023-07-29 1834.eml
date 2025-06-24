@@ -1,0 +1,440 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <technikagfichte+caf_=technikag=fichte-gymnasium.de@gmail.com>
+Received: from mail-hub02.belwue.de ([2001:7c0:0:76::42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 70385312 for technikag@fichte-gymnasium.de; Sat, 29 Jul 2023 18:34:27 +0200
+Received: from mail-in01.belwue.de (mail-in01.belwue.de [IPv6:2001:7c0:0:76::1])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4RCqpW5rGNz5lG7
+	for <technikag@fichte-gymnasium.de>; Sat, 29 Jul 2023 18:34:27 +0200 (CEST)
+Received: from mail-ej1-x62b.google.com (mail-ej1-x62b.google.com [IPv6:2a00:1450:4864:20::62b])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in01.belwue.de (Postfix) with ESMTPS id 4RCqpW1KpZz53KSF
+	for <technikag@fichte-gymnasium.de>; Sat, 29 Jul 2023 18:34:27 +0200 (CEST)
+Received: by mail-ej1-x62b.google.com with SMTP id a640c23a62f3a-9923833737eso433459066b.3
+        for <technikag@fichte-gymnasium.de>; Sat, 29 Jul 2023 09:34:27 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20221208; t=1690648467; x=1691253267;
+        h=to:from:subject:message-id:feedback-id:reply-to:date:mime-version
+         :dkim-signature:delivered-to:x-forwarded-for:x-forwarded-to
+         :x-gm-message-state:from:to:cc:subject:date:message-id:reply-to;
+        bh=6tKeuuknzC4rBXGuPYVsp4635xYHydLro2PKV1IkF2E=;
+        b=GefZD1IAZCysC1lkfYuSwBgaTrEt/MrUkOLVJZH6cOBJgb0KTuPJfSb1PT22OIfut6
+         t4whK4tdW8mI4r8J63JwN/oTn6jxXl+JBh0ZcB31wd5bdSA3zbfisYJG4lSvRnbJREYc
+         1/CnfTaTwr5sSJ7i1Rcr13ogEO7AyfFlBkHUSQqVIV1Q5dpKZ91D9SCRPzRX43A1G6LB
+         mRvTV9rw1IBGFX6ZZKBhaOuhmftseRrZynk+g75pYUWhKv/rya7ihNl2C7Ko6hMV2rd7
+         QPLP1pza7/0gVR18XJNOGCz5RCZqzAIXEf8VyzfMJqsUkForguhI31upWLFqws/mamWz
+         TC3Q==
+X-Gm-Message-State: ABy/qLbOb14imxsD7CyJCWoSQL6PIgyh5lpFSbQ570p5AJedfxr5xoWs
+	Lw4/NiaUXO8GgucbnQ4LZJycF/Woe5Q6HCZDJUEqy7KtNHAXP82RNw==
+X-Received: by 2002:a17:906:ef90:b0:987:5761:2868 with SMTP id ze16-20020a170906ef9000b0098757612868mr2521810ejb.11.1690648466663;
+        Sat, 29 Jul 2023 09:34:26 -0700 (PDT)
+X-Forwarded-To: technikag@fichte-gymnasium.de
+X-Forwarded-For: technikagfichte@gmail.com technikag@fichte-gymnasium.de
+Delivered-To: technikagfichte@gmail.com
+Received: by 2002:a05:6f02:6547:b0:54:2125:9788 with SMTP id s7csp1189121rce;
+        Sat, 29 Jul 2023 09:34:25 -0700 (PDT)
+X-Received: by 2002:a9d:6c87:0:b0:6bc:8632:e150 with SMTP id c7-20020a9d6c87000000b006bc8632e150mr4738589otr.5.1690648465030;
+        Sat, 29 Jul 2023 09:34:25 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1690648465; cv=none;
+        d=google.com; s=arc-20160816;
+        b=MIr81WzxjJCEWQnzeCQtUeOv65mTv2UGsFvluU+vqO8pVJk6ShxRwkU3vRtjrSwobx
+         UIAeYXDHtS2wUZB2FTexUykT4bmF/0azoNSAS/LLJnZHx1Ic+SJ7QPWlNRs33XHLwPcY
+         wDMXzEFtjsGnp29ainVgwBYgo02+mVnK4z9zO5zsBwGVhoO479v1FY+y4kB07tO6GID9
+         3ulFA5UXUnIRAt9We+MSFf3cxNkpPmz31oDFvhc7oJiEt+C20Ei7QWay1Jhry8LyRQlg
+         3tQapisf3QwWqVsKk5J3aevuwO9qM+5Xcz4FpDmQjPXNWlLbDEg/GHCrXJ2oSl4mXZvB
+         AD5A==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=to:from:subject:message-id:feedback-id:reply-to:date:mime-version
+         :dkim-signature;
+        bh=6tKeuuknzC4rBXGuPYVsp4635xYHydLro2PKV1IkF2E=;
+        fh=7uV8vnZyYkTELW+jf493GPDwmo5TvbIrPpHG/qVuUDA=;
+        b=ACofJcKgKrvePziYLG6c2QKyBbVABtm5i+AlFsWOOR10ZAXOdpwhpAR+UZs/Wx32So
+         vQhOTDBhGcGS3tSPYXLL/qJCBhLJ0p1Bu2Pkw1IflZ8B/YmqcqlE2I1+eHFbrAT/a47K
+         RO3/n4CaOlUF8P4ChCIPbHYZgWIKn9R3FRPIVBRGbJc40Jxo3mHuJ+esyHlSr81TG/O4
+         UOVA79dXZ7NUOaEZj4aO+a2uwFkHSQdmIX9ns4pgNm6/7uAmYSRlcIK9/KhYNnCSJTRi
+         6tp5ZZSc8vuTa0SiHUH7GiDlhwy3LF5p8ZNe7TbPkDvEYmIHZ0gyhuzufvxS3OJOEv6+
+         YmUQ==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@google.com header.s=20221208 header.b=KJ16h4qU;
+       spf=pass (google.com: domain of 3kd_fzagtd1e67-ax84htvv7d6cb.z77z4x.v75cxv0613tzy1v0cxz5t14.v75@scoutcamp.bounces.google.com designates 209.85.220.69 as permitted sender) smtp.mailfrom=3kD_FZAgTD1E67-Ax84Htvv7D6CB.z77z4x.v75Cxv0613tzy1v0Cxz5t14.v75@scoutcamp.bounces.google.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=accounts.google.com
+Received: from mail-sor-f69.google.com (mail-sor-f69.google.com. [209.85.220.69])
+        by mx.google.com with SMTPS id u30-20020a9d721e000000b006b744451e03sor7286309otj.18.2023.07.29.09.34.24
+        for <technikagfichte@gmail.com>
+        (Google Transport Security);
+        Sat, 29 Jul 2023 09:34:25 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 3kd_fzagtd1e67-ax84htvv7d6cb.z77z4x.v75cxv0613tzy1v0cxz5t14.v75@scoutcamp.bounces.google.com designates 209.85.220.69 as permitted sender) client-ip=209.85.220.69;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@google.com header.s=20221208 header.b=KJ16h4qU;
+       spf=pass (google.com: domain of 3kd_fzagtd1e67-ax84htvv7d6cb.z77z4x.v75cxv0613tzy1v0cxz5t14.v75@scoutcamp.bounces.google.com designates 209.85.220.69 as permitted sender) smtp.mailfrom=3kD_FZAgTD1E67-Ax84Htvv7D6CB.z77z4x.v75Cxv0613tzy1v0Cxz5t14.v75@scoutcamp.bounces.google.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=accounts.google.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20221208; t=1690648464; x=1691253264;
+        h=to:from:subject:message-id:feedback-id:reply-to:date:mime-version
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=6tKeuuknzC4rBXGuPYVsp4635xYHydLro2PKV1IkF2E=;
+        b=KJ16h4qUcmQoEap+5WOJaZGVrmpTt6OdUxe0NimSGETeo2VG/JC3aIUIpeCOxlonhR
+         zxUV2vjolLytsW5A5W+0YqgFgD+TWQESBxUEQyJhd4/LLef7S84TekOQ3XR0mLcC0aZI
+         /uE9lFVdw4INcPXp37ThpD46F1ZVdkrvHddEe8WJKa8kS4tIXtUmk7gmZIv55ETQESUP
+         quvZOxFHB7WiIwK1Ab/BAYkw64WLsMtBKiXXRkelUv97aLxDgGSTyMxspX39jd1XjPN4
+         WDnQOeV5QNttiTbtycdnVkeSL5ZVjETSFt1FTAcRo5sbbEs2v4lQd1OBBnSuQBTdJP3E
+         kQEg==
+X-Google-Smtp-Source: APBJJlGddijqWNObNYdZH9pLFdWNYI/81tpr6o1i3DVndkr1y0W3nU9kJoaQiS10Q30ufPiMY7coH5M=
+MIME-Version: 1.0
+X-Received: by 2002:a05:6830:14d0:b0:6b7:54de:87dc with SMTP id
+ t16-20020a05683014d000b006b754de87dcmr6924989otq.0.1690648464432; Sat, 29 Jul
+ 2023 09:34:24 -0700 (PDT)
+Date: Sat, 29 Jul 2023 09:34:24 -0700
+Reply-To: Google Accounts Team <no-reply@accounts.google.com>
+X-Google-Id: https://launch.corp.google.com/launch/4179981
+Feedback-ID: P2725-0:C20224411:M110597115-de:gamma
+X-Notifications: e27167336ee40000
+X-Notifications-Bounce-Info: AayBb5OvIgskMJoWXOnGuP3qpjLbrqvZNmKQCQYZgV5D4_FKtrEK61-G-SUYQnG3QsRJK6hJOtU5MDG3gQpY1gZ7sZUb5QOqAijkFwmQp5BlX1HN33uHYVSR9Vdos8GMIRtzdxDp72Q6JQlt0HTAT_gDYTby8mLghDMXwpbRpDxjzceoAcZam391qPcA_Vf0xt5dszoZbI8IdDRAzpZ1EYQkPHj-zTxkiFGxSq0sIvPYsNJZDAE3UYdfo5MUIgWWg9szjjAgsQqUr-bIDT1L7I9ADujF1Nn1-kV46wKyqo6iuiu-R7riIZZFmOhQ28Ibdjjv9JSvqWVFGyBN79wfWkOYcX_SoBAqygxk9rGkGyqJxgYNjAwNjA0MDQxNTM1NTk2OTMzMg
+Message-ID: <31ee8289d6c40ec3fb71592723cad70a041bc6ac-20224411-111291514@google.com>
+Subject: Aktualisierung unserer Richtlinie zu inaktiven Google-Konten
+From: Google Accounts Team <no-reply@accounts.google.com>
+To: technikagfichte@gmail.com
+Content-Type: multipart/alternative; boundary="00000000000029a0250601a2c55c"
+X-Rspamd-SPAM-Probability: 0
+X-Rspamd-Queue-Id: 4RCqpW1KpZz53KSF
+X-Rspamd-UID: 0ece4e
+
+--00000000000029a0250601a2c55c
+Content-Type: text/plain; charset="UTF-8"; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+R29vZ2xlIGFyYmVpdGV0IHN0w6RuZGlnIGRhcmFuLCBTaWUgdW5kIElocmUgcHJpdmF0ZW4gSW5m
+b3JtYXRpb25lbiB6dQ0Kc2Now7x0emVuLiBXaXIgYmVtw7xoZW4gdW5zLCBtaXRoaWxmZSB1bnNl
+cmVyIGludGVncmllcnRlbg0KU2ljaGVyaGVpdHNtYcOfbmFobWVuIGRlbiB1bmJlZnVndGVuIFp1
+Z3JpZmYgYXVmIElociBHb29nbGUtS29udG8genUNCnZlcmhpbmRlcm4uIEVpbiB3ZXNlbnRsaWNo
+ZXIgQmVzdGFuZHRlaWwgZGllc2VyIE1hw59uYWhtZW4gaXN0IGRlciBzdHJpa3RlDQpVbWdhbmcg
+bWl0IGRlbSBEYXRlbnNjaHV0eiBpbiBhbGxlbiB1bnNlcmVuIFByb2R1a3Rlbi4gSGllcmJlaSB3
+aXJkIHVudGVyDQphbmRlcmVtIGRpZSBTcGVpY2hlcmRhdWVyIElocmVyIHBlcnPDtm5saWNoZW4g
+RGF0ZWllbiB1bmQgamVnbGljaGVyDQp6dWdlaMO2cmlnZXIgRGF0ZW4gbWluaW1pZXJ0LiBXaXIg
+bcO2Y2h0ZW4gSWhyZSBwcml2YXRlbiBJbmZvcm1hdGlvbmVuDQpzY2jDvHR6ZW4gdW5kIGRlbiBa
+dWdyaWZmIGF1ZiBJaHIgS29udG8gZHVyY2ggVW5iZWZ1Z3RlIGJlc3Rtw7ZnbGljaA0KdmVyaGlu
+ZGVybiwgdW5kIHp3YXIgYXVjaCBkYW5uLCB3ZW5uIFNpZSB1bnNlcmUgRGllbnN0ZSBuaWNodCBt
+ZWhyIG51dHplbi4NCg0KRGFoZXIgc3RlbGxlbiB3aXIgZGVuIEluYWt0aXZpdMOkdHN6ZWl0cmF1
+bQ0KPGh0dHBzOi8vc3VwcG9ydC5nb29nbGUuY29tL2FjY291bnRzP3A9aW5hY3RpdmVfYWNjb3Vu
+dF9wb2xpY3lfZW1haWw+IGbDvHINCmVpbiBHb29nbGUtS29udG8gYmVpIGFsbGVuIHVuc2VyZW4g
+UHJvZHVrdGVuIHVuZCBEaWVuc3RlbiBhdWYgendlaSBKYWhyZQ0KdW0uIERpZXNlIMOEbmRlcnVu
+ZyB3aXJkIGFiIGhldXRlIHVtZ2VzZXR6dCB1bmQgZ2lsdCBmw7xyIGFsbGUgaW5ha3RpdmVuDQpH
+b29nbGUtS29udGVuLCBkLiBoLiBmw7xyIHNvbGNoZSwgYmVpIGRlbmVuIHNlaXQgbWluZGVzdGVu
+cyB6d2VpIEphaHJlbg0Ka2VpbmUgQW5tZWxkdW5nIG9kZXIgTnV0enVuZyBtZWhyIGZlc3RnZXN0
+ZWxsdCB3dXJkZS4gSW5ha3RpdmUgS29udGVuIG1pdA0KYWxsZW4gZGFyaW4gZW50aGFsdGVuZW4g
+SW5oYWx0ZW4ga8O2bm5lbiBhYiBkZW0gMS4gRGV6ZW1iZXIgMjAyMyBnZWzDtnNjaHQNCndlcmRl
+bi4NCg0KKldhcyBkaWVzIGbDvHIgU2llIGJlZGV1dGV0OioNCg0KICAgIC0gU2llIHNpbmQgdm9u
+IGRpZXNlbiDDhG5kZXJ1bmdlbiBudXIgZGFubiBiZXRyb2ZmZW4sIHdlbm4gU2llIHNlaXQNCiAg
+ICBtaW5kZXN0ZW5zIHp3ZWkgSmFocmVuIG5pY2h0IG1laHIgaW4gSWhyZW0gR29vZ2xlLUtvbnRv
+IGFrdGl2IGdld2VzZW4gIA0Kc2luZA0KICAgIG9kZXIgZXMgc2VpdCBtZWhyIGFscyB6d2VpIEph
+aHJlbiBuaWNodCBtZWhyIHp1ciBBbm1lbGR1bmcgaW4gZWluZW0NCiAgICBHb29nbGUtRGllbnN0
+IHZlcndlbmRldCBoYWJlbi4NCiAgICAtIERpZSDDhG5kZXJ1bmdlbiB0cmV0ZW4gendhciBoZXV0
+ZSBpbiBLcmFmdCwgYWJlciB3aXIgbMO2c2NoZW4gS29udGVuDQogICAgZnLDvGhlc3RlbnMgaW0g
+RGV6ZW1iZXIgMjAyMy4NCiAgICAtIEZhbGxzIElociBLb250byBhbHMgaW5ha3RpdiBhbmdlc2Vo
+ZW4gd2lyZCwgc2VuZGVuIHdpciBzb3dvaGwgYW4gZGllc2UNCiAgICBFLU1haWwtQWRyZXNzZSBh
+bHMgYXVjaCBhbiBJaHJlIEUtTWFpbC1BZHJlc3NlIHp1ciBLb250b3dpZWRlcmhlcnN0ZWxsdW5n
+DQogICAgKHNvZmVybiB2b3JoYW5kZW4pIG1laHJlcmUgRXJpbm5lcnVuZ3MtRS1NYWlscywgYmV2
+b3Igd2lyIE1hw59uYWhtZW4NCiAgICBlcmdyZWlmZW4gb2RlciBLb250b2luaGFsdGUgbMO2c2No
+ZW4uIERpZXNlIEVyaW5uZXJ1bmdzLUUtTWFpbHMgd2VyZGVuDQogICAgbWluZGVzdGVucyBhY2h0
+IE1vbmF0ZSB2b3JhYiBnZXNlbmRldC4NCiAgICAtIE5hY2hkZW0gZWluIEdvb2dsZS1Lb250byBn
+ZWzDtnNjaHQgd3VyZGUsIGthbm4gZGllIEdtYWlsLUFkcmVzc2UgZGVzDQogICAgZ2Vsw7ZzY2h0
+ZW4gS29udG9zIG5pY2h0IG1laHIgenVtIEVyc3RlbGxlbiBlaW5lcyBuZXVlbiBHb29nbGUtS29u
+dG9zDQogICAgdmVyd2VuZGV0IHdlcmRlbi4NCg0KKlNvIHNvcmdlbiBTaWUgZGFmw7xyLCBkYXNz
+IElociBLb250byBha3RpdiBibGVpYnQqDQoNCkRpZSBlaW5mYWNoc3RlIE1ldGhvZGUgaXN0LCBz
+aWNoIG1pbmRlc3RlbnMgZWlubWFsIGFsbGUgendlaSBKYWhyZSBpbiBJaHJlbQ0KR29vZ2xlLUtv
+bnRvIGFuenVtZWxkZW4uIFdlbm4gU2llIGRhcyBpbm5lcmhhbGIgZGVyIGxldHp0ZW4gendlaSBK
+YWhyZQ0KZ2V0YW4gaGFiZW4sIHdpcmQgSWhyIEtvbnRvIGFscyBha3RpdiBhbmdlc2VoZW4gdW5k
+IG5pY2h0IGdlbMO2c2NodC4NCg0KSWhyIEtvbnRvIGJsZWlidCBhdWNoIGFrdGl2LCB3ZW5uIFNp
+ZToNCg0KICAgIC0gRWluZSBFLU1haWwgbGVzZW4gb2RlciBzZW5kZW4NCiAgICAtIEdvb2dsZSBE
+cml2ZSB2ZXJ3ZW5kZW4NCiAgICAtIEVpbiBZb3VUdWJlLVZpZGVvIGFuc2VoZW4NCiAgICAtIEVp
+biBGb3RvIHRlaWxlbg0KICAgIC0gRWluZSBBcHAgaGVydW50ZXJsYWRlbg0KICAgIC0gRGllIEdv
+b2dsZSBTdWNoZSB2ZXJ3ZW5kZW4NCiAgICAtIOKAnsOcYmVyIEdvb2dsZSBhbm1lbGRlbuKAnCB2
+ZXJ3ZW5kZW4sIHVtIHNpY2ggaW4gZGVyIEFwcCBvZGVyIGRlbSBEaWVuc3QNCiAgICBlaW5lcyBE
+cml0dGFuYmlldGVycyBhbnp1bWVsZGVuDQoNCkVzIGdpYnQgZWluaWdlIEF1c25haG1lbiB2b24g
+ZGllc2VyIFJpY2h0bGluaWUsIHouIEIuIGVpbiBHb29nbGUtS29udG8gbWl0DQpZb3VUdWJlLUth
+bsOkbGVuLCAtVmlkZW9zIG9kZXIgLUtvbW1lbnRhcmVuLCBlaW4gS29udG8gbWl0IGVpbmVyDQpH
+ZXNjaGVua2thcnRlIG1pdCBHZWxkd2VydCBvZGVyIGVpbiBLb250byBtaXQgZWluZXIgdmVyw7Zm
+ZmVudGxpY2h0ZW4gQXBwLA0Kd2llIHouIEIuIGVpbiBLb250bywgZGFzIGVpbmUgQXBwIGltIEdv
+b2dsZSBQbGF5IFN0b3JlIGhvc3RldC4gV2VpdGVyZQ0KQXVzbmFobWVuIHZvbiBkaWVzZXIgUmlj
+aHRsaW5pZSBmaW5kZW4gU2llIGhpZXINCjxodHRwczovL3N1cHBvcnQuZ29vZ2xlLmNvbS9hY2Nv
+dW50cz9wPWluYWN0aXZlX2FjY291bnRfcG9saWN5X2VtYWlsPi4NCg0KR29vZ2xlIGJpZXRldCBh
+dcOfZXJkZW0gVG9vbHMgenVtIFZlcndhbHRlbiBJaHJlcyBHb29nbGUtS29udG9zIHNvd2llDQpN
+w7ZnbGljaGtlaXRlbiB6dXIgU2ljaGVydW5nIElocmVyIERhdGVuLiBTaWUga8O2bm5lbiBiZWlz
+cGllbHN3ZWlzZSBtaXQgZGVtICANCkdvb2dsZQ0KRGF0ZW5leHBvcnQgPGh0dHBzOi8vdGFrZW91
+dC5nb29nbGUuY29tLz4gSWhyZSBEYXRlbiBoZXJ1bnRlcmxhZGVuIG9kZXIgbWl0DQpkZW0gS29u
+dG9pbmFrdGl2aXTDpHQtTWFuYWdlcg0KPGh0dHBzOi8vc3VwcG9ydC5nb29nbGUuY29tL2FjY291
+bnRzL2Fuc3dlci8zMDM2NTQ2PiBwbGFuZW4sIHdhcyBtaXQgSWhyZW4NCkRhdGVuIGdlc2NoZWhl
+biBzb2xsLCB3ZW5uIFNpZSBmw7xyIGVpbmUgYmVzdGltbXRlIFplaXQgbmljaHQgYWt0aXYgd2Fy
+ZW4uDQoNCldpciBtw7ZjaHRlbiBlcyBJaG5lbiBzbyBlaW5mYWNoIHdpZSBtw7ZnbGljaCBtYWNo
+ZW4sIElociBLb250byBha3RpdiB6dQ0KaGFsdGVuLCBzb2Zlcm4gU2llIGRhcyB3w7xuc2NoZW4u
+IERhaGVyIGluZm9ybWllcmVuIHdpciBTaWUgcmVjaHR6ZWl0aWcsDQpzb2xsdGUgc2ljaCBkaWVz
+ZSDDhG5kZXJ1bmcgYXVmIElociBLb250byBhdXN3aXJrZW4uIEJldm9yIGVpbiBLb250bw0KZ2Vs
+w7ZzY2h0IHdpcmQsIHNlbmRlbiB3aXIgQmVuYWNocmljaHRpZ3VuZ2VuIHBlciBFLU1haWwgYW4g
+ZGFzIEdvb2dsZS1Lb250bw0Kc293aWUgYW4gZGllIEUtTWFpbC1BZHJlc3NlIHp1ciBLb250b3dp
+ZWRlcmhlcnN0ZWxsdW5nIChzb2Zlcm4gdm9yaGFuZGVuKS4NCkFjaHRlbiBTaWUgZGFyYXVmLCBk
+YXNzIElocmUgRS1NYWlsLUFkcmVzc2UgenVyIEtvbnRvd2llZGVyaGVyc3RlbGx1bmcNCjxodHRw
+czovL3N1cHBvcnQuZ29vZ2xlLmNvbS9hY2NvdW50cy9hbnN3ZXIvNzI5OTk3Mz4gYWt0dWVsbCBp
+c3QuDQoNCipXZWl0ZXJlIEluZm9ybWF0aW9uZW4qDQoNCiAgICAtIFJpY2h0bGluaWUgenUgaW5h
+a3RpdmVuIEdvb2dsZS1Lb250ZW4NCiAgICA8aHR0cHM6Ly9zdXBwb3J0Lmdvb2dsZS5jb20vYWNj
+b3VudHM/cD1pbmFjdGl2ZV9hY2NvdW50X3BvbGljeV9lbWFpbD4NCiAgICAtIFNvIHNwZWljaGVy
+dCBHb29nbGUgZGllIGVyaG9iZW5lbiBEYXRlbg0KICAgIDxodHRwczovL3BvbGljaWVzLmdvb2ds
+ZS5jb20vdGVjaG5vbG9naWVzL3JldGVudGlvbj4NCiAgICAtIFVwZGF0aW5nIG91ciBpbmFjdGl2
+ZSBhY2NvdW50IHBvbGljaWVzDQogICAgIA0KPGh0dHBzOi8vYmxvZy5nb29nbGUvdGVjaG5vbG9n
+eS9zYWZldHktc2VjdXJpdHkvdXBkYXRpbmctb3VyLWluYWN0aXZlLWFjY291bnQtcG9saWNpZXM+
+DQogICAgKG51ciBhdWYgRW5nbGlzY2ggdmVyZsO8Z2JhcikNCg0KVmllbGUgR3LDvMOfZQ0KRGFz
+IEdvb2dsZSBLb250ZW4tVGVhbQ0KDQpNaXQgZGllc2VyIEUtTWFpbCBpbmZvcm1pZXJlbiB3aXIg
+U2llIMO8YmVyIHdpY2h0aWdlIMOEbmRlcnVuZ2VuLCBkaWUgSWhyDQpHb29nbGUtS29udG8gdW5k
+IElocmUgR29vZ2xlLURpZW5zdGUgYmV0cmVmZmVuLg0KDQoNCsKpIDIwMjMgR29vZ2xlIExMQyAx
+NjAwIEFtcGhpdGhlYXRyZSBQYXJrd2F5LCBNb3VudGFpbiBWaWV3LCBDQSA5NDA0Mw0K
+--00000000000029a0250601a2c55c
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html lang=3Dde>
+<head>
+<meta name=3Dformat-detection content=3Demail=3Dno>
+<meta name=3Dformat-detection content=3Ddate=3Dno>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8"><sty=
+le type=3Dtext/css>
+body {font-family:Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;colo=
+r:#5f6368;line-height:1.5;font-size:16px} li, p {margin:25px 0}@media scree=
+n and (min-width: 600px) {.v2sp {padding: 6px 30px 0;} .v2rsp {padding: 0 1=
+0px;}} @media screen and (min-width: 600px) {.mdv2rw {padding: 40px 40px;}}=
+=20
+</style>
+<link type=3Dtext/css href=3D//fonts.googleapis.com/css?family=3DGoogle+San=
+s_old rel=3Dstylesheet>
+<title>Aktualisierung der Google-Kontorichtlinie</title>
+</head>
+<body style=3D"margin: 0; padding: 0;" bgcolor=3D#FAFAFA>
+<table width=3D100% height=3D100% style=3D"min-width: 348px;" border=3D0 ce=
+llspacing=3D0 cellpadding=3D0 lang=3Dde bgcolor=3D#FAFAFA role=3Dpresentati=
+on>
+<tr align=3Dcenter>
+<td>
+<table width=3D100% cellspacing=3D0 cellpadding=3D0 bgcolor=3D#FAFAFA style=
+=3Dmax-width:600px role=3Dpresentation>
+<tr>
+<td style=3Dpadding-top:20px;padding-bottom:20px;padding-left:40px;padding-=
+right:40px>
+<table width=3D100% cellspacing=3D0 cellpadding=3D0 role=3Dpresentation>
+<tr>
+<td><img src=3Dhttps://www.gstatic.com/images/branding/googlelogo/1x/google=
+logo_color_112x36dp.png alt=3D"" title=3D""></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3Dpadding-left:15px;padding-right:15px>
+<table width=3D100% cellspacing=3D0 cellpadding=3D0 role=3Dpresentation>
+<tr>
+<td bgcolor=3D#ffffff style=3D"padding:35px 35px 10px 35px;border-radius:4p=
+x">
+<table border=3D0 cellspacing=3D0 cellpadding=3D0 role=3Dpresentation>
+<tr>
+<td>
+<p style=3D"margin:25px 0;font-family:Roboto, Helvetica Neue, Helvetica, Ar=
+ial, sans-serif;color:#5f6368;line-height:1.5;font-size:16px">Google arbeit=
+et st=C3=A4ndig daran, Sie und Ihre privaten Informationen zu sch=C3=BCtzen=
+. Wir bem=C3=BChen uns, mithilfe unserer integrierten Sicherheitsma=C3=9Fna=
+hmen den unbefugten Zugriff auf Ihr Google-Konto zu verhindern. Ein wesentl=
+icher Bestandteil dieser Ma=C3=9Fnahmen ist der strikte Umgang mit dem Date=
+nschutz in allen unseren Produkten. Hierbei wird unter anderem die Speicher=
+dauer Ihrer pers=C3=B6nlichen Dateien und jeglicher zugeh=C3=B6riger Daten =
+minimiert. Wir m=C3=B6chten Ihre privaten Informationen sch=C3=BCtzen und d=
+en Zugriff auf Ihr Konto durch Unbefugte bestm=C3=B6glich verhindern, und z=
+war auch dann, wenn Sie unsere Dienste nicht mehr nutzen.</p>
+<p style=3D"margin:25px 0;font-family:Roboto, Helvetica Neue, Helvetica, Ar=
+ial, sans-serif;color:#5f6368;line-height:1.5;font-size:16px">Daher stellen=
+ wir den <a href=3Dhttps://notifications.google.com/g/p/ADa0GC_U5l0oWqM0nSd=
+ClOnhB-Dk9v4c8BmpUCjlr_-HxDoTf6ECAGVbLSxAfvDIJHzF8y6MMAbL4f89JpFyUBOHo0PrUG=
+iYFilZMGiyYwTHnlznrs8wyutsEv5p45P2OlXEeOS6PMMQCmLudyrdCSvlH-3sG3aC4grT_l5ja=
+w24QMJ_PponXiP-Hk4g5wTExHZGpybLOi5bPnaxS0eYldiIQu5M4ku9MZOOLHHse3QLKblnaQ>I=
+naktivit=C3=A4tszeitraum</a> f=C3=BCr ein Google-Konto bei allen unseren Pr=
+odukten und Diensten auf zwei Jahre um. Diese =C3=84nderung wird ab heute u=
+mgesetzt und gilt f=C3=BCr alle inaktiven Google-Konten, d.=C2=A0h. f=C3=BC=
+r solche, bei denen seit mindestens zwei Jahren keine Anmeldung oder Nutzun=
+g mehr festgestellt wurde. Inaktive Konten mit allen darin enthaltenen Inha=
+lten k=C3=B6nnen ab dem 1. Dezember 2023 gel=C3=B6scht werden.</p>
+<p style=3D"margin:25px 0 0 0;font-family:Roboto, Helvetica Neue, Helvetica=
+, Arial, sans-serif;color:#5f6368;line-height:1.5;font-size:16px"><b>Was di=
+es f=C3=BCr Sie bedeutet:</b></p>
+<ul style=3D"margin-top: 0;">
+<li style=3D"margin:0 0;font-family:Roboto, Helvetica Neue, Helvetica, Aria=
+l, sans-serif;color:#5f6368;line-height:1.5;font-size:16px">Sie sind von di=
+esen =C3=84nderungen <span style=3D"font-weight: bold">nur dann</span> betr=
+offen, wenn Sie seit mindestens zwei Jahren nicht mehr in Ihrem Google-Kont=
+o aktiv gewesen sind oder es seit mehr als zwei Jahren nicht mehr zur Anmel=
+dung in einem Google-Dienst verwendet haben.</li>
+<li style=3D"margin:0 0;font-family:Roboto, Helvetica Neue, Helvetica, Aria=
+l, sans-serif;color:#5f6368;line-height:1.5;font-size:16px">Die =C3=84nderu=
+ngen treten zwar heute in Kraft, aber wir l=C3=B6schen Konten fr=C3=BCheste=
+ns im <span style=3D"font-weight: bold">Dezember 2023</span>.</li>
+<li style=3D"margin:0 0;font-family:Roboto, Helvetica Neue, Helvetica, Aria=
+l, sans-serif;color:#5f6368;line-height:1.5;font-size:16px">Falls Ihr Konto=
+ als inaktiv angesehen wird, senden wir sowohl an diese E-Mail-Adresse als =
+auch an Ihre E-Mail-Adresse zur Kontowiederherstellung (sofern vorhanden) m=
+ehrere Erinnerungs-E-Mails, bevor wir Ma=C3=9Fnahmen ergreifen oder Kontoin=
+halte l=C3=B6schen. Diese Erinnerungs-E-Mails werden mindestens acht Monate=
+ vorab gesendet.</li>
+<li style=3D"margin:0 0;font-family:Roboto, Helvetica Neue, Helvetica, Aria=
+l, sans-serif;color:#5f6368;line-height:1.5;font-size:16px">Nachdem ein Goo=
+gle-Konto gel=C3=B6scht wurde, kann die Gmail-Adresse des gel=C3=B6schten K=
+ontos nicht mehr zum Erstellen eines neuen Google-Kontos verwendet werden.<=
+/li>
+</ul>
+<p style=3D"margin:25px 0 0 0;font-family:Roboto, Helvetica Neue, Helvetica=
+, Arial, sans-serif;color:#5f6368;line-height:1.5;font-size:16px"><b>So sor=
+gen Sie daf=C3=BCr, dass Ihr Konto aktiv bleibt</b></p>
+<p style=3D"margin:0 0;font-family:Roboto, Helvetica Neue, Helvetica, Arial=
+, sans-serif;color:#5f6368;line-height:1.5;font-size:16px">Die einfachste M=
+ethode ist, sich mindestens einmal alle zwei Jahre in Ihrem Google-Konto an=
+zumelden. Wenn Sie das innerhalb der letzten zwei Jahre getan haben, wird I=
+hr Konto als aktiv angesehen und nicht gel=C3=B6scht.</p>
+<p style=3D"margin:25px 0 0 0;font-family:Roboto, Helvetica Neue, Helvetica=
+, Arial, sans-serif;color:#5f6368;line-height:1.5;font-size:16px">Ihr Konto=
+ bleibt auch aktiv, wenn Sie:</p>
+<ul style=3D"margin-top: 0;">
+<li style=3D"margin:0 0;font-family:Roboto, Helvetica Neue, Helvetica, Aria=
+l, sans-serif;color:#5f6368;line-height:1.5;font-size:16px">Eine E-Mail les=
+en oder senden</li>
+<li style=3D"margin:0 0;font-family:Roboto, Helvetica Neue, Helvetica, Aria=
+l, sans-serif;color:#5f6368;line-height:1.5;font-size:16px">Google Drive ve=
+rwenden</li>
+<li style=3D"margin:0 0;font-family:Roboto, Helvetica Neue, Helvetica, Aria=
+l, sans-serif;color:#5f6368;line-height:1.5;font-size:16px">Ein YouTube-Vid=
+eo ansehen</li>
+<li style=3D"margin:0 0;font-family:Roboto, Helvetica Neue, Helvetica, Aria=
+l, sans-serif;color:#5f6368;line-height:1.5;font-size:16px">Ein Foto teilen=
+</li>
+<li style=3D"margin:0 0;font-family:Roboto, Helvetica Neue, Helvetica, Aria=
+l, sans-serif;color:#5f6368;line-height:1.5;font-size:16px">Eine App herunt=
+erladen</li>
+<li style=3D"margin:0 0;font-family:Roboto, Helvetica Neue, Helvetica, Aria=
+l, sans-serif;color:#5f6368;line-height:1.5;font-size:16px">Die Google Such=
+e verwenden</li>
+<li style=3D"margin:0 0;font-family:Roboto, Helvetica Neue, Helvetica, Aria=
+l, sans-serif;color:#5f6368;line-height:1.5;font-size:16px">=E2=80=9E=C3=9C=
+ber Google anmelden=E2=80=9C verwenden, um sich in der App oder dem Dienst =
+eines Drittanbieters anzumelden</li>
+</ul>
+<p style=3D"margin:25px 0;font-family:Roboto, Helvetica Neue, Helvetica, Ar=
+ial, sans-serif;color:#5f6368;line-height:1.5;font-size:16px">Es gibt einig=
+e Ausnahmen von dieser Richtlinie, z.=C2=A0B. ein Google-Konto mit YouTube-=
+Kan=C3=A4len, -Videos oder -Kommentaren, ein Konto mit einer Geschenkkarte =
+mit Geldwert oder ein Konto mit einer ver=C3=B6ffentlichten App, wie z.=C2=
+=A0B. ein Konto, das eine App im Google Play Store hostet. Weitere Ausnahme=
+n von dieser Richtlinie finden Sie <a href=3Dhttps://notifications.google.c=
+om/g/p/ADa0GC_U5l0oWqM0nSdClOnhB-Dk9v4c8BmpUCjlr_-HxDoTf6ECAGVbLSxAfvDIJHzF=
+8y6MMAbL4f89JpFyUBOHo0PrUGiYFilZMGiyYwTHnlznrs8wyutsEv5p45P2OlXEeOS6PMMQCmL=
+udyrdCSvlH-3sG3aC4grT_l5jaw24QMJ_PponXiP-Hk4g5wTExHZGpybLOi5bPnaxS0eYldiIQu=
+5M4ku9MZOOLHHse3QLKblnaQ>hier</a>.</p>
+<p style=3D"margin:25px 0;font-family:Roboto, Helvetica Neue, Helvetica, Ar=
+ial, sans-serif;color:#5f6368;line-height:1.5;font-size:16px">Google bietet=
+ au=C3=9Ferdem Tools zum Verwalten Ihres Google-Kontos sowie M=C3=B6glichke=
+iten zur Sicherung Ihrer Daten. Sie k=C3=B6nnen beispielsweise mit dem <a h=
+ref=3Dhttps://notifications.google.com/g/p/ADa0GC9MjW_wo-a80h8WYnm_fi7L04-z=
+SQN54kGkaKnLE6UV0TIkySQ2Qbim6emMs40HUMZhIabsUN5umiEtV4mhLuIRWAIHsujLtEVGW5a=
+sxt27zkCAjYt2P_JqFxSnFkytsRtqXx4oXrTQOecXVWRKwtK8v4vHvNvRR2usSHGws6gN7_1YIE=
+9grq8p>Google Datenexport</a> Ihre Daten herunterladen oder mit dem <a href=
+=3Dhttps://notifications.google.com/g/p/ADa0GC_3BUiU0FVsxueXPKND9S_oRyQ4QCC=
+6lw1WCzLvQtPjESEhGTJhyCgAe0wa2Cw4SIzHxuYGPubUb5OlTJ9I3fTulUIHexVlLVuHOLokLC=
+hoR2jnZ-OgTO0RaHIZnOrviewOKQPLRRqCD7RC5A1f0KDt_hBa4pW53w75IPan_MzGG4-jw6pRA=
+-OxCa2MlyRAFF4G_rTL3J2pyy4en_mEg5E>Kontoinaktivit=C3=A4t-Manager</a> planen=
+, was mit Ihren Daten geschehen soll, wenn Sie f=C3=BCr eine bestimmte Zeit=
+ nicht aktiv waren.</p>
+<p style=3D"margin:25px 0;font-family:Roboto, Helvetica Neue, Helvetica, Ar=
+ial, sans-serif;color:#5f6368;line-height:1.5;font-size:16px">Wir m=C3=B6ch=
+ten es Ihnen so einfach wie m=C3=B6glich machen, Ihr Konto aktiv zu halten,=
+ sofern Sie das w=C3=BCnschen. Daher informieren wir Sie rechtzeitig, sollt=
+e sich diese =C3=84nderung auf Ihr Konto auswirken. Bevor ein Konto gel=C3=
+=B6scht wird, senden wir Benachrichtigungen per E-Mail an das Google-Konto =
+sowie an die E-Mail-Adresse zur Kontowiederherstellung (sofern vorhanden). =
+Achten Sie darauf, dass Ihre <a href=3Dhttps://notifications.google.com/g/p=
+/ADa0GC-boAKssiDZ0jjAPg4ePNLmjO0eMtZtUlb0MVe5gwsuJyKfAwU53Z0phbhHQtlpQYIAIu=
+McF--A1lwWiTpRq26R6-F0bay86Dv4U-GU2yxL-0ou0UBkRG8PTm3Rm5NQRvSENWPYSvxYFnt-y=
+lsQ4HSyNc5jP1rTBvHVq4adWfX6YOn71OOF3A3gvNNrUFxhpeoNYsDFGbhT-XrP-PTFRNQ>E-Ma=
+il-Adresse zur Kontowiederherstellung</a> aktuell ist.</p>
+<p style=3D"margin:25px 0 0 0;font-family:Roboto, Helvetica Neue, Helvetica=
+, Arial, sans-serif;color:#5f6368;line-height:1.5;font-size:16px"><b>Weiter=
+e Informationen</b></p>
+<ul style=3D"margin-top: 0;">
+<li style=3D"margin:0 0;font-family:Roboto, Helvetica Neue, Helvetica, Aria=
+l, sans-serif;color:#5f6368;line-height:1.5;font-size:16px"><a href=3Dhttps=
+://notifications.google.com/g/p/ADa0GC_U5l0oWqM0nSdClOnhB-Dk9v4c8BmpUCjlr_-=
+HxDoTf6ECAGVbLSxAfvDIJHzF8y6MMAbL4f89JpFyUBOHo0PrUGiYFilZMGiyYwTHnlznrs8wyu=
+tsEv5p45P2OlXEeOS6PMMQCmLudyrdCSvlH-3sG3aC4grT_l5jaw24QMJ_PponXiP-Hk4g5wTEx=
+HZGpybLOi5bPnaxS0eYldiIQu5M4ku9MZOOLHHse3QLKblnaQ>Richtlinie zu inaktiven G=
+oogle-Konten</a></li>
+<li style=3D"margin:0 0;font-family:Roboto, Helvetica Neue, Helvetica, Aria=
+l, sans-serif;color:#5f6368;line-height:1.5;font-size:16px"><a href=3Dhttps=
+://notifications.google.com/g/p/ADa0GC8j53ZoKRrYk51oIm-Pyept2ypvlNyOxEKfOC9=
+EIVcdDzLvyQvrPZLqqsVXSU-Hsc1mauSip167dTkdJ-B2fjrEf8dZqE9-fNJ3va5z0WKlaDCbX5=
+rvM5sea9z5VGYbbeEMIK812YWZh4pjvi98nltTPWqn9LSixLSNhF9f_omz3pfs8dtG7l3uCOmwn=
+_wEbsLm8WHddij2OtRROH51T9Y>So speichert Google die erhobenen Daten</a></li>
+<li style=3D"margin:0 0;font-family:Roboto, Helvetica Neue, Helvetica, Aria=
+l, sans-serif;color:#5f6368;line-height:1.5;font-size:16px"><a href=3Dhttps=
+://notifications.google.com/g/p/ADa0GC8dGjMz3AsUh32dLwENoIQp8GaPRr1WSZ1X4Xf=
+5f9aWaDDf_NpCt9X1jVdpa-IsIj6b9WwRd7V7T38LlQ3JSsnyoQT8-X1h_M5WUILpDTR9zVbzlk=
+IA-5xEy0hMwY594el9MwIvS1BCU84yzxxScDMpX_s2fM9-BKRkfSqcRBc1CDggLkU-9g0XKSjdp=
+srraG1ShmRD3gmMU_ahIjQ0YeXAHFXrYBS1RA_-afMDdME6d4MmvwXN_IZbWxOzx2rLZde1dQ>U=
+pdating our inactive account policies</a> (nur auf Englisch verf=C3=BCgbar)=
+</li>
+</ul>
+<p style=3D"margin:25px 0;font-family:Roboto, Helvetica Neue, Helvetica, Ar=
+ial, sans-serif;color:#5f6368;line-height:1.5;font-size:16px">Viele Gr=C3=
+=BC=C3=9Fe<br>
+Das Google Konten-Team</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3Dpadding:40px>
+<table width=3D100% border=3D0 cellspacing=3D0 cellpadding=3D0 role=3Dprese=
+ntation>
+<tr>
+<td><img src=3Dhttps://www.gstatic.com/s2/oz/images/notifications/ppemail/g=
+s_16q2_welcome_google_logo.png alt=3D"" width=3D100 title=3D""></td>
+</tr>
+<tr>
+<td>
+<p style=3D"margin:25px 0;font-family:Roboto, Helvetica Neue, Helvetica, Ar=
+ial, sans-serif;color:#5f6368;line-height:1.5;font-size:16px">Mit dieser E-=
+Mail informieren wir Sie =C3=BCber wichtige =C3=84nderungen, die Ihr Google=
+-Konto und Ihre Google-Dienste betreffen.</p>
+<p style=3D"margin:25px 0;font-family:Roboto, Helvetica Neue, Helvetica, Ar=
+ial, sans-serif;color:#5f6368;line-height:1.5;font-size:16px">
+
+      <span style=3D"font-size:inherit; color:inherit; font-weight:inherit;=
+ line-height:inherit; font-family:inherit;">=C2=A9 2023 Google LLC 1600 Amp=
+hitheatre Parkway, Mountain View, CA 94043</span>
+  =20
+  =20
+</p>
+<br>
+<br>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+
+--00000000000029a0250601a2c55c--

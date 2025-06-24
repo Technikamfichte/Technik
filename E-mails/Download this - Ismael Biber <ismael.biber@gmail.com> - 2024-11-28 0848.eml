@@ -1,0 +1,82 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <ismael.biber@gmail.com>
+Received: from mail-hub02.belwue.de ([2001:7c0:0:76::42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 96216111 for technikag@fichte-gymnasium.de; Thu, 28 Nov 2024 08:48:47 +0100
+Received: from mail-in02.belwue.de (mail-in02.belwue.de [129.143.76.2])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4XzT2l4Gzlz91TN
+	for <technikag@fichte-gymnasium.de>; Thu, 28 Nov 2024 08:48:47 +0100 (CET)
+Received: from mail-vk1-xa30.google.com (mail-vk1-xa30.google.com [IPv6:2607:f8b0:4864:20::a30])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in02.belwue.de (Postfix) with ESMTPS id 4XzT2l0GsFzB0JKr
+	for <technikag@fichte-gymnasium.de>; Thu, 28 Nov 2024 08:48:47 +0100 (CET)
+Received: by mail-vk1-xa30.google.com with SMTP id 71dfb90a1353d-51536a46e3dso706416e0c.0
+        for <technikag@fichte-gymnasium.de>; Wed, 27 Nov 2024 23:48:46 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20230601; t=1732780125; x=1733384925; darn=fichte-gymnasium.de;
+        h=to:subject:message-id:date:from:mime-version:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=Homsn1RMfZFvSSQBjXEgIX+UKeImKwl5yrsmBAWtDfg=;
+        b=FHzsUUjBqAIpv5/JjiB3muZxU+mA6qW3wgGOcxmCtg4KZNDrXBqFvf7D9YCjbl5Dee
+         CPYJwAWD1Fr5ab5xHdreX7bOfdB+VzdbB+203kOfqjwUIpx4ff/1PXhLpWCr5aymmGKy
+         RwXXFrDveS9vZrKJGFRLww4GK08gd9nj8GJ/FARipFcs/nuRpXhmu1oOOzuqPRBcbXoj
+         4kdaj6tpaVW6hpnMf31s9ZWfMA8x75CsOVq6gUJL84ipHRo1Kd01HU6WVNF0vs3sUmvg
+         9tVQDGtKsNhZX818gXOmFoETHKrM5FlJKi6Gi3fTeilY8SrkEykH/XtRW9Y07Hyv9KMG
+         QTqQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20230601; t=1732780125; x=1733384925;
+        h=to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=Homsn1RMfZFvSSQBjXEgIX+UKeImKwl5yrsmBAWtDfg=;
+        b=tNJo2xXIS2EqEIsM2Kejzbk2L+S0bFlt0+tg1SNJ25RCcIXweAFvkOf6EPP+CRnV4p
+         lf/yZrbhvD0FyfpbrXvIuNrHhkmr0uzzbYbpHZni0+I8bP91sktea/D6WI0e4gcVvLlA
+         m1DnHot6ngSGBhvsqQPaR7uSAfmP+M79m/1hb5tJSMT9vu8neCJYowHWaHEOMIOkjh8k
+         0rsIoueC2HIkArWvJM9BiVXI/zjVwdCDGlGIYyW4fR8T4PNt+JFOIEFf9bmERn1vgVIl
+         jB2NZjsC3sYk6Ma2U+SlAIcx8MWzAI1RJKHbPVaUOKvzEJ0vTVGEROmIqsug/8uAzKmO
+         CJZA==
+X-Gm-Message-State: AOJu0Yz+wOVYp0sy37aUqlWrk0vy/kuqa3YGMJFQO0imyQ87h9j5wMWW
+	Y+ixcpqdDK3oqwFCPWyLt7WebNpykPDpeHlBiAZgR2vpNUNAfnkcJc8TjaEJWEK+reSX9xOrcc/
+	kSTaP1cKYD9u6E+MdOn12f+SuhQqiQRKOn80=
+X-Gm-Gg: ASbGncuKhPYimpmn0DgSQABD8OG27HJyQy+tavMeJydB/37Ko+q4WLzK+DuXdBfYsmw
+	Eo8hX6o+K2zfOC/YxCLxniQxHBxFdqdE=
+X-Google-Smtp-Source: AGHT+IEQ/03Yhr2XiXexrkV45v2VLnhA9xxAstsY9i73XakLAy93wYpE9vAhQow3GZan5rgsAJBKWF6kzBmUh7gMNCw=
+X-Received: by 2002:a05:6122:801b:10b0:515:43ff:6ed8 with SMTP id
+ 71dfb90a1353d-5156a90343emr2139493e0c.5.1732780125380; Wed, 27 Nov 2024
+ 23:48:45 -0800 (PST)
+MIME-Version: 1.0
+From: Ismael Biber <ismael.biber@gmail.com>
+Date: Thu, 28 Nov 2024 08:48:34 +0100
+Message-ID: <CAH7Mj8W=gjmWJkCWH4DZOvcESPco4uGYF-zFPPsgoded4XF95w@mail.gmail.com>
+Subject: Download this
+To: TechnikAG Fichte-Gymnasium <technikag@fichte-gymnasium.de>
+Content-Type: multipart/alternative; boundary="000000000000d8e7620627f44f7f"
+X-Rspamd-SPAM-Probability: 0
+X-Rspamd-UID: a347ad
+X-Rspamd-Queue-Id: 4XzT2l4Gzlz91TN
+X-Rspamd-UID: 30bdae
+
+--000000000000d8e7620627f44f7f
+Content-Type: text/plain; charset="UTF-8"
+
+https://www.dropbox.com/scl/fo/ergvw91b7e35ar4nejr54/h?rlkey=34iwguc2cn2ycvjxeoz4lx5xk&dl=0
+
+--
+MFG
+Ismael Biber
+
+--000000000000d8e7620627f44f7f
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto"><div><a href=3D"https://www.dropbox.com/scl/fo/ergvw91b7e=
+35ar4nejr54/h?rlkey=3D34iwguc2cn2ycvjxeoz4lx5xk&amp;dl=3D0">https://www.dro=
+pbox.com/scl/fo/ergvw91b7e35ar4nejr54/h?rlkey=3D34iwguc2cn2ycvjxeoz4lx5xk&a=
+mp;dl=3D0</a></div><div><br></div><div data-smartmail=3D"gmail_signature">-=
+-<br>MFG<br>Ismael Biber </div></div>
+
+--000000000000d8e7620627f44f7f--

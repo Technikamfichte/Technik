@@ -1,0 +1,57 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <mschray1@icloud.com>
+Received: from mail-hub02.belwue.de ([129.143.76.42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 70115913 for technikag@fichte-gymnasium.de; Mon, 24 Jul 2023 14:15:48 +0200
+Received: from mail-in01.belwue.de (mail-in01.belwue.de [129.143.76.1])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4R8fJN1qC2z5f9D
+	for <technikag@fichte-gymnasium.de>; Mon, 24 Jul 2023 14:15:48 +0200 (CEST)
+Received: from qs51p00im-qukt01080302.me.com (qs51p00im-qukt01080302.me.com [17.57.155.21])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in01.belwue.de (Postfix) with ESMTPS id 4R8fJM3y0Wz53HkR
+	for <technikag@fichte-gymnasium.de>; Mon, 24 Jul 2023 14:15:47 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icloud.com;
+	s=1a1hai; t=1690200946;
+	bh=N3UHwIYypkuQaWtN4aXAxuMc6eznaNOyjfem0DaAoEo=;
+	h=Content-Type:From:Mime-Version:Date:Message-Id:To;
+	b=EM8N+k8n+90C4clDTWw2lOnbtkmanY3jfEyZcNAQaC8OWfKx8CkXQZ4p4akO4xyZv
+	 YsoZxnc3kkTKhp9APTVA3cEMLTjBSibX6w/C2wh0yUhvWBiep7vl1gF7DFDC21vkNB
+	 lclhGe7zgmZObOkJE3bonXAslL/cQ9h39UofjYawOWMCteaItgZOarY6sOlTlMjvOn
+	 ulr2T6RhyGIjOrXFXB4FJyk6nKiAi9iouCT28cGk6LgOIJPIAP/xzKszYF4iYqFgpC
+	 2vVwpWQ+sLvvG0Iag1zj1z4a7n4VP6hD1AKj/6rrsjdPXAihpjW/cqNKUYCYcabI5t
+	 v7LBlJbjl7jGA==
+Received: from smtpclient.apple (qs51p00im-dlb-asmtp-mailmevip.me.com [17.57.155.28])
+	by qs51p00im-qukt01080302.me.com (Postfix) with ESMTPSA id 729991140669
+	for <technikag@fichte-gymnasium.de>; Mon, 24 Jul 2023 12:15:45 +0000 (UTC)
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+From: Martin Schray <mschray1@icloud.com>
+Mime-Version: 1.0 (1.0)
+Date: Mon, 24 Jul 2023 14:15:42 +0200
+Message-Id: <F8D6B4EC-4487-4385-BAFE-538BD37C7B76@icloud.com>
+To: technikag@fichte-gymnasium.de
+X-Mailer: iPhone Mail (20B101)
+X-Proofpoint-ORIG-GUID: 4fnWVeaA-D6w3_P8YmHeVD3j-gEkOwvq
+X-Proofpoint-GUID: 4fnWVeaA-D6w3_P8YmHeVD3j-gEkOwvq
+X-Proofpoint-Virus-Version: =?UTF-8?Q?vendor=3Dfsecure_engine=3D1.1.170-22c6f66c430a71ce266a39bfe25bc?=
+ =?UTF-8?Q?2903e8d5c8f:6.0.138,18.0.572,17.0.605.474.0000000_definitions?=
+ =?UTF-8?Q?=3D2020-02-14=5F11:2020-02-14=5F02,2020-02-14=5F11,2020-01-23?=
+ =?UTF-8?Q?=5F02_signatures=3D0?=
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=1 phishscore=0 mlxlogscore=229
+ adultscore=0 bulkscore=0 malwarescore=0 spamscore=1 mlxscore=1
+ suspectscore=0 clxscore=1011 classifier=spam adjust=0 reason=mlx
+ scancount=1 engine=8.12.0-2212070000 definitions=main-2307240109
+X-Rspamd-SPAM-Probability: 0
+X-Rspamd-Queue-Id: 4R8fJM3y0Wz53HkR
+X-Rspamd-UID: 36fccf
+
+https://music.apple.com/de/playlist/fichte-schulfest-playlist/pl.u-pMylWxRf4=
+31EWm
+
+
+Von meinem iPhone gesendet=

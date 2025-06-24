@@ -1,0 +1,45 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <levin.kiefer@web.de>
+Received: from cst201.belwue.de ([129.143.2.72] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.1.14)
+  with ESMTP id 51552490 for technikag@fichte-gymnasium.de; Thu, 30 Mar 2017 12:30:52 +0200
+Received: from mout.web.de (mout.web.de [212.227.17.12])
+	by cst201.belwue.de with ESMTPS id v2UAUjjA015107
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=NOT)
+	for <technikag@fichte-gymnasium.de>; Thu, 30 Mar 2017 12:30:50 +0200 (MEST)
+	env-from (levin.kiefer@web.de)
+Received: from [192.168.178.65] ([37.49.68.90]) by smtp.web.de (mrweb101
+ [213.165.67.124]) with ESMTPSA (Nemesis) id 0MAMy6-1d0i6B0mtO-00BepS for
+ <technikag@fichte-gymnasium.de>; Thu, 30 Mar 2017 12:30:45 +0200
+To: technikag@fichte-gymnasium.de
+From: Levin Kiefer <levin.kiefer@web.de>
+Subject: Test
+Message-ID: <f0a42d0e-4e63-d2a7-cfe9-04ea7a264ebc@web.de>
+Date: Thu, 30 Mar 2017 12:30:41 +0200
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101
+ Thunderbird/45.8.0
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Provags-ID: V03:K0:toYHokzUqPWMNMzHtnTNncMCnE0ox7OzeUx2zEdj9eEN6dvuhGK
+ rfHsfjOudeH4pHHVwunBrrJr5uu0JAbFDSyeJ8wQIGTpQHGU5TyONhsPD1umcjM/IloCEtO
+ ho0aGMTCnCShhF4MKbhCw91D2wcBPlWkBsT/tl9oZx8qR1xsqBxRD1rR6pNfG6EdBP/740C
+ PDejtfni31tFXjhkU4pAg==
+X-UI-Out-Filterresults: notjunk:1;V01:K0:r/NH3L/OVIE=:/NOAtNQuK5VIdj5gOD0tOQ
+ r6G83zTIm/4tiMmo32bBoJORiDkMuQu/kgej4zfjzvlqGUudiWqMMvl9pv+JHyGzc8dkyn4Mv
+ fDC3Q9iNg+XDi4TO3LoQmumUZHQ9StpZPVln3C+dHfw248QNIKfz0y5WpIdnzy3GQeeE8KhPo
+ QBCeWHyrl0niWCuoSPpGi0AwEY/V16bsQNZZxMNu9/SydaF+oId32C10LCBKMw2tUaPl5w5a/
+ gzQjObGSAYEUT0LKA5Lazjsmo4eBbM/Dxz6yNDsO8/ZejmrbTzikSyEoc71kS1nH3ozSH+tKk
+ CYoZQ/edZUi+Z/SeAKbZc4lJXzE92Hp/rQ6IfkyHvtwDU3uPuxjs2BWfF2snUYAdVPh/Rbf88
+ Qw+QHFST8yGCwy9e/MRem843lsY9CiSs8sZqpPMbwfr9bmC5/jKysk/GDZPJt7JeTja+XkU8V
+ vagcw76ZkbvJ6L7uTsSV76aurKr3Gy6NpLC8fYR0NZXbam83AmbFgx2if86mAW1ZIAT0FISEB
+ dgQspYo2uUJdlR1kIF+mp2BYMFchnfc9ME0zFra8jvJH/h2WPW7gg5iYRX6Gl48NqxKdVj9iJ
+ 9bffImylaOMXi0ctu48aybdwG+Y0GUOG5f59sl+8gkPJMvg4kEGysZkfHN3TmrYzuN2N2QcBc
+ 1/ULfpIztGbL+XzxjMlmSAEGphms2DoNxyzTJXjMpZQKH81j9NTqvRWmbaGxf01EMlH21x9tM
+ ej8nhLbf31JXH5bpMRmuMsvXFlBTYSW/JS6vuSDG19XX7fIyT+Q0Yue5xemHUC2Zd6hHgzJ8P
+ WZ/9V03VOQ1dTSdAw370cjXZIQrxtJcOxxPMtKpQn9OGD9xxpvbuy74Kcv/5n4cDj0gK0Sx8c
+ n8TTIMZ6Tcxop6CNtboA==
+X-DCC-BelWue-Metrics: cst201.belwue.de 1243; Body=0
+
+Test123
+

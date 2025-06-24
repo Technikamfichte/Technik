@@ -1,0 +1,738 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <hans@baeckel-ka.de>
+Received: from mail-hub02.belwue.de ([129.143.76.42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 80359663 for technikag@fichte-gymnasium.de; Wed, 10 Jan 2024 10:31:13 +0100
+Received: from mail-in02.belwue.de (mail-in02.belwue.de [129.143.76.2])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4T92c13rDFz7HV3
+	for <technikag@fichte-gymnasium.de>; Wed, 10 Jan 2024 10:31:13 +0100 (CET)
+Received: from mout.kundenserver.de (mout.kundenserver.de [212.227.126.131])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange ECDHE (P-256) server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in02.belwue.de (Postfix) with ESMTPS id 4T92c036vjzB1mcD
+	for <technikag@fichte-gymnasium.de>; Wed, 10 Jan 2024 10:31:09 +0100 (CET)
+Received: from smtpclient.apple ([141.72.195.8]) by mrelayeu.kundenserver.de
+ (mreue011 [212.227.15.167]) with ESMTPSA (Nemesis) id
+ 1MlwJv-1qwvLr31yl-00j1Kk for <technikag@fichte-gymnasium.de>; Wed, 10 Jan
+ 2024 10:31:08 +0100
+Content-Type: multipart/alternative; boundary=Apple-Mail-562DDCFE-BD07-472A-86A9-3890D3C641CD
+Content-Transfer-Encoding: 7bit
+From: =?utf-8?Q?Hans_B=C3=A4ckel?= <hans@baeckel-ka.de>
+Mime-Version: 1.0 (1.0)
+Date: Wed, 10 Jan 2024 10:30:58 +0100
+Subject: Fwd: Ihre Bestellung bei Thomann (9494738)
+Message-Id: <77A0925F-7889-41E5-B196-6291EBB81739@baeckel-ka.de>
+References: <04fc01d8639e$f79688d0$e6c39a70$@fichte-gymnasium-ka.schule.bwl.de>
+To: technikag@fichte-gymnasium.de
+X-Mailer: iPad Mail (21B101)
+X-Provags-ID: V03:K1:1KTutfURMFHyYGiSDy6duG0TxL83H5cW5DcN2Cxknv+tvUTj5CU
+ 8wE1KNOzbEXM2i2UHU6VIalrAOXh21lwCfjLelLCGm7yYt0qgpoE9K63Tbq9fkc+zgam0Ut
+ JLIHbCmKdMSfvSn6wyQdIsjtnYV7K3npbKCwiVRV+cq+4lRQUBc0DqSQJawceuOWfhJU4qc
+ G1u9txtXgiqN0jdZRdj1g==
+X-Spam-Flag: NO
+UI-OutboundReport: notjunk:1;M01:P0:eECo27LU1EE=;fSF8cU3jWKDmZ5jUKPxOLkzmeoD
+ ra2C9rTDH+CUCFwkN4hlgA/lmitHO8KNt7OftD2NFzM1VlkQkOx/nTM3ciJGN86pO/oJlNrpq
+ dfGZwNP2GTw6z298bE1hvttxFkdEQLoSq6iO7Pb+eLZxL3xICzMfmSY5KVMp3W3vUW9c8qarR
+ AMlFXLXd9pkVl2/rhHoep9jrawumZ4i9Mw/I8E9/5vqW13j/B1+mTT1hiSyq2fhqQJJK+1f1c
+ +y7u7mTaRPRVxS37SUYteMIGDQsfDSI4uqT+4TPlCKfRQRF8CrWE/qC4NznHa1P4sI7xNgHhM
+ dOZ+EIzh8qLFaGnNpWJp4Qob9DiGafywA4Smele2BnWjdpUHzVLcKD/Te3FZHl3H81rTT17G0
+ kZGwzVJbKk1K/LBvs+fxOGddKsWs0HYnuPwzXMp530yKfG/B9VhM1SgEOBxB5NoxdbgdPcC8n
+ fZ6hDhu0KO2sFnOh6omGl1PENmdNkaC2JfoVMGpMPZ4plOBDsLFtQr8SLpCvUmyNUstgwF+ej
+ 1toWajiTCEhDj6e2uOzS+Uh23iSLnkErygKaBnNJbmqTeTFN1F8EYgiVspZzeJ3GUMyBSuy2x
+ iqEnnrpb3R4Ug1+nHJND8tUSKZGehXt3elkpH+nvVH0nhHHCzyuQ4x+4wP2KAtUcui5i9+PNN
+ zWQbO8GEWYJnXiaYLQUrzqB+Q6/g6RKbdtgwFS+RY3EDZEF8ocaH8Esk80Y1dsHck4RnfUfI/
+ r7l9T1TbZq2dcszZbvcKiHfpEJzLcTKzGT/71rjhpdG/61aWgrrirPEsSgUVwlQB/pPUmymDp
+ UveMgZml8aeJYvP8KFn6IV4Li7SSN6MCezR5s8Kwwuf8r/55zHGTrxf1eiC6R9juvqXb84LXx
+ Fs/AWT2urzfKVaDR3gZ6cRqrL4j/mIg/AY6SNQeUlMeaSh1WdKh5yFU9S0Y0KgxqWl+rV7kRd
+ Z7NzM8FoeQBOYvPIF93oTbjALDE=
+X-Rspamd-SPAM-Probability: 0
+X-Rspamd-UID: eb7c67
+X-Rspamd-Queue-Id: 4T92c036vjzB1mcD
+
+
+--Apple-Mail-562DDCFE-BD07-472A-86A9-3890D3C641CD
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto"><div dir=3D"ltr"></div><div dir=3D"ltr">Lie=
+ber Ismael,</div><div dir=3D"ltr"><br></div><div dir=3D"ltr">wie per WhatsAp=
+p geschrieben, habe ich leider keine Rechnung mehr von den beiden Maui-Syste=
+men.</div><div dir=3D"ltr"><br></div><div dir=3D"ltr">Die Bestellung lief ab=
+er =C3=BCber das Sekretariat (s.u.) und wurde bei Thomann bestellt. Vielleic=
+ht helfen diese Informationen beim Suchen nach der Rechnung.</div><div dir=3D=
+"ltr"><br></div><div dir=3D"ltr">Beste Gr=C3=BC=C3=9Fe</div><div dir=3D"ltr"=
+>Hans B=C3=A4ckel</div><div dir=3D"ltr"><br><br></div><blockquote type=3D"ci=
+te"><div dir=3D"ltr"><b>Von:</b> Sekretariat Fichte-Gymnasium &lt;poststelle=
+@fichte-gymnasium-ka.schule.bwl.de&gt;<br><b>Datum:</b> 9. Mai 2022 um 14:19=
+:03 MESZ<br><b>An:</b> Hans B=C3=A4ckel &lt;hans.baeckel@fichte-gymnasium.de=
+&gt;<br><b>Betreff:</b> <b>WG: Ihre Bestellung bei Thomann (9494738)</b><br>=
+<br></div></blockquote><blockquote type=3D"cite"><div dir=3D"ltr">=EF=BB=BF<=
+meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><met=
+a name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)"><!--[if=
+ !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style>@font-face { font-family: Wingdings; }
+@font-face { font-family: "Cambria Math"; }
+@font-face { font-family: Calibri; }
+p.MsoNormal, li.MsoNormal, div.MsoNormal { margin: 0cm 0cm 0.0001pt; font-si=
+ze: 12pt; font-family: "Times New Roman", serif; }
+h3 { margin-right: 0cm; margin-left: 0cm; font-size: 13.5pt; font-family: "T=
+imes New Roman", serif; font-weight: bold; }
+a:link, span.MsoHyperlink { color: blue; text-decoration: underline; }
+a:visited, span.MsoHyperlinkFollowed { color: purple; text-decoration: under=
+line; }
+p { margin-right: 0cm; margin-left: 0cm; font-size: 12pt; font-family: "Time=
+s New Roman", serif; }
+p.msonormal0, li.msonormal0, div.msonormal0 { margin-right: 0cm; margin-left=
+: 0cm; font-size: 12pt; font-family: "Times New Roman", serif; }
+span.berschrift3Zchn { font-family: "Calibri Light", sans-serif; color: rgb(=
+31, 77, 120); }
+p.item-text, li.item-text, div.item-text { margin-right: 0cm; margin-left: 0=
+cm; font-size: 12pt; font-family: "Times New Roman", serif; }
+span.E-MailFormatvorlage22 { font-family: Calibri, sans-serif; color: rgb(31=
+, 73, 125); }
+.MsoChpDefault { font-size: 10pt; }
+@page WordSection1 { size: 612pt 792pt; margin: 70.85pt 70.85pt 2cm; }
+div.WordSection1 { page: WordSection1; }
+ol { margin-bottom: 0cm; }
+ul { margin-bottom: 0cm; }</style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--><div class=3D"WordSection1"><p class=3D"Ms=
+oNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,san=
+s-serif;color:#1F497D;mso-fareast-language:EN-US">Sorry bin dann doch nicht m=
+ehr dazu gekommen. Ist jetzt erl. <o:p></o:p></span></p><p class=3D"MsoNorma=
+l"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-seri=
+f;color:#1F497D;mso-fareast-language:EN-US"><o:p>&nbsp;</o:p></span></p><div=
+><div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0cm 0=
+cm 0cm"><p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt;font-famil=
+y:&quot;Calibri&quot;,sans-serif">Von:</span></b><span style=3D"font-size:11=
+.0pt;font-family:&quot;Calibri&quot;,sans-serif"> Thomann &lt;backoffice@tho=
+mann.de&gt; <br><b>Gesendet:</b> Montag, 9. Mai 2022 14:05<br><b>An:</b> pos=
+tstelle@fichte-gymnasium-ka.schule.bwl.de<br><b>Cc:</b> sekretariat@fichte-g=
+ymnasium.de<br><b>Betreff:</b> Ihre Bestellung bei Thomann (9494738)<o:p></o=
+:p></span></p></div></div><p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p><div a=
+lign=3D"center"><table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"=
+0" cellpadding=3D"0" width=3D"100%" style=3D"width:100.0%;background:white;b=
+order-collapse:collapse"><tbody><tr><td style=3D"padding:0cm 0cm 0cm 0cm"><d=
+iv align=3D"center"><table class=3D"MsoNormalTable" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" width=3D"0" style=3D"width:450.0pt;border-collapse:=
+collapse"><tbody><tr><td valign=3D"top" style=3D"padding:30.0pt 0cm 22.5pt 0=
+cm"><table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" width=3D"100%" style=3D"width:100.0%;border-collapse:collapse"><tbo=
+dy><tr><td style=3D"padding:0cm 0cm 0cm 0cm"><table class=3D"MsoNormalTable"=
+ border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"0" style=3D"width=
+:450.0pt;background:#F3F3F3;border-collapse:collapse"><tbody><tr><td style=3D=
+"padding:11.25pt 11.25pt 11.25pt 11.25pt"><div align=3D"center"><table class=
+=3D"MsoNormalTable" border=3D"1" cellspacing=3D"0" cellpadding=3D"0" width=3D=
+"0" style=3D"width:427.5pt;background:white;border-collapse:collapse;border:=
+none"><tbody><tr><td valign=3D"top" style=3D"border:solid #E2E2E2 1.0pt;bord=
+er-bottom:none;padding:0cm 0cm 0cm 0cm"><div align=3D"center"><table class=3D=
+"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"1=
+00%" style=3D"width:100.0%;border-collapse:collapse"><tbody><tr><td style=3D=
+"padding:15.0pt 11.25pt 15.0pt 11.25pt"><p class=3D"MsoNormal"><a href=3D"ht=
+tps://www.thomann.de/de"><span style=3D"color:black;text-decoration:none"><i=
+mg border=3D"0" width=3D"127" height=3D"23" style=3D"width:1.3229in;height:.=
+2395in" id=3D"_x0000_i1025" src=3D"https://www.thomann.de/pics/hq/mails/comm=
+on/thomann-logo.png" alt=3D"Thomann" data-unique-identifier=3D""></span></a>=
+<o:p></o:p></p></td></tr></tbody></table></div></td></tr><tr><td valign=3D"t=
+op" style=3D"border:solid #E2E2E2 1.0pt;border-top:none;padding:0cm 0cm 0cm 0=
+cm"><table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" width=3D"100%" style=3D"width:100.0%;border-collapse:collapse" id=3D=
+"template-body"><tbody><tr><td valign=3D"top" style=3D"padding:0cm 11.25pt 1=
+1.25pt 11.25pt"><p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-=
+family:&quot;Arial&quot;,sans-serif;color:#020202">Sehr geehrter Kunde, <o:p=
+></o:p></span></p><p style=3D"mso-margin-top-alt:9.75pt;margin-right:0cm;mar=
+gin-bottom:9.75pt;margin-left:0cm"><span style=3D"font-size:10.0pt;font-fami=
+ly:&quot;Arial&quot;,sans-serif;color:#020202">wir bedanken uns vielmals f=C3=
+=BCr Ihre Bestellung bei Thomann und f=C3=BCr Ihr Vertrauen in unsere Produk=
+te und Services.<o:p></o:p></span></p><div style=3D"margin-top:22.5pt"><h3 s=
+tyle=3D"mso-margin-top-alt:13.5pt;margin-right:0cm;margin-bottom:12.0pt;marg=
+in-left:0cm"><span style=3D"font-family:&quot;Arial&quot;,sans-serif;color:#=
+020202;font-weight:normal">Ihre bestellten Produkte<o:p></o:p></span></h3><t=
+able class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" width=3D"100%" style=3D"width:100.0%;border-collapse:collapse"><tbody><tr=
+><td width=3D"100" valign=3D"top" style=3D"width:75.0pt;padding:0cm 0cm 22.5=
+pt 0cm"><p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">=
+<span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;col=
+or:#020202"><a href=3D"https://www.thomann.de/de/prod_AR_409905.html"><span s=
+tyle=3D"color:black;text-decoration:none"><img border=3D"0" width=3D"60" hei=
+ght=3D"60" style=3D"width:.625in;height:.625in" id=3D"_x0000_i1026" src=3D"h=
+ttps://www.thomann.de/thumb/thumb60x60/pics/prod/409905.jpg" alt=3D"LD Syste=
+ms Maui 28 G2 Bundle" data-unique-identifier=3D""></span></a><o:p></o:p></sp=
+an></p></td><td style=3D"padding:0cm 0cm 22.5pt 0cm"><p class=3D"MsoNormal">=
+<span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;col=
+or:#020202"><a href=3D"https://www.thomann.de/de/prod_AR_409905.html"><stron=
+g><span style=3D"font-family:&quot;Arial&quot;,sans-serif;color:black;text-d=
+ecoration:none">2x LD Systems Maui 28 G2 Bundle</span></strong></a><o:p></o:=
+p></span></p><p class=3D"item-text" style=3D"mso-margin-top-alt:3.0pt;margin=
+-right:0cm;margin-bottom:9.75pt;margin-left:0cm"><span style=3D"font-size:10=
+.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#020202">LD Systems Maui=
+ 28 G2 Bundle bestehend aus<o:p></o:p></span></p><table class=3D"MsoNormalTa=
+ble" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D=
+"width:100.0%;border-collapse:collapse"><tbody><tr><td style=3D"padding:0cm 0=
+cm 0cm 0cm"><p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-fami=
+ly:&quot;Arial&quot;,sans-serif;color:#020202">Artikelnr. <a href=3D"https:/=
+/www.thomann.de/de/prod_AR_409905.html"><span style=3D"color:black;text-deco=
+ration:none">409905</span></a> =C2=B7 St=C3=BCckpreis 1.129,00&nbsp;=E2=82=AC=
+<o:p></o:p></span></p></td><td style=3D"padding:0cm 0cm 0cm 0cm"><p class=3D=
+"MsoNormal" align=3D"right" style=3D"text-align:right"><strong><span style=3D=
+"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#020202">2.=
+258,00&nbsp;=E2=82=AC</span></strong><span style=3D"font-size:10.0pt;font-fa=
+mily:&quot;Arial&quot;,sans-serif;color:#020202"><o:p></o:p></span></p></td>=
+</tr></tbody></table></td></tr><tr><td width=3D"100" valign=3D"top" style=3D=
+"width:75.0pt;padding:0cm 0cm 22.5pt 0cm"><p class=3D"MsoNormal" align=3D"ce=
+nter" style=3D"text-align:center"><span style=3D"font-size:10.0pt;font-famil=
+y:&quot;Arial&quot;,sans-serif;color:#020202"><a href=3D"https://www.thomann=
+.de/de/prod_AR_403694.html"><span style=3D"color:black;text-decoration:none"=
+><img border=3D"0" width=3D"60" height=3D"60" style=3D"width:.625in;height:.=
+625in" id=3D"_x0000_i1027" src=3D"https://www.thomann.de/thumb/thumb60x60/pi=
+cs/prod/403694.jpg" alt=3D"LD Systems Maui 28 G2" data-unique-identifier=3D"=
+"></span></a><o:p></o:p></span></p></td><td style=3D"padding:0cm 0cm 22.5pt 0=
+cm"><p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot=
+;Arial&quot;,sans-serif;color:#020202"><a href=3D"https://www.thomann.de/de/=
+prod_AR_403694.html"><strong><span style=3D"font-family:&quot;Arial&quot;,sa=
+ns-serif;color:black;text-decoration:none">2x LD Systems Maui 28 G2</span></=
+strong></a><o:p></o:p></span></p><p class=3D"item-text" style=3D"mso-margin-=
+top-alt:3.0pt;margin-right:0cm;margin-bottom:9.75pt;margin-left:0cm"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#020=
+202">LD Systems Maui 28 G2, kompaktes Plug und Play S=C3=A4ulen System f=C3=BC=
+r Monitor und PA Beschallungen, dezente Optik f=C3=BCr unauff=C3=A4llige Anw=
+endungen, Array-Anordnung, Frequenzbereich 45 - 20.000 Hz, 126 dB SPL max, b=
+estehend aus folgenden Komponenten: 1x 2x 8" Bassreflex Subwoofer, 2x Satell=
+iten-Lautsprecher 16 x 3" Md / 2x 1" Hochtontreiber, integrierte Class D Dig=
+italendstufe mit 1000 Watt RMS Leistung, 2000 Watt Peak, Controller im Subwo=
+ofer: Kontrolleinheit: Mikrofoneingang XLR/Klinke Combi Input, Lineeingang L=
+R XLR/Klinke Combi und Cinch Input, Instrumenten Hi-Z Klinke Eingang, MP3/Bl=
+uetooth Eingang mit 3,5mm Stereoklinke Input, XLR Sub und System Out, regelb=
+arer Sub und Main Level and der Oberseite, Schutzschaltungen: DC-Schutz, Kur=
+zschluss, Multiband Limiter, =C3=9Cberhitzung, Mono/Stereo schaltbar, Abmess=
+ungen (BxHxT): Subwoofer: 370 x484 x 480 mm / Satellite: 96 x 780/795 x 104 m=
+m, Gewicht Subwoofer: 20,2 kg / Satellite: 5,6/5,4 kg, Birkenmultiplex Subwo=
+ofergeh=C3=A4use, Aluminium-Geh=C3=A4use Topteil mit Multipin Anschl=C3=BCss=
+en f=C3=BCr einfache Montage ohne Lautsprecherstative und Lautsprecherkabel,=
+ optionale Satellitenlautsprecher case 412447, Optionales case f=C3=BCrs Sub=
+ 412488, optional Rollenbrett 410477<o:p></o:p></span></p><table class=3D"Ms=
+oNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%=
+" style=3D"width:100.0%;border-collapse:collapse"><tbody><tr><td style=3D"pa=
+dding:0cm 0cm 0cm 0cm"><p class=3D"MsoNormal"><span style=3D"font-size:10.0p=
+t;font-family:&quot;Arial&quot;,sans-serif;color:#020202">Artikelnr. <a href=
+=3D"https://www.thomann.de/de/prod_AR_403694.html"><span style=3D"color:blac=
+k;text-decoration:none">403694</span></a><o:p></o:p></span></p></td><td styl=
+e=3D"padding:0cm 0cm 0cm 0cm"></td></tr></tbody></table></td></tr><tr><td wi=
+dth=3D"100" valign=3D"top" style=3D"width:75.0pt;padding:0cm 0cm 22.5pt 0cm"=
+><p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#020=
+202"><a href=3D"https://www.thomann.de/de/prod_AR_403707.html"><span style=3D=
+"color:black;text-decoration:none"><img border=3D"0" width=3D"60" height=3D"=
+60" style=3D"width:.625in;height:.625in" id=3D"_x0000_i1028" src=3D"https://=
+www.thomann.de/thumb/thumb60x60/pics/prod/403707.jpg" alt=3D"LD Systems Maui=
+ 28 G2 Sat Bag" data-unique-identifier=3D""></span></a><o:p></o:p></span></p=
+></td><td style=3D"padding:0cm 0cm 22.5pt 0cm"><p class=3D"MsoNormal"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#020=
+202"><a href=3D"https://www.thomann.de/de/prod_AR_403707.html"><strong><span=
+ style=3D"font-family:&quot;Arial&quot;,sans-serif;color:black;text-decorati=
+on:none">2x LD Systems Maui 28 G2 Sat Bag</span></strong></a><o:p></o:p></sp=
+an></p><p class=3D"item-text" style=3D"mso-margin-top-alt:3.0pt;margin-right=
+:0cm;margin-bottom:9.75pt;margin-left:0cm"><span style=3D"font-size:10.0pt;f=
+ont-family:&quot;Arial&quot;,sans-serif;color:#020202">LD Systems Maui 28 G2=
+ Sat Bag, Nylontasche mit Haltegriff f=C3=BCr die S=C3=A4ulenelemente der Ma=
+ui Systeme, schwarz<o:p></o:p></span></p><table class=3D"MsoNormalTable" bor=
+der=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"width:=
+100.0%;border-collapse:collapse"><tbody><tr><td style=3D"padding:0cm 0cm 0cm=
+ 0cm"><p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&qu=
+ot;Arial&quot;,sans-serif;color:#020202">Artikelnr. <a href=3D"https://www.t=
+homann.de/de/prod_AR_403707.html"><span style=3D"color:black;text-decoration=
+:none">403707</span></a><o:p></o:p></span></p></td><td style=3D"padding:0cm 0=
+cm 0cm 0cm"></td></tr></tbody></table></td></tr><tr><td width=3D"100" valign=
+=3D"top" style=3D"width:75.0pt;padding:0cm 0cm 22.5pt 0cm"><p class=3D"MsoNo=
+rmal" align=3D"center" style=3D"text-align:center"><span style=3D"font-size:=
+10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#020202"><a href=3D"ht=
+tps://www.thomann.de/de/prod_AR_403708.html"><span style=3D"color:black;text=
+-decoration:none"><img border=3D"0" width=3D"60" height=3D"60" style=3D"widt=
+h:.625in;height:.625in" id=3D"_x0000_i1029" src=3D"https://www.thomann.de/th=
+umb/thumb60x60/pics/prod/403708.jpg" alt=3D"LD Systems Maui 28 G2 Sub Bag" d=
+ata-unique-identifier=3D""></span></a><o:p></o:p></span></p></td><td style=3D=
+"padding:0cm 0cm 22.5pt 0cm"><p class=3D"MsoNormal"><span style=3D"font-size=
+:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#020202"><a href=3D"h=
+ttps://www.thomann.de/de/prod_AR_403708.html"><strong><span style=3D"font-fa=
+mily:&quot;Arial&quot;,sans-serif;color:black;text-decoration:none">2x LD Sy=
+stems Maui 28 G2 Sub Bag</span></strong></a><o:p></o:p></span></p><p class=3D=
+"item-text" style=3D"mso-margin-top-alt:3.0pt;margin-right:0cm;margin-bottom=
+:9.75pt;margin-left:0cm"><span style=3D"font-size:10.0pt;font-family:&quot;A=
+rial&quot;,sans-serif;color:#020202">LD Systems Maui 28 G2 Sub Bag, Schutzh=C3=
+=BClle f=C3=BCr Maui Subwoofer, schwarz<o:p></o:p></span></p><table class=3D=
+"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"1=
+00%" style=3D"width:100.0%;border-collapse:collapse"><tbody><tr><td style=3D=
+"padding:0cm 0cm 0cm 0cm"><p class=3D"MsoNormal"><span style=3D"font-size:10=
+.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#020202">Artikelnr. <a h=
+ref=3D"https://www.thomann.de/de/prod_AR_403708.html"><span style=3D"color:b=
+lack;text-decoration:none">403708</span></a><o:p></o:p></span></p></td><td s=
+tyle=3D"padding:0cm 0cm 0cm 0cm"></td></tr></tbody></table></td></tr><tr><td=
+ width=3D"100" valign=3D"top" style=3D"width:75.0pt;padding:0cm 0cm 22.5pt 0=
+cm"><p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><spa=
+n style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#=
+020202">&nbsp; <o:p></o:p></span></p></td><td style=3D"padding:0cm 0cm 22.5p=
+t 0cm"><p class=3D"item-text" style=3D"mso-margin-top-alt:3.0pt;margin-right=
+:0cm;margin-bottom:9.75pt;margin-left:0cm"><span style=3D"font-size:10.0pt;f=
+ont-family:&quot;Arial&quot;,sans-serif;color:#020202">Der Auftrags-/ Rechnu=
+ngsbetrag ist ohne Abzug von Skonto zahlbar innerhalb von 30 Tagen ab Erhalt=
+ der Ware unter Angabe Ihrer Kunden- und Rechnungsnummer (SEPA BANK TRANSFER=
+). Vielen Dank!<o:p></o:p></span></p></td></tr><tr><td width=3D"100" valign=3D=
+"top" style=3D"width:75.0pt;padding:0cm 0cm 22.5pt 0cm"><p class=3D"MsoNorma=
+l" align=3D"center" style=3D"text-align:center"><span style=3D"font-size:10.=
+0pt;font-family:&quot;Arial&quot;,sans-serif;color:#020202"><img border=3D"0=
+" width=3D"67" height=3D"46" style=3D"width:.6979in;height:.4791in" id=3D"_x=
+0000_i1030" src=3D"https://www.thomann.de/pics/hq/mails/common/shipping.png"=
+ alt=3D"Porto und Versandpauschale" data-unique-identifier=3D""><o:p></o:p><=
+/span></p></td><td style=3D"padding:0cm 0cm 22.5pt 0cm"><table class=3D"MsoN=
+ormalTable" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" s=
+tyle=3D"width:100.0%;border-collapse:collapse"><tbody><tr><td style=3D"paddi=
+ng:0cm 0cm 0cm 0cm"><p class=3D"MsoNormal"><strong><span style=3D"font-size:=
+10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#020202">Porto und Ver=
+sandpauschale</span></strong><span style=3D"font-size:10.0pt;font-family:&qu=
+ot;Arial&quot;,sans-serif;color:#020202"><o:p></o:p></span></p></td><td styl=
+e=3D"padding:0cm 0cm 0cm 0cm"><p class=3D"MsoNormal" align=3D"right" style=3D=
+"text-align:right"><strong><span style=3D"font-size:10.0pt;font-family:&quot=
+;Arial&quot;,sans-serif;color:#020202">0,00&nbsp;=E2=82=AC</span></strong><s=
+pan style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color=
+:#020202"><o:p></o:p></span></p></td></tr></tbody></table></td></tr><tr><td c=
+olspan=3D"2" style=3D"border:none;border-top:solid #DCDACD 1.0pt;padding:6.7=
+5pt 0cm 6.75pt 0cm"><div align=3D"right"><table class=3D"MsoNormalTable" bor=
+der=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"0" style=3D"width:197=
+.25pt;border-collapse:collapse"><tbody><tr><td style=3D"padding:1.5pt 0cm 1.=
+5pt 0cm"><p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:=
+&quot;Arial&quot;,sans-serif;color:#020202">Warenwert<o:p></o:p></span></p><=
+/td><td style=3D"padding:1.5pt 0cm 1.5pt 0cm"><p class=3D"MsoNormal" align=3D=
+"right" style=3D"text-align:right"><span style=3D"font-size:10.0pt;font-fami=
+ly:&quot;Arial&quot;,sans-serif;color:#020202">2.258,00&nbsp;=E2=82=AC<o:p><=
+/o:p></span></p></td></tr><tr style=3D"height:6.0pt"><td colspan=3D"2" style=
+=3D"padding:0cm 0cm 0cm 0cm;height:6.0pt"><p class=3D"MsoNormal"><span style=
+=3D"font-size:1.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#020202">=
+&nbsp;<o:p></o:p></span></p></td></tr><tr><td style=3D"padding:1.5pt 0cm 1.5=
+pt 0cm"><p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&=
+quot;Arial&quot;,sans-serif;color:#020202">Nettobetrag<o:p></o:p></span></p>=
+</td><td style=3D"padding:1.5pt 0cm 1.5pt 0cm"><p class=3D"MsoNormal" align=3D=
+"right" style=3D"text-align:right"><span style=3D"font-size:10.0pt;font-fami=
+ly:&quot;Arial&quot;,sans-serif;color:#020202">1.897,48&nbsp;=E2=82=AC<o:p><=
+/o:p></span></p></td></tr><tr><td style=3D"padding:1.5pt 0cm 1.5pt 0cm"><p c=
+lass=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Arial&q=
+uot;,sans-serif;color:#020202">19% MwSt.<o:p></o:p></span></p></td><td style=
+=3D"padding:1.5pt 0cm 1.5pt 0cm"><p class=3D"MsoNormal" align=3D"right" styl=
+e=3D"text-align:right"><span style=3D"font-size:10.0pt;font-family:&quot;Ari=
+al&quot;,sans-serif;color:#020202">360,52&nbsp;=E2=82=AC<o:p></o:p></span></=
+p></td></tr><tr><td colspan=3D"2" style=3D"border:none;border-bottom:solid #=
+E9E9E9 1.0pt;padding:1.5pt 0cm 3.0pt 0cm"><p class=3D"MsoNormal"><span style=
+=3D"font-size:1.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#020202">=
+&nbsp;<o:p></o:p></span></p></td></tr><tr><td style=3D"padding:4.5pt 0cm 1.5=
+pt 0cm"><p class=3D"MsoNormal"><strong><span style=3D"font-family:&quot;Aria=
+l&quot;,sans-serif;color:#020202">Gesamtbetrag</span></strong><span style=3D=
+"font-family:&quot;Arial&quot;,sans-serif;color:#020202"><o:p></o:p></span><=
+/p></td><td style=3D"padding:4.5pt 0cm 1.5pt 0cm"><p class=3D"MsoNormal" ali=
+gn=3D"right" style=3D"text-align:right"><strong><span style=3D"font-family:&=
+quot;Arial&quot;,sans-serif;color:#020202">2.258,00&nbsp;=E2=82=AC</span></s=
+trong><span style=3D"font-family:&quot;Arial&quot;,sans-serif;color:#020202"=
+><o:p></o:p></span></p></td></tr></tbody></table></div></td></tr><tr style=3D=
+"height:15.0pt"><td colspan=3D"2" style=3D"padding:0cm 0cm 0cm 0cm;height:15=
+.0pt"><p class=3D"MsoNormal"><span style=3D"font-size:1.0pt;font-family:&quo=
+t;Arial&quot;,sans-serif;color:#020202">&nbsp;<o:p></o:p></span></p></td></t=
+r></tbody></table></div><table class=3D"MsoNormalTable" border=3D"0" cellspa=
+cing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"width:100.0%;border-col=
+lapse:collapse"><tbody><tr><td width=3D"50%" valign=3D"top" style=3D"width:5=
+0.0%;padding:3.75pt 3.75pt 3.75pt 3.75pt"><h3 style=3D"mso-margin-top-alt:0c=
+m;margin-right:0cm;margin-bottom:6.75pt;margin-left:0cm"><span style=3D"font=
+-family:&quot;Arial&quot;,sans-serif;color:#020202;font-weight:normal">Rechn=
+ungsanschrift<o:p></o:p></span></h3><p class=3D"MsoNormal"><span style=3D"fo=
+nt-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#020202">F=C3=B6=
+rdergemeinschaft Fichte-Gymnasium<br>Sophienstr. 12-16<br>D-76133 Karlsruhe <=
+o:p></o:p></span></p></td><td valign=3D"top" style=3D"padding:3.75pt 3.75pt 3=
+.75pt 3.75pt"><h3 style=3D"mso-margin-top-alt:0cm;margin-right:0cm;margin-bo=
+ttom:6.75pt;margin-left:0cm"><span style=3D"font-family:&quot;Arial&quot;,sa=
+ns-serif;color:#020202;font-weight:normal">Lieferanschrift<o:p></o:p></span>=
+</h3><p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quo=
+t;Arial&quot;,sans-serif;color:#020202">F=C3=B6rdergemeinschaft Fichte-Gymna=
+sium<br>Silke K=C3=B6llner<br>Sophienstr. 12-16<br>D-76133 Karlsruhe <o:p></=
+o:p></span></p></td></tr><tr style=3D"height:15.0pt"><td colspan=3D"2" style=
+=3D"padding:3.75pt 3.75pt 3.75pt 3.75pt;height:15.0pt"><p class=3D"MsoNormal=
+"><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;c=
+olor:#020202">&nbsp;<o:p></o:p></span></p></td></tr><tr><td valign=3D"top" s=
+tyle=3D"padding:3.75pt 3.75pt 3.75pt 3.75pt"><h3 style=3D"mso-margin-top-alt=
+:0cm;margin-right:0cm;margin-bottom:6.75pt;margin-left:0cm"><span style=3D"f=
+ont-family:&quot;Arial&quot;,sans-serif;color:#020202;font-weight:normal">We=
+itere Informationen<o:p></o:p></span></h3><table class=3D"MsoNormalTable" bo=
+rder=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"width=
+:100.0%;border-collapse:collapse"><tbody><tr><td valign=3D"top" style=3D"pad=
+ding:.75pt 7.5pt .75pt .75pt"><p class=3D"MsoNormal"><span style=3D"font-siz=
+e:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#020202">Kundennumme=
+r<o:p></o:p></span></p></td><td valign=3D"top" style=3D"padding:.75pt .75pt .=
+75pt .75pt"><p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-fami=
+ly:&quot;Arial&quot;,sans-serif;color:#020202">9494738<o:p></o:p></span></p>=
+</td></tr><tr><td valign=3D"top" style=3D"padding:.75pt 7.5pt .75pt .75pt"><=
+p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Aria=
+l&quot;,sans-serif;color:#020202">Auftragsart<o:p></o:p></span></p></td><td v=
+align=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"><p class=3D"MsoNorma=
+l"><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;=
+color:#020202">Normalauftrag<o:p></o:p></span></p></td></tr><tr><td valign=3D=
+"top" style=3D"padding:.75pt 7.5pt .75pt .75pt"><p class=3D"MsoNormal"><span=
+ style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#0=
+20202">Auftragsnummer<o:p></o:p></span></p></td><td valign=3D"top" style=3D"=
+padding:.75pt .75pt .75pt .75pt"><p class=3D"MsoNormal"><span style=3D"font-=
+size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#020202">202219.7=
+96498<o:p></o:p></span></p></td></tr><tr><td valign=3D"top" style=3D"padding=
+:.75pt 7.5pt .75pt .75pt"><p class=3D"MsoNormal"><span style=3D"font-size:10=
+.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#020202">Auftragsdatum<o=
+:p></o:p></span></p></td><td valign=3D"top" style=3D"padding:.75pt .75pt .75=
+pt .75pt"><p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family=
+:&quot;Arial&quot;,sans-serif;color:#020202">09.05.2022<o:p></o:p></span></p=
+></td></tr><tr><td valign=3D"top" style=3D"padding:.75pt 7.5pt .75pt .75pt">=
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ari=
+al&quot;,sans-serif;color:#020202">Versandart<o:p></o:p></span></p></td><td v=
+align=3D"top" style=3D"padding:.75pt .75pt .75pt .75pt"><p class=3D"MsoNorma=
+l"><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;=
+color:#020202">UPS<o:p></o:p></span></p></td></tr><tr><td valign=3D"top" sty=
+le=3D"padding:.75pt 7.5pt .75pt .75pt"><p class=3D"MsoNormal"><span style=3D=
+"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#020202">Ve=
+rsandtermin<o:p></o:p></span></p></td><td valign=3D"top" style=3D"padding:.7=
+5pt .75pt .75pt .75pt"><p class=3D"MsoNormal"><span style=3D"font-size:10.0p=
+t;font-family:&quot;Arial&quot;,sans-serif;color:#020202">schnellstm=C3=B6gl=
+ich <o:p></o:p></span></p></td></tr></tbody></table></td><td valign=3D"top" s=
+tyle=3D"padding:3.75pt 3.75pt 3.75pt 3.75pt"><h3 style=3D"mso-margin-top-alt=
+:0cm;margin-right:0cm;margin-bottom:6.75pt;margin-left:0cm"><span style=3D"f=
+ont-family:&quot;Arial&quot;,sans-serif;color:#020202;font-weight:normal">Za=
+hlungsart<o:p></o:p></span></h3><table class=3D"MsoNormalTable" border=3D"0"=
+ cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"width:100.0%;bo=
+rder-collapse:collapse"><tbody><tr><td valign=3D"top" style=3D"padding:.75pt=
+ 7.5pt .75pt .75pt"><p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;f=
+ont-family:&quot;Arial&quot;,sans-serif;color:#020202">Rechnung =C3=9Cberwei=
+sung <o:p></o:p></span></p></td><td valign=3D"top" style=3D"padding:.75pt .7=
+5pt .75pt .75pt"><p class=3D"MsoNormal" align=3D"right" style=3D"text-align:=
+right"><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-se=
+rif;color:#020202">2.258,00&nbsp;=E2=82=AC<o:p></o:p></span></p></td></tr></=
+tbody></table></td></tr></tbody></table><div style=3D"margin-top:18.75pt;mar=
+gin-bottom:15.0pt"><h3 style=3D"mso-margin-top-alt:13.5pt;margin-right:0cm;m=
+argin-bottom:12.0pt;margin-left:0cm"><span style=3D"font-family:&quot;Arial&=
+quot;,sans-serif;color:#020202;font-weight:normal">Ihr Ansprechpartner<o:p><=
+/o:p></span></h3><table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" width=3D"100%" style=3D"width:100.0%;border-collapse:c=
+ollapse"><tbody><tr><td width=3D"60" style=3D"width:45.0pt;padding:.75pt .75=
+pt .75pt .75pt"><p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-=
+family:&quot;Arial&quot;,sans-serif;color:#020202"><img border=3D"0" width=3D=
+"50" height=3D"50" style=3D"width:.5208in;height:.5208in" id=3D"_x0000_i1031=
+" src=3D"https://www.thomann.de/thumb/thumb50x50/pics/sbpics/200r/164.png" a=
+lt=3D"Frank Haa=C3=9F" data-unique-identifier=3D""><o:p></o:p></span></p></t=
+d><td width=3D"205" style=3D"width:153.75pt;padding:.75pt .75pt .75pt .75pt"=
+><p class=3D"MsoNormal"><strong><span style=3D"font-size:10.0pt;font-family:=
+&quot;Arial&quot;,sans-serif;color:#020202">Frank Haa=C3=9F</span></strong><=
+span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;colo=
+r:#020202"><br><a href=3D"mailto:backoffice@thomann.de"><span style=3D"color=
+:#616161">backoffice@thomann.de</span></a><o:p></o:p></span></p></td><td sty=
+le=3D"padding:.75pt .75pt .75pt .75pt"><table class=3D"MsoNormalTable" borde=
+r=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border-collapse:collaps=
+e"><tbody><tr><td style=3D"padding:.75pt 7.5pt .75pt .75pt"><p class=3D"MsoN=
+ormal"><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-se=
+rif;color:#020202">Telefon<o:p></o:p></span></p></td><td style=3D"padding:.7=
+5pt .75pt .75pt .75pt"><p class=3D"MsoNormal"><span style=3D"font-size:10.0p=
+t;font-family:&quot;Arial&quot;,sans-serif;color:#020202"><a href=3D"tel:+49=
+954692235353"><span style=3D"color:#020202;text-decoration:none">09546&nbsp;=
+9223=E2=80=915353</span></a><o:p></o:p></span></p></td></tr><tr><td style=3D=
+"padding:.75pt 7.5pt .75pt .75pt"><p class=3D"MsoNormal"><span style=3D"font=
+-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#020202">Fax<o:p=
+></o:p></span></p></td><td style=3D"padding:.75pt .75pt .75pt .75pt"><p clas=
+s=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot=
+;,sans-serif;color:#020202">09546&nbsp;9223=E2=80=9124<o:p></o:p></span></p>=
+</td></tr></tbody></table></td></tr></tbody></table></div><p style=3D"mso-ma=
+rgin-top-alt:9.75pt;margin-right:0cm;margin-bottom:9.75pt;margin-left:0cm"><=
+span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;colo=
+r:#020202">Bei sofortiger Verf=C3=BCgbarkeit der Ware wird Ihre Bestellung s=
+chnellstm=C3=B6glich verschickt. Sollten einzelne Positionen Ihrer Bestellun=
+g weder bei uns noch bei unseren Lieferanten kurzfristig lieferbar sein, kan=
+n es ggf. zu Verz=C3=B6gerungen kommen. Hierf=C3=BCr bitten wir Sie bereits j=
+etzt um Ihr Verst=C3=A4ndnis.<o:p></o:p></span></p><p style=3D"mso-margin-to=
+p-alt:9.75pt;margin-right:0cm;margin-bottom:9.75pt;margin-left:0cm"><span st=
+yle=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#0202=
+02">Sie erhalten in jedem Fall eine weitere Best=C3=A4tigungs-E-Mail nach de=
+m Versand.<o:p></o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-s=
+ize:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#020202">Mit freun=
+dlichen Grooves<br><br>Ihr Thomann-Team <o:p></o:p></span></p></td></tr></tb=
+ody></table></td></tr></tbody></table></div><p class=3D"MsoNormal"><span sty=
+le=3D"display:none"><o:p>&nbsp;</o:p></span></p><table class=3D"MsoNormalTab=
+le" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D=
+"width:100.0%;border-collapse:collapse"><tbody><tr style=3D"height:7.5pt"><t=
+d colspan=3D"3" style=3D"padding:1.5pt 1.5pt 1.5pt 1.5pt;height:7.5pt"><p cl=
+ass=3D"MsoNormal"><span style=3D"font-size:1.0pt">&nbsp;<o:p></o:p></span></=
+p></td></tr><tr id=3D"template-footer"><td valign=3D"top" style=3D"padding:1=
+.5pt 1.5pt 1.5pt 1.5pt"><table class=3D"MsoNormalTable" border=3D"0" cellspa=
+cing=3D"0" cellpadding=3D"0" style=3D"border-collapse:collapse"><tbody><tr><=
+td style=3D"padding:0cm 7.5pt 0cm 0cm"><p class=3D"MsoNormal"><span style=3D=
+"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#7B7B7A">E-=
+Mail<o:p></o:p></span></p></td><td style=3D"padding:0cm 0cm 0cm 0cm"><p clas=
+s=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot=
+;,sans-serif;color:#7B7B7A"><a href=3D"mailto:backoffice@thomann.de"><span s=
+tyle=3D"color:#7B7B7A">backoffice@thomann.de</span></a><o:p></o:p></span></p=
+></td></tr><tr><td style=3D"padding:0cm 7.5pt 0cm 0cm"><p class=3D"MsoNormal=
+"><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;c=
+olor:#7B7B7A">Telefon<o:p></o:p></span></p></td><td style=3D"padding:0cm 0cm=
+ 0cm 0cm"><p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family=
+:&quot;Arial&quot;,sans-serif;color:#7B7B7A"><a href=3D"tel:+49954692235353"=
+><span style=3D"color:#7B7B7A;text-decoration:none">09546&nbsp;9223=E2=80=91=
+5353</span></a><o:p></o:p></span></p></td></tr><tr><td style=3D"padding:0cm 7=
+.5pt 0cm 0cm"><p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-fa=
+mily:&quot;Arial&quot;,sans-serif;color:#7B7B7A">Fax<o:p></o:p></span></p></=
+td><td style=3D"padding:0cm 0cm 0cm 0cm"><p class=3D"MsoNormal"><span style=3D=
+"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#7B7B7A">09=
+546&nbsp;9223=E2=80=9124<o:p></o:p></span></p></td></tr></tbody></table></td=
+><td valign=3D"top" style=3D"padding:1.5pt 1.5pt 1.5pt 1.5pt"><table class=3D=
+"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"b=
+order-collapse:collapse"><tbody><tr><td style=3D"padding:0cm 0cm 0cm 0cm"><p=
+ class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Arial=
+&quot;,sans-serif;color:#7B7B7A"><a href=3D"https://www.thomann.de/de/compin=
+fo_contact.html" target=3D"_blank"><span style=3D"color:#7B7B7A">=C3=96ffnun=
+gszeiten</span></a><o:p></o:p></span></p></td></tr><tr><td style=3D"padding:=
+0cm 0cm 0cm 0cm"><p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font=
+-family:&quot;Arial&quot;,sans-serif;color:#7B7B7A"><a href=3D"https://www.t=
+homann.de/de/hotdeals.html" target=3D"_blank"><span style=3D"color:#7B7B7A">=
+Hot Deals</span></a><o:p></o:p></span></p></td></tr><tr><td style=3D"padding=
+:0cm 0cm 0cm 0cm"><p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;fon=
+t-family:&quot;Arial&quot;,sans-serif;color:#7B7B7A"><a href=3D"https://www.=
+thomann.de/de/mythomann.html" target=3D"_blank"><span style=3D"color:#7B7B7A=
+">Kundencenter</span></a><o:p></o:p></span></p></td></tr></tbody></table></t=
+d><td style=3D"padding:1.5pt 1.5pt 1.5pt 1.5pt"><table class=3D"MsoNormalTab=
+le" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"right" style=3D=
+"border-collapse:collapse"><tbody><tr><td style=3D"padding:2.25pt 2.25pt 2.2=
+5pt 2.25pt"><p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-fami=
+ly:&quot;Arial&quot;,sans-serif;color:#7B7B7A"><a href=3D"https://twitter.co=
+m/thomann"><span style=3D"color:black;text-decoration:none"><img border=3D"0=
+" id=3D"_x0000_i1032" src=3D"https://www.thomann.de/pics/hq/mails/social/twi=
+tter.png" alt=3D"Twitter" data-unique-identifier=3D""></span></a><o:p></o:p>=
+</span></p></td><td style=3D"padding:2.25pt 2.25pt 2.25pt 2.25pt"><p class=3D=
+"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sa=
+ns-serif;color:#7B7B7A"><a href=3D"https://www.youtube.com/user/MusikhausTho=
+mann"><span style=3D"color:black;text-decoration:none"><img border=3D"0" id=3D=
+"_x0000_i1033" src=3D"https://www.thomann.de/pics/hq/mails/social/youtube.pn=
+g" alt=3D"YouTube" data-unique-identifier=3D""></span></a><o:p></o:p></span>=
+</p></td><td style=3D"padding:2.25pt 2.25pt 2.25pt 2.25pt"><p class=3D"MsoNo=
+rmal"><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-ser=
+if;color:#7B7B7A"><a href=3D"https://www.instagram.com/thomann.music/"><span=
+ style=3D"color:black;text-decoration:none"><img border=3D"0" id=3D"_x0000_i=
+1034" src=3D"https://www.thomann.de/pics/hq/mails/social/instagram.png" alt=3D=
+"Instagram" data-unique-identifier=3D""></span></a><o:p></o:p></span></p></t=
+d><td style=3D"padding:2.25pt 2.25pt 2.25pt 2.25pt"><p class=3D"MsoNormal"><=
+span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;colo=
+r:#7B7B7A"><a href=3D"https://www.thomann.de/blog/de/"><span style=3D"color:=
+black;text-decoration:none"><img border=3D"0" id=3D"_x0000_i1035" src=3D"htt=
+ps://www.thomann.de/pics/hq/mails/social/blog.png" alt=3D"Blog" data-unique-=
+identifier=3D""></span></a><o:p></o:p></span></p></td><td style=3D"padding:2=
+.25pt 2.25pt 2.25pt 2.25pt"><p class=3D"MsoNormal"><span style=3D"font-size:=
+10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#7B7B7A"><a href=3D"ht=
+tps://www.facebook.com/musikhausthomann"><span style=3D"color:black;text-dec=
+oration:none"><img border=3D"0" id=3D"_x0000_i1036" src=3D"https://www.thoma=
+nn.de/pics/hq/mails/social/facebook.png" alt=3D"Facebook" data-unique-identi=
+fier=3D""></span></a><o:p></o:p></span></p></td></tr></tbody></table></td></=
+tr><tr style=3D"height:7.5pt"><td colspan=3D"3" style=3D"padding:1.5pt 1.5pt=
+ 1.5pt 1.5pt;height:7.5pt"><p class=3D"MsoNormal"><span style=3D"font-size:1=
+.0pt">&nbsp;<o:p></o:p></span></p></td></tr></tbody></table><p class=3D"MsoN=
+ormal"><span style=3D"display:none"><o:p>&nbsp;</o:p></span></p><table class=
+=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D=
+"100%" style=3D"width:100.0%;border-collapse:collapse"><tbody><tr><td style=3D=
+"padding:0cm 0cm 0cm 0cm"><h3 style=3D"mso-margin-top-alt:15.0pt;margin-righ=
+t:0cm;margin-bottom:7.5pt;margin-left:0cm"><span style=3D"font-family:&quot;=
+Arial&quot;,sans-serif;color:#020202;font-weight:normal">Infos und News rund=
+ um Thomann<o:p></o:p></span></h3><table class=3D"MsoNormalTable" border=3D"=
+0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"width:100.0%;=
+border-collapse:collapse"><tbody><tr><td width=3D"33%" valign=3D"top" style=3D=
+"width:33.0%;padding:0cm 0cm 0cm 0cm"><table class=3D"MsoNormalTable" border=
+=3D"1" cellspacing=3D"0" cellpadding=3D"0" style=3D"border-collapse:collapse=
+;border:none"><tbody><tr><td style=3D"border:solid #E2E2E2 1.0pt;padding:0cm=
+ 0cm 0cm 0cm"><p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-fa=
+mily:&quot;Arial&quot;,sans-serif;color:#020202"><a href=3D"https://www.thom=
+ann.de/de/onlineexpert.html"><span style=3D"color:black;text-decoration:none=
+"><img border=3D"0" width=3D"184" height=3D"113" style=3D"width:1.9166in;hei=
+ght:1.177in" id=3D"_x0000_i1037" src=3D"https://www.thomann.de/pics/hq/mails=
+/news/online-guides.jpg" alt=3D"Online-Ratgeber" data-unique-identifier=3D""=
+></span></a><o:p></o:p></span></p></td></tr></tbody></table><p class=3D"MsoN=
+ormal"><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-se=
+rif;color:#020202;display:none"><o:p>&nbsp;</o:p></span></p><table class=3D"=
+MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"0"=
+ style=3D"width:127.5pt;border-collapse:collapse"><tbody><tr><td style=3D"pa=
+dding:9.0pt 0cm 6.0pt 0cm"><p class=3D"MsoNormal"><span style=3D"font-size:1=
+0.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#020202"><a href=3D"htt=
+ps://www.thomann.de/de/onlineexpert.html"><b><span style=3D"color:#343434;te=
+xt-decoration:none">Online-Ratgeber</span></b></a><o:p></o:p></span></p></td=
+></tr><tr><td style=3D"padding:0cm 0cm 0cm 0cm"><p class=3D"MsoNormal"><span=
+ style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#0=
+20202"><a href=3D"https://www.thomann.de/de/onlineexpert.html"><span style=3D=
+"color:black;text-decoration:none">Hier k=C3=B6nnen Sie sich zu vielen Theme=
+n informieren. Profis und Experten erkl=C3=A4ren Kniffe und Tricks zum profe=
+ssionellen Umgang mit Instrumenten und Musikequipment.</span></a><o:p></o:p>=
+</span></p></td></tr></tbody></table></td><td width=3D"33%" valign=3D"top" s=
+tyle=3D"width:33.0%;padding:0cm 0cm 0cm 0cm"><table class=3D"MsoNormalTable"=
+ border=3D"1" cellspacing=3D"0" cellpadding=3D"0" style=3D"border-collapse:c=
+ollapse;border:none"><tbody><tr><td style=3D"border:solid #E2E2E2 1.0pt;padd=
+ing:0cm 0cm 0cm 0cm"><p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;=
+font-family:&quot;Arial&quot;,sans-serif;color:#020202"><a href=3D"https://w=
+ww.thomann.de/blog/de/"><span style=3D"color:black;text-decoration:none"><im=
+g border=3D"0" width=3D"184" height=3D"113" style=3D"width:1.9166in;height:1=
+.177in" id=3D"_x0000_i1038" src=3D"https://www.thomann.de/pics/hq/mails/news=
+/t-blog.jpg" alt=3D"Blog" data-unique-identifier=3D""></span></a><o:p></o:p>=
+</span></p></td></tr></tbody></table><p class=3D"MsoNormal"><span style=3D"f=
+ont-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#020202"><o:p=
+>&nbsp;</o:p></span></p><table class=3D"MsoNormalTable" border=3D"0" cellspa=
+cing=3D"0" cellpadding=3D"0" width=3D"0" style=3D"width:127.5pt;border-colla=
+pse:collapse"><tbody><tr><td style=3D"padding:9.0pt 0cm 6.0pt 0cm"><p class=3D=
+"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sa=
+ns-serif;color:#020202"><a href=3D"https://www.thomann.de/blog/de/"><b><span=
+ style=3D"color:#343434;text-decoration:none">Blog</span></b></a><o:p></o:p>=
+</span></p></td></tr><tr><td style=3D"padding:0cm 0cm 0cm 0cm"><p class=3D"M=
+soNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans=
+-serif;color:#020202"><a href=3D"https://www.thomann.de/blog/de/"><span styl=
+e=3D"color:black;text-decoration:none">Verpassen Sie nie wieder Events, Ank=C3=
+=BCndigungen, Gewinnspiele oder News aus dem Treppendorfer Universum.</span>=
+</a><o:p></o:p></span></p></td></tr></tbody></table></td><td width=3D"33%" v=
+align=3D"top" style=3D"width:33.0%;padding:0cm 0cm 0cm 0cm"><table class=3D"=
+MsoNormalTable" border=3D"1" cellspacing=3D"0" cellpadding=3D"0" style=3D"bo=
+rder-collapse:collapse;border:none"><tbody><tr><td style=3D"border:solid #E2=
+E2E2 1.0pt;padding:0cm 0cm 0cm 0cm"><p class=3D"MsoNormal"><span style=3D"fo=
+nt-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#020202"><a hr=
+ef=3D"https://www.thomann.de/de/basket_coupon.html"><span style=3D"color:bla=
+ck;text-decoration:none"><img border=3D"0" width=3D"184" height=3D"113" styl=
+e=3D"width:1.9166in;height:1.177in" id=3D"_x0000_i1039" src=3D"https://www.t=
+homann.de/pics/hq/mails/news/vouchers.jpg" alt=3D"Gutscheine" data-unique-id=
+entifier=3D""></span></a><o:p></o:p></span></p></td></tr></tbody></table><p c=
+lass=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Arial&q=
+uot;,sans-serif;color:#020202"><o:p>&nbsp;</o:p></span></p><table class=3D"M=
+soNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"0" s=
+tyle=3D"width:127.5pt;border-collapse:collapse"><tbody><tr><td style=3D"padd=
+ing:9.0pt 0cm 6.0pt 0cm"><p class=3D"MsoNormal"><span style=3D"font-size:10.=
+0pt;font-family:&quot;Arial&quot;,sans-serif;color:#020202"><a href=3D"https=
+://www.thomann.de/de/basket_coupon.html"><b><span style=3D"color:#343434;tex=
+t-decoration:none">Gutscheine</span></b></a><o:p></o:p></span></p></td></tr>=
+<tr><td style=3D"padding:0cm 0cm 0cm 0cm"><p class=3D"MsoNormal"><span style=
+=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#020202"=
+><a href=3D"https://www.thomann.de/de/basket_coupon.html"><span style=3D"col=
+or:black;text-decoration:none">Das perfekte Geschenk f=C3=BCr Ihre Musikerko=
+llegen, Verwandte oder Freunde. Damit zaubern Sie garantiert ein entz=C3=BCc=
+ktes Grinsen aufs Gesicht.</span></a><o:p></o:p></span></p></td></tr></tbody=
+></table></td></tr></tbody></table></td></tr></tbody></table><div><p class=3D=
+"MsoNormal">&nbsp;<o:p></o:p></p></div><table class=3D"MsoNormalTable" borde=
+r=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"width:10=
+0.0%;border-collapse:collapse"><tbody><tr><td style=3D"padding:3.75pt 3.75pt=
+ 3.75pt 3.75pt"><h3 style=3D"mso-margin-top-alt:13.5pt;margin-right:0cm;marg=
+in-bottom:12.0pt;margin-left:0cm"><span style=3D"font-size:10.5pt;font-famil=
+y:&quot;Arial&quot;,sans-serif;color:#5F5F5F;font-weight:normal">Widerrufsbe=
+lehrung<o:p></o:p></span></h3><h3 style=3D"mso-margin-top-alt:13.5pt;margin-=
+right:0cm;margin-bottom:12.0pt;margin-left:0cm"><span style=3D"font-size:10.=
+5pt;font-family:&quot;Arial&quot;,sans-serif;color:#5F5F5F;font-weight:norma=
+l">1. Widerrufsrecht<o:p></o:p></span></h3><p style=3D"mso-margin-top-alt:9.=
+75pt;margin-right:0cm;margin-bottom:9.75pt;margin-left:0cm"><span style=3D"f=
+ont-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#5F5F5F">Sofe=
+rn der Kunde Verbraucher (=C2=A7 13 BGB) ist, hat er das Recht, binnen vierz=
+ehn Tagen ohne Angabe von Gr=C3=BCnden diesen Vertrag zu widerrufen. Die Wid=
+errufsfrist betr=C3=A4gt vierzehn Tage ab dem Tag, an dem der Kunde oder ein=
+ von ihm benannter Dritter, der nicht der Bef=C3=B6rderer ist, die letzte Wa=
+re in Besitz genommen hat. Um das Widerrufsrecht auszu=C3=BCben, muss der Ku=
+nde uns (Thomann GmbH, Hans-Thomann-Str. 1, 96138 Burgebrach, Telefon: 09546=
+ 9223-66, Fax: 09546 9223-8399, E-Mail: <a href=3D"mailto:kundenservice@thom=
+ann.de">kundenservice@thomann.de</a>) mittels einer eindeutigen Erkl=C3=A4ru=
+ng (z.B. ein mit der Post versandter Brief, Telefax oder E-Mail) =C3=BCber s=
+einen Entschluss, diesen Vertrag zu widerrufen, informieren. Er kann daf=C3=BC=
+r das beigef=C3=BCgte Muster-Widerrufsformular verwenden, das jedoch nicht v=
+orgeschrieben ist. Zur Wahrung der Widerrufsfrist reicht es aus, dass der Ku=
+nde die Mitteilung =C3=BCber die Aus=C3=BCbung des Widerrufsrechts vor Ablau=
+f der Widerrufsfrist absendet. <o:p></o:p></span></p><h3 style=3D"mso-margin=
+-top-alt:13.5pt;margin-right:0cm;margin-bottom:12.0pt;margin-left:0cm"><span=
+ style=3D"font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#5=
+F5F5F;font-weight:normal">2. Folgen des Widerrufs<o:p></o:p></span></h3><p s=
+tyle=3D"mso-margin-top-alt:9.75pt;margin-right:0cm;margin-bottom:9.75pt;marg=
+in-left:0cm"><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,s=
+ans-serif;color:#5F5F5F">Wenn der Kunde diesen Vertrag widerruft, haben wir a=
+lle Zahlungen, die wir von ihm erhalten haben, einschlie=C3=9Flich der Liefe=
+rkosten (mit Ausnahme der zus=C3=A4tzlichen Kosten, die sich daraus ergeben,=
+ dass der Kunde eine andere Art der Lieferung als die von uns angebotene, g=C3=
+=BCnstigste Standardlieferung gew=C3=A4hlt hat), unverz=C3=BCglich und sp=C3=
+=A4testens binnen vierzehn Tagen ab dem Tag zur=C3=BCckzuzahlen, an dem die M=
+itteilung =C3=BCber den Widerruf dieses Vertrages bei uns eingegangen ist. F=C3=
+=BCr diese R=C3=BCckzahlung verwenden wir dasselbe Zahlungsmittel, das auch d=
+er Kunde bei der urspr=C3=BCnglichen Transaktion eingesetzt hat, es sei denn=
+, es wurde ausdr=C3=BCcklich etwas anderes vereinbart; in keinem Fall werden=
+ dem Kunden wegen dieser R=C3=BCckzahlung Entgelte berechnet. Wir k=C3=B6nne=
+n die R=C3=BCckzahlung verweigern, bis wir die Waren wieder zur=C3=BCckerhal=
+ten haben oder bis der Nachweis durch den Kunden erbracht wird, dass die War=
+en zur=C3=BCckgesandt wurden, je nachdem, welches der fr=C3=BChere Zeitpunkt=
+ ist. Der Kunde hat die Waren unverz=C3=BCglich und in jedem Fall sp=C3=A4te=
+stens binnen vierzehn Tagen ab dem Tag, an dem er uns =C3=BCber den Widerruf=
+ dieses Vertrages unterrichtet, an uns zur=C3=BCckzusenden oder zu =C3=BCber=
+geben. Die Frist ist gewahrt, wenn der Kunde die Waren vor Ablauf der Frist v=
+on vierzehn Tagen absendet. Wir tragen die Kosten der R=C3=BCcksendung der W=
+aren. Der Kunde muss f=C3=BCr einen etwaigen Wertverlust der Waren nur aufko=
+mmen, wenn dieser Wertverlust auf einen zur Pr=C3=BCfung der Beschaffenheit,=
+ Eigenschaften und Funktionsweise der Waren nicht notwendigen Umgang mit ihn=
+en zur=C3=BCckzuf=C3=BChren ist.<o:p></o:p></span></p><h3 style=3D"mso-margi=
+n-top-alt:13.5pt;margin-right:0cm;margin-bottom:12.0pt;margin-left:0cm"><spa=
+n style=3D"font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#=
+5F5F5F;font-weight:normal">3. Ausschluss des Widerrufsrechts<o:p></o:p></spa=
+n></h3><p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&q=
+uot;Arial&quot;,sans-serif;color:#5F5F5F">Das Widerrufsrecht besteht nicht b=
+ei <o:p></o:p></span></p><ul type=3D"disc"><li class=3D"MsoNormal" style=3D"=
+color:#5F5F5F;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-list:l0=
+ level1 lfo1"><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,=
+sans-serif">Lieferung von Waren, die nicht vorgefertigt sind und f=C3=BCr de=
+ren Herstellung eine individuelle Auswahl oder Bestimmung durch den Verbrauc=
+her ma=C3=9Fgeblich ist oder die eindeutig auf die pers=C3=B6nlichen Bed=C3=BC=
+rfnisse des Verbrauchers zugeschnitten sind.<o:p></o:p></span></li><li class=
+=3D"MsoNormal" style=3D"color:#5F5F5F;mso-margin-top-alt:auto;mso-margin-bot=
+tom-alt:auto;mso-list:l0 level1 lfo1"><span style=3D"font-size:10.0pt;font-f=
+amily:&quot;Arial&quot;,sans-serif">Lieferung von versiegelten Waren, die au=
+s Gr=C3=BCnden des Gesundheitsschutzes oder der Hygiene nicht zur R=C3=BCckg=
+abe geeignet sind, wenn ihre Versiegelung nach der Lieferung entfernt wurde.=
+<o:p></o:p></span></li><li class=3D"MsoNormal" style=3D"color:#5F5F5F;mso-ma=
+rgin-top-alt:auto;mso-margin-bottom-alt:auto;mso-list:l0 level1 lfo1"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif">Lieferung=
+ von Ton- oder Videoaufnahmen oder Computersoftware in einer versiegelten Pa=
+ckung, wenn die Versiegelung nach der Lieferung entfernt wurde.<o:p></o:p></=
+span></li><li class=3D"MsoNormal" style=3D"color:#5F5F5F;mso-margin-top-alt:=
+auto;mso-margin-bottom-alt:auto;mso-list:l0 level1 lfo1"><span style=3D"font=
+-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif">Lieferung von Zeitung=
+en, Zeitschriften oder Illustrierten mit Ausnahme von Abonnement-Vertr=C3=A4=
+gen.<o:p></o:p></span></li></ul><p style=3D"mso-margin-top-alt:9.75pt;margin=
+-right:0cm;margin-bottom:9.75pt;margin-left:0cm"><span style=3D"font-size:10=
+.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#5F5F5F">Hier finden Sie=
+ ein Muster-Widerrufsformular:<br><a href=3D"https://www.thomann.de/pics/atg=
+/atgdata/document/misc/cancellation_form_de.pdf"><span style=3D"color:#5F5F5=
+F">https://www.thomann.de/pics/atg/atgdata/document/misc/cancellation_form_d=
+e.pdf</span></a><o:p></o:p></span></p><p style=3D"mso-margin-top-alt:9.75pt;=
+margin-right:0cm;margin-bottom:9.75pt;margin-left:0cm"><span style=3D"font-s=
+ize:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#5F5F5F">Unsere al=
+lgemeinen Gesch=C3=A4ftsbedingungen (AGB) mit einem Hinweis auf die Widerruf=
+sbelehrung finden Sie hier:<br><a href=3D"https://www.thomann.de/de/compinfo=
+_terms.html"><span style=3D"color:#5F5F5F">https://www.thomann.de/de/compinf=
+o_terms.html</span></a><o:p></o:p></span></p></td></tr></tbody></table><p cl=
+ass=3D"MsoNormal"><span style=3D"display:none"><o:p>&nbsp;</o:p></span></p><=
+table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0" width=3D"100%" style=3D"width:100.0%;border-collapse:collapse"><tbody><t=
+r id=3D"template-footer-sub"><td style=3D"border:none;border-top:solid #DDDD=
+DB 1.0pt;padding:11.25pt 3.75pt 3.75pt 3.75pt"><p class=3D"MsoNormal" align=3D=
+"center" style=3D"text-align:center"><span style=3D"font-size:8.5pt;font-fam=
+ily:&quot;Arial&quot;,sans-serif;color:#B6B5B3">Thomann GmbH, Hans-Thomann-S=
+tr. 1, 96138 Burgebrach, Deutschland<br>Gesch=C3=A4ftsf=C3=BChrer: Johann Th=
+omann, Handelsregister-Nummer: HRB 5862<br>Handelsregister beim Amtsgericht:=
+ Bamberg, Sitz der Gesellschaft: Burgebrach<br><br><a href=3D"https://www.th=
+omann.de/de"><span style=3D"color:black;text-decoration:none"><img border=3D=
+"0" width=3D"89" height=3D"16" style=3D"width:.927in;height:.1666in" id=3D"_=
+x0000_i1040" src=3D"https://www.thomann.de/pics/hq/mails/common/thomann-foot=
+er-light.png" alt=3D"Thomann" data-unique-identifier=3D""></span></a><o:p></=
+o:p></span></p></td></tr></tbody></table></td></tr></tbody></table></td></tr=
+></tbody></table></td></tr></tbody></table></div></td></tr></tbody></table><=
+/div><p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p></div></div></blockquote></=
+body></html>=
+
+--Apple-Mail-562DDCFE-BD07-472A-86A9-3890D3C641CD--

@@ -1,0 +1,70 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <dldonotreply@mcafee.com>
+Received: from mail-hub02.belwue.de ([129.143.76.42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 67591885 for technikag@fichte-gymnasium.de; Wed, 07 Jun 2023 11:53:08 +0200
+Received: from mail-in02.belwue.de (mail-in02.belwue.de [129.143.76.2])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4QbjMS2gK5z3jbv
+	for <technikag@fichte-gymnasium.de>; Wed,  7 Jun 2023 11:53:08 +0200 (CEST)
+Received: from us-smtp-delivery-231.mimecast.com (us-smtp-delivery-231.mimecast.com [170.10.129.231])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in02.belwue.de (Postfix) with ESMTPS id 4QbjMR1K7nzB17t9
+	for <technikag@fichte-gymnasium.de>; Wed,  7 Jun 2023 11:53:07 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mcafee.com;
+	s=mimecast20190606; t=1686131585;
+	h=from:from:reply-to:subject:subject:date:date:message-id:message-id:
+	 to:to:cc:mime-version:mime-version:content-type:content-type:
+	 content-transfer-encoding:content-transfer-encoding;
+	bh=dt8p5osNcWnyl9Fs2hRDMUBXxanMYhlBweSD4dexy34=;
+	b=Rbr/fGAkynZe2qlLRjZJqVLVxu57Vrvb+PdVz1XuQ9OXynnjkcfi2Sw8dSqVqFn4x/c8Od
+	e3XAgKmtJCY+V6gEVHf2/TuPI5bj5YeXVNRZuwJLZJ7+Vzn0d5k1fiDhy1e1rTHg/CGXBj
+	MvEVss0oFQEkriTZaaWVEvCjkw83ihI=
+Received: from DNVEDGE1.corpzone.internalzone.com
+ (ec2-44-224-29-58.us-west-2.compute.amazonaws.com [44.224.29.58]) by
+ relay.mimecast.com with ESMTP with STARTTLS (version=TLSv1.2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ us-mta-353-VE2hR-CMPHO1D1kqL6K12w-2; Wed, 07 Jun 2023 05:53:04 -0400
+X-MC-Unique: VE2hR-CMPHO1D1kqL6K12w-2
+Received: from DNVEXCH1.corpzone.internalzone.com (10.171.54.7) by
+ edge.mcafee.com (10.171.54.13) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.2.922.13; Wed, 7 Jun 2023
+ 03:53:03 -0600
+Received: from DNVEXCH1.corpzone.internalzone.com (10.171.54.7) by
+ DNVEXCH1.corpzone.internalzone.com (10.171.54.7) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.922.27; Wed, 7 Jun 2023 04:52:56 -0500
+Received: from EC2AMAZ-UPVS89V (10.171.54.51) by
+ DNVEXCH1.corpzone.internalzone.com (10.171.54.7) with Microsoft SMTP Server
+ id 15.2.922.27 via Frontend Transport; Wed, 7 Jun 2023 04:52:56 -0500
+MIME-Version: 1.0
+From: <donotreply@mcafee.com>
+To: <technikag@fichte-gymnasium.de>
+Date: Wed, 7 Jun 2023 02:53:03 -0700
+Subject: =?utf-8?B?QmVzdMOkdGlndW5nIGRlciBBYm1lbGR1bmcgdm9uIE1jQWZl?=
+ =?utf-8?B?ZS1Lb21tdW5pa2F0aW9u?=
+Message-ID: <a7fa8047-4915-4e50-a0cf-94f3a75aa72f@DNVEXCH1.corpzone.internalzone.com>
+X-Mimecast-Spam-Score: 0
+X-Mimecast-Originator: mcafee.com
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+X-Rspamd-Queue-Id: 4QbjMR1K7nzB17t9
+X-Rspamd-UID: 050b95
+
+U2llIHd1cmRlbiBhdXMgZGVtIEUtTWFpbC1WZXJ0ZWlsZXIgZW50ZmVybnQgdW5kIGVyaGFsdGVu
+IGFiIHNvZm9ydCBrZWluZSBFLU1haWxzIHZvbiBNY0FmZWUgbWVoci4NCg0KV2VubiBTaWUgZGFz
+IEFib25uZW1lbnQgdmVyc2VoZW50bGljaCBhYmJlc3RlbGx0IGhhYmVuIG9kZXIgd2VubiBTaWUg
+c2ljaCB6dSBlaW5lbSBzcMOkdGVyZW4gWmVpdHB1bmt0IGVybmV1dCBhbm1lbGRlbiBtw7ZjaHRl
+biwga2xpY2tlbiBTaWUgYXVmIGRlbiBmb2xnZW5kZW4gTGluaywgdW5kIGdlYmVuIFNpZSBJaHJl
+IEUtTWFpbC1BZHJlc3NlIGVpbjoNCmh0dHBzOi8vaG9tZS5tY2FmZWUuY29tL1Jvb3QvTmV3c2xl
+dHRlci5hc3B4P2N1bHR1cmU9REUtREUmYWZmaWQ9MA0KDQpWaWVsZW4gRGFuayENCk1jQWZlZQ0K
+DQogCgpCaXR0ZSBhbnR3b3J0ZW4gU2llIG5pY2h0IGF1ZiBkaWVzZSBOYWNocmljaHQuIFdpciBr
+w7ZubmVuIHVudGVyIGRpZXNlciBBZHJlc3NlIGtlaW5lIEUtTWFpbHMgZW1wZmFuZ2VuIHVuZCBk
+YWhlciBhdWNoIG5pY2h0IGFudHdvcnRlbi4gV2VubiBTaWUgSGlsZmUgYmVuw7Z0aWdlbiwgd2Vu
+ZGVuIFNpZSBzaWNoIGFuIGRlbiBLdW5kZW4tU3VwcG9ydDogaHR0cHM6Ly9zZXJ2aWNlLm1jYWZl
+ZS5jb20=
+

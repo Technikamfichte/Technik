@@ -1,0 +1,155 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <markus.kapp@gmx.net>
+Received: from cst101.belwue.de ([129.143.2.71] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.2.14)
+  with ESMTP id 17405249; Fri, 17 Jan 2020 13:16:48 +0100
+Received: from mout.gmx.net (mout.gmx.net [212.227.15.18])
+	by cst101.belwue.de with ESMTPS id 00HCGe6W029870
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=NOT);
+	Fri, 17 Jan 2020 13:16:45 +0100 (MET)
+	env-from (markus.kapp@gmx.net)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=gmx.net;
+	s=badeba3b8450; t=1579263400;
+	bh=OUT4Uoyvn6Dmx1Nf7tg1yHhsqXdqdUs4z0rCbOkYZ0k=;
+	h=X-UI-Sender-Class:Subject:To:References:From:Date:In-Reply-To;
+	b=aOXSydDLXa1Gi6eDcoQi5tdfgM3fwKzcKmej1dr2OZPtlEtbFwxUliv57kDSFUEO8
+	 dCWA2WXgcv+65yGI01WdGcF0UW/d+PN/ueXpu9D9idfZ+yvMKgQoQspFJcRabhvoku
+	 6Qg1dl+0jlVzsF7KXtyUu3gVVqxF877irEK4WA/U=
+X-UI-Sender-Class: 01bb95c1-4bf8-414a-932a-4f6e2808ef9c
+Received: from [192.168.0.59] ([46.223.163.225]) by mail.gmx.com (mrgmx005
+ [212.227.17.190]) with ESMTPSA (Nemesis) id 1MRmjw-1j41PW045a-00TDcw; Fri, 17
+ Jan 2020 13:16:40 +0100
+Subject: Re: Benefizabend am 29.01.20
+To: Simone Naujock <simone.naujock@fichte-gymnasium.de>,
+        TechnikAG <technikag@fichte-gymnasium.de>
+References: <web-115865125@be01.mbox1.belwue.de>
+ <65522a25-b7a0-1b48-cdb4-7720d703d89a@fichte-gymnasium.de>
+ <web-116140984@be01.mbox1.belwue.de>
+From: Markus Kapp <markus.kapp@gmx.net>
+Message-ID: <eba15e27-c3d1-705d-93c8-611a28d804c3@gmx.net>
+Date: Fri, 17 Jan 2020 13:16:46 +0100
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:68.0) Gecko/20100101
+ Thunderbird/68.3.1
+MIME-Version: 1.0
+In-Reply-To: <web-116140984@be01.mbox1.belwue.de>
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: quoted-printable
+X-Provags-ID: V03:K1:TKau79gvynk1L7fD+jTLMsq+XhDn2uIYrsjSkVyfjRQj8jj7pQQ
+ hGN4agcLS/TKgHejNE03GND5Ux7Q+6V2nkewmCwcakNbZihftveUJNhrnbe9NAzwFIn2647
+ g/pbLP4FEERSnFsF40ItH7hETKn0ddA/gJKPXiUdaiuJ18943zHvDszNA6eam7kT5TYLecA
+ /CjWf6LsvM/+oKqiUlFDw==
+X-Spam-Flag: NO
+X-UI-Out-Filterresults: notjunk:1;V03:K0:wE0V0MJ32EQ=:ru+vD9y37dZvRUcCRvYvrD
+ uqdVVk6mE/0mJ1V8US4HFoGfUWutRrrJw8ltfTCxC3JoJyKMN3q1ZIiROtVH/Gx8oPfmxNuBw
+ Oboo6EQojmakN0eT4rSjSPzW/yYc/9OTDw22sJKrCmsSsFFcYacMHgXFlLBImQKRaAIfjnyBT
+ qOodn/4k2jVCgShxu+pxWwYSZ8dYgNB6eXl4wm/5oZCEswLJn1/mEDILWNuBvghFSECY8lw3I
+ BLctSXx2CWZh6jxUzAggEWYIc2vf0/srLWEU95D63e9fRJbVHkCn0ouCEoIfe1wlHPXXXtRp+
+ ZoIrigkFoIxaZnYRKLw8Q6Ttoorpxhlg4kyHKpvToGpkYOyhAyhkH5bIkVEkL2DWDHZa9wRuX
+ YAKMy3N0uBk0UYEI3NzEksvHzTWNZfd7Cvw0GWRmrCOpecqcCJKNt+L0ruAg8JBo+5GUkck1J
+ Yt10Z4sjpdodEgPg5qlZ1HruN/nA3GRAmX4bAMFuPL3+PDEoLoxuKFKxvf8BUHOEi7cajYfrI
+ xYVCcY0bmoGANZUPzoparNp8ynIOV/8B8RigZXaPvt9Fmt49p86hbHb2RoVn3lo7S9kDP3lF1
+ fMG6X7R/j9sYMpSaa8OdPjkONtLwU0GrAP9ukPdWxId4E6C6O7nLAeSAfdIwstD+7zS4NusG+
+ uX2IsbtTGLp7nwSZ/jjm5Ead810Ci1kouIEF1rEUWj6lvYhKCt+5F8dgSSpaQUHUOjxzJK6tD
+ B3jpDMpwGa0OR0ZrTRUdD7t3WtZRNClGlQTTwH/M0C0mt2QMn6jhWcBtPlVKRG934Imcm4qzz
+ hcVktGdpoiOnF6nmOFPzOSOHcL+m2UFIsW/J4YKvB+aXOhboJBTTqjN4nV2TkTkMCQcg9PaKO
+ SSY8hufzKvI2f7FM8hIaLJAp9QR72SLKLC5chJbDwAKWlKvEhkgfBM+h0Ipml9+eP151CDbWA
+ dexJFXM+1UXJopxHkgsxPmSWWvk3/5wVDiFB3zs57lsBxphN1V0HdJU11yS0aq6FRvGRVa3Zp
+ vZDhvqc06uKdMDNBiZECLlGRLPHTXWiNzJtf368y0L380/pCdX6C6PKkz4RMo+oKhyNs36UH7
+ dAZagHV/wT3/VEgNkEHcTMzW0bwXtxrzjMHsGIoPRsZ1QjY0Pd0Z94C0sFFz8st+zEg4rlnLg
+ d6aQGZhEAdQj3lqyJvaBewVE4TZebU9y3AlHP0aDtAG1xt5Up447BDV8uMYfN9Py1PQSYDHrn
+ MwPumINZ8e6i8tXdnJ7dvbzNaJBvOhfeTjlwL+kWH5ARnlnGPyHYpOIa2YlM=
+X-DCC-BelWue-Metrics: cst101.belwue.de 1243; Body=2 Fuz1=2
+
+Liebe Simone, danke f=C3=BCr die Info!
+
+Ja, Heatset bringe ich mit und dann br=C3=A4uchte ich noch einen Anschluss
+f=C3=BCr meine Ukulele (also eine DI-Box, Ukulele hat Klinke)
+
+Alles weitere bringe ich mit!
+
+LG
+Markus
+
+Am 16.01.2020 um 11:01 schrieb Simone Naujock:
+> Lieber Levin,
+>
+> in cc setze ich Markus Kapp, der den zweiten gro=C3=9Fen Block an dem Ab=
+end
+> bestreitet - Musik und Kabarett.
+> Mit der Musikfachschaft ist abgesprochen, dass der Fl=C3=BCgel nach vorn=
+e
+> darf - ich werde deswegen zum Aufgabe am Mi-Nachmittag dazu kommen.
+> Kannst du mir sagen, wann ihr beginnt bzw. wann wir den Fl=C3=BCgel
+> schieben sollen?
+>
+> Markus Kapp bringt sein eigenes Headset mit..
+> Zur kl=C3=A4ren w=C3=A4re noch, ob wir wie beim Gottesdienst ein Mikro z=
+um
+> Fl=C3=BCgel stellen? (damit es laut genug ist?)
+>
+> Viele Gr=C3=BC=C3=9Fe
+> Simone Naujock
+>
+> On Fri, 10 Jan 2020 16:13:40 +0100
+> =C2=A0TechnikAG <technikag@fichte-gymnasium.de> wrote:
+>> Liebe Frau Naujock,
+>>
+>> vielen Dank f=C3=BCr Ihre Email. Das klingt alles schon ganz gut, ich h=
+abe
+>> aber noch ein paar Fragen: Hat der Dozent vor, einen Laptop
+>> mitzubringen? Wenn ja, welche Beameranschl=C3=BCsse hat der?
+>>
+>> Au=C3=9Ferdem bleibt uns zwischen Ende der 5. Stunde nur wenig Zeit zum
+>> R=C3=BCckbau der Mensa; es w=C3=A4re gut, wenn Sie uns hier noch ein pa=
+ar
+>> Helfer*innen organisieren k=C3=B6nnten.
+>>
+>> Auch Sie k=C3=B6nnen sich bei weiteren Fragen gerne nochmal an uns wend=
+en.
+>>
+>> Viele Gr=C3=BC=C3=9Fe
+>>
+>> Levin
+>>
+>> Am 08.01.2020 um 16:29 schrieb Simone Naujock:
+>>> Liebe Technik-AG,
+>>>
+>>> am 29.01.2020 findet um 19.00 ein Benefizabend zugunsten von Burundi
+>>> Kids e.V. statt =E2=80=93 bei dem wir bitte eure Unterst=C3=BCtzung br=
+auchen.
+>>>
+>>> Die gute Nachricht: wir brauchen zumindest keine B=C3=BChne.
+>>> Es wird verschiedene Musikbeitr=C3=A4ge geben (wegen des Klaviers
+>>> sprechen wir mit der Musik-Fachschaft) =E2=80=93 wir brauchen also v.a=
+.
+>>> Mikros =E2=80=93 nach meiner jetzigen Sch=C3=A4tzung 2 tragbare und 1 =
+festes. Der
+>>> Kabarettist der kommt bringt sein eigenes Headset mit, das er an
+>>> eure Anlage anschlie=C3=9Fen w=C3=BCrde. Au=C3=9Ferdem gibt es einen P=
+PP-Vortrag =E2=80=93
+>>> wir brauchen also den Beamer.
+>>> Ich bin diese Woche im Skilandheim =E2=80=93 ab n=C3=A4chste Woche abe=
+r gerne
+>>> auch wieder pers=C3=B6nlich f=C3=BCr R=C3=BCckfragen ansprechbar; anso=
+nsten wei=C3=9F
+>>> auch Hr. B=C3=A4ckel schon Bescheid und auch Fr. Lanske und Fr.
+>>> Lunkenheimer gestalten den Abend mit.
+>>>
+>>> Sind die Infos f=C3=BCr euch so erst mal ausreichend?
+>>>
+>>> Zudem findet morgens in der Mensa in der 2.+3 Std. sowie der 4.+5-.
+>>> Std. ein Vortrag f=C3=BCr die 7. Und 8. Klassen =C3=BCber Burundi stat=
+t. Es
+>>> ist der gleiche Referent wie am Abend =E2=80=93 da braucht er ein Mikr=
+o=C2=A0 und
+>>> auch die Leinwand wegen der PPP =E2=80=93 dann gibt es normal Mittages=
+sen.
+>>>
+>>> Das waren jetzt ganz sch=C3=B6n viele Infos. Meldet euch gerne bei
+>>> R=C3=BCckfragen.
+>>> Ich bzw. wir bedanken uns schon mal herzlich vorab!
+>>>
+>>> Viele Gr=C3=BC=C3=9Fe,
+>>> Simone Naujock
+>
+

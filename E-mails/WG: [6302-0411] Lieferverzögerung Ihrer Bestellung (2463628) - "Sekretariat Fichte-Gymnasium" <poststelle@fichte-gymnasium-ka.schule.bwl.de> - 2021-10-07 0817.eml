@@ -1,0 +1,668 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <prvs=90781e5f7=poststelle@fichte-gymnasium-ka.schule.bwl.de>
+Received: from mail-hub02.belwue.de ([2001:7c0:0:76::42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.7f)
+  with ESMTPS id 35050560 for technikag@fichte-gymnasium.de; Thu, 07 Oct 2021 08:18:00 +0200
+Received: from mail-in01.belwue.de (mail-in01.belwue.de [IPv6:2001:7c0:0:76::1])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4HQ1Mr1k5fzclB
+	for <technikag@fichte-gymnasium.de>; Thu,  7 Oct 2021 08:18:00 +0200 (CEST)
+Received: from mailgate1.bwl.de (mailgate3.bwl.de [193.197.148.18])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mail-in01.belwue.de (Postfix) with ESMTPS id 4HQ1Mq5CGHz52mMD
+	for <technikag@fichte-gymnasium.de>; Thu,  7 Oct 2021 08:17:59 +0200 (CEST)
+IronPort-SDR: GDo66mduqVUbknPoDntWqL+FVVVW32vLjWsLBgIPiKGx0Aq3yX0qZtIZS+nZuCSsmn5AFYZu11
+ H+KAKzugONYA==
+X-IronPort-AV: E=Sophos;i="5.85,352,1624312800"; 
+   d="scan'208,217";a="46431843"
+Received: from unknown (HELO lvnsmtp03.bwl.de) ([10.127.32.72])
+  by mailgate1.bwl.de with ESMTP/TLS/ECDHE-RSA-AES256-GCM-SHA384; 07 Oct 2021 08:17:59 +0200
+Received: from mailgw2.bwl.de (unknown [10.127.32.34])
+	by lvnsmtp03.bwl.de (Postfix) with ESMTP id 4HQ1Mq4N3Nz4f3tQT
+	for <technikag@fichte-gymnasium.de>; Thu,  7 Oct 2021 08:17:59 +0200 (CEST)
+IronPort-SDR: VI/7bb+01X0W6CcVOQQR1L02G0bzVKi+0PIVogpY6F4EHztTaMJzAnAmqZf/rcFGgaH/m4kr7I
+ QAM60ovZDaVQ==
+X-IronPort-AV: E=Sophos;i="5.85,352,1624312800"; 
+   d="scan'208,217";a="83157111"
+Received: from kvlsm1002bf.schule.bwl.de ([10.11.9.109])
+  by mailgw2.bwl.de with ESMTP; 07 Oct 2021 08:17:59 +0200
+Received: from kvlsm1002ms.schule.bwl.de (kvlsm1002ms.schule.bwl.de [10.11.9.107])
+	by kvlsm1002bf.schule.bwl.de (Postfix) with ESMTP id 9AC865800390E
+	for <technikag@fichte-gymnasium.de>; Thu,  7 Oct 2021 08:17:59 +0200 (CEST)
+Received: from server.04105004.schule.bwl.de (unknown [10.16.153.35])
+	(Authenticated sender: poststelle@04105004.schule.bwl.de)
+	by kvlsm1002ms.schule.bwl.de (Postfix) with ESMTPA id 771E858006C37
+	for <technikag@fichte-gymnasium.de>; Thu,  7 Oct 2021 08:17:59 +0200 (CEST)
+Received: from PCSV20200026 (Unknown [10.16.153.36])
+	by server.04105004.schule.bwl.de with ESMTPA
+	; Thu, 7 Oct 2021 08:17:59 +0200
+From: "Sekretariat Fichte-Gymnasium" <poststelle@fichte-gymnasium-ka.schule.bwl.de>
+To: <technikag@fichte-gymnasium.de>
+References: <5667a457-1251-495a-be6e-ebd92c7925bd@thomann.de>
+In-Reply-To: <5667a457-1251-495a-be6e-ebd92c7925bd@thomann.de>
+Subject: =?UTF-8?Q?WG:_=5B6302-0411=5D_Lieferverz=C3=B6gerun?=
+	=?UTF-8?Q?g_Ihrer_Bestellung_=282463628=29?=
+Date: Thu, 7 Oct 2021 08:17:58 +0200
+Message-ID: <004701d7bb43$12f5a390$38e0eab0$@fichte-gymnasium-ka.schule.bwl.de>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0048_01D7BB53.D67F0FD0"
+X-Mailer: Microsoft Outlook 16.0
+Thread-Index: AQEFvpwoizusCW5ZCnZnp2wdX9qfUq1rCKTg
+Content-Language: de
+X-Rspamd-UID: e3f67e
+X-Rspamd-Queue-Id: 4HQ1Mq5CGHz52mMD
+X-Rspamd-SPAM-Probability: 0
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0048_01D7BB53.D67F0FD0
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Von: Thomann <backoffice@thomann.de>=20
+Gesendet: Mittwoch, 6. Oktober 2021 22:34
+An: sekretariat@fichte-gymnasium.de
+Betreff: [6302-0411] Lieferverz=C3=B6gerung Ihrer Bestellung (2463628)
+
+=20
+
+
+
+
+
+
+
+ <https://www.thomann.de/de>=20
+
+
+
+Sehr geehrte Damen und Herren,=20
+
+der von Ihnen bestellte Artikel wurde leider entgegen den Angaben des =
+Herstellers noch nicht bei uns angeliefert. Auf unsere Nachfrage, wann =
+diese Anlieferung stattfinden wird, haben wir vom Hersteller nun als =
+voraussichtlichen Liefertermin folgendes Lieferdatum genannt bekommen:
+
+=20
+
+
+ <https://www.thomann.de/de/prod_AR_105250.html>=20
+
+ <https://www.thomann.de/de/prod_AR_105250.html> Thomann V2020 Black 10 =
+Pack
+
+Artikelnummer:  <https://www.thomann.de/de/prod_AR_105250.html> 105250
+
+
+Neuer Liefertermin: 18.10.21
+
+=20
+
+F=C3=BCr die Lieferverz=C3=B6gerung m=C3=B6chten wir uns entschuldigen. =
+Unsere Angaben zu Lieferterminen basieren ausschlie=C3=9Flich auf =
+Informationen der Hersteller bzw. Lieferanten. Grunds=C3=A4tzlich geben =
+wir Liefertermine nur unter Vorbehalt und in guter Absicht auf die =
+Einhaltung dieser an unsere Kunden weiter. Nat=C3=BCrlich stehen wir =
+jedoch laufend in Kontakt mit dem Hersteller/Lieferanten, um f=C3=BCr =
+Sie eine schnellstm=C3=B6gliche Anlieferung erwirken zu k=C3=B6nnen.
+
+Selbstverst=C3=A4ndlich wird Ihre Ware umgehend an Sie verschickt, =
+sobald diese komplett auf Lager verf=C3=BCgbar ist. Sie erhalten dann =
+eine Versandbenachrichtigung mit den aufgef=C3=BChrten Produkten, mit =
+welcher Sie Ihre Lieferung im Anschluss verfolgen k=C3=B6nnen.
+
+Gerne hilft Ihnen unsere Fachabteilung bei der Auswahl einer eventuell =
+verf=C3=BCgbaren Alternative. Sie erreichen unsere Kollegen unter =
+Telefonnummer  <tel:+499546922335> 09546 9223=E2=80=9135 oder per E-Mail =
+unter  <mailto:pa@thomann.de> pa@thomann.de.=20
+
+Sollte Ihre Bestellung aus mehreren Artikeln bestehen veranlassen wir =
+f=C3=BCr Sie gerne eine kostenfreie Teillieferung. Die fehlenden Artikel =
+werden nach Verf=C3=BCgbarkeit schnellstm=C3=B6glich nachgeliefert.
+
+Viele weitere Informationen zu Ihrer Bestellung sowie auch Ihre Rechnung =
+finden Sie immer in Ihrem  <https://www.thomann.de/de/mythomann.html> =
+Kundencenter
+
+Mit freundlichen Grooves
+
+Ihr Thomann-Team=20
+
+=20
+
+
+=20
+
+
+
+E-Mail
+
+ <mailto:backoffice@thomann.de> backoffice@thomann.de
+
+
+Telefon
+
+ <tel:+49954692235353> 09546 9223=E2=80=915353
+
+
+Fax
+
+09546 9223=E2=80=9124
+
+
+ <https://www.thomann.de/de/compinfo_contact.html> =C3=96ffnungszeiten
+
+
+ <https://www.thomann.de/de/hotdeals.html> Hot Deals
+
+
+ <https://www.thomann.de/de/mythomann.html> Kundencenter
+
+
+ <https://twitter.com/thomann>=20
+
+ <https://www.youtube.com/user/MusikhausThomann>=20
+
+ <https://www.instagram.com/thomann.music/>=20
+
+ <https://www.thomann.de/blog/de/>=20
+
+ <https://www.facebook.com/musikhausthomann>=20
+
+
+=20
+
+=20
+
+
+
+Infos und News rund um Thomann
+
+
+
+ <https://www.thomann.de/de/onlineexpert.html>=20
+
+=20
+
+
+ <https://www.thomann.de/de/onlineexpert.html> Online-Ratgeber
+
+
+ <https://www.thomann.de/de/onlineexpert.html> Hier k=C3=B6nnen Sie sich =
+zu vielen Themen informieren. Profis und Experten erkl=C3=A4ren Kniffe =
+und Tricks zum professionellen Umgang mit Instrumenten und =
+Musikequipment.
+
+
+ <https://www.thomann.de/blog/de/>=20
+
+=20
+
+
+ <https://www.thomann.de/blog/de/> Blog
+
+
+ <https://www.thomann.de/blog/de/> Verpassen Sie nie wieder Events, =
+Ank=C3=BCndigungen, Gewinnspiele oder News aus dem Treppendorfer =
+Universum.
+
+
+ <https://www.thomann.de/de/basket_coupon.html>=20
+
+=20
+
+
+ <https://www.thomann.de/de/basket_coupon.html> Gutscheine
+
+
+ <https://www.thomann.de/de/basket_coupon.html> Das perfekte Geschenk =
+f=C3=BCr Ihre Musikerkollegen, Verwandte oder Freunde. Damit zaubern Sie =
+garantiert ein entz=C3=BCcktes Grinsen aufs Gesicht.
+
+=20
+
+
+Thomann GmbH, Hans-Thomann-Str. 1, 96138 Burgebrach, Deutschland
+Gesch=C3=A4ftsf=C3=BChrer: Hans Thomann, Handelsregister-Nummer: HRB =
+5862
+Handelsregister beim Amtsgericht: Bamberg, Sitz der Gesellschaft: =
+Burgebrach
+
+ <https://www.thomann.de/de>=20
+
+=20
+
+
+------=_NextPart_000_0048_01D7BB53.D67F0FD0
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8"><meta =
+name=3DGenerator content=3D"Microsoft Word 15 (filtered medium)"><!--[if =
+!mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+h3
+	{mso-style-priority:9;
+	mso-style-link:"=C3=9Cberschrift 3 Zchn";
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:13.5pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.berschrift3Zchn
+	{mso-style-name:"=C3=9Cberschrift 3 Zchn";
+	mso-style-priority:9;
+	mso-style-link:"=C3=9Cberschrift 3";
+	font-family:"Calibri Light",sans-serif;
+	color:#1F4D78;}
+span.E-MailFormatvorlage21
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 70.85pt 2.0cm 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body bgcolor=3Dwhite lang=3DDE =
+link=3Dblue vlink=3Dpurple><div class=3DWordSection1><p =
+class=3DMsoNormal><b><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'>Von:</span></=
+b><span style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'> =
+Thomann &lt;backoffice@thomann.de&gt; <br><b>Gesendet:</b> Mittwoch, 6. =
+Oktober 2021 22:34<br><b>An:</b> =
+sekretariat@fichte-gymnasium.de<br><b>Betreff:</b> [6302-0411] =
+Lieferverz=C3=B6gerung Ihrer Bestellung =
+(2463628)<o:p></o:p></span></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><div align=3Dcenter><table =
+class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 =
+width=3D"100%" =
+style=3D'width:100.0%;background:white;border-collapse:collapse'><tr><td =
+style=3D'padding:0cm 0cm 0cm 0cm'><div align=3Dcenter><table =
+class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 =
+width=3D0 style=3D'width:450.0pt;border-collapse:collapse'><tr><td =
+valign=3Dtop style=3D'padding:30.0pt 0cm 22.5pt 0cm'><table =
+class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 =
+width=3D"100%" style=3D'width:100.0%;border-collapse:collapse'><tr><td =
+style=3D'padding:0cm 0cm 0cm 0cm'><table class=3DMsoNormalTable =
+border=3D0 cellspacing=3D0 cellpadding=3D0 width=3D0 =
+style=3D'width:450.0pt;background:#F3F3F3;border-collapse:collapse'><tr><=
+td style=3D'padding:11.25pt 11.25pt 11.25pt 11.25pt'><div =
+align=3Dcenter><table class=3DMsoNormalTable border=3D1 cellspacing=3D0 =
+cellpadding=3D0 width=3D0 =
+style=3D'width:427.5pt;background:white;border-collapse:collapse;border:n=
+one'><tr><td valign=3Dtop style=3D'border:solid #E2E2E2 =
+1.0pt;border-bottom:none;padding:0cm 0cm 0cm 0cm'><div =
+align=3Dcenter><table class=3DMsoNormalTable border=3D0 cellspacing=3D0 =
+cellpadding=3D0 width=3D"100%" =
+style=3D'width:100.0%;border-collapse:collapse'><tr><td =
+style=3D'padding:15.0pt 11.25pt 15.0pt 11.25pt'><p class=3DMsoNormal><a =
+href=3D"https://www.thomann.de/de"><span =
+style=3D'color:black;text-decoration:none'><img border=3D0 width=3D127 =
+height=3D23 style=3D'width:1.3229in;height:.2395in' id=3D"_x0000_i1025" =
+src=3D"https://www.thomann.de/pics/hq/mails/common/thomann-logo.png" =
+alt=3DThomann></span></a><o:p></o:p></p></td></tr></table></div></td></tr=
+><tr><td valign=3Dtop style=3D'border:solid #E2E2E2 =
+1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm'><table =
+class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 =
+width=3D"100%" style=3D'width:100.0%;border-collapse:collapse' =
+id=3Dtemplate-body><tr><td valign=3Dtop style=3D'padding:0cm 11.25pt =
+11.25pt 11.25pt'><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#020202'>S=
+ehr geehrte Damen und Herren, <o:p></o:p></span></p><p =
+style=3D'mso-margin-top-alt:9.75pt;margin-right:0cm;margin-bottom:9.75pt;=
+margin-left:0cm'><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#020202'>d=
+er von Ihnen bestellte Artikel wurde leider entgegen den Angaben des =
+Herstellers noch nicht bei uns angeliefert. Auf unsere Nachfrage, wann =
+diese Anlieferung stattfinden wird, haben wir vom Hersteller nun als =
+<strong><span =
+style=3D'font-family:"Arial",sans-serif'>voraussichtlichen</span></strong=
+> Liefertermin folgendes Lieferdatum genannt =
+bekommen:<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#020202'><=
+o:p>&nbsp;</o:p></span></p><table class=3DMsoNormalTable border=3D0 =
+cellspacing=3D0 cellpadding=3D0 width=3D"100%" =
+style=3D'width:100.0%;border-collapse:collapse'><tr><td width=3D100 =
+valign=3Dtop style=3D'width:75.0pt;padding:0cm 0cm 0cm 0cm'><p =
+class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#020202'><=
+a href=3D"https://www.thomann.de/de/prod_AR_105250.html"><span =
+style=3D'color:black;text-decoration:none'><img border=3D0 width=3D60 =
+height=3D60 style=3D'width:.625in;height:.625in' id=3D"_x0000_i1026" =
+src=3D"https://www.thomann.de/thumb/thumb60x60/pics/prod/105250.jpg" =
+alt=3D"Thomann V2020 Black 10 =
+Pack"></span></a><o:p></o:p></span></p></td><td style=3D'padding:0cm 0cm =
+0cm 0cm'><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#020202'><=
+a href=3D"https://www.thomann.de/de/prod_AR_105250.html"><strong><span =
+style=3D'font-family:"Arial",sans-serif;color:black'>Thomann V2020 Black =
+10 Pack</span></strong></a><o:p></o:p></span></p><div><p =
+class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#020202'>A=
+rtikelnummer: <a =
+href=3D"https://www.thomann.de/de/prod_AR_105250.html"><span =
+style=3D'color:#616161'>105250</span></a><o:p></o:p></span></p></div><div=
+><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#020202'><=
+br>Neuer Liefertermin: <strong><span =
+style=3D'font-family:"Arial",sans-serif'>18.10.21</span></strong><o:p></o=
+:p></span></p></div></td></tr></table><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#020202'><=
+o:p>&nbsp;</o:p></span></p><p =
+style=3D'mso-margin-top-alt:9.75pt;margin-right:0cm;margin-bottom:9.75pt;=
+margin-left:0cm'><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#020202'>F=
+=C3=BCr die Lieferverz=C3=B6gerung m=C3=B6chten wir uns entschuldigen. =
+Unsere Angaben zu Lieferterminen basieren ausschlie=C3=9Flich auf =
+Informationen der Hersteller bzw. Lieferanten. Grunds=C3=A4tzlich geben =
+wir Liefertermine nur unter Vorbehalt und in guter Absicht auf die =
+Einhaltung dieser an unsere Kunden weiter. Nat=C3=BCrlich stehen wir =
+jedoch laufend in Kontakt mit dem Hersteller/Lieferanten, um f=C3=BCr =
+Sie eine schnellstm=C3=B6gliche Anlieferung erwirken zu =
+k=C3=B6nnen.<o:p></o:p></span></p><p =
+style=3D'mso-margin-top-alt:9.75pt;margin-right:0cm;margin-bottom:9.75pt;=
+margin-left:0cm'><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#020202'>S=
+elbstverst=C3=A4ndlich wird Ihre Ware umgehend an Sie verschickt, sobald =
+diese komplett auf Lager verf=C3=BCgbar ist. Sie erhalten dann eine =
+Versandbenachrichtigung mit den aufgef=C3=BChrten Produkten, mit welcher =
+Sie Ihre Lieferung im Anschluss verfolgen =
+k=C3=B6nnen.<o:p></o:p></span></p><p =
+style=3D'mso-margin-top-alt:9.75pt;margin-right:0cm;margin-bottom:9.75pt;=
+margin-left:0cm'><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#020202'>G=
+erne hilft Ihnen unsere Fachabteilung bei der Auswahl einer eventuell =
+verf=C3=BCgbaren Alternative. Sie erreichen unsere Kollegen unter =
+Telefonnummer <a href=3D"tel:+499546922335"><span =
+style=3D'color:#020202;text-decoration:none'>09546&nbsp;9223=E2=80=9135</=
+span></a> oder per E-Mail unter <a href=3D"mailto:pa@thomann.de"><span =
+style=3D'color:#616161'>pa@thomann.de</span></a>. =
+<o:p></o:p></span></p><p =
+style=3D'mso-margin-top-alt:9.75pt;margin-right:0cm;margin-bottom:9.75pt;=
+margin-left:0cm'><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#020202'>S=
+ollte Ihre Bestellung aus mehreren Artikeln bestehen veranlassen wir =
+f=C3=BCr Sie gerne eine kostenfreie Teillieferung. Die fehlenden Artikel =
+werden nach Verf=C3=BCgbarkeit schnellstm=C3=B6glich =
+nachgeliefert.<o:p></o:p></span></p><p =
+style=3D'mso-margin-top-alt:9.75pt;margin-right:0cm;margin-bottom:9.75pt;=
+margin-left:0cm'><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#020202'>V=
+iele weitere Informationen zu Ihrer Bestellung sowie auch Ihre Rechnung =
+finden Sie immer in Ihrem <a =
+href=3D"https://www.thomann.de/de/mythomann.html"><span =
+style=3D'color:black'>Kundencenter</span></a><o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#020202'>M=
+it freundlichen Grooves<br><br>Ihr Thomann-Team =
+<o:p></o:p></span></p></td></tr></table></td></tr></table></div><p =
+class=3DMsoNormal><span =
+style=3D'display:none'><o:p>&nbsp;</o:p></span></p><table =
+class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 =
+width=3D"100%" style=3D'width:100.0%;border-collapse:collapse'><tr =
+style=3D'height:7.5pt'><td colspan=3D3 style=3D'padding:1.5pt 1.5pt =
+1.5pt 1.5pt;height:7.5pt'><p class=3DMsoNormal><span =
+style=3D'font-size:1.0pt'>&nbsp;<o:p></o:p></span></p></td></tr><tr =
+id=3Dtemplate-footer><td valign=3Dtop style=3D'padding:1.5pt 1.5pt 1.5pt =
+1.5pt'><table class=3DMsoNormalTable border=3D0 cellspacing=3D0 =
+cellpadding=3D0 style=3D'border-collapse:collapse'><tr><td =
+style=3D'padding:0cm 7.5pt 0cm 0cm'><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#7B7B7A'>E=
+-Mail<o:p></o:p></span></p></td><td style=3D'padding:0cm 0cm 0cm 0cm'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#7B7B7A'><=
+a href=3D"mailto:backoffice@thomann.de"><span =
+style=3D'color:#7B7B7A'>backoffice@thomann.de</span></a><o:p></o:p></span=
+></p></td></tr><tr><td style=3D'padding:0cm 7.5pt 0cm 0cm'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#7B7B7A'>T=
+elefon<o:p></o:p></span></p></td><td style=3D'padding:0cm 0cm 0cm =
+0cm'><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#7B7B7A'><=
+a href=3D"tel:+49954692235353"><span =
+style=3D'color:#7B7B7A;text-decoration:none'>09546&nbsp;9223=E2=80=915353=
+</span></a><o:p></o:p></span></p></td></tr><tr><td style=3D'padding:0cm =
+7.5pt 0cm 0cm'><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#7B7B7A'>F=
+ax<o:p></o:p></span></p></td><td style=3D'padding:0cm 0cm 0cm 0cm'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#7B7B7A'>0=
+9546&nbsp;9223=E2=80=9124<o:p></o:p></span></p></td></tr></table></td><td=
+ valign=3Dtop style=3D'padding:1.5pt 1.5pt 1.5pt 1.5pt'><table =
+class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 =
+style=3D'border-collapse:collapse'><tr><td style=3D'padding:0cm 0cm 0cm =
+0cm'><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#7B7B7A'><=
+a href=3D"https://www.thomann.de/de/compinfo_contact.html" =
+target=3D"_blank"><span =
+style=3D'color:#7B7B7A'>=C3=96ffnungszeiten</span></a><o:p></o:p></span><=
+/p></td></tr><tr><td style=3D'padding:0cm 0cm 0cm 0cm'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#7B7B7A'><=
+a href=3D"https://www.thomann.de/de/hotdeals.html" =
+target=3D"_blank"><span style=3D'color:#7B7B7A'>Hot =
+Deals</span></a><o:p></o:p></span></p></td></tr><tr><td =
+style=3D'padding:0cm 0cm 0cm 0cm'><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#7B7B7A'><=
+a href=3D"https://www.thomann.de/de/mythomann.html" =
+target=3D"_blank"><span =
+style=3D'color:#7B7B7A'>Kundencenter</span></a><o:p></o:p></span></p></td=
+></tr></table></td><td style=3D'padding:1.5pt 1.5pt 1.5pt 1.5pt'><table =
+class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 =
+align=3Dright style=3D'border-collapse:collapse'><tr><td =
+style=3D'padding:2.25pt 2.25pt 2.25pt 2.25pt'><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#7B7B7A'><=
+a href=3D"https://twitter.com/thomann"><span =
+style=3D'color:black;text-decoration:none'><img border=3D0 =
+id=3D"_x0000_i1027" =
+src=3D"https://www.thomann.de/pics/hq/mails/social/twitter.png" =
+alt=3DTwitter></span></a><o:p></o:p></span></p></td><td =
+style=3D'padding:2.25pt 2.25pt 2.25pt 2.25pt'><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#7B7B7A'><=
+a href=3D"https://www.youtube.com/user/MusikhausThomann"><span =
+style=3D'color:black;text-decoration:none'><img border=3D0 =
+id=3D"_x0000_i1028" =
+src=3D"https://www.thomann.de/pics/hq/mails/social/youtube.png" =
+alt=3DYouTube></span></a><o:p></o:p></span></p></td><td =
+style=3D'padding:2.25pt 2.25pt 2.25pt 2.25pt'><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#7B7B7A'><=
+a href=3D"https://www.instagram.com/thomann.music/"><span =
+style=3D'color:black;text-decoration:none'><img border=3D0 =
+id=3D"_x0000_i1029" =
+src=3D"https://www.thomann.de/pics/hq/mails/social/instagram.png" =
+alt=3DInstagram></span></a><o:p></o:p></span></p></td><td =
+style=3D'padding:2.25pt 2.25pt 2.25pt 2.25pt'><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#7B7B7A'><=
+a href=3D"https://www.thomann.de/blog/de/"><span =
+style=3D'color:black;text-decoration:none'><img border=3D0 =
+id=3D"_x0000_i1030" =
+src=3D"https://www.thomann.de/pics/hq/mails/social/blog.png" =
+alt=3DBlog></span></a><o:p></o:p></span></p></td><td =
+style=3D'padding:2.25pt 2.25pt 2.25pt 2.25pt'><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#7B7B7A'><=
+a href=3D"https://www.facebook.com/musikhausthomann"><span =
+style=3D'color:black;text-decoration:none'><img border=3D0 =
+id=3D"_x0000_i1031" =
+src=3D"https://www.thomann.de/pics/hq/mails/social/facebook.png" =
+alt=3DFacebook></span></a><o:p></o:p></span></p></td></tr></table></td></=
+tr><tr style=3D'height:7.5pt'><td colspan=3D3 style=3D'padding:1.5pt =
+1.5pt 1.5pt 1.5pt;height:7.5pt'><p class=3DMsoNormal><span =
+style=3D'font-size:1.0pt'>&nbsp;<o:p></o:p></span></p></td></tr></table><=
+p class=3DMsoNormal><span =
+style=3D'display:none'><o:p>&nbsp;</o:p></span></p><table =
+class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 =
+width=3D"100%" style=3D'width:100.0%;border-collapse:collapse'><tr><td =
+style=3D'padding:0cm 0cm 0cm 0cm'><h3 =
+style=3D'mso-margin-top-alt:15.0pt;margin-right:0cm;margin-bottom:7.5pt;m=
+argin-left:0cm'><span =
+style=3D'font-family:"Arial",sans-serif;color:#020202;font-weight:normal'=
+>Infos und News rund um Thomann<o:p></o:p></span></h3><table =
+class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 =
+width=3D"100%" style=3D'width:100.0%;border-collapse:collapse'><tr><td =
+width=3D"33%" valign=3Dtop style=3D'width:33.0%;padding:0cm 0cm 0cm =
+0cm'><table class=3DMsoNormalTable border=3D1 cellspacing=3D0 =
+cellpadding=3D0 style=3D'border-collapse:collapse;border:none'><tr><td =
+style=3D'border:solid #E2E2E2 1.0pt;padding:0cm 0cm 0cm 0cm'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#020202'><=
+a href=3D"https://www.thomann.de/de/onlineexpert.html"><span =
+style=3D'color:black;text-decoration:none'><img border=3D0 width=3D184 =
+height=3D113 style=3D'width:1.9166in;height:1.177in' id=3D"_x0000_i1032" =
+src=3D"https://www.thomann.de/pics/hq/mails/news/online-guides.jpg" =
+alt=3DOnline-Ratgeber></span></a><o:p></o:p></span></p></td></tr></table>=
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#020202;di=
+splay:none'><o:p>&nbsp;</o:p></span></p><table class=3DMsoNormalTable =
+border=3D0 cellspacing=3D0 cellpadding=3D0 width=3D0 =
+style=3D'width:127.5pt;border-collapse:collapse'><tr><td =
+style=3D'padding:9.0pt 0cm 6.0pt 0cm'><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#020202'><=
+a href=3D"https://www.thomann.de/de/onlineexpert.html"><b><span =
+style=3D'color:#343434;text-decoration:none'>Online-Ratgeber</span></b></=
+a><o:p></o:p></span></p></td></tr><tr><td style=3D'padding:0cm 0cm 0cm =
+0cm'><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#020202'><=
+a href=3D"https://www.thomann.de/de/onlineexpert.html"><span =
+style=3D'color:black;text-decoration:none'>Hier k=C3=B6nnen Sie sich zu =
+vielen Themen informieren. Profis und Experten erkl=C3=A4ren Kniffe und =
+Tricks zum professionellen Umgang mit Instrumenten und =
+Musikequipment.</span></a><o:p></o:p></span></p></td></tr></table></td><t=
+d width=3D"33%" valign=3Dtop style=3D'width:33.0%;padding:0cm 0cm 0cm =
+0cm'><table class=3DMsoNormalTable border=3D1 cellspacing=3D0 =
+cellpadding=3D0 style=3D'border-collapse:collapse;border:none'><tr><td =
+style=3D'border:solid #E2E2E2 1.0pt;padding:0cm 0cm 0cm 0cm'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#020202'><=
+a href=3D"https://www.thomann.de/blog/de/"><span =
+style=3D'color:black;text-decoration:none'><img border=3D0 width=3D184 =
+height=3D113 style=3D'width:1.9166in;height:1.177in' id=3D"_x0000_i1033" =
+src=3D"https://www.thomann.de/pics/hq/mails/news/t-blog.jpg" =
+alt=3DBlog></span></a><o:p></o:p></span></p></td></tr></table><p =
+class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#020202'><=
+o:p>&nbsp;</o:p></span></p><table class=3DMsoNormalTable border=3D0 =
+cellspacing=3D0 cellpadding=3D0 width=3D0 =
+style=3D'width:127.5pt;border-collapse:collapse'><tr><td =
+style=3D'padding:9.0pt 0cm 6.0pt 0cm'><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#020202'><=
+a href=3D"https://www.thomann.de/blog/de/"><b><span =
+style=3D'color:#343434;text-decoration:none'>Blog</span></b></a><o:p></o:=
+p></span></p></td></tr><tr><td style=3D'padding:0cm 0cm 0cm 0cm'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#020202'><=
+a href=3D"https://www.thomann.de/blog/de/"><span =
+style=3D'color:black;text-decoration:none'>Verpassen Sie nie wieder =
+Events, Ank=C3=BCndigungen, Gewinnspiele oder News aus dem Treppendorfer =
+Universum.</span></a><o:p></o:p></span></p></td></tr></table></td><td =
+width=3D"33%" valign=3Dtop style=3D'width:33.0%;padding:0cm 0cm 0cm =
+0cm'><table class=3DMsoNormalTable border=3D1 cellspacing=3D0 =
+cellpadding=3D0 style=3D'border-collapse:collapse;border:none'><tr><td =
+style=3D'border:solid #E2E2E2 1.0pt;padding:0cm 0cm 0cm 0cm'><p =
+class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#020202'><=
+a href=3D"https://www.thomann.de/de/basket_coupon.html"><span =
+style=3D'color:black;text-decoration:none'><img border=3D0 width=3D184 =
+height=3D113 style=3D'width:1.9166in;height:1.177in' id=3D"_x0000_i1034" =
+src=3D"https://www.thomann.de/pics/hq/mails/news/vouchers.jpg" =
+alt=3DGutscheine></span></a><o:p></o:p></span></p></td></tr></table><p =
+class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#020202'><=
+o:p>&nbsp;</o:p></span></p><table class=3DMsoNormalTable border=3D0 =
+cellspacing=3D0 cellpadding=3D0 width=3D0 =
+style=3D'width:127.5pt;border-collapse:collapse'><tr><td =
+style=3D'padding:9.0pt 0cm 6.0pt 0cm'><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#020202'><=
+a href=3D"https://www.thomann.de/de/basket_coupon.html"><b><span =
+style=3D'color:#343434;text-decoration:none'>Gutscheine</span></b></a><o:=
+p></o:p></span></p></td></tr><tr><td style=3D'padding:0cm 0cm 0cm =
+0cm'><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#020202'><=
+a href=3D"https://www.thomann.de/de/basket_coupon.html"><span =
+style=3D'color:black;text-decoration:none'>Das perfekte Geschenk =
+f=C3=BCr Ihre Musikerkollegen, Verwandte oder Freunde. Damit zaubern Sie =
+garantiert ein entz=C3=BCcktes Grinsen aufs =
+Gesicht.</span></a><o:p></o:p></span></p></td></tr></table></td></tr></ta=
+ble></td></tr></table><div><p =
+class=3DMsoNormal>&nbsp;<o:p></o:p></p></div><table =
+class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 =
+width=3D"100%" style=3D'width:100.0%;border-collapse:collapse'><tr =
+id=3Dtemplate-footer-sub><td style=3D'border:none;border-top:solid =
+#DDDDDB 1.0pt;padding:11.25pt 3.75pt 3.75pt 3.75pt'><p class=3DMsoNormal =
+align=3Dcenter style=3D'text-align:center'><span =
+style=3D'font-size:8.5pt;font-family:"Arial",sans-serif;color:#B6B5B3'>Th=
+omann GmbH, Hans-Thomann-Str. 1, 96138 Burgebrach, =
+Deutschland<br>Gesch=C3=A4ftsf=C3=BChrer: Hans Thomann, =
+Handelsregister-Nummer: HRB 5862<br>Handelsregister beim Amtsgericht: =
+Bamberg, Sitz der Gesellschaft: Burgebrach<br><br><a =
+href=3D"https://www.thomann.de/de"><span =
+style=3D'color:black;text-decoration:none'><img border=3D0 width=3D89 =
+height=3D16 style=3D'width:.927in;height:.1666in' id=3D"_x0000_i1035" =
+src=3D"https://www.thomann.de/pics/hq/mails/common/thomann-footer-light.p=
+ng" =
+alt=3DThomann></span></a><o:p></o:p></span></p></td></tr></table></td></t=
+r></table></td></tr></table></td></tr></table></div></td></tr></table></d=
+iv><p class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+------=_NextPart_000_0048_01D7BB53.D67F0FD0--
+
+

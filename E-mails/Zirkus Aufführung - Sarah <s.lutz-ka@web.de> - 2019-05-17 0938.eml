@@ -1,0 +1,57 @@
+X-Envelope-To: <Technikag@fichte-gymnasium.de>
+Return-Path: <s.lutz-ka@web.de>
+Received: from cst101.belwue.de ([129.143.2.71] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.2.12)
+  with ESMTP id 108495566 for Technikag@fichte-gymnasium.de; Fri, 17 May 2019 09:38:20 +0200
+Received: from mout.web.de (mout.web.de [212.227.15.4])
+	by cst101.belwue.de with ESMTPS id x4H7cC2j000239
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=NOT)
+	for <Technikag@fichte-gymnasium.de>; Fri, 17 May 2019 09:38:17 +0200 (MEST)
+	env-from (s.lutz-ka@web.de)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=web.de;
+	s=dbaedf251592; t=1558078692;
+	bh=Ae0O7Mxe3ii4RPVqSiJOKvIZ558lCu5nx9RMyNwET2E=;
+	h=X-UI-Sender-Class:From:To:Subject:Date;
+	b=ZgglJCAIIVIwC9SFght7krdbFwIqWm3Fk8kCHUeiPwsLl0rC2Q5AFDsmQ9b0t4Pcf
+	 wcRTILOPMbNJ0+du/gScZo5DGmeHIRMCwHuN7FMKv/PfexF5s0yqfjzFof6q1JhQk4
+	 4RaDX/bXU0Ciiim9OE92WNfFfKjLbXVTZXZZT9gc=
+X-UI-Sender-Class: c548c8c5-30a9-4db5-a2e7-cb6cb037b8f9
+Received: from [2.247.245.78] ([2.247.245.78]) by
+ msvc-mesg-web104.server.lan (via HTTP); Fri, 17 May 2019 09:38:11 +0200
+MIME-Version: 1.0
+Message-ID: <trinity-7bf92cc9-7d8d-4029-84bd-65627dfa707b-1558078691846@msvc-mesg-web104>
+From: Sarah <s.lutz-ka@web.de>
+To: Technikag@fichte-gymnasium.de
+Subject: =?UTF-8?Q?Zirkus_Auff=C3=BChrung?=
+Content-Type: text/html; charset=UTF-8
+Importance: normal
+Date: Fri, 17 May 2019 09:38:11 +0200
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-Provags-ID: V03:K1:FiOoKmdegA/Db5IIBgT0K/voBvzForEPCp9247a2/jQQIPf0YVbq+3G2JaEscKW1cHFLy
+ D3n0kZkVYFShKz9952cGNRMpd8lTQoOJcZfNDKQGLIS/BAlnPhRJMQTmYy8lzu4/3RW6JxXnMSB6
+ I3N2xSN4WQbkNfQ5c7mex0nOLodjikOjdY11LrisFP8ZwnjdY6HaHa8zmtyeXyR9siNdMOqYL6lL
+ iJM1vVJyS1r/Lv1iRj7A/Xtom2D81oDCfsBBy3sPHpQmi7Iba2i669umo7CBl3FFhn8xqdQEwGfP
+ KvgkJfkF3yA3O3oSXJeBK1q
+X-Spam-Flag: NO
+X-UI-Out-Filterresults: notjunk:1;V03:K0:Zc+Eajrv3m8=:j4G8xOKX+yYhRbOBKj8NnP
+ Z3ed37KJi9N407iFNCoW5n4cPBCA2Hv8KxQfEJ6zTLBLh2xljTl5z9KACWonLQgpXtXafZlME
+ zLblLMrWNkdJmg6I9hMWktqIuJFdtUZmZ7d+2IIQEYQySXwPr1gU0qBuCahm32nPI9ae0cyls
+ SCOfXrfX0jLIFV0xt0HhCaeWZNOqVtR/J1Vao/X4sTcxHF1q2WJOE+SRUSS1xrY4oGcGCQTon
+ ia6EXmoG7gvkNGAqsggLnZFi3UZNu5BSZHioW4rYDcssyA70YImFJx3asKltIzRqAHvDELrIW
+ xqVV17cgfzZmtzso6HtefWclhdBO0IpUnslgvusbGz3quTg1+VFMpHQD5cZ8WjzZNouGbnQpQ
+ 3BvHPW5aiHNDbrFdx1NhIwNLPCQJUzp4enoGUpfCp1To70GTV1D+ZUFDrVJP3trtXn2v8g0jW
+ YnXQZjWfT6FFEp+BvIgcCC/TwqyPkAmQqWvha68Les6MPkfnj5GKlgpBZgx3UsCFSyPBbczQ7
+ GOhMwze9Bnym2g4kP6R/f4iCZTPVpng9/06WErCeGpZ2okGXd+qhwI4yiKoG6gzo9WEpLZImz
+ KTojCFhQh7lVojNXZZ563VIZ+Wy8nFjhSDoeG1wGnfR9Bdug8YBXP0gZWy6TZSl+geOwH/rG6
+ 20Zxn4U1Y4BUTSNSqyrhEogoJ
+X-DCC-BelWue-Metrics: cst101.belwue.de 1244; Body=1 Fuz1=1
+
+<html><body>Liebe Technik-AG,<br>
+Am 18=2E Juli findet eine Auff=C3=BChrung der Zirkus-AG in der Turnhalle s=
+tatt=2E Dazu br=C3=A4uchten wir dringend eure Unterst=C3=BCtzung f=C3=BCr L=
+icht- und Tontechnik=2E Die Auff=C3=BChrung wird voraussichtlich ab 17 oder=
+ 18 Uhr stattfinden=2E<br>
+Viele Gr=C3=BC=C3=9Fe,<br>
+Sarah Lutz <br>
+</body></html>

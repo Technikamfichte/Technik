@@ -1,0 +1,139 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <lotta.immendoerfer@gmail.com>
+Received: from mail-hub02.belwue.de ([129.143.76.42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 96177606 for technikag@fichte-gymnasium.de; Wed, 05 Feb 2025 10:12:03 +0100
+Received: from mail-in01.belwue.de (mail-in01.belwue.de [129.143.76.1])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4Ynvcz5QkSz3fnR
+	for <technikag@fichte-gymnasium.de>; Wed, 05 Feb 2025 10:12:03 +0100 (CET)
+Received: from mail-yw1-x112c.google.com (mail-yw1-x112c.google.com [IPv6:2607:f8b0:4864:20::112c])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in01.belwue.de (Postfix) with ESMTPS id 4Ynvcz0Fpcz538sV
+	for <technikag@fichte-gymnasium.de>; Wed, 05 Feb 2025 10:11:59 +0100 (CET)
+Received: by mail-yw1-x112c.google.com with SMTP id 00721157ae682-6ef9b8b4f13so44376557b3.2
+        for <technikag@fichte-gymnasium.de>; Wed, 05 Feb 2025 01:11:59 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20230601; t=1738746719; x=1739351519; darn=fichte-gymnasium.de;
+        h=to:subject:message-id:date:from:in-reply-to:references:mime-version
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=zYIQPnkDc0I4YZIwwEz8EUUCN+Xh6bsJZ7TnG6bYTIM=;
+        b=Jggq3wsZSNkAZ2AhWlK9yE8ryyKeMu9DVvuKRFcTSPKtKXeBKiHCAsUq3mMFEVyRlO
+         sLhTXTbDDQsBr2JmWhgTBi/rg+Jecdp6jkMIo8QUTfpDnT4hmSV1H9BiJ+4+njofpRht
+         yfifjigW3wTPip2xQbYkOiG9GW+uDQpQ4YAk22yToZxKLAaJRda/wuqBjnd6pH+biWrT
+         /FnZ0anMYdZ1SJqSqB3dmT4P9xmIg1++8vOMJPvruy4Dln9e819/cNewbSMd9nXHbTGS
+         Z/oyBQuIpxWAG9ZT5i4Z9WcCFjaV71IfNAUbuJH+3W+Jj9K3czan5/l9VlMBQUpknOKR
+         gWDg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20230601; t=1738746719; x=1739351519;
+        h=to:subject:message-id:date:from:in-reply-to:references:mime-version
+         :x-gm-message-state:from:to:cc:subject:date:message-id:reply-to;
+        bh=zYIQPnkDc0I4YZIwwEz8EUUCN+Xh6bsJZ7TnG6bYTIM=;
+        b=tgX02bvOkgpbrwoS1EJeu/YaZdDf8/Re9vowyBWdNAYk6WcUr9R231rCfcPYA7aC6c
+         DlIzUwWwQC/Kc+HyJAslMrUUi2e+ATcYIyoAKFy7no4ihVmBD8q5BOynIqWU8IQ0EOB4
+         uPufhcV3dGg/WuRboM/fAgh7HUDm1liEQTPSY6ZiWAs/qJlES4GR+p2UcLQYoTtwz9ol
+         Vsws/v0ksVPOWCzgk0yQcIT2xwMM1Sm0RliGU6W0i3LsfOpDXtobb4bYM92+EYGObg8o
+         fwmgRUG8ywgl46c/ppenSuQYYuzwO9DM1jIPU+Sy4LKThPgAc8X/Qmiw9wMFHZtpOFfK
+         QrHg==
+X-Gm-Message-State: AOJu0YzEIEJ3Dvmi4KDkAq9OCj4y06WLXizWucfEt2idp0LBrHHLF4Xt
+	+eTXbuzWJnnZEFZ/c6FZ5uz4qvAifQYrwWnvyA93w2rftkIebLsBukPFOpwBJbdXw/aScO/xsm/
+	8Bt2PSXM7ekCzytphdsmDHg2WusAzhw==
+X-Gm-Gg: ASbGnctLSLL6AbpGzBjQNvve3wO3Elp/ZleXJ6uD48uci+8DvsBGiFfVZgc+JphzMJa
+	BMqraw4Pvs82cW04MWohhafMvel6E502zX0SgSEaN2+nkmYSObksKdWXxyeSHbDs+PlJYEAcu9H
+	ZQuR1uSHNaTx2/00IOnunzXodKg1Q=
+X-Google-Smtp-Source: AGHT+IEknALFZSanWojQbXeHHPNqse8DsCb0+MFAQKhxGPehyvH7AFgtfARpiEFsIImhRrQqAqkp0OoFmaHl0s8V9Bk=
+X-Received: by 2002:a05:690c:3201:b0:6f9:8fa7:9c76 with SMTP id
+ 00721157ae682-6f98fa7a143mr4389177b3.15.1738746718755; Wed, 05 Feb 2025
+ 01:11:58 -0800 (PST)
+MIME-Version: 1.0
+References: <CAFB=Q3O4ZbZmn5wYeztr_Uw5nuFFDN-jHtt6-qk6LbJr=Jd5GQ@mail.gmail.com>
+ <4e22bc90-f2ef-4da8-9cb2-2b50114d6e17@email.android.com>
+In-Reply-To: <4e22bc90-f2ef-4da8-9cb2-2b50114d6e17@email.android.com>
+From: Lotta Immendoerfer <lotta.immendoerfer@gmail.com>
+Date: Wed, 5 Feb 2025 10:11:46 +0100
+X-Gm-Features: AWEUYZkt7RauEAC9HRhhlxFuiLIutFFDn5UwmZXm0nbIsoov90enjMtwIjfhCYk
+Message-ID: <CAFB=Q3PXoi0fy1ai75wO2OSUZqZp6tc4MjOaO+HCrzLCURqvAw@mail.gmail.com>
+Subject: Re: Faschingsparty Formular 11.02.25
+To: Ismael Biber <technikag@fichte-gymnasium.de>
+Content-Type: multipart/alternative; boundary="00000000000086a249062d6184d9"
+X-Rspamd-SPAM-Probability: 0
+X-Rspamd-UID: d43492
+X-Rspamd-Queue-Id: 4Ynvcz5QkSz3fnR
+X-Rspamd-UID: 82c412
+
+--00000000000086a249062d6184d9
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+also Sandwiches und Zuckerwatte. Getr=C3=A4nke und Popcorn macht die K2.
+Ja wir brauchen wieder Strom f=C3=BCr die Ger=C3=A4te.
+
+LG
+
+
+Ismael Biber <technikag@fichte-gymnasium.de> schrieb am Mi. 5. Feb. 2025 um
+10:09:
+
+> Hi,
+>
+> Was wird von der SMV aus verkauft?
+> Bzw. ben=C3=B6tigt ihr wieder Strom f=C3=BCr Sandwichmaker oder dergleich=
+en?
+>
+> MFG
+>
+> Ismael Biber
+>
+> Am 21.01.2025 20:05 schrieb Lotta Immendoerfer <
+> lotta.immendoerfer@gmail.com>:
+>
+> Liebe Technik AG,
+>
+> der Party AK veranstaltet wieder eine Faschingsparty und braucht dabei
+> eure Unterst=C3=BCtzung
+> Wir w=C3=BCrden uns sehr freuen, wenn ihr uns helft!
+>
+> LG Lotta Immend=C3=B6rfer
+> PS: Es gibt wie immer kostenfreie Verpflegung f=C3=BCr eure Helfer;)
+>
+>
+>
+
+--00000000000086a249062d6184d9
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">Hi,=C2=A0</div><div dir=3D"auto"><br></div><div dir=3D"au=
+to">also Sandwiches und Zuckerwatte. Getr=C3=A4nke und Popcorn macht die K2=
+.</div><div dir=3D"auto">Ja wir brauchen wieder Strom f=C3=BCr die Ger=C3=
+=A4te.</div><div dir=3D"auto"><br></div><div dir=3D"auto">LG=C2=A0</div><di=
+v dir=3D"auto"><br></div><div dir=3D"auto"><br><div class=3D"gmail_quote gm=
+ail_quote_container" dir=3D"auto"><div dir=3D"ltr" class=3D"gmail_attr">Ism=
+ael Biber &lt;<a href=3D"mailto:technikag@fichte-gymnasium.de">technikag@fi=
+chte-gymnasium.de</a>&gt; schrieb am Mi. 5. Feb. 2025 um 10:09:<br></div><b=
+lockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px =
+#ccc solid;padding-left:1ex"><div dir=3D"auto"><div>Hi,</div><div dir=3D"au=
+to"><br></div><div dir=3D"auto">Was wird von der SMV aus verkauft?</div><di=
+v dir=3D"auto">Bzw. ben=C3=B6tigt ihr wieder Strom f=C3=BCr Sandwichmaker o=
+der dergleichen?</div><div><br></div><div data-smartmail=3D"gmail_signature=
+">MFG</div></div><div dir=3D"auto"><div data-smartmail=3D"gmail_signature">=
+<br>Ismael Biber</div></div><div class=3D"gmail_extra"><br><div class=3D"gm=
+ail_quote">Am 21.01.2025 20:05 schrieb Lotta Immendoerfer &lt;<a href=3D"ma=
+ilto:lotta.immendoerfer@gmail.com" target=3D"_blank">lotta.immendoerfer@gma=
+il.com</a>&gt;:<br type=3D"attribution"><blockquote style=3D"margin:0 0 0 .=
+8ex;border-left:1px #ccc solid;padding-left:1ex">Liebe Technik AG,=C2=A0<di=
+v dir=3D"auto"><br></div><div dir=3D"auto">der Party AK veranstaltet wieder=
+ eine Faschingsparty und braucht dabei eure Unterst=C3=BCtzung=C2=A0</div><=
+div dir=3D"auto">Wir w=C3=BCrden uns sehr freuen, wenn ihr uns helft!=C2=A0=
+</div><div dir=3D"auto"><br></div><div dir=3D"auto">LG Lotta Immend=C3=B6rf=
+er=C2=A0</div><div dir=3D"auto">PS: Es gibt wie immer kostenfreie Verpflegu=
+ng f=C3=BCr eure Helfer;)=C2=A0</div>
+</blockquote></div><br></div></blockquote></div></div>
+
+--00000000000086a249062d6184d9--

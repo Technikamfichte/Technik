@@ -1,0 +1,140 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <account-security-noreply@accountprotection.microsoft.com>
+Received: from mail-hub02.belwue.de ([2001:7c0:0:76::42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 69294996 for technikag@fichte-gymnasium.de; Mon, 17 Jul 2023 11:42:14 +0200
+Received: from mail-in02.belwue.de (mail-in02.belwue.de [129.143.76.2])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4R4HDQ41Vdz5f7b
+	for <technikag@fichte-gymnasium.de>; Mon, 17 Jul 2023 11:42:14 +0200 (CEST)
+Received: from NAM11-BN8-obe.outbound.protection.outlook.com (mail-bn8nam11on20601.outbound.protection.outlook.com [IPv6:2a01:111:f400:7eae::601])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mail-in02.belwue.de (Postfix) with ESMTPS id 4R4HDP2CqhzB1Rd9
+	for <technikag@fichte-gymnasium.de>; Mon, 17 Jul 2023 11:42:13 +0200 (CEST)
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=VDCMNGmWV5ab+ccdanYpy8oM5+V1cp4JFEo1KeS5cGOG2XUZU4yl8Xs5E4wvbpmzHDhD9pebF/MSdxH3S9Rb26uY7p4gkOl94+QzfqOBQdZ9gEabsKBGk60zkBdvvlABXZCCirN0v/mNNV1LGr3fmRrTgJvJK3bF521TDheZw29Um2MW6wMqJcqeBYfpPO4Rm0mMlggT8yAF0JI5Cnef+bta5wgDMB1/XjxPrJgpXUV2DQ1e9gZpYUc9P47l+e6QLY6C/rPoYZRueiLrkQmhhbU0JUoXP6wTDGlmeivWDLfcydGy0hArRBXMFVkwfsbPzmufnMDnZ91kXXl7gv7sGg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=9mbo9I+/5V9+ZSWjcADe53pHV7e5hPSfkFBW/jaBtjs=;
+ b=Pgh42ooyDA58Q5K4IWgGIp659o3P8JttKkAR2/Psz435Rz+ZLaO30OUMns2qg0iX0HszcVmUXNHMfdVn9yw7trMen6ovBpfUeoRfBLrvtmGnnMWFR08M+/CEBZswsEftWEeNH5DvJ0gsRH4azoqxXGFtUzBcp2nBDYjTa9H5VsEfeoSf7ssWAgKu4YnSBBev1WWCwxHjf2GWZMzO01NBFIBaJYIYBLrWocUPf18w+xGWz/L/vr3Fi55blgGtAbEZhRPk+oPnAe5CE77eud9oZw8wDMMYlm7ng9Ev0dTkXXisB0SbLRxgRHNEfug8s4OQnYGt3oFYK8JAejUQvhgxlw==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=none
+ action=none header.from=accountprotection.microsoft.com; dkim=none (message
+ not signed); arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=accountprotection.microsoft.com; s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=9mbo9I+/5V9+ZSWjcADe53pHV7e5hPSfkFBW/jaBtjs=;
+ b=ummpIUNEPxmE18jzWnWH5nu2UEAr9CZvKl84DnXnE+abApuJQwEB4+TC0wKf9RKnrRsP5MCN6ljigqF4kx7snORIfY6EGHRkko/tZOwjhoPFMUe+Ca07cigOI9oazcS6xoQRSjt81weC1TYaMtP5FvQ22QMqjkrobOg3efKnnw4=
+Received: from MW4PR03CA0285.namprd03.prod.outlook.com (2603:10b6:303:b5::20)
+ by MW4PR16MB4606.namprd16.prod.outlook.com (2603:10b6:303:182::19) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.6588.32; Mon, 17 Jul
+ 2023 09:42:09 +0000
+Received: from CO1NAM11FT023.eop-nam11.prod.protection.outlook.com
+ (2603:10b6:303:b5:cafe::33) by MW4PR03CA0285.outlook.office365.com
+ (2603:10b6:303:b5::20) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.6588.33 via Frontend
+ Transport; Mon, 17 Jul 2023 09:42:09 +0000
+X-MS-Exchange-Authentication-Results: spf=none (sender IP is 20.45.39.199)
+ smtp.mailfrom=accountprotection.microsoft.com; dkim=none (message not signed)
+ header.d=none;dmarc=none action=none
+ header.from=accountprotection.microsoft.com;
+Received: from accountprotection.microsoft.com (20.45.39.199) by
+ CO1NAM11FT023.mail.protection.outlook.com (10.13.175.35) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.6588.32 via Frontend Transport; Mon, 17 Jul 2023 09:42:07 +0000
+From: Microsoft account team
+	<account-security-noreply@accountprotection.microsoft.com>
+Date: Mon, 17 Jul 2023 02:42:07 -0700
+Subject: New app(s) connected to your Microsoft account
+To: technikag@fichte-gymnasium.de
+X-Priority: 3
+X-MSAPipeline: MessageDispatcherEOP
+Message-ID: <FERPBHYAHKU4.0EIYA7YPEMP2@SN1PEPF00011076>
+X-MSAMetaData:
+ =?us-ascii?q?Db*Rd!wz0AlKsFqS9rntqC*m7GGpMovQcH0vMEhX1pXRZVzGXrQY7u6kw9pPN?=
+ =?us-ascii?q?ZGpTwJRRtV0RLmlfnFZSthM3t4PPNC8v2!PDQJa3LVrXUTr0C1Pw0Dn2lrBjR?=
+ =?us-ascii?q?kcS1Bl7w$$?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="=-pG+31r9A+Z9fSRiYBo66Zw=="
+X-MS-TrafficTypeDiagnostic:
+	CO1NAM11FT023:EE_FirstParty-MicrosoftAccount-V3-System|MW4PR16MB4606:EE_FirstParty-MicrosoftAccount-V3-System
+X-MS-PublicTrafficType: Email
+X-MS-Office365-Filtering-Correlation-Id: 74ab0d14-3f02-4c90-c3f6-08db86aa166b
+X-MS-Exchange-SenderADCheck: 1
+X-MS-Exchange-AntiSpam-Relay: 0
+X-Microsoft-Antispam: BCL:0;
+X-Microsoft-Antispam-Message-Info:
+	xHuCNqkzXDND6qBfUAvlzO3WbCbATbqZaaYqiKHvAIhUpNfsjFHWbvnCP2WrQfC1t94vBzMsFz3ARtMVbmNhMGKcS+qcNIGGqeNnRaXmgbx0601Q3S244D0wWXDASngnv9QAMnziZiL4O0gVAKymMCIRqUabBtEohOmUIJuy251qW7vBQjYQWVIJ0Sm/k7WOE+qkqk0vqf58vS5R4jw94KGfQ+rZYaOdn6QCXQ/mmbsZMPTVwYT1DFG7rd7maWeK/rinyeGoCDgUV3nyDzj0AYdHEjqirk+Vu9Sm34T/e5F1jvle9cVZc6YTG+/vbi756fZUDkrVFDrniWuioCSnUUFz2PtJgfSslYGDU1xIyDYuPKD2MpbIyNtAhpczFSMIFhMZc2bi/yyNEKW/4Pg1TzepuNvo1tZ/JmLThxmrk9g1KKKUC1H8cNdYzwWSXSOHu0T9RM0oMX2jRu8StKRScT7m5f4qslGi7adb9GSASQr1Gs64XdwTu2MNhUxDpUJBpEdoEAt0T9juA3gXjUlzBd4lo6Bg7BTq//5yVjPpe0HOAcpeOrkRwjB+KM5xQOnut4eRHDFJK6mXL5nU+Ne1h2dwfXG99e3jeSyGOx63nikObg53Fv4WJMnkPcyeNaVXrnQgr6ZE4AJov0BvnNWR+kFu/qJpgQ8cY7iyZ57JC4AyM20/REOTPaupnz7o1SWkDY+wOZk2HB76syPp9ddQfDQIgoSoJ0BnhtrgbOiszGL0XuLqd2YeYmNs7WjD2h4K
+X-Forefront-Antispam-Report:
+	CIP:20.45.39.199;CTRY:US;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:accountprotection.microsoft.com;PTR:InfoDomainNonexistent;CAT:NONE;SFS:(13230028)(7916004)(39860400002)(136003)(376002)(42606007)(396003)(346002)(47530400004)(47690400004)(451199021)(41300700001)(8676002)(966005)(6916009)(68406010)(2906002)(8936002)(15650500001)(9686003)(33964004)(66899021)(6486002)(81166007)(121820200001)(166002)(86362001)(356005)(36736006)(316002)(956004)(52230400001)(5660300002)(6512007)(118246002)(83380400001)(336012)(186003)(26005)(9316004)(33656002)(10290500003)(33716001)(478600001);DIR:OUT;SFP:1101;
+X-MS-Exchange-AntiSpam-MessageData-ChunkCount: 1
+X-MS-Exchange-AntiSpam-MessageData-0:
+	P1kECsTi8+gPZ9yvVfpoMEZ5z9oQ4w8UCv3p5PROZgsrZe4YXCQMdP/SDBYZyZJdBydLCbLSmRrAgZ02ry57MGd06CVyfwuIsSQ7YgZ8pS7RxfHtHDYz+/zSybFq4XnU/aa+ID+u6MN+k7TETOhh8NFqxBCY9hoJX4JG01nVG08HNPoXwE9a46rRQwiP+L9hehvBzTMvnQ5425ugD5L2YvsExYNAHGpQWQeA4Sju6CoZS7vErXHmILIUrLN2vRV7ie1ZRy28qxsAXKixzKx9jbKmmsBKo4spUlUCdCyVc0BPNVQxfOPnvFr0SQkbDlwmIOWtR3kMaHp6BpMWAhsZLWrpO7HMlw+29k6dqG+4t6iFiywvOFyLPMUktGLU6AUs8XrndnosZ2f5tVHfTBleqTY15wy/Q2OXFcrYprCZC5+4z/yVyBVA1uBk0Xg3DaFJaao70TuEOlPZtnWIGDpsb7RUK68m9UaUUWDvS7akENS1Q1gvERwJcrMBor61kUbSgBHvce4CnE/gUfy2YRHzoQ==
+X-OriginatorOrg: accountprotection.microsoft.com
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 17 Jul 2023 09:42:07.9905
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 74ab0d14-3f02-4c90-c3f6-08db86aa166b
+X-MS-Exchange-CrossTenant-Id: 5ba90553-c2cd-460e-b5fd-ab93ad9155c7
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=5ba90553-c2cd-460e-b5fd-ab93ad9155c7;Ip=[20.45.39.199];Helo=[accountprotection.microsoft.com]
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: TreatMessagesAsInternal-CO1NAM11FT023.eop-nam11.prod.protection.outlook.com
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: MW4PR16MB4606
+X-Rspamd-Queue-Id: 4R4HDP2CqhzB1Rd9
+X-Rspamd-UID: 911009
+
+--=-pG+31r9A+Z9fSRiYBo66Zw==
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+Duet Single Sign-On connected to the Microsoft account te**g@fichte-gymnasium.de.
+
+If you didn’t grant this access, please remove the app(s) from your account.
+
+Manage your apps https://account.live.com/consent/Manage?fn=email.
+
+You can also opt out https://account.live.com/SecurityNotifications/Update or change where you receive security notifications.
+
+Thanks,
+The Microsoft account team 
+--=-pG+31r9A+Z9fSRiYBo66Zw==
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr"> 
+<head>
+<style type="text/css">
+ .link:link, .link:active, .link:visited {
+       color:#2672ec !important;
+       text-decoration:none !important;
+ }
+
+ .link:hover {
+       color:#4284ee !important;
+       text-decoration:none !important;
+ }
+</style>
+<title></title>
+</head>
+<body>
+<table dir="ltr">
+      <tr><td id="i1" style="padding:0; font-family:'Segoe UI Semibold', 'Segoe UI Bold', 'Segoe UI', 'Helvetica Neue Medium', Arial, sans-serif; font-size:17px; color:#707070;">Microsoft account</td></tr>
+      <tr><td id="i2" style="padding:0; font-family:'Segoe UI Light', 'Segoe UI', 'Helvetica Neue Medium', Arial, sans-serif; font-size:41px; color:#2672ec;">New app(s) have access to your data</td></tr>
+      <tr><td id="i3" style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a;">Duet Single Sign-On connected to the Microsoft account <a dir="ltr" id="iAccount" class="link" style="color:#2672ec; text-decoration:none" href="mailto:te**g@fichte-gymnasium.de">te**g@fichte-gymnasium.de</a>.</td></tr>
+      <tr><td id="i4" style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a;">If you didn’t grant this access, please remove the app(s) from your account.</td></tr>
+      <tr><td style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a;">
+         <table border="0" cellspacing="0"><tr><td bgcolor="#2672ec" style="background-color:#2672ec; padding-top: 5px; padding-right: 20px; padding-bottom: 5px; padding-left: 20px; min-width:50px;"><a id="i5" style="font-family: 'Segoe UI Semibold', 'Segoe UI Bold', 'Segoe UI', 'Helvetica Neue Medium', Arial, sans-serif; font-size:14px; text-align:center; text-decoration:none; font-weight:600; letter-spacing:0.02em; color:#fff;" href="https://account.live.com/consent/Manage?fn=email">Manage your apps</a></td></tr></table>
+      </td></tr>
+      <tr><td id="i6" style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a;">You can also <a id="iLink3" class="link" style="color:#2672ec; text-decoration:none" href="https://account.live.com/SecurityNotifications/Update">opt out</a> or change where you receive security notifications.</td></tr>      
+      <tr><td id="i7" style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a;">Thanks,</td></tr>
+      <tr><td id="i8" style="padding:0; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a;">The Microsoft account team</td></tr>
+</table>
+</body>
+</html>
+--=-pG+31r9A+Z9fSRiYBo66Zw==--
