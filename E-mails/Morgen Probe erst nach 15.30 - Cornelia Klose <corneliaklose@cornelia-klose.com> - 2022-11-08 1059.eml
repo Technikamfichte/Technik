@@ -1,0 +1,91 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <corneliaklose@cornelia-klose.com>
+Received: from mail-hub02.belwue.de ([2001:7c0:0:76::42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.13)
+  with ESMTPS id 58046974 for technikag@fichte-gymnasium.de; Tue, 08 Nov 2022 10:59:34 +0100
+Received: from mail-in04.belwue.de (mail-in04.belwue.de [129.143.76.4])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4N63VF6b8qz3fn9
+	for <technikag@fichte-gymnasium.de>; Tue,  8 Nov 2022 10:59:33 +0100 (CET)
+Received: from mout.kundenserver.de (mout.kundenserver.de [212.227.17.13])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange ECDHE (P-256) server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in04.belwue.de (Postfix) with ESMTPS id 4N63VF4CDFz57Ndx
+	for <technikag@fichte-gymnasium.de>; Tue,  8 Nov 2022 10:59:30 +0100 (CET)
+Received: from smtpclient.apple ([77.21.253.150]) by mrelayeu.kundenserver.de
+ (mreue109 [212.227.15.183]) with ESMTPSA (Nemesis) id
+ 1MiagL-1pWvbh0xB1-00fhu7 for <technikag@fichte-gymnasium.de>; Tue, 08 Nov
+ 2022 10:59:30 +0100
+Content-Type: multipart/alternative; boundary=Apple-Mail-0208BC77-48BF-4DE6-A0B5-EB80FC806167
+Content-Transfer-Encoding: 7bit
+From: Cornelia Klose <corneliaklose@cornelia-klose.com>
+Mime-Version: 1.0 (1.0)
+Date: Tue, 8 Nov 2022 10:59:29 +0100
+Subject: Morgen Probe erst nach 15.30
+Message-Id: <78E93851-751B-46E1-B3D2-F6FD12969572@cornelia-klose.com>
+To: TechnikAG Fichte-Gymnasium <technikag@fichte-gymnasium.de>
+X-Mailer: iPad Mail (19G82)
+X-Provags-ID: V03:K1:Rt2tKhfL7ZIyke9Y84aK3Nw5cDLxF/yCXNbbk143eybdkmEqd3B
+ kU/Jqi9jlpSlPxeFzE+DAAjPIiC9P716WvIftwQ5khmvv8OAhz3koNyPFnfljNV22z/Yhn5
+ wA73+cSqD4oZ7yzg3TR01uH5iiZqvjV+kB2nMdpZu8IfERSfKVU4GTSVlxoWaKjxbQVqeGI
+ tihFLyBJs9EZtFKSC22TQ==
+X-Spam-Flag: NO
+X-UI-Out-Filterresults: notjunk:1;V03:K0:W4BG8XH7pks=:qOLS4ekJOlcQhfH0SKb/EG
+ e9rDGbD+MxZQzNcLcSzc4hDtaMvDN00a6CnqPLf24YlsPcsayZzrBXDRokdXVZL6/dkIUnDKW
+ phqom/iTh3+mmu0qk1v8tF9gQO3onWUcYPzydcQUFBaVXuf/OoIM+DZDI6SRQZfCAkFs8vmj2
+ CiM/wXQDIpGEhlrKa1+/uEX9b+gLuZRiXCQH2fngoxngtiagGzN8OrXLjVLPlBMejTJxKbx/q
+ mJMAh7DPx68s2cU/tpEcXEghzfYXorqgJbh3iarC7HZy0q0UWcsIoUTTvCJCRZc3kqZyRT7Z2
+ 4ynBlhS4bAQBsSny7ZlmzLw5433TkCE/i9NCsu9Rjcflp0yD1CYVMuq3tLCtLfs6jFDxPrqT4
+ t1S7RN2Oy/a+Virvk9h+9soNlbCRnZgCzS2169haZY+XAg+hpyqQLYi+UQOPVtJnvmN+vvOwb
+ b81622auvC2JdmMfDYcM3+3BM2tNsRcefZ1eTvA6fpIVuYWWiL56wxaMHILvLrR6+b7k9ekZS
+ t07NF5Y5WvSUpdZ1LFECfXE/QjlehmBHJPMNR/pFeD29p/zaqgLh6Dq9idM1WHvncpD5nZdTp
+ ci8qBkJdpvdHMMqHutDZtQLgrv3JOHUQ5/Eu6Tj2zMEwNPSrpF0VgqxqmXcPa3OAdG6l5EjnT
+ 9U0WS94a+FN+ttTSaUm6y15Q263MANAi5NrTQ/LkWNKKxdNRztFvs3T+J6kjlu9VAOmpyUMDB
+ WxEZFFvF+jAc091Q4NwFjdCZKLbfOMEv43PZT6iYjFRq0oeBVz+Y5Y3xwtehqimrAXowm+0Dr
+ Ud3l7jXT/x3LaEfzRHccja46J5KaQ==
+X-Rspamd-Queue-Id: 4N63VF4CDFz57Ndx
+X-Rspamd-UID: d02a08
+
+
+--Apple-Mail-0208BC77-48BF-4DE6-A0B5-EB80FC806167
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hallo Florian und alle anderen von der Technik AG,
+die Probe 6a/d um 14.40 konnte gestrichen werden, alle waren am Montag in de=
+r Generalprobe anwesend. Daf=C3=BCr w=C3=BCrden wir dann mit der K1 ab 15.30=
+ mit zwei Keyboards proben, wir k=C3=B6nnen auch am Anfang der Zeit noch hel=
+fen, wenn das n=C3=B6tig ist.
+Alles weitere kl=C3=A4ren wir morgen, ich komme um 15.00. ( Zum Beispiel Vor=
+hang in den Hintergrund h=C3=A4ngen, Tische f=C3=BCr das Catering stehenlass=
+en, wieviele St=C3=BChle=E2=80=A6)
+Freu mich auf morgen, viele Gr=C3=BC=C3=9Fe C. Klose
+
+Cornelia Klose
+Auf der Heide 9 b
+67360 Lingenfeld
+
+
+--Apple-Mail-0208BC77-48BF-4DE6-A0B5-EB80FC806167
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto">Hallo Florian und alle anderen von der Tech=
+nik AG,<div>die Probe 6a/d um 14.40 konnte gestrichen werden, alle waren am M=
+ontag in der Generalprobe anwesend. Daf=C3=BCr w=C3=BCrden wir dann mit der K=
+1 ab 15.30 mit zwei Keyboards proben, wir k=C3=B6nnen auch am Anfang der Zei=
+t noch helfen, wenn das n=C3=B6tig ist.</div><div>Alles weitere kl=C3=A4ren w=
+ir morgen, ich komme um 15.00. ( Zum Beispiel Vorhang in den Hintergrund h=C3=
+=A4ngen, Tische f=C3=BCr das Catering stehenlassen, wieviele St=C3=BChle=E2=80=
+=A6)</div><div>Freu mich auf morgen, viele Gr=C3=BC=C3=9Fe C. Klose<br><br><=
+div dir=3D"ltr"><div><span style=3D"font-size: 13pt;">Cornelia Klose</span><=
+/div><div><div>Auf der Heide 9 b</div><div>67360 Lingenfeld</div><div><br></=
+div></div></div></div></body></html>=
+
+--Apple-Mail-0208BC77-48BF-4DE6-A0B5-EB80FC806167--

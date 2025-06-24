@@ -1,0 +1,359 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <ismael.biber@gmail.com>
+Received: from mail-hub02.belwue.de ([129.143.76.42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 88977214 for technikag@fichte-gymnasium.de; Thu, 15 Aug 2024 11:16:27 +0200
+Received: from mail-in02.belwue.de (mail-in02.belwue.de [129.143.76.2])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4WkzyM2Wdnztpq
+	for <technikag@fichte-gymnasium.de>; Thu, 15 Aug 2024 11:16:27 +0200 (CEST)
+Received: from mail-vk1-xa30.google.com (mail-vk1-xa30.google.com [IPv6:2607:f8b0:4864:20::a30])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in02.belwue.de (Postfix) with ESMTPS id 4WkzyL43j0zB1HKh
+	for <technikag@fichte-gymnasium.de>; Thu, 15 Aug 2024 11:16:20 +0200 (CEST)
+Received: by mail-vk1-xa30.google.com with SMTP id 71dfb90a1353d-4f51551695cso262409e0c.3
+        for <technikag@fichte-gymnasium.de>; Thu, 15 Aug 2024 02:16:20 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20230601; t=1723713379; x=1724318179; darn=fichte-gymnasium.de;
+        h=cc:to:subject:message-id:date:from:mime-version:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=aBqf39xUX5wweBcbptXW8srwUhNt1pPLLDwp6+zLpYQ=;
+        b=cKSuJXsv0QJ15Jt+NrXa/yyLB8+IQ1V9Fa13kOU8U34yQy0xZSCm1+XXhbwDet7KTn
+         PHja2nwUSzWwbZM+5lt1+L9KSx58OrQoXE3I5WrRtvGdfR8RLQ5dNLbYxko0n/FZHXSw
+         P7a7doy8gWAEFPw8sQ6s4uTDT+qcszM/QGoHOZ0mFnVwUU+ZTpqTTfaeGiJTXjDvdOkC
+         dnPk91hPEWYsNLC+hYEIAnLCBMdurtQN/wxZetIq7ZX0kgKPrYwM3jeP3r6beFGvnGF/
+         NFs7znKJuiBZYN2RMu1cGH79fCTSZpfXIewDP6QiI8rxK72g4hs9gaJ/r8p1TQ5ELU+d
+         OFxg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20230601; t=1723713379; x=1724318179;
+        h=cc:to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=aBqf39xUX5wweBcbptXW8srwUhNt1pPLLDwp6+zLpYQ=;
+        b=GrXoTEHCU2r798g2DRKpEzoztkDROyQCYOZvN0IgPnOjdEn9xXXMwfu4IZIMQwCUV4
+         AD4HKnGxOXDjHkOsUaPSZYLatTiA4ceoaS3ghzq6GXgxquF0z/5ewX2UpK3K3PU0Mo5m
+         SpyQBpXwr9HJvL4hwHBAwCpU91muuLc+pJ4/sVgyL3Z6AfGKHufGNp6y1rQT/X5wkSVe
+         IUwE0bhZ9VSCy6JYbFr8aTp8a96hm/bFsQNwOwv9PePk8d78w4BevnVpqeJEWUImUYM3
+         MgxcUItpEaeU9dU7eqNeo32DRwsCUVawJ76o5Y2bCmNPzXFDQoGyE8EHn6X9B0dlLhfy
+         yQ/Q==
+X-Gm-Message-State: AOJu0Ywz8bMUd6tziqxCyjO3VVTmFoMjJzXmpnNPi4taw1UdG8LCrGjI
+	aooucvscAE0TLNbm87wYjn88BOJYuLnKOb6bpv6DxOvVkeOKf38XEsfi+aOWd/YGhjnn0BeEf/v
+	gKj018w5FcqunQkBDVYBw/5XNU6E=
+X-Google-Smtp-Source: AGHT+IEiQ3IVRjus384CHg0zkuofpGQ6MioGZ2ZY52B5Lx1T8RGcWOsO7rNMbz56CHVd3yj6AENQkjqIydJl33YKbf8=
+X-Received: by 2002:a05:6122:4118:b0:4ef:53ad:97bd with SMTP id
+ 71dfb90a1353d-4fad1b0f499mr7301887e0c.3.1723713379236; Thu, 15 Aug 2024
+ 02:16:19 -0700 (PDT)
+MIME-Version: 1.0
+From: Ismael Biber <ismael.biber@gmail.com>
+Date: Thu, 15 Aug 2024 11:15:00 +0200
+Message-ID: <CAH7Mj8Wn1+18qmnkqT_RgKqbMrqUd3xf5Zab6xs_+o+SjEDKTw@mail.gmail.com>
+Subject: =?UTF-8?Q?Professionelle_Lichtsteuerung_f=C3=BCr_das_Fichte_Gymnas?=
+	=?UTF-8?Q?ium_Karlsruhe?=
+To: sales@malighting.com
+Cc: TechnikAG Fichte-Gymnasium <technikag@fichte-gymnasium.de>
+Content-Type: multipart/alternative; boundary="000000000000aa0610061fb54b5f"
+X-Rspamd-Queue-Id: 4WkzyL43j0zB1HKh
+X-Rspamd-SPAM-Probability: 0
+X-Rspamd-UID: d6921c
+
+--000000000000aa0610061fb54b5f
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Sehr geehrte Damen und Herren,
+
+Ich kontaktiere Sie hier im Namen des Fichte-Gymnasiums Karlsruhe, da wir
+gerne auf eine professionelle L=C3=B6sung zur Lichtsteuerung per DMX umstei=
+gen
+m=C3=B6chten.
+
+
+Die Veranstaltungstechnik-AG (Arbeitsgemeinschaft), welche sich um allen,
+bei schulischen Veranstaltungen anfallenden, B=C3=BChnen-, Ton-, Licht- und
+Videotechnik-Bedarf k=C3=BCmmert, nutzt zur Lichtsteuerung aktuell die
+kostenfreie Software "QLC+" mit einem Enttec USB-DMX-Pro mk2 Interface und
+einem Akai APC mini mk2 MIDI-Controller. Jedoch hat sich im letzten
+Schuljahr durch diverse Probleme mit dem Versuch der Programmierung von
+"multi-Instanz-Leuchten" und Moving Heads herausgestellt, dass diese
+kosteng=C3=BCnstige L=C3=B6sung unserem Bedarf nicht mehr entspricht, wesha=
+lb eine
+neue hochwertigere L=C3=B6sung her muss.
+Konkret werden in der Schule Events von Theater =C3=BCber Musicals und Konz=
+erte
+bis zu den regelm=C3=A4=C3=9Figen Partys beleuchtet. Dabei setzen wir diver=
+se
+statische RGB-LED Leuchten, Nebel-Maschinen und (aktuell nur f=C3=BCr gr=C3=
+=B6=C3=9Fere
+Events zu gemietete) Sport- und Wash-MHs ein. Jedoch ist hier geplant, in
+naher Zukunft in eigenes, bewegtes Licht und multi-Pixel-Fixtures zu
+investieren.
+
+
+
+Bei unseren Recherchen nach einer neuen Lichtsteuerung sind wir auf Ihr
+Unternehmen aufmerksam geworden, das f=C3=BCr seine hervorragenden Produkte=
+ in
+diesem Bereich bekannt ist. Es hat sich herausgestellt, dass Ihre L=C3=B6su=
+ngen
+nicht nur die Probleme mit unserer aktuellen Software und dem fehlenden
+3D-Visualizer l=C3=B6sen w=C3=BCrden, sondern den an der AG teilnehmenden S=
+ch=C3=BClern
+(7.-12. Klasse) auch einen fr=C3=BChen Einstieg in die Programmierung mit e=
+iner
+Weltweit bekannten und h=C3=A4ufig eingesetzten professionellen
+Lichtsteuerungs-L=C3=B6sung bieten w=C3=BCrde.
+
+
+Unser Gymnasium legt zwar gro=C3=9Fen Wert auf moderne und innovative Techn=
+ik,
+um unseren Sch=C3=BClerinnen, Sch=C3=BClern und Eltern bestm=C3=B6gliche Ve=
+ranstaltungen
+zu bieten, jedoch ist diese hochprofessionelle Technik meist nicht in einem
+f=C3=BCr die Schule finanzierbaren Rahmen. Auch Ihre L=C3=B6sungen sind (zu=
+r UVP)
+leider weit =C3=BCber unserem finanzierbaren Budget, vor allem, da ein Gro=
+=C3=9Fteil
+der Investitionen nicht durch die Schule selbst finanziert werden k=C3=B6nn=
+en,
+sondern h=C3=A4ufig der rein durch Spenden der Elternschaft finanzierte
+F=C3=B6rderverein die Bestellungen =C3=BCbernehmen muss.
+
+
+
+Ich habe pers=C3=B6nlich auch schon mit Ihrer Software (MA2 & MA3) gearbeit=
+et
+und musste dabei feststellen, dass die Programmierung ohne spezielle
+Hardware wie einer Konsole oder einem onPC-Command-Wing deutlich langsamer
+und umst=C3=A4ndlicher verl=C3=A4uft als mit solchen Ger=C3=A4ten. Daher w=
+=C3=A4re es auch f=C3=BCr
+die Sch=C3=BCler deutlich interessanter, gleich das richtige Konsolen-Layou=
+t,
+beispielsweise an einem Command-Wing, zu erlernen, als alles =C3=BCber
+Mausklicks am Laptop auszuf=C3=BChren. Nun ist ein solcher Command-Wing zur=
+ UVP
+mit etwa 6500=E2=82=AC inkl. MwSt. f=C3=BCr unsere Schule (auch mit Unterst=
+=C3=BCtzung des
+F=C3=B6rdervereins) leider nicht bezahlbar.
+
+
+
+Wir w=C3=A4ren Ihnen daher sehr dankbar, wenn Sie uns ein ma=C3=9Fgeschneid=
+ertes
+Angebot unterbreiten k=C3=B6nnen, das speziell auf die Bed=C3=BCrfnisse uns=
+eres
+Gymnasiums zugeschnitten ist. Es w=C3=A4re hilfreich, wenn Sie uns auch =C3=
+=BCber
+m=C3=B6gliche Bildungsrabatte oder Sonderkonditionen f=C3=BCr Bildungseinri=
+chtungen
+informieren k=C3=B6nnten.
+
+
+
+Falls es zu einer Zusammenarbeit kommen kann, w=C3=BCrden wir uns auch =C3=
+=BCber
+Bildungsressourcen zur grandMA3 Software freuen, um allen jetzigen und
+zuk=C3=BCnftigen AG-Teilnehmern den korrekten Umgang mit der Software und
+Hardware beibringen zu k=C3=B6nnen.
+
+
+Gerne stehe ich Ihnen f=C3=BCr R=C3=BCckfragen zur Verf=C3=BCgung und freue=
+ mich auf Ihre
+R=C3=BCckmeldung.
+
+
+--=20
+
+Mit freundlichen Gr=C3=BC=C3=9Fen,
+
+Ismael Biber
+
+Jugendbegleiter der Veranstaltungstechnik-AG
+
+Fichte-Gymnasium
+
+Sophienstr. 12 - 16
+
+D-76133 Karlsruhe
+
+ismael.biber@gmail.com
+
++49 15254069791
+
+--000000000000aa0610061fb54b5f
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p class=3D"MsoNormal" style=3D"margin:0cm 0cm 8pt;line-height:107%;font-si=
+ze:11pt;font-family:&quot;Aptos&quot;,sans-serif">Sehr geehrte Damen und He=
+rren,<br>
+<br>
+Ich kontaktiere Sie hier im Namen des Fichte-Gymnasiums Karlsruhe, da wir g=
+erne
+auf eine professionelle L=C3=B6sung zur Lichtsteuerung per DMX umsteigen m=
+=C3=B6chten. <span></span></p><p class=3D"MsoNormal" style=3D"margin:0cm 0c=
+m 8pt;line-height:107%;font-size:11pt;font-family:&quot;Aptos&quot;,sans-se=
+rif"><br></p><p class=3D"MsoNormal" style=3D"margin:0cm 0cm 8pt;line-height=
+:107%;font-size:11pt;font-family:&quot;Aptos&quot;,sans-serif">Die Veransta=
+ltungstechnik-AG (Arbeitsgemeinschaft), welche
+sich um allen, bei schulischen Veranstaltungen anfallenden, B=C3=BChnen-, T=
+on-, Licht-
+und Videotechnik-Bedarf k=C3=BCmmert, nutzt zur Lichtsteuerung aktuell die
+kostenfreie Software &quot;QLC+&quot; mit einem Enttec USB-DMX-Pro mk2
+Interface und einem Akai APC mini mk2 MIDI-Controller. Jedoch hat sich im
+letzten Schuljahr durch diverse Probleme mit dem Versuch der Programmierung=
+ von
+&quot;multi-Instanz-Leuchten&quot; und Moving Heads herausgestellt, dass di=
+ese
+kosteng=C3=BCnstige L=C3=B6sung unserem Bedarf nicht mehr entspricht, wesha=
+lb eine neue
+hochwertigere L=C3=B6sung her muss. <br>
+Konkret werden in der Schule Events von Theater =C3=BCber Musicals und Konz=
+erte bis
+zu den regelm=C3=A4=C3=9Figen Partys beleuchtet. Dabei setzen wir diverse s=
+tatische
+RGB-LED Leuchten, Nebel-Maschinen und (aktuell nur f=C3=BCr gr=C3=B6=C3=9Fe=
+re Events zu
+gemietete) Sport- und Wash-MHs ein. Jedoch ist hier geplant, in naher Zukun=
+ft in
+eigenes, bewegtes Licht und multi-Pixel-Fixtures zu investieren.<span></spa=
+n></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0cm 0cm 8pt;line-height:107%;font-si=
+ze:11pt;font-family:&quot;Aptos&quot;,sans-serif"><span>=C2=A0</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0cm 0cm 8pt;line-height:107%;font-si=
+ze:11pt;font-family:&quot;Aptos&quot;,sans-serif">Bei unseren Recherchen na=
+ch einer neuen Lichtsteuerung sind
+wir auf Ihr Unternehmen aufmerksam geworden, das f=C3=BCr seine hervorragen=
+den
+Produkte in diesem Bereich bekannt ist. Es hat sich herausgestellt, dass Ih=
+re
+L=C3=B6sungen nicht nur die Probleme mit unserer aktuellen Software und dem
+fehlenden 3D-Visualizer l=C3=B6sen w=C3=BCrden, sondern den an der AG teiln=
+ehmenden
+Sch=C3=BClern (7.-12. Klasse) auch einen fr=C3=BChen Einstieg in die Progra=
+mmierung mit
+einer Weltweit bekannten und h=C3=A4ufig eingesetzten professionellen Licht=
+steuerungs-L=C3=B6sung
+bieten w=C3=BCrde.<span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0cm 0cm 8pt;line-height:107%;font-si=
+ze:11pt;font-family:&quot;Aptos&quot;,sans-serif"><br>
+Unser Gymnasium legt zwar gro=C3=9Fen Wert auf moderne und innovative Techn=
+ik, um
+unseren Sch=C3=BClerinnen, Sch=C3=BClern und Eltern bestm=C3=B6gliche Veran=
+staltungen zu
+bieten, jedoch ist diese hochprofessionelle Technik meist nicht in einem f=
+=C3=BCr
+die Schule finanzierbaren Rahmen. Auch Ihre L=C3=B6sungen sind (zur UVP) le=
+ider weit
+=C3=BCber unserem finanzierbaren Budget, vor allem, da ein Gro=C3=9Fteil de=
+r
+Investitionen nicht durch die Schule selbst finanziert werden k=C3=B6nnen, =
+sondern
+h=C3=A4ufig der rein durch Spenden der Elternschaft finanzierte F=C3=B6rder=
+verein die
+Bestellungen =C3=BCbernehmen muss.<span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0cm 0cm 8pt;line-height:107%;font-si=
+ze:11pt;font-family:&quot;Aptos&quot;,sans-serif"><span>=C2=A0</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0cm 0cm 8pt;line-height:107%;font-si=
+ze:11pt;font-family:&quot;Aptos&quot;,sans-serif">Ich habe pers=C3=B6nlich =
+auch schon mit Ihrer Software (MA2 &amp;
+MA3) gearbeitet und musste dabei feststellen, dass die Programmierung ohne
+spezielle Hardware wie einer Konsole oder einem onPC-Command-Wing deutlich
+langsamer und umst=C3=A4ndlicher verl=C3=A4uft als mit solchen Ger=C3=A4ten=
+. Daher w=C3=A4re es auch
+f=C3=BCr die Sch=C3=BCler deutlich interessanter, gleich das richtige Konso=
+len-Layout,
+beispielsweise an einem Command-Wing, zu erlernen, als alles =C3=BCber Maus=
+klicks am
+Laptop auszuf=C3=BChren. Nun ist ein solcher Command-Wing zur UVP mit etwa =
+6500=E2=82=AC
+inkl. MwSt. f=C3=BCr unsere Schule (auch mit Unterst=C3=BCtzung des F=C3=B6=
+rdervereins) leider
+nicht bezahlbar.<span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0cm 0cm 8pt;line-height:107%;font-si=
+ze:11pt;font-family:&quot;Aptos&quot;,sans-serif"><span>=C2=A0</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0cm 0cm 8pt;line-height:107%;font-si=
+ze:11pt;font-family:&quot;Aptos&quot;,sans-serif">Wir w=C3=A4ren Ihnen dahe=
+r sehr dankbar, wenn Sie uns ein
+ma=C3=9Fgeschneidertes Angebot unterbreiten k=C3=B6nnen, das speziell auf d=
+ie Bed=C3=BCrfnisse
+unseres Gymnasiums zugeschnitten ist. Es w=C3=A4re hilfreich, wenn Sie uns =
+auch =C3=BCber
+m=C3=B6gliche Bildungsrabatte oder Sonderkonditionen f=C3=BCr Bildungseinri=
+chtungen
+informieren k=C3=B6nnten.<span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0cm 0cm 8pt;line-height:107%;font-si=
+ze:11pt;font-family:&quot;Aptos&quot;,sans-serif"><span>=C2=A0</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0cm 0cm 8pt;line-height:107%;font-si=
+ze:11pt;font-family:&quot;Aptos&quot;,sans-serif">Falls es zu einer Zusamme=
+narbeit kommen kann, w=C3=BCrden wir uns
+auch =C3=BCber Bildungsressourcen zur grandMA3 Software freuen, um allen je=
+tzigen
+und zuk=C3=BCnftigen AG-Teilnehmern den korrekten Umgang mit der Software u=
+nd
+Hardware beibringen zu k=C3=B6nnen.<br>
+</p><p class=3D"MsoNormal" style=3D"margin:0cm 0cm 8pt;line-height:107%;fon=
+t-size:11pt;font-family:&quot;Aptos&quot;,sans-serif"><br>
+Gerne stehe ich Ihnen f=C3=BCr R=C3=BCckfragen zur Verf=C3=BCgung und freue=
+ mich auf Ihre
+R=C3=BCckmeldung.<span></span></p>
+
+
+
+<p class=3D"MsoNormal" style=3D"margin:0cm 0cm 8pt;line-height:107%;font-si=
+ze:11pt;font-family:&quot;Aptos&quot;,sans-serif"><br>
+-- <span></span></p>
+<p class=3D"MsoNormal" style=3D"margin:0cm 0cm 8pt;line-height:107%;font-si=
+ze:11pt;font-family:&quot;Aptos&quot;,sans-serif">Mit freundlichen Gr=C3=BC=
+=C3=9Fen,<br>
+</p><p class=3D"MsoNormal" style=3D"margin:0cm 0cm 8pt;line-height:107%;fon=
+t-size:11pt;font-family:&quot;Aptos&quot;,sans-serif">Ismael Biber<span></s=
+pan><br></p><p class=3D"MsoNormal" style=3D"margin:0cm 0cm 8pt;line-height:=
+107%;font-size:11pt;font-family:&quot;Aptos&quot;,sans-serif">Jugendbegleit=
+er der Veranstaltungstechnik-AG=C2=A0 <span></span><br></p><p class=3D"MsoN=
+ormal" style=3D"margin:0cm 0cm 8pt;line-height:107%;font-size:11pt;font-fam=
+ily:&quot;Aptos&quot;,sans-serif">Fichte-Gymnasium</p><p class=3D"MsoNormal=
+" style=3D"margin:0cm 0cm 8pt;line-height:107%;font-size:11pt;font-family:&=
+quot;Aptos&quot;,sans-serif">Sophienstr. 12 - 16=C2=A0=C2=A0</p><p class=3D=
+"MsoNormal" style=3D"margin:0cm 0cm 8pt;line-height:107%;font-size:11pt;fon=
+t-family:&quot;Aptos&quot;,sans-serif">D-76133 Karlsruhe<span></span></p><p=
+ class=3D"MsoNormal" style=3D"margin:0cm 0cm 8pt;line-height:107%;font-size=
+:11pt;font-family:&quot;Aptos&quot;,sans-serif"><a href=3D"mailto:ismael.bi=
+ber@gmail.com" target=3D"_blank">ismael.biber@gmail.com</a><span></span><br=
+></p><p class=3D"MsoNormal" style=3D"margin:0cm 0cm 8pt;line-height:107%;fo=
+nt-size:11pt;font-family:&quot;Aptos&quot;,sans-serif">+49 15254069791</p>
+
+</div>
+
+--000000000000aa0610061fb54b5f--

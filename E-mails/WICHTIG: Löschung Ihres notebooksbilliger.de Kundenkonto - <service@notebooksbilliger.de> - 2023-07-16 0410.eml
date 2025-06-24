@@ -1,0 +1,92 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <service@notebooksbilliger.de>
+Received: from mail-hub02.belwue.de ([2001:7c0:0:76::42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 69240600 for technikag@fichte-gymnasium.de; Sun, 16 Jul 2023 04:13:58 +0200
+Received: from mail-in02.belwue.de (mail-in02.belwue.de [IPv6:2001:7c0:0:76::2])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4R3TKf3Y7tz5ckn
+	for <technikag@fichte-gymnasium.de>; Sun, 16 Jul 2023 04:13:58 +0200 (CEST)
+Received: from mail.nbb.com (de-h-mx1.cp-net.de [193.222.56.126])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mail-in02.belwue.de (Postfix) with ESMTPS id 4R3TKd6FnJzB1RdC
+	for <technikag@fichte-gymnasium.de>; Sun, 16 Jul 2023 04:13:57 +0200 (CEST)
+Received: from DE-H-MAILDB03.cp-net.de (10.0.20.29) by mail.nbb.com
+ (10.0.20.16) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2507.27; Sun, 16 Jul
+ 2023 04:13:49 +0200
+Received: from DE-H-CAS01.cp-net.de (10.0.20.24) by DE-H-MAILDB03.cp-net.de
+ (10.0.20.29) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2507.27; Sun, 16 Jul
+ 2023 04:13:56 +0200
+Received: from backend-cron01-fra1.nbb.net (10.3.12.51) by
+ DE-H-CAS01.cp-net.de (10.0.20.23) with Microsoft SMTP Server id 15.1.2507.27
+ via Frontend Transport; Sun, 16 Jul 2023 04:13:56 +0200
+Received: from notebooksbilliger.de (unknown [192.168.1.4])
+	by backend-cron01-fra1.nbb.net (Postfix) with SMTP id BB4781C0BCC
+	for <technikag@fichte-gymnasium.de>; Sun, 16 Jul 2023 04:13:55 +0200 (CEST)
+Received: by notebooksbilliger.de (sSMTP sendmail emulation); Sun, 16 Jul 2023 04:13:55 +0200
+Message-ID: <4b99404c8395f1549a9715ba5eea05d4@swift.generated>
+Date: Sun, 16 Jul 2023 04:10:02 +0200
+Subject: WICHTIG: =?iso-8859-1?Q?L=F6schung?= Ihres notebooksbilliger.de
+ Kundenkonto
+From: <service@notebooksbilliger.de>
+To: <technikag@fichte-gymnasium.de>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-KSE-ServerInfo: DE-H-MX01.cp-net.de, 9
+X-KSE-AntiSpam-Interceptor-Info: trusted connection
+X-KSE-Antiphishing-Info: Clean
+X-KSE-Antiphishing-ScanningType: Deterministic
+X-KSE-Antiphishing-Method: None
+X-KSE-Antiphishing-Bases: 07/16/2023 01:56:00
+X-KSE-Antivirus-Interceptor-Info: scan successful
+X-KSE-Antivirus-Info: Clean, bases: 15.07.2023 22:01:00
+X-KSE-Attachment-Filter-Triggered-Rules: Clean
+X-KSE-Attachment-Filter-Triggered-Filters: Clean
+X-KSE-BulkMessagesFiltering-Scan-Result: protection disabled
+X-Rspamd-Queue-Id: 4R3TKd6FnJzB1RdC
+X-Rspamd-UID: 78711a
+
+Sehr geehrte Kundin, sehr geehrter Kunde,
+
+da Sie l=E4ngere Zeit nicht in Ihrem notebooksbilliger.de Kundenkonto aktiv=
+ waren, werden wir aufgrund von Datensparsamkeit und aus Datenschutzgr=FCnd=
+en Ihr Kundenkonto l=F6schen.
+Ihre f=FCr das Kundenkonto registrierte E-Mail Adresse lautet: technikag@fi=
+chte-gymnasium.de
+
+Sie wollen Ihr notebooksbilliger.de Kundenkonto behalten?
+Dann klicken Sie bitte innerhalb von 7 Tagen auf den folgenden Link: https:=
+//www.notebooksbilliger.de/prevent_account_delete/19a1a10e458b716014ccf6f5c=
+37942f3581b0e50
+
+Sollten Sie nicht innerhalb von 7 Tagen auf den Link klicken, werden wir Ih=
+r notebooksbilliger.de Kundenkonto l=F6schen. Sie brauchen dann nichts weit=
+er unternehmen.
+Sie k=F6nnen sich gerne zu einem sp=E4teren Zeitpunkt wieder mit Ihrer E-Ma=
+il Adresse f=FCr ein notebooksbilliger.de Kundenkonto registrieren.
+
+Vielen Dank f=FCr Ihr Verst=E4ndnis.
+
+Ihr notebooksbilliger.de - Team
+
+notebooksbilliger.de AG
+Wiedemannstr. 3
+31157 Sarstedt
+Germany
+
+As registered in Germany
+Sitz: D-31157 Sarstedt
+Handelsregisternummer: HRB 201279
+zustaendiges Amtsgericht: D-31134 Hildesheim
+WEEE-Reg.-Nr.: DE 37107081
+
+Vorstand: Oliver Hellmold (Vorsitzender), Martin Schwager
+Aufsichtsrat: Arnd von Wedemeyer (Vorsitzender),
+Michael Haubrich, Manuel Pabst
+

@@ -1,0 +1,737 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <bounces-84007330-team=duetdisplay.com@support-mail-two.duetdisplay.com>
+Received: from mail-hub02.belwue.de ([129.143.76.42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 69724226 for technikag@fichte-gymnasium.de; Mon, 17 Jul 2023 12:46:58 +0200
+Received: from mail-in02.belwue.de (mail-in02.belwue.de [129.143.76.2])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4R4Jg61zB0z5f8b
+	for <technikag@fichte-gymnasium.de>; Mon, 17 Jul 2023 12:46:58 +0200 (CEST)
+Received: from support-mail-two.duetdisplay.com (support-mail-two.duetdisplay.com [77.32.191.225])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in02.belwue.de (Postfix) with ESMTPS id 4R4Jg50BKmzB1Rd9
+	for <technikag@fichte-gymnasium.de>; Mon, 17 Jul 2023 12:46:56 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=support-mail-two.duetdisplay.com;
+ q=dns/txt; s=mail; bh=NXqBaUzztcLm6OREssFw05UUlZ8e0UlcdyWApKIJGcU=;
+ h=from:reply-to:subject:date:to:mime-version:content-type:list-unsubscribe:x-csa-complaints:list-unsubscribe-post;
+        b=EqFT9XN6qetO7Jy8Trc5GRKpibxwXJlp6tbYRSjUpD3/b7MeSP9ntMq2UBjs3Rgw7PxFd/xYMIUe
+        lpERsFaJF9bc+oFrnZbb8fodsNEZAgsEtcUmR0Uzbt8fIp3nnePKwh5kr/6r2R9hxpQDDdtVfXVJ
+        Cnhbvp/LsbNYCwnWaJo=
+Message-Id: <3b35da87-87b4-4294-bf26-b1a1c3d7054f@smtp-relay.sendinblue.com>
+X-sib-id: M6QKwjty9uLIZIEX8CE31MC8hZKErxktBgLQgxUmfUmJMO1btUW8S8kXIoCh374zISll9vgZt9lDjdW8IhhtnIcGJ-etU5Kq5sgWqo9fkmvlMp4yZIGJ9i7Os_Tgt2_oTD5ZPrcHaf7bqNYpkdFc2atS7cwmMQK_ROAReCVxIC5mW-_Y1KePJTg9sw
+Reply-To: <team@duetdisplay.com>
+Feedback-ID: 77.32.191.225:2417342_-1:2417342:Sendinblue
+From: "Duet Team" <team@duetdisplay.com>
+X-CSA-Complaints: csa-complaints@eco.de
+X-Mailin-EID: ODQwMDczMzB%2BdGVjaG5pa2FnQGZpY2h0ZS1neW1uYXNpdW0uZGV%2BPDIwMjMwNzE3MTA0Ni4yMTMwNjk0OTg1MUBzbXRwLXJlbGF5Lm1haWxpbi5mcj5%2Bc3VwcG9ydC1tYWlsLXR3by5kdWV0ZGlzcGxheS5jb20%3D
+Subject: Welcome To Duet
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+List-Unsubscribe: <https://r.support-mail-two.duetdisplay.com/tr/un/li/xc_-EpR5HRiE1tO5ZSNy7c3j5wVUo7sKW_VLiOsVtziErd8OneIMpW8eYkJf76GjoHCJIBwomNqamAZ-cFB2WrLuZABCvooeMJj1ZkWITiYoYfGjRhzwjHlzJehcP4qbMeqI86Uxg_UdRzjxg7ICOOmGJX7xWLYgh7rXB1E3tFjiw6au3I2mCT6cc2vxiTtR8vist0tId5qsZr_oyTqMztdJFWdC5VE2N5OIt2ZSdNg574d0YwsOicuq_AXwne35XWK6>
+To: <technikag@fichte-gymnasium.de>
+Date: Mon, 17 Jul 2023 10:46:55 +0000
+Origin-messageId: <202307171046.21306949851@smtp-relay.mailin.fr>
+Content-Type:multipart/alternative; boundary="--_SiB-c3c38757540b34bf-Part_1"
+Mime-Version:1.0
+X-Mailin-Tag:welcome-email
+X-Rspamd-Queue-Id: 4R4Jg50BKmzB1Rd9
+X-Rspamd-UID: 3195e7
+
+----_SiB-c3c38757540b34bf-Part_1
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+
+Are you getting the most out of Duet?
+
+Duet is the ultimate app to share your screen, and can help you work from a=
+nywhere between any of your devices.
+
+- [How to get started](https://www.duetdisplay.com/help-center/getting-star=
+ted-with-duet)
+- [Make sure to download the app on both devices here (available on Mac, PC=
+, iOS, or Android](https://www.duetdisplay.com/#download))
+
+Don't forget to check out all the other ways to use Duet
+
+[Remote Desktop](https://www.duetdisplay.com/remote-desktop-access-software=
+)
+[Turn any of your devices into a Remote Desktop](https://www.duetdisplay.co=
+m/remote-desktop-access-software)
+
+[Touch and Gestures](https://www.duetdisplay.com/help-center/what-touch-ges=
+tures-can-i-use-on-my-ipad-or-iphone)
+[Enable touch and gestures across platforms](https://www.duetdisplay.com/he=
+lp-center/what-touch-gestures-can-i-use-on-my-ipad-or-iphone)
+
+[Remote Desktop](https://www.duetdisplay.com/remote-desktop-access-software=
+)
+[Use Duet wirelessly with any of your devices](https://www.duetdisplay.com/=
+remote-desktop-access-software)
+
+[Duet Desktop](https://www.duetdisplay.com/blog/two-laptops-are-better-than=
+-one)
+[Enable touch and gestures across platforms](https://www.duetdisplay.com/bl=
+og/two-laptops-are-better-than-one)
+
+If you have any questions getting started and would prefer assistance, plea=
+se e-mail us at [team@duetdisplay.com](mailto:team@duetdisplay.com?subject=
+=3DHelp With Getting Started&body=3D) or reply to this email and we can hel=
+p you right away.
+
+[Facebook](https://facebook.com/duetdisplay)	[Twitter](https://twitter.com/=
+duetdisplay)	[Instagram](https://instagram.com/duetdisplay/)
+
+
+----_SiB-c3c38757540b34bf-Part_1
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"><html data-editor-version=3D"2" class=3D"=
+sg-campaigns" xmlns=3D"http://www.w3.org/1999/xhtml"><head>
+      <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf=
+-8"/>
+      <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scal=
+e=3D1, minimum-scale=3D1, maximum-scale=3D1"/>
+      <!--[if !mso]><!-->
+      <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3DEdge"/>
+      <!--<![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+  <style type=3D"text/css">
+    body {width: 600px;margin: 0 auto;}
+    table {border-collapse: collapse;}
+    table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+    img {-ms-interpolation-mode: bicubic;}
+  </style>
+<![endif]-->
+      <style type=3D"text/css">
+    body, p, div {
+      font-family: arial,helvetica,sans-serif;
+      font-size: 14px;
+    }
+    body {
+      color: #000000;
+    }
+    body a {
+      color: #1188E6;
+      text-decoration: none;
+    }
+    p { margin: 0; padding: 0; }
+    table.wrapper {
+      width:100% !important;
+      table-layout: fixed;
+      -webkit-font-smoothing: antialiased;
+      -webkit-text-size-adjust: 100%;
+      -moz-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+    img.max-width {
+      max-width: 100% !important;
+    }
+    .column.of-2 {
+      width: 50%;
+    }
+    .column.of-3 {
+      width: 33.333%;
+    }
+    .column.of-4 {
+      width: 25%;
+    }
+    ul ul ul ul  {
+      list-style-type: disc !important;
+    }
+    ol ol {
+      list-style-type: lower-roman !important;
+    }
+    ol ol ol {
+      list-style-type: lower-latin !important;
+    }
+    ol ol ol ol {
+      list-style-type: decimal !important;
+    }
+    @media screen and (max-width:480px) {
+      .preheader .rightColumnContent,
+      .footer .rightColumnContent {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent div,
+      .preheader .rightColumnContent span,
+      .footer .rightColumnContent div,
+      .footer .rightColumnContent span {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent,
+      .preheader .leftColumnContent {
+        font-size: 80% !important;
+        padding: 5px 0;
+      }
+      table.wrapper-mobile {
+        width: 100% !important;
+        table-layout: fixed;
+      }
+      img.max-width {
+        height: auto !important;
+        max-width: 100% !important;
+      }
+      a.bulletproof-button {
+        display: block !important;
+        width: auto !important;
+        font-size: 80%;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+      .columns {
+        width: 100% !important;
+      }
+      .column {
+        display: block !important;
+        width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+      }
+      .social-icon-column {
+        display: inline-block !important;
+      }
+    }
+  </style>
+    <style>
+      @media screen and (max-width:480px) {
+        table\0 {
+          width: 480px !important;
+          }
+      }
+    </style>
+      <!--user entered Head Start--><!--End Head user entered-->
+    </head>
+    <body><table cellpadding=3D"0" border=3D"0" cellspacing=3D"0" style=3D"=
+ mso-hide: all; display: none;"><tbody><tr><td>Get the most out of Duet and=
+ all of the ways you can be productive</td></tr></tbody></table>
+      <center class=3D"wrapper" data-link-color=3D"#1188E6" data-body-style=
+=3D"font-size:14px; font-family:arial,helvetica,sans-serif; color:#000000; =
+background-color:#f7fcff;">
+        <div class=3D"webkit">
+          <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"=
+100%" class=3D"wrapper" bgcolor=3D"#f7fcff">
+            <tbody><tr>
+              <td valign=3D"top" bgcolor=3D"#f7fcff" width=3D"100%">
+                <table width=3D"100%" role=3D"content-container" class=3D"o=
+uter" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                  <tbody><tr>
+                    <td width=3D"100%">
+                      <table width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0">
+                        <tbody><tr>
+                          <td>
+                            <!--[if mso]>
+    <center>
+    <table><tr><td width=3D"600">
+  <![endif]-->
+                                    <table width=3D"100%" cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0" style=3D"width:100%; max-width:600px;" alig=
+n=3D"center">
+                                      <tbody><tr>
+                                        <td role=3D"modules-container" styl=
+e=3D"padding:0px 0px 0px 0px; color:#000000; text-align:left;" bgcolor=3D"#=
+FFFFFF" width=3D"100%" align=3D"left"><table class=3D"module preheader preh=
+eader-hide" role=3D"module" data-type=3D"preheader" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"display: none !important;=
+ mso-hide: all; visibility: hidden; opacity: 0; color: transparent; height:=
+ 0; width: 0;">
+    <tbody><tr>
+      <td role=3D"module-content">
+        <p></p>
+      </td>
+    </tr>
+  </tbody></table><table class=3D"wrapper" role=3D"module" data-type=3D"ima=
+ge" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=
+=3D"table-layout: fixed;" data-muid=3D"71e672d9-8dc1-4ee5-b38c-0a0dc7dbae66=
+">
+    <tbody>
+      <tr>
+        <td style=3D"font-size:6px; line-height:10px; padding:0px 0px 0px 0=
+px;" valign=3D"top" align=3D"center">
+          <img class=3D"max-width" border=3D"0" style=3D"display:block; col=
+or:#000000; text-decoration:none; font-family:Helvetica, arial, sans-serif;=
+ font-size:16px; max-width:15% !important; width:15%; height:auto !importan=
+t;" width=3D"90" alt=3D"" data-proportionally-constrained=3D"true" data-res=
+ponsive=3D"true" src=3D"https://r.support-mail-two.duetdisplay.com/im/24173=
+42/07610d14c1f9cb87c0c29cbee43b5cb36d1b325cf786b352d978c955eb20f411.png?e=
+=3DKKR7Wn1XSXMiq72E7O3j2clSIUp7kJgdkk00xe-xI4BeyvClcVHGHU6jL-jMeLTyG4RPdcPP=
+U8dw0pD50iTXxfaXsd6NsJhCoCQAcxxRUkFNYKXVhTISyOm9JjEfJzPaDI2fiF7IYGbw4sVERSD=
+LDi4vKXkFE6megGSY9nQZN8qzXgUVgEKorGXBQdxlKG3Wgj7QD32lnFPbKsm1a_3ruip82FJOhr=
+zw-90569nnFFMJiAPx1567OAuubI19-3aUoaiTSueNrmvpS2LIRbiPnvw3KS8Ry9pybOn_kdh7x=
+WytJf3J794"/>
+        </td>
+      </tr>
+    </tbody>
+  </table><table class=3D"module" role=3D"module" data-type=3D"text" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-la=
+yout: fixed;" data-muid=3D"572d3d4f-e15a-4284-891c-9c1aaa7a9693" data-mc-mo=
+dule-version=3D"2019-10-22">
+    <tbody>
+      <tr>
+        <td style=3D"padding:18px 0px 18px 0px; line-height:40px; text-alig=
+n:inherit;" height=3D"100%" valign=3D"top" bgcolor=3D"" role=3D"module-cont=
+ent"><div><h1 style=3D"text-align: center"><span style=3D"font-family: inhe=
+rit; color: #292929">Are you getting the most out of Duet?</span></h1><div>=
+</div></div></td>
+      </tr>
+    </tbody>
+  </table><table class=3D"wrapper" role=3D"module" data-type=3D"image" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-=
+layout: fixed;" data-muid=3D"5839ace6-c077-4f75-ac0e-8ff977464177">
+    <tbody>
+      <tr>
+        <td style=3D"font-size:6px; line-height:10px; padding:0px 0px 0px 0=
+px;" valign=3D"top" align=3D"center">
+          <img class=3D"max-width" border=3D"0" style=3D"display:block; col=
+or:#000000; text-decoration:none; font-family:Helvetica, arial, sans-serif;=
+ font-size:16px; max-width:100% !important; width:100%; height:auto !import=
+ant;" width=3D"600" alt=3D"" data-proportionally-constrained=3D"true" data-=
+responsive=3D"true" src=3D"https://r.support-mail-two.duetdisplay.com/im/24=
+17342/282c6a775389c5c88afb7ef89fa8fbbfb2ef8be572952ad94958326d7ffb01e7.gif?=
+e=3DAi7kx5O7mQhOhi_ODy7TmKkwK7PUBMyOHJM4k1Lf4HyhDsiT9nAOPDRxtRTyyu4Nd00WxqH=
+1pkXdGFGtRgZgyN3KKQeDhp58USfrsTnlVUYFUFCO0OeiW_yFA69IaSccx8q9cKjlx_-NYcZ3yd=
+kjDKhsxTDSM6Bx-R2_YzD9lvSg2rTVDJlD4vjgq00Zg7ya-l7WIIMjIELjeZvftGzl0SV0tTYC0=
+zWzLfqbwVLpLGu-ubzd3Wbbx7S7Ou5p2J3nrj19e8cmCpUhSzeE6YNPs0VtbgDoM10qN0jDEZzq=
+Vg21OYkT7kHylCsp"/>
+        </td>
+      </tr>
+    </tbody>
+  </table><table class=3D"module" role=3D"module" data-type=3D"text" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-la=
+yout: fixed;" data-muid=3D"abcb85bd-2589-40b8-aa91-9cffe075337b" data-mc-mo=
+dule-version=3D"2019-10-22">
+    <tbody>
+      <tr>
+        <td style=3D"padding:18px 20px 18px 20px; line-height:28px; text-al=
+ign:inherit;" height=3D"100%" valign=3D"top" bgcolor=3D"" role=3D"module-co=
+ntent"><div><div style=3D"font-family: inherit"><span style=3D"font-size: 1=
+8px; color: #222">Duet is the ultimate app to share your screen, and can he=
+lp you work from anywhere between any of your devices.</span></div><div></d=
+iv></div></td>
+      </tr>
+    </tbody>
+  </table><table class=3D"module" role=3D"module" data-type=3D"text" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-la=
+yout: fixed;" data-muid=3D"6727044a-25ef-4eb9-a6df-db01f8040e25" data-mc-mo=
+dule-version=3D"2019-10-22">
+    <tbody>
+      <tr>
+        <td style=3D"padding:18px 0px 18px 0px; line-height:32px; text-alig=
+n:inherit;" height=3D"100%" valign=3D"top" bgcolor=3D"" role=3D"module-cont=
+ent"><div><ul>
+  <li style=3D"font-size: 18px"><a href=3D"https://r.support-mail-two.duetd=
+isplay.com/tr/cl/JnT2TLkF0egWT2BOmrh8YPl-XyBYy_Hyl0By2DUvMGZP9sFohQD3HyAsxf=
+-lrAjmgQM2-GVr3ufOxcKLvIe54OktDzzJvWarOR1GIQBNPLZNAb9gBsctqRa5_APQVvCrGRji7=
+99AHFMyvfsm9p465mf3_qog0WSXasCSaFQBWALBOlIZtVw1n52nJeFsj5EpWvrnd27tLilfIAQ7=
+HYWtxEWvZPjUwrqT9sA2ILNrVMYT6ZE_DlhJn90MyvK9IefwOhhJs8VvJC9GR2A7ouh2tHu8miY=
+QWgI7-PS1R4IA0def__qWdIuoG2md9y38zvqLBau9hqhpnIFwgcHshkaunlLJpqcwgXt8B0ORqm=
+ouwvNQBXF--bxNhHS0aTLfv7cZb689o09XJ3y1HJ5nauRMQGwx6iDW41IsrELKxjJxRba3hSs">=
+<span style=3D"font-size: 18px">How to get started</span></a></li>
+  <li style=3D"font-size: 18px"><a href=3D"https://r.support-mail-two.duetd=
+isplay.com/tr/cl/MHqoj_9tD4li7aX6s0olNBfdVIxO_dvbb1UbXrikHcvsf8ktb6NtilyQMy=
+T11DKchlYg9d1Ux2nNLgC3V2W7UWHqCmwa7I3dRq1vIxhAAQ33YU3-914d2qvHBl8mRHhnfdG9o=
+4ktMvoz-Uxry7kViWUOrNPXtfAWwpx656LYoGFMrZscUE7YAjpDcDH1ISr-nDsff5WXeC9TiDQo=
+oWkRWp45jhKUWfh9WJqaxoL6XU4cUfnCJ6koMNmEuLN3xlanzKzQa6WHR1qxLJ-OItcCYdeCNtF=
+J5oH3AkTYKkYWhJu7MvHR-QSBabj5viX0uXjDEhJX_YkhE7IOexgiio6VGrOlNKbwi5FH8G1t_8=
+Z0ifxh2sj2mpU0yruDnWWVTX3gAKRwHpFtjA"><span style=3D"font-size: 18px">Make =
+sure to download the app on both devices here (available on Mac, PC, iOS, o=
+r Android</span></a><span style=3D"font-size: 18px">)</span></li>
+</ul><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table class=3D"module" role=3D"module" data-type=3D"text" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-la=
+yout: fixed;" data-muid=3D"e8ecb8c8-d3bd-4bf9-911c-fac28e32272d" data-mc-mo=
+dule-version=3D"2019-10-22">
+    <tbody>
+      <tr>
+        <td style=3D"padding:12px 0px 12px 0px; line-height:24px; text-alig=
+n:inherit;" height=3D"100%" valign=3D"top" bgcolor=3D"" role=3D"module-cont=
+ent"><div><h2 style=3D"">Don&#39;t forget to check out all the other ways t=
+o use Duet</h2><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"=
+center" width=3D"100%" role=3D"module" data-type=3D"columns" style=3D"paddi=
+ng:0px 0px 0px 0px;" bgcolor=3D"#FFFFFF" data-distribution=3D"1,1">
+    <tbody>
+      <tr role=3D"module-content">
+        <td height=3D"100%" valign=3D"top"><table width=3D"290" style=3D"wi=
+dth:290px; border-spacing:0; border-collapse:collapse; margin:0px 10px 0px =
+0px;" cellpadding=3D"0" cellspacing=3D"0" align=3D"left" border=3D"0" bgcol=
+or=3D"" class=3D"column column-0">
+      <tbody>
+        <tr>
+          <td style=3D"padding:0px;margin:0px;border-spacing:0;"><table cla=
+ss=3D"wrapper" role=3D"module" data-type=3D"image" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fixed;" data=
+-muid=3D"ff542ff9-d62c-4c5a-80d2-6a8831166f12">
+    <tbody>
+      <tr>
+        <td style=3D"font-size:6px; line-height:10px; padding:0px 0px 0px 0=
+px;" valign=3D"top" align=3D"center">
+         =20
+        <a href=3D"https://r.support-mail-two.duetdisplay.com/tr/cl/spwNRu6=
+hn5cvQ-FsKbbR_zJ2wcOORY6pV700QSRsZB2jq5a8cG_G2QCNhG5DGaYwPK9CMnih_vh_-uEpJE=
+A5DH0ouSiygEvAyoscHh6khEUv_q0qd6erI7SliAUX_4PC7dXzmDqDVtdivRA9HEvTsZj-_WHQ_=
+1RuMyqiRIuDIOtcLnDnKK0rlEpOjtPsBCcJz-SVuC0qbiey4q_gemD-GuKScy9CdTg4mh8QkZ5J=
+lgxSlB2Q6-rQsgqw2x3C6vhcR6lSpdu84K2Eo7a-1-oMXNCNF4tkATRleh9HpAvcsM-dwLt8qNf=
+0m2ttRABnTAdsYWXXz9pgy7JVGE_AUfj34Fq9dXd5KlSYP8zciNARqcSbPd6C7pfbN9-W0t6fCv=
+_NR4_n64PAUluHJu2l-OWq3y41kh3L5Qa_LSM"><img class=3D"max-width" border=3D"0=
+" style=3D"display:block; color:#000000; text-decoration:none; font-family:=
+Helvetica, arial, sans-serif; font-size:16px; max-width:100% !important; wi=
+dth:100%; height:auto !important;" width=3D"290" alt=3D"Remote Desktop" dat=
+a-proportionally-constrained=3D"true" data-responsive=3D"true" src=3D"https=
+://r.support-mail-two.duetdisplay.com/im/2417342/4c8249fff184da352f8ceb0b5e=
+7acbe3a7d4b48f093620df68aa386cc9e1e47c.jpg?e=3DJHfnJNob-AoqpWlffJCAwF0BsogB=
+AbwgFjAHOQ15Es_-1S_Rf1-nZJ_T8VG6v8aAFR4ef-AdMgq81Cxu3FRXKB4gD18wpQT1C2eE8Jx=
+nQL2ldYkTNa3-OxoWEU-zt5DeOgmuS98RavJE7AYHRortCOXpdpIXtfwKkoCajboKiTkGj7sjHH=
+EY_6-Bykd6iXCqi8QxJsMSRevIsEXjhtzArlgGCd41FlOK1Ywrvj7Lm1DtMeE5lEEH9wq62FWSv=
+MRE6UMZS2MBBr1ZNWRP9RHNnedsH2YsoYIrg53d-kOpbfWiyWb7dBdPBg"/></a></td>
+      </tr>
+    </tbody>
+  </table><table class=3D"module" role=3D"module" data-type=3D"text" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-la=
+yout: fixed;" data-muid=3D"df61837e-3663-47a0-9912-d90515196c3c" data-mc-mo=
+dule-version=3D"2019-10-22">
+    <tbody>
+      <tr>
+        <td style=3D"padding:18px 10px 18px 10px; line-height:22px; text-al=
+ign:inherit;" height=3D"100%" valign=3D"top" bgcolor=3D"" role=3D"module-co=
+ntent"><div><div style=3D"font-family: inherit; text-align: center"><a href=
+=3D"https://r.support-mail-two.duetdisplay.com/tr/cl/W4_r0D51KxEeeTl_QGTXX7=
+s9D5sPKF2CKq_fH4CQQ1hIaqub3VBrb2uqA7Z2Bot7jkxd75uVV5susEuGUppHrl-25nGtBZ-SO=
+3rE_Ek4w-ewWB8KC_v-rHlp25EiezXk5COjZmjvKn46o_j5d8Nu0Mi-qjhyvgVwLaNDpUQUHBQK=
+93qAvkXWhNWeoNGkbOaCqytUK6SA6qp8nwRqovldEUHbdlE_WVyGy0Lz3i2UiIT_98A7IC-rGV8=
+RzGmmTUepJyT7a54QXVguhMuxUre_nhn3erQWlAty_6oQ1hKbjzemJcLrJ7AJlL_r9O39ctbnxV=
+Q2SsI3ii92Qzb0iySkvQiA5O9onyTirqD0z2ILqgHzK9rmomtX47djiE6WgyxwHhZWTi84k0QbP=
+pqRxfo0PJ_gLyfv7JWUPo0">Turn any of your devices into a Remote Desktop</a><=
+/div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table><table width=3D"290" style=3D"width:290px; border-spacing:0; bo=
+rder-collapse:collapse; margin:0px 0px 0px 10px;" cellpadding=3D"0" cellspa=
+cing=3D"0" align=3D"left" border=3D"0" bgcolor=3D"" class=3D"column column-=
+1">
+      <tbody>
+        <tr>
+          <td style=3D"padding:0px;margin:0px;border-spacing:0;"><table cla=
+ss=3D"wrapper" role=3D"module" data-type=3D"image" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fixed;" data=
+-muid=3D"6287572f-ded9-422d-a46f-136b6d7a3333">
+    <tbody>
+      <tr>
+        <td style=3D"font-size:6px; line-height:10px; padding:0px 0px 0px 0=
+px;" valign=3D"top" align=3D"center">
+         =20
+        <a href=3D"https://r.support-mail-two.duetdisplay.com/tr/cl/13cVPEs=
+MJ_C_crAdPqxA3a4u8m5GnzTFy3hKbHwXduQONmJS9pvdpwSFxUM928UHe2P4esxgY6tFfMEuyq=
+bvhMlZM2uilorn66H9d72KI_4APx6EIjdu3t_oGg8Zd_2GNdjTiJDuMvb0NQX7a5HgmSzJ7gUt3=
+mz3yht0PyjXiK6M5CsjIQVndwpPeCHsZ8_H_uijJOB2pTLfsRbGSLANG5W3Ai27WLKTwIZ8Af2w=
+0Y2_6lIpLlCCXmtn8zM0_24dkzJQX7xZ8nIirRsIdVVXLqjTPojJrm3_z-1G7vljtZf1yUC7VUF=
+k5DOsh1xf-7muHZ1Ukx__IBKSPfomzCE3ksutrWhoXsec0jT8LCwXxynQRPAjL49e0RnYzI5Nuf=
+ZrrNuR-9--II21zv7bPzNOuGf4U5rpW29K6J5cvP_4UXVmj9OeWr2nw5QmopS1g4gD1A8Z_86af=
+QVMdlNZ"><img class=3D"max-width" border=3D"0" style=3D"display:block; colo=
+r:#000000; text-decoration:none; font-family:Helvetica, arial, sans-serif; =
+font-size:16px; max-width:100% !important; width:100%; height:auto !importa=
+nt;" width=3D"290" alt=3D"Touch and Gestures" data-proportionally-constrain=
+ed=3D"true" data-responsive=3D"true" src=3D"https://r.support-mail-two.duet=
+display.com/im/2417342/4bd1b5eef3a9f295750d774275933f610bb608946459c993b131=
+3ad0cfcb6c11.jpg?e=3Dsx1KRBHZpkuLC-9Uc3zItNOlW7NR87CMmFAlTkljyJ8fW0nN98Nqcv=
+eiQg4aL9KvsZj1KqDUj_H_c_GPo2wOgFov9GnJwR7_yv4UgQMoWqkI88nyCZj0dFEKcW_WedWUx=
+L_bkfcR3VXU48cS4Gb4dndaKTrACpoIBDHU9Bpbr8TfQclGimPHCCxwqTN9IZFk2JAdLOPGvgO6=
+vkTFMsSe0m1x9UVpLI4efuQ7w8OkgTqvQwDW3uK7IjDZ6byDXknQDqvfNzLollNfVQ5hx8RTYS9=
+x6FlfJWJuE40UVN4JoQeWRk3luGIiMA"/></a></td>
+      </tr>
+    </tbody>
+  </table><table class=3D"module" role=3D"module" data-type=3D"text" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-la=
+yout: fixed;" data-muid=3D"c5b3217a-2f37-4ba3-8df8-362c8b203627" data-mc-mo=
+dule-version=3D"2019-10-22">
+    <tbody>
+      <tr>
+        <td style=3D"padding:18px 10px 18px 10px; line-height:22px; text-al=
+ign:inherit;" height=3D"100%" valign=3D"top" bgcolor=3D"" role=3D"module-co=
+ntent"><div><div style=3D"font-family: inherit; text-align: center"><a href=
+=3D"https://r.support-mail-two.duetdisplay.com/tr/cl/IPb6esfuqogoo9GiQqh7Yw=
+qsBzzSLqUQ7IZwLF0nfbj24zCnIyda6FRiyZ_xQpCPeuC9tdskZlUTa4QaxZDmvq4gtGjtAU0ox=
+ZfDeHDWlVaeNNcS4k5sHxllP-JPzzrmiI8p_PVOuxFBTqyNP07-JoVd3HWOzRs5nPbGs-0fB8Ie=
+U5K2PZ217vrkY75UXKXZReMh6-FpidTh4JMGTEhh7mbAcijXWomVrDx-mx4peKbSegd6qKcZQC6=
+YyqRVe9nk7CxMvZpj7RppbnsnT48q-tj7qh7boRDsvjucHtLh3LStqEHrhzBwhUV4EPBHndlmA6=
+un-0jAlmrw1XsXvzMp2C1g_JApEgPHC_WMSkeD8OMOkEkCA4cjNnbtHLoVXBkxrzIBUbLy6k5iP=
+vQOLKadQvSmVkwCLWb3wjm2O5KIR57texpSG6PYXl341SFnutbEOcRwI-SUM_UgY-aI">Enable=
+ touch and gestures across platforms</a></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table></td>
+      </tr>
+    </tbody>
+  </table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"=
+center" width=3D"100%" role=3D"module" data-type=3D"columns" style=3D"paddi=
+ng:0px 0px 0px 0px;" bgcolor=3D"#FFFFFF" data-distribution=3D"1,1">
+    <tbody>
+      <tr role=3D"module-content">
+        <td height=3D"100%" valign=3D"top"><table width=3D"290" style=3D"wi=
+dth:290px; border-spacing:0; border-collapse:collapse; margin:0px 10px 0px =
+0px;" cellpadding=3D"0" cellspacing=3D"0" align=3D"left" border=3D"0" bgcol=
+or=3D"" class=3D"column column-0">
+      <tbody>
+        <tr>
+          <td style=3D"padding:0px;margin:0px;border-spacing:0;"><table cla=
+ss=3D"wrapper" role=3D"module" data-type=3D"image" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fixed;" data=
+-muid=3D"ff542ff9-d62c-4c5a-80d2-6a8831166f12.1">
+    <tbody>
+      <tr>
+        <td style=3D"font-size:6px; line-height:10px; padding:0px 0px 0px 0=
+px;" valign=3D"top" align=3D"center">
+         =20
+        <a href=3D"https://r.support-mail-two.duetdisplay.com/tr/cl/Nx-xa9K=
+0beV8e3Q3cPDdDL0qreOspkgOfpnW5nIQDQ3RgLKOI7e5jeT2QPQvbT0TefndYm7iPbfOxnymGu=
+riUSTzTaqTHH9SBl75iHrHnq3D0N9wye_mbbF0Qd7MjSaVHHABD2AmBUQBScogIJc94dZpfbgZH=
+YISxH08GkvpghXlEt6IhK3OoOczg3-ZpIN_hVQ3Aa6CZw7zXv7XmllvapOC52Q-EsNODIpuQJxu=
+H_4J0DjTTeG_YgcLlklLmW3IHtbbngOilsbtPErPeaP0Wiaai9QjFGrpulQ4_H0NNgLE03SCrEU=
+HgJyOwP1GLfSvhjGvouK0RslSwbrRTKtgfxAjB2UuL_ZSdsPlyT3gAuzzYLr1FAsxtCIEsFwmIY=
+-8zEN3LxVP0lpPwLPu6ZQJuqeEm28IsLgbrzA"><img class=3D"max-width" border=3D"0=
+" style=3D"display:block; color:#000000; text-decoration:none; font-family:=
+Helvetica, arial, sans-serif; font-size:16px; max-width:100% !important; wi=
+dth:100%; height:auto !important;" width=3D"290" alt=3D"Remote Desktop" dat=
+a-proportionally-constrained=3D"true" data-responsive=3D"true" src=3D"https=
+://r.support-mail-two.duetdisplay.com/im/2417342/a59725941cedf3e15152b8b314=
+cff4afc87bd6a61b010d0acbc55cdc96f9b279.jpg?e=3DpyC6ZLEP0U4Hn_vlHS0zY07yzTVI=
+YEpkI_Eh4rjfzholowCn4uk1VjZ_B4g1QuV4FCk1rpRHkgETK-2fRMZL3WVZabDLrCcqkhjDAvJ=
+uNKjbS0ijWga1CN9dZf4gcVbZLqrRYSgZj-TAmY9FDhbgjRTl07k3_dI02h6YOIseK951U_EEE7=
+T7mPvZX8yllEVzrYh9upXL-GosYgd63kQJwy5hRzcakgLRivOISPkKEITSYHn1l3xfgYNVb_H2d=
+jBaBzvnurnXSBBEreASdBrl3lTDExCkRstWGopSUUDmh_LrYmEUv6qeHQ"/></a></td>
+      </tr>
+    </tbody>
+  </table><table class=3D"module" role=3D"module" data-type=3D"text" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-la=
+yout: fixed;" data-muid=3D"df61837e-3663-47a0-9912-d90515196c3c.1" data-mc-=
+module-version=3D"2019-10-22">
+    <tbody>
+      <tr>
+        <td style=3D"padding:18px 10px 18px 10px; line-height:22px; text-al=
+ign:inherit;" height=3D"100%" valign=3D"top" bgcolor=3D"" role=3D"module-co=
+ntent"><div><div style=3D"font-family: inherit; text-align: center"><a href=
+=3D"https://r.support-mail-two.duetdisplay.com/tr/cl/u0JaoMWn6MgcDRgCn1NSHY=
+sH8CkntXfTejHmKWyu8xFx1gY7Ll9VtdgRP5AAIpGDTk1MPCO1mU_1v1F9IewzAEdEkvwWjHWHv=
+YfXszx5uHhXl0OTqs7AM-6ymOs-j4MqL0qzOPCLsqrg-HC-KkPFT9Ego8xzS9NmHqXyCmY-_cjn=
+RU2tG9vV3UWvHbM-i5LqpmvDdApGbh3TL03eBlwWpJbP9xN8sGnArKw-jnPnmicHbJEvlfSDa21=
+eAoyftSgpbA-PUz_dUoaIQLWtLiYmhbUsrTyyFLFshD6dGYW9WDV1KF41LlqJQUZO-XaZN3eeev=
+vBaVR6lKNfMHLTQRgQptT5QE-yjyFMw5mdidi6W-xf4FOPQGWwj6tbUDQd-MxT9hKLeSTsu8YWG=
+RZg7dw-NqJY-V_aWOd20zU">Use Duet wirelessly with any of your devices</a>=C2=
+=A0</div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table><table width=3D"290" style=3D"width:290px; border-spacing:0; bo=
+rder-collapse:collapse; margin:0px 0px 0px 10px;" cellpadding=3D"0" cellspa=
+cing=3D"0" align=3D"left" border=3D"0" bgcolor=3D"" class=3D"column column-=
+1">
+      <tbody>
+        <tr>
+          <td style=3D"padding:0px;margin:0px;border-spacing:0;"><table cla=
+ss=3D"wrapper" role=3D"module" data-type=3D"image" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fixed;" data=
+-muid=3D"6287572f-ded9-422d-a46f-136b6d7a3333.1">
+    <tbody>
+      <tr>
+        <td style=3D"font-size:6px; line-height:10px; padding:0px 0px 0px 0=
+px;" valign=3D"top" align=3D"center">
+         =20
+        <a href=3D"https://r.support-mail-two.duetdisplay.com/tr/cl/NuxRkyS=
+5uKzlAh_dMNboBtGFFq2E11kCCenwtFZTVR3MxjJCLYEfpFeakOpVVEFXOwDqzJYCR58d8jna-r=
+YJ21BeRHRbMDXT33vvJDc_gi4yRW2WmM2IiPafNnB9Sr8i5KKU47rhsx4Y1SmCmS9MV46RRun0o=
+fy6nffXljP91yLkkSRe_IUXvFjpc2GHk687J7rob0KTpFz0t9ItJqY5G_sd6fI1MuOTqG-1uLzL=
+9GBNN47dC5YnItTxZeyhaqRLRoUU5zWQnoFDuh8-g1wQRTBj62ndaebXMFkcNKtUyHZT4eHtPkV=
+QtmWe8EpbECMkWwTVGet3O3KGjOySNjjvkf7Y6Y8ne1rjRkKdlVVGOXtV9w8moXl8Sun8oYfxQO=
+pZn_f1zgXoHuGxmlU3tLAjPqxmm8EhrGmFHFw7qWkM2t9eLQ"><img class=3D"max-width" =
+border=3D"0" style=3D"display:block; color:#000000; text-decoration:none; f=
+ont-family:Helvetica, arial, sans-serif; font-size:16px; max-width:100% !im=
+portant; width:100%; height:auto !important;" width=3D"290" alt=3D"Duet Des=
+ktop" data-proportionally-constrained=3D"true" data-responsive=3D"true" src=
+=3D"https://r.support-mail-two.duetdisplay.com/im/2417342/f4b74063465994ac0=
+5370487b634595ac7f531bfae7858f058aa7b1b332eec8f.jpg?e=3D-cUhXSCd4at9U-9uAdU=
+MabfxhI9pmPg8B_NeomE0x00P7JjENdVvn6cAPpq64fyuTrTEU9D-kGJM-PmKHNnOY_IY8YAJbE=
+9nQmg27BzqWg1eBeV9ZuMF5CcBB1JGWSoENfqdw_zqjbo8CqhE5S1roiNoGURkznpcX0vIlAtK7=
+eQibXhzsFpZLM2VofoAy8FcbqDLxobMo_wnoTFwSK4uQiMHZZFJVHXB6bzKQmUfM4Xe7BsIaCh3=
+-6ctjlD05wpfZm2UGIQz0GEt5oWMzju0XrAg_g35Ea4Q0CyQGH8oxww39L20WKE07g"/></a></=
+td>
+      </tr>
+    </tbody>
+  </table><table class=3D"module" role=3D"module" data-type=3D"text" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-la=
+yout: fixed;" data-muid=3D"c5b3217a-2f37-4ba3-8df8-362c8b203627.1" data-mc-=
+module-version=3D"2019-10-22">
+    <tbody>
+      <tr>
+        <td style=3D"padding:18px 10px 18px 10px; line-height:22px; text-al=
+ign:inherit;" height=3D"100%" valign=3D"top" bgcolor=3D"" role=3D"module-co=
+ntent"><div><div style=3D"font-family: inherit; text-align: center"><a href=
+=3D"https://r.support-mail-two.duetdisplay.com/tr/cl/PJZPM4bA9qqnTSU_ci2mwO=
+in1fzscWSRXm2stwdQ17saUNA6FE7zUNK5frzpaxS0i7sEr-qZ2VIuduS5ackLicxBI2JVhy18M=
+As_N2UrLbE6mxoe-C2Bp6IvJl6nsj3JV0hn7ooRvLNFEZFZGeX9GhdMIUg4-BITugWKAP_-PqcJ=
+0DNcprc3vBs2xjxvTsrxadUM5Jef5CVb1E_Wj9uG8-gZ_E-9nE0rYKg0MMKPXVSmIjDlZyxM3dW=
+-15O9-LYbblyYWqw_n6-1ggTfKpWzqQaxBGJG2XYQ_KTUGhQkaM6gU-bc64pcdyMmjwq0Lo9e3S=
+5OJMUU2u-JKIUaMUfrzE8qoGRj3b1hl-k_AhyyG9SrEr0jRbSle47nvykKvob6HzG7luihklcsX=
+3F0eV3oH50LSQ928dlgKIGa5HDiu-A_bA">Enable touch and gestures across platfor=
+ms</a></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table></td>
+      </tr>
+    </tbody>
+  </table><table class=3D"module" role=3D"module" data-type=3D"text" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-la=
+yout: fixed;" data-muid=3D"abcb85bd-2589-40b8-aa91-9cffe075337b.1" data-mc-=
+module-version=3D"2019-10-22">
+    <tbody>
+      <tr>
+        <td style=3D"padding:18px 20px 18px 20px; line-height:28px; text-al=
+ign:inherit;" height=3D"100%" valign=3D"top" bgcolor=3D"" role=3D"module-co=
+ntent"><div><div style=3D"font-family: inherit"><span style=3D"font-size: 1=
+8px; color: #222">If you have any questions getting started and would prefe=
+r assistance, please e-mail us at </span><a href=3D"mailto:team@duetdisplay=
+.com?subject=3DHelp With Getting Started&amp;body=3D"><span style=3D"font-s=
+ize: 18px; color: #1188E6">team@duetdisplay.com</span></a><span style=3D"fo=
+nt-size: 18px; color: #222"> or reply to this email and we can help you rig=
+ht away.</span></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table class=3D"module" role=3D"module" data-type=3D"spacer" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-=
+layout: fixed;" data-muid=3D"d0c00d7f-45ec-492e-a58f-f8f61622b299">
+    <tbody>
+      <tr>
+        <td style=3D"padding:0px 0px 60px 0px;" role=3D"module-content" bgc=
+olor=3D"">
+        </td>
+      </tr>
+    </tbody>
+  </table><table class=3D"module" role=3D"module" data-type=3D"social" alig=
+n=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" style=3D"table-layout: fixed;" data-muid=3D"9e9b1d61-1430-4fea-bf91-306a8=
+3b7daa5">
+    <tbody>
+      <tr>
+        <td valign=3D"top" style=3D"padding:0px 0px 0px 0px; font-size:6px;=
+ line-height:10px;" align=3D"center">
+          <table align=3D"center" style=3D"-webkit-margin-start:auto;-webki=
+t-margin-end:auto;">
+            <tbody><tr align=3D"center"><td style=3D"padding: 0px 5px;" cla=
+ss=3D"social-icon-column">
+      <a role=3D"social-icon-link" href=3D"https://r.support-mail-two.duetd=
+isplay.com/tr/cl/0DLnBKN-0GOcbFgpGhzmKfF82RgAjaYUFgnTUzBUv71kRhtn-Dp_J07uSd=
+FwAnWAFfuvtZWxnLVS9KoR_REm2b454DHg1bS1Y74sBB9ZMzbGA9uKHWTGoobZOuJqWFWq4k8L0=
+4TaWXsO5NuD_Z8SPZYTdDXDdI5bS3t3NmbN7dZ31o3ecSqHvmoupwY4DUPcgm4ExP8AL2zKAPCN=
+xK63Co2hhGv6aB2U4j9KfLcouVsfSRDs5rW5U3BhHoATX5XyS8grlf89kR0SLcBwDhPslGYqKwk=
+ESFiH366--iLqzKx0QVKrwJyMXdl8FVaE4bZT-HiJoKPwjvp8BXAizLbQGrP6mSaoQJ7vtV0A-z=
+Dy-_QuEheSN1U9_yb3SyO1ylmF" target=3D"_blank" alt=3D"Facebook" title=3D"Fac=
+ebook" style=3D"display:inline-block; background-color:#3B579D; height:21px=
+; width:21px;">
+        <img role=3D"social-icon" alt=3D"Facebook" title=3D"Facebook" src=
+=3D"https://r.support-mail-two.duetdisplay.com/im/2417342/33756362e0b74366c=
+b47f43cf0fdc151c757398b9a2e5db52cd8febed17fd09a.png?e=3DY9iJO6fLw4d7t4vWB3z=
+-AEGYKTeNTsSkwLjNPpTl6cFMcraWTbwtqNVsTC99Nj181teEL_OQ5LgDOnHNKLccHMf6gzEUyT=
+4YfjmOLJ1bTvOn1TID88AcAWLQMZtzcQnLnoL9N6sZJBWRqc-4dOjVjuZrOVavHS7zp8wX2HaNW=
+xNUh8bfIGUHFZWPN_KBIB4qjgDcupYhKBzY0XAf6KXkEpyroUOSrZFgn7DpAsz4ddA" style=
+=3D"height:21px; width:21px;" height=3D"21" width=3D"21"/>
+      </a>
+    </td><td style=3D"padding: 0px 5px;" class=3D"social-icon-column">
+      <a role=3D"social-icon-link" href=3D"https://r.support-mail-two.duetd=
+isplay.com/tr/cl/Ws4aqjbR5dQm6UEaRAVBwNWf_LVjSSfmPQ2zlvWX_FPgAdFzazU4mk0Lx1=
+8DNpIYNehp_y-2lN2GZM9z9H56qm9mz6k6p3OxpK8RYfMysJHbEg6XP6R7YLSqefbkFXaTrrtK7=
+4Blz3wrMj6I7OZWSs3pHSEuxzZRA4_Rh-XtQTU3TeBImnNxUO_5y_2-6clk1d8bNAK3IsT4BGfH=
+hzAod7ArPzyVKca8scRlrpO1au1aIAfwNIVWaBkkfbQ3BAdD7BiX2YeqbiC0mgJv8M1iXLvvOts=
+jujk33L0tBZRysI2SdXHK25SHurVTBZgSQpBxzvVUSCfMkIWjKlRITyJUSXbHtnN_gUba_Ynk7w=
+uJ-oZRQwpg3WntploM6uc6H6k" target=3D"_blank" alt=3D"Twitter" title=3D"Twitt=
+er" style=3D"display:inline-block; background-color:#7AC4F7; height:21px; w=
+idth:21px;">
+        <img role=3D"social-icon" alt=3D"Twitter" title=3D"Twitter" src=3D"=
+https://r.support-mail-two.duetdisplay.com/im/2417342/9825c2795911a915f8ff2=
+367a29426dab9b7175418e1bed832db0cfc0a6b0d67.png?e=3DhoEKn_hFWAqFYKZ3Mr0KimL=
+aHvWY0yEV_TB9jAaBr41KVdjkSsOxwG40tRETeApFxigpDVBvRHB4V_jRldG4Bl8Owx0wJDNx-O=
+G5qwkM2Ax-5WJu9ZvggwT4rin0QtoMPJyf6Ibwl8u4yi_I0rBcmgz3C7CMxKu4_gqhcjPZwB6eU=
+XRWVul8VsYfSyAIZzM3GHrKGJJznZmPtXGYtm63FIsKnPD6i3ZqKxDq8T1-8Q" style=3D"hei=
+ght:21px; width:21px;" height=3D"21" width=3D"21"/>
+      </a>
+    </td><td style=3D"padding: 0px 5px;" class=3D"social-icon-column">
+      <a role=3D"social-icon-link" href=3D"https://r.support-mail-two.duetd=
+isplay.com/tr/cl/vPxnzpNQtOR32J0GuDNPM9pWl-gZ9sDTdVBxMTst7HF-CZwCSIeRZr2GmA=
+z-YcVF9-ykhHtjMugYi8xXfIoFgiyzU0pqUfQKJRkIfy4oRZm4GZQQLwWSEV1-Xnq_5ov_c4X-v=
+FXIMveIL6uRHInqaqYd1f-srzhro59nPAYJCKg2BeUkvWYzYFyjkNOaYkIkCPgcDjnsmSpfXFZa=
+b7LN_ZTo1oQWhivCfi06N2a6cDtQpuqjuWgAY5N0IJ73qt5-tag-_ea7qvJn_mh1vvJAauRpgW4=
+stRkBOuHt5bEZ0qIWzpK0Sd4fjL4vg48qev8N2LUE8DsvpDeQuR4Qru8MwLERVAFYUkIVRqcdND=
+qVEabh6_ciQhilMWE-824nHW6uCF52Og" target=3D"_blank" alt=3D"Instagram" title=
+=3D"Instagram" style=3D"display:inline-block; background-color:#7F4B30; hei=
+ght:21px; width:21px;">
+        <img role=3D"social-icon" alt=3D"Instagram" title=3D"Instagram" src=
+=3D"https://r.support-mail-two.duetdisplay.com/im/2417342/dff2e25ebcf486625=
+cd78da467a3044ee2ae6bc6f362e98a65eb5ea556d62353.png?e=3Dr77GmZsKfw3O66lf8CP=
+8OwxrQ3o9hfa2V8ieTkK1A1hLN1ZP-ni9xu7_vqfxCwqSWErtAb_PU_rXWqT_MvYBkplZ7nEJq4=
+TgK-nqXSzKTrekf6wwOPFPoFZjHhA3fH_nJ7IeaWtJgubWS5rOaYtQNddmKNLVySMh-utRLji8T=
+lC_ZkKXGIQa5NiMKzLk_h0A1FoLBY9dy--8Cr0zirz1SximVWEmuulWwyYvey_LUXwf" style=
+=3D"height:21px; width:21px;" height=3D"21" width=3D"21"/>
+      </a>
+    </td></tr></tbody>
+          </table>
+        </td>
+      </tr>
+    </tbody>
+  </table></td>
+                                      </tr>
+                                    </tbody></table>
+                                    <!--[if mso]>
+                                  </td>
+                                </tr>
+                              </table>
+                            </center>
+                            <![endif]-->
+                          </td>
+                        </tr>
+                      </tbody></table>
+                    </td>
+                  </tr>
+                </tbody></table>
+              </td>
+            </tr>
+          </tbody></table>
+        </div>
+      </center>
+   =20
+ =20
+<img width=3D"1" height=3D"1" src=3D"https://r.support-mail-two.duetdisplay=
+.com/tr/op/CiGLRrZHPunAcf1czIHV9wbNVZbvuq_1YgYr909vVVuM_ZKSNiL2AHrPgvcvq99F=
+qlYuZn7q36BJLro21Tfnm__qprv9_-5lXdQW7RQaQmfelxuczjYzPZfQ5JW5MWyq3uC6X7YTXQ-=
+peo_6TspC0N76lgnooc-_dOYhxVHr30x3aEIZltkZVPlFegav" alt=3D"" /></body></html=
+>
+
+----_SiB-c3c38757540b34bf-Part_1--
+

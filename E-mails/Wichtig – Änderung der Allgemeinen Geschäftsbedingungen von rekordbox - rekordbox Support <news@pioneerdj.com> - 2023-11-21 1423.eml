@@ -1,0 +1,647 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <bounce-mc.us18_95538553.358412-c3aa4fbce5@mail118.wdc01.mcdlv.net>
+Received: from mail-hub02.belwue.de ([129.143.76.42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 77223968 for technikag@fichte-gymnasium.de; Tue, 21 Nov 2023 14:23:41 +0100
+Received: from mail-in03.belwue.de (mail-in03.belwue.de [IPv6:2001:7c0:0:76::3])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4SZQ7K29tbz72qL
+	for <technikag@fichte-gymnasium.de>; Tue, 21 Nov 2023 14:23:41 +0100 (CET)
+Received: from mail118.wdc01.mcdlv.net (mail118.wdc01.mcdlv.net [205.201.129.118])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in03.belwue.de (Postfix) with ESMTPS id 4SZQ7J0RcHz9TV
+	for <technikag@fichte-gymnasium.de>; Tue, 21 Nov 2023 14:23:40 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=pioneerdj.com; s=k2;
+	t=1700573018; x=1700833518; i=news@pioneerdj.com;
+	bh=r2hix967F2RlTjDOhIe+nQO4bFDpI/+ZxiD5fRfIFl4=;
+	h=Subject:From:Reply-To:To:Date:Message-ID:X-MC-User:Feedback-ID:
+	 List-ID:List-Unsubscribe:List-Unsubscribe-Post:Content-Type:
+	 MIME-Version:CC:Date:Subject:From;
+	b=vU+VqEU9tFkaW5mT0ujq8yHc9Ioyix7XPNp/RAmghhj6OQfhv6LrUg3NvoYuWEdha
+	 pIZlWUqB/FN/i2UEPixetcJIwEN+gHgXUV+X5oWxfZKEggROXEwsqXyFY1sn6SgGLp
+	 zbbkm7oyJXp1xlw13BJ5sbuW8tITZZV5gLA37jGl52LWBAxLjCi25E1b07coB3Mg8p
+	 zKQTlyB33qW8DHuFLapBAuq2VsZa5/sUIAqSOuW1cMFF9Lun/zMLxUBntC4r+kU8Mz
+	 uGBzddTfEQiZEefhyvLjHdRYbidHEE9VP2sZGx9I083JWYf+H76BCYk9hqudFv17vF
+	 5qYaWKeY66Lcg==
+Received: from localhost (localhost [127.0.0.1])
+	by mail118.wdc01.mcdlv.net (Mailchimp) with ESMTP id 4SZQ7G41V5zPmM0Md
+	for <technikag@fichte-gymnasium.de>; Tue, 21 Nov 2023 13:23:38 +0000 (GMT)
+Subject: =?utf-8?Q?Wichtig=20=E2=80=93=20=C3=84nderung=20der=20Allgemeinen=20Gesch=C3=A4ftsbedingungen=20von=20rekordbox?=
+From: =?utf-8?Q?rekordbox=20Support?= <news@pioneerdj.com>
+Reply-To: =?utf-8?Q?rekordbox=20Support?= <news@pioneerdj.com>
+To: <technikag@fichte-gymnasium.de>
+Date: Tue, 21 Nov 2023 13:23:26 +0000
+Message-ID: <a11b2e22559cbff6610dd8a27.c3aa4fbce5.20231121132314.7e75f7ce15.e9a90a1e@mail118.wdc01.mcdlv.net>
+X-Mailer: Mailchimp Mailer - **CID7e75f7ce15c3aa4fbce5**
+X-Campaign: mailchimpa11b2e22559cbff6610dd8a27.7e75f7ce15
+X-campaignid: mailchimpa11b2e22559cbff6610dd8a27.7e75f7ce15
+X-Report-Abuse: Please report abuse for this campaign here: https://mailchimp.com/contact/abuse/?u=a11b2e22559cbff6610dd8a27&id=7e75f7ce15&e=c3aa4fbce5
+X-MC-User: a11b2e22559cbff6610dd8a27
+Feedback-ID: 95538553:95538553.358412:us18:mc
+List-ID: a11b2e22559cbff6610dd8a27mc list <a11b2e22559cbff6610dd8a27.110527.list-id.mcsv.net>
+X-Accounttype: pd
+List-Unsubscribe: <https://alphatheta.us18.list-manage.com/unsubscribe?u=a11b2e22559cbff6610dd8a27&id=d77ea97994&e=c3aa4fbce5&c=7e75f7ce15>, <mailto:unsubscribe-mc.us18_a11b2e22559cbff6610dd8a27.7e75f7ce15-c3aa4fbce5@unsubscribe.mailchimpapp.net?subject=unsubscribe>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_1401916953"
+MIME-Version: 1.0
+X-Rspamd-SPAM-Probability: 0
+X-Rspamd-Queue-Id: 4SZQ7J0RcHz9TV
+X-Rspamd-UID: 8e6af9
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_1401916953
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+Falls du dich fragst=2C warum du diese Mail erh=C3=A4ltst=2C obwohl du dic=
+h gegen den Erhalt unserer Marketing-E-Mails entschieden hast=2C liegt das=
+ daran=2C dass es sich hier um eine wichtige Benachrichtigung f=C3=BCr all=
+e Benutzer handelt=2C denn wir haben die Allgemeinen Gesch=C3=A4ftsbedingu=
+ngen und die Datenschutzerkl=C3=A4rung f=C3=BCr rekordbox =C3=BCberarbeite=
+t. Diese wurden aktualisiert=2C damit du leichter verstehen kannst=2C was=
+ du von AlphaTheta erwarten kannst und was wir von dir erwarten.
+
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C  =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C  =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C  =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C  =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C  =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C=
+ =E2=80=8C =E2=80=8C
+
+Open (https://mailchi.mp/d1b7bf43e1ef/anderung-der-allgemeinen-geschaftsbe=
+dingungen-von-rekordbox?e=3Dc3aa4fbce5) in browser
+https://rekordbox.com/de/?utm_source=3Dpdjc-allsubs&utm_medium=3Demail&utm=
+_content=3Dpdjc-changetermsofuseandprivacy-ga-211123&utm_campaign=3Dpdjc-e=
+m-de-ga&utm_term=3Dheader-logo
+=C3=84nderung der Allgemeinen Gesch=C3=A4ftsbedingungen von rekordbox
+
+Liebe Kundin=2C lieber Kunde=2C
+
+Erst einmal danken wir dir herzlich=2C dass du unsere Produkte und Dienste=
+ nutzt.
+
+Falls du dich fragst=2C warum du diese Mail erh=C3=A4ltst=2C obwohl du dic=
+h gegen den Erhalt unserer Marketing-E=E2=80=91Mails entschieden hast=2C l=
+iegt das daran=2C dass es sich hier um eine wichtige Benachrichtigung f=C3=
+=BCr alle Benutzer handelt=2C denn wir haben die Allgemeinen Gesch=C3=A4ft=
+sbedingungen und die Datenschutzerkl=C3=A4rung f=C3=BCr rekordbox =C3=BCbe=
+rarbeitet.
+
+Diese wurden aktualisiert=2C damit du leichter verstehen kannst=2C was du=
+ von AlphaTheta erwarten kannst und was wir von dir erwarten.
+
+Die Aktualisierungen kannst du hier unten nachlesen.
+* Allgemeine Gesch=C3=A4ftsbedingungen (https://www.pioneerdj.com/de-de/co=
+mpany/terms-of-use/)
+* Datenschutzbestimmungen (https://www.pioneerdj.com/de-de/company/privacy=
+-policy/)
+
+Die aktualisierten Allgemeinen Gesch=C3=A4ftsbedingungen treten am 05.12.2=
+023 in Kraft=2C die aktualisierte Datenschutzerkl=C3=A4rung gilt bereits s=
+eit dem 07.09.2023.
+
+Wir danken f=C3=BCr deine Unterst=C3=BCtzung.
+
+Dein rekordbox-Team
+=C2=A9 2023 AlphaTheta Corporation (https://alphatheta.com/en/#company-inf=
+o)
+Diese Nachricht wurde dir von der AlphaTheta Corporation (https://alphathe=
+ta.com/en/#company-info) gesendet.
+Um Kontakt mit uns aufzunehmen oder uns Feedback zu geben=2C kannst du hie=
+r klicken (https://www.pioneerdj.com/de-de/support/contact/?utm_source=3Dp=
+djc-allsubs&utm_medium=3Demail&utm_content=3Dpdjc-changetermsofuseandpriva=
+cy-ga-211123&utm_campaign=3Dpdjc-em-de-ga&utm_term=3Dcontact) .
+Falls das Bild nicht korrekt angezeigt wird=2C kannst du dich hier genauer=
+ informieren (https://mailchi.mp/d1b7bf43e1ef/anderung-der-allgemeinen-ges=
+chaftsbedingungen-von-rekordbox?e=3Dc3aa4fbce5) .
+Falls du solche Informationen in Zukunft nicht mehr von AlphaTheta Corpora=
+tion erhalten m=C3=B6chtest=2C l=C3=B6sche dich einfach aus der Empf=C3=A4=
+ngerliste (https://alphatheta.us18.list-manage.com/unsubscribe?u=3Da11b2e2=
+2559cbff6610dd8a27&id=3Dd77ea97994&e=3Dc3aa4fbce5&c=3D7e75f7ce15) .
+--_----------=_MCPart_1401916953
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+  <title>Wichtig =E2=80=93 =C3=84nderung der Allgemeinen Gesch=C3=A4ftsbed=
+ingungen von rekordbox</title>
+  <meta http-equiv=3D"content-type" content=3D"text/html; charset=3Dutf-8"=
+>
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width=2C initial-scale=
+=3D1.0">
+  <style type=3D"text/css">
+    body {
+      width: 100% !important;
+      margin-top: 0;
+      margin-right: 0;
+      margin-bottom: 0;
+      margin-left: 0;
+      padding-top: 0;
+      padding-right: 0;
+      padding-bottom: 0;
+      padding-left: 0;
+      font-size: 16px;
+      font-family:Arial=2C Helvetica=2C sans-serif;
+      background-color: #282828;
+    }
+
+    img {
+      border: 0;
+      -ms-interpolation-mode: bicubic;
+    }
+
+    div=2Ca=2Ctd {
+      -webkit-text-size-adjust: 100%;
+      -moz-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table=2Ctable td {
+      border-collapse: collapse;
+    }
+
+    #outlook a {
+      padding: 0;
+    }
+
+    .mcnPreviewText{
+      display: none !important;
+    }
+
+    /* iOS BLUE LINKS */
+    a[x-apple-data-detectors] {
+      color: inherit !important;
+      text-decoration: none !important;
+      font-size: inherit !important;
+      font-family: inherit !important;
+      font-weight: inherit !important;
+      line-height: inherit !important;
+    }
+
+    .ReadMsgBody=2C.ExternalClass {
+      width: 100%;
+      background-color: #FFF !important;
+    }
+
+    .ExternalClass=2C.ExternalClass td=2C.ExternalClass span {
+      line-height: 100%;
+    }
+
+    .yshortcuts=2C.yshortcuts a=2C.yshortcuts a span=2Ca span.yshortcuts {
+      color: #000001;
+      text-decoration: none !important;
+      border-bottom: none !important;
+      background: none !important;
+    }
+
+    td[class=3Dmobile-spacer] {
+      display: none;
+    }
+
+    a {
+      color: #ffffff;
+    }
+
+    a.lnk-external=2C
+    a[class=3D"lnk-external"] {
+      color: #007DE1;
+      text-decoration: underline;
+    }
+
+    @media only screen and (max-width: 600px) {
+      .logo {
+        max-width: 150px !important;
+      }
+
+      .mb-block {
+        display: block !important;
+        width: 100% !important;
+      }
+
+      .mb-full {
+        width: 100% !important;
+      }
+
+      .mb-block-half {
+        display: block !important;
+        width: 50% !important;
+      }
+
+      .mb-align-center {
+        text-align: center !important;
+      }
+
+      .centered {
+        text-align: center !important;
+      }
+
+      .mb-pl-none {
+        padding: 0 !important;
+      }
+
+      .mb-pt--4 {
+        padding-top: 16px !important;
+      }
+
+
+      .mb-small-title {
+        font-size: 24px !important;
+        line-height: 27px !important;
+        letter-spacing: 3px !important;
+      }
+
+       .mb-fs-reset {
+        font-size: inherit !important;
+      }
+
+
+      table[class=3D'none']=2Ctd[class=3D'none']=2C.none {
+        display: none !important;
+        visibility: hidden !important;
+      }
+
+      table[class=3D'wrapper']=2C
+      table[class=3D'block']=2C
+      .block {
+        width: 100% !important;
+        text-align: center;
+      }
+
+      table[class=3D'block-inner'] {
+        width: 80% !important;
+      }
+
+      img[class=3D'visual'] {
+        width: 100% !important;
+        max-width: 100% !important;
+        height: auto !important;
+      }
+
+      /*td[class=3Dfooter] {
+        width: 100% !important;
+        text-align: center !important;
+      }*/
+
+      td[class=3Dmobile-spacer] {
+        display: block !important;
+        width: 100% !important;
+      }
+
+      td[class=3D'feature-store-item']=2C
+      td[class=3D'feature-store-image']=2C
+      .feature-store-item=2C
+      .feature-store-image {
+        text-align: center !important;
+      }
+
+      table[class=3D'feature-store-cta']=2C
+      .feature-store-cta {
+          float: none !important;
+          margin-left: auto !important;
+          margin-right: auto;
+        }
+
+      td[class=3D'feature-store-text']=2C
+      .feature-store-text
+      {
+        padding: 16px !important;
+      }
+
+    }
+  </style>
+</head>
+<body bgcolor=3D"#282828" style=3D"margin:0; padding:0; width:100% !import=
+ant;">
+
+  <div style=3D"display: none; max-height: 0px; overflow: hidden;">Falls d=
+u dich fragst=2C warum du diese Mail erh=C3=A4ltst=2C obwohl du dich gegen=
+ den Erhalt unserer Marketing-E-Mails entschieden hast=2C liegt das daran=
+=2C dass es sich hier um eine wichtige Benachrichtigung f=C3=BCr alle Benu=
+tzer handelt=2C denn wir haben die Allgemeinen Gesch=C3=A4ftsbedingungen u=
+nd die Datenschutzerkl=C3=A4rung f=C3=BCr rekordbox =C3=BCberarbeitet. Die=
+se wurden aktualisiert=2C damit du leichter verstehen kannst=2C was du von=
+ AlphaTheta erwarten kannst und was wir von dir erwarten.</div>
+  <div style=3D"display: none; max-height: 0px; overflow: hidden;">&nbsp;&=
+zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&=
+nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&=
+nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp=
+;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&=
+nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp=
+;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&=
+zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp=
+;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&=
+zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&=
+zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&=
+nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj=
+;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&=
+nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp=
+;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;</div>
+
+  <table bgcolor=3D"#282828" width=3D"600" border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"0" align=3D"center" class=3D"wrapper">
+<tr bgcolor=3D"#282828">
+  <td>
+    <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ align=3D"center" bgcolor=3D"#282828">
+      <tbody>
+        <tr>
+          <td align=3D"center" valign=3D"middle" style=3D"padding: 12px 0;=
+ font-family: Arial=2C Helvetica=2C sans-serif; font-size: 10px; color: #6=
+56565; line-height: 15px;">
+            <a href=3D"https://mailchi.mp/d1b7bf43e1ef/anderung-der-allgem=
+einen-geschaftsbedingungen-von-rekordbox?e=3Dc3aa4fbce5" style=3D"color: #65=
+6565; opacity: .7;">Open</a> in browser
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </td>
+</tr>
+<tr bgcolor=3D"#141414">
+  <td bgcolor=3D"#141414" style=3D"padding: 32px 0;">
+
+    <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ align=3D"center" style=3D"min-width: 100%;">
+      <tr>
+        <td align=3D"center" width=3D"100%">
+                      <a href=3D"https://alphatheta.us18.list-manage.com/t=
+rack/click?u=3Da11b2e22559cbff6610dd8a27&id=3Da5523dcd1d&e=3Dc3aa4fbce5"=
+ target=3D"_blank">
+
+              <img src=3D"https://mcusercontent.com/a11b2e22559cbff6610dd8=
+a27/images/d458e8a9-b39c-4805-88b7-40216cccfea6.png" width=3D"186" alt=3D"=
+rekordbox logo" class=3D"logo">
+
+                      </a>
+                  </td>
+      </tr>
+    </table>
+
+  </td>
+</tr>
+
+<tr bgcolor=3D"#141414">
+  <td bgcolor=3D"#141414">
+
+    <table align=3D"center" width=3D"100%" border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"0">
+      <tbody>
+        <tr>
+          <td align=3D"center" style=3D"padding: 0 16px 32px;">
+            <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+              <tbody>
+                <tr>
+                  <td align=3D"center" valign=3D"middle" style=3D"font-fam=
+ily: Arial=2C Helvetica=2C sans-serif;font-size: 18px; text-align: center;=
+ line-height: 27px; color: #ffffff; text-transform: normal; letter-spacing=
+: normal; font-weight: normal;">
+                    =C3=84nderung der Allgemeinen Gesch=C3=A4ftsbedingunge=
+n von rekordbox                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+  </td>
+</tr>
+
+<tr bgcolor=3D"#ffffff">
+  <td style=3D"padding: 32px 32px;" bgcolor=3D"#ffffff">
+
+    <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ align=3D"left">
+      <tr>
+        <td align=3D"left" style=3D"color: #141414; font-family: Arial=2C=
+ Helvetica=2C sans-serif; font-size: 16px; line-height: 26px; text-align:=
+ left;">
+          <p>Liebe Kundin=2C lieber Kunde=2C</p>
+
+<p>Erst einmal danken wir dir herzlich=2C dass du unsere Produkte und Dien=
+ste nutzt.</p>
+
+<p>Falls du dich fragst=2C warum du diese Mail erh=C3=A4ltst=2C obwohl du=
+ dich gegen den Erhalt unserer Marketing-E&#8209;Mails entschieden hast=2C=
+ liegt das daran=2C dass es sich hier um eine wichtige Benachrichtigung f=
+=C3=BCr alle Benutzer handelt=2C denn wir haben die Allgemeinen Gesch=C3=
+=A4ftsbedingungen und die Datenschutzerkl=C3=A4rung f=C3=BCr rekordbox =C3=
+=BCberarbeitet.</p>
+
+<p>Diese wurden aktualisiert=2C damit du leichter verstehen kannst=2C was=
+ du von AlphaTheta erwarten kannst und was wir von dir erwarten.</p>
+
+<p>Die Aktualisierungen kannst du hier unten nachlesen.</p>
+
+<ul>
+<li><a href=3D"https://alphatheta.us18.list-manage.com/track/click?u=3Da11=
+b2e22559cbff6610dd8a27&id=3Dfea0779c12&e=3Dc3aa4fbce5" target=3D"_blank"=
+ style=3D"color: #141414; text-decoration: underline;">Allgemeine Gesch=C3=
+=A4ftsbedingungen</a></li>
+<li><a href=3D"https://alphatheta.us18.list-manage.com/track/click?u=3Da11=
+b2e22559cbff6610dd8a27&id=3D8427784fe7&e=3Dc3aa4fbce5" target=3D"_blank"=
+ style=3D"color: #141414; text-decoration: underline;">Datenschutzbestimmu=
+ngen</a></li>
+</ul>
+
+<p>Die aktualisierten Allgemeinen Gesch=C3=A4ftsbedingungen treten am 05.1=
+2.2023 in Kraft=2C die aktualisierte Datenschutzerkl=C3=A4rung gilt bereit=
+s seit dem 07.09.2023.</p>
+
+<p>Wir danken f=C3=BCr deine Unterst=C3=BCtzung.</p>
+
+<p>Dein rekordbox-Team</p>
+        </td>
+      </tr>
+    </table>
+
+  </td>
+</tr>
+
+<tr bgcolor=3D"#141414">
+  <td>
+    <table width=3D"100%" bgcolor=3D"#141414" border=3D"0" cellspacing=3D"=
+0" cellpadding=3D"0" style=3D"min-width: 100%;">
+      <tbody>
+        <tr>
+          <td style=3D"padding: 16px 32px;">
+            <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" style=3D"min-width: 100%;">
+              <tbody>
+                <tr>
+
+                  <td align=3D"right" valign=3D"middle" class=3D"footer" s=
+tyle=3D"font-size: 12px; color: #9C9C9C; line-height: 12px;">
+                    <span style=3D"font-family: Arial=2C Helvetica=2C sans=
+-serif;">=C2=A9 2023</span> <a href=3D"https://alphatheta.us18.list-manage=
+=2Ecom/track/click?u=3Da11b2e22559cbff6610dd8a27&id=3Da55e9428bc&e=3Dc3aa4fbce5" style=3D"color:#9C9C9C; text-decoration:none; font-family: Arial=2C=
+ Helvetica=2C sans-serif;" target=3D"_blank">AlphaTheta Corporation</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+
+        <!-- <tr>
+          <td>
+            Android Google App Fix Start
+            <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" width=3D"100%">
+              <tbody>
+                <tr>
+                  <td style=3D"background-color: #141414; line-height: 1px=
+; height: 1px; min-width: 600px;" class=3D"none">
+                    <img src=3D"https://gallery.mailchimp.com/417300380d24=
+c63ae678bacf4/images/adf5d246-6714-4a59-89d8-a0c4747c4ba2.jpg" height=3D"1=
+" width=3D"600" style=3D"max-height: 1px; min-height: 1px; display: block;=
+ width: 600px; min-width: 600px;" alt=3D""/>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            Android Google App Fix End
+          </td>
+        </tr> -->
+      </tbody>
+    </table>
+  </td>
+</tr>
+
+<tr bgcolor=3D"#282828">
+  <td>
+    <table width=3D"100%" bgcolor=3D"#282828" border=3D"0" cellspacing=3D"=
+0" cellpadding=3D"0">
+      <tbody>
+        <tr>
+          <td height=3D"20"></td>
+        </tr>
+
+        <tr>
+          <td align=3D"center">
+            <table width=3D"90%" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" style=3D"width: 90%; max-width: 90%;">
+              <tbody>
+                <tr>
+                  <td align=3D"center" valign=3D"middle" style=3D"font-fam=
+ily: Arial=2C Helvetica=2C sans-serif; font-size: 11px; color: #9C9C9C; li=
+ne-height: 19px;">
+                    <span style=3D"font-family: Arial=2C Helvetica=2C sans=
+-serif; color: #9C9C9C">Diese Nachricht wurde dir von der <a href=3D"https=
+://alphatheta.us18.list-manage.com/track/click?u=3Da11b2e22559cbff6610dd8a=
+27&id=3D59fb2841ac&e=3Dc3aa4fbce5" style=3D"font-family: Arial=2C Helveti=
+ca=2C sans-serif; opacity: .6; color: #9C9C9C; text-decoration: underline;=
+" target=3D"_blank">AlphaTheta Corporation</a> gesendet.
+
+                                          </span>
+                  </td>
+                </tr>
+
+                <tr>
+                  <td height=3D"10"></td>
+                </tr>
+
+                <tr>
+                  <td align=3D"center" valign=3D"middle" style=3D"font-fam=
+ily: Arial=2C Helvetica=2C sans-serif;font-size:11px; color: #9C9C9C; line=
+-height:19px;">
+                    Um Kontakt mit uns aufzunehmen oder uns Feedback zu ge=
+ben=2C kannst du <a href=3D"https://alphatheta.us18.list-manage.com/track/=
+click?u=3Da11b2e22559cbff6610dd8a27&id=3De18c97ca51&e=3Dc3aa4fbce5" style=
+=3D"font-family: Arial=2C Helvetica=2C sans-serif; opacity: .6; color: #9C=
+9C9C; text-decoration: underline;" target=3D"_blank">hier&nbsp;klicken</a>=
+=2E
+                  </td>
+                </tr>
+
+                <tr>
+                  <td height=3D"10"></td>
+                </tr>
+
+                <tr>
+                  <td align=3D"center" valign=3D"middle" style=3D"font-fam=
+ily: Arial=2C Helvetica=2C sans-serif;font-size:11px; color: #9C9C9C; line=
+-height:19px;">
+                    Falls das Bild nicht korrekt angezeigt wird=2C kannst=
+ du dich <a href=3D"https://mailchi.mp/d1b7bf43e1ef/anderung-der-allgemein=
+en-geschaftsbedingungen-von-rekordbox?e=3Dc3aa4fbce5" style=3D"font-family:=
+ Arial=2C Helvetica=2C sans-serif; opacity: .6; color: #9C9C9C; text-decor=
+ation: underline;" target=3D"_blank">hier genauer informieren</a>.
+                  </td>
+                </tr>
+
+                                  <tr>
+                    <td height=3D"10"></td>
+                  </tr>
+
+                  <tr>
+                   <td align=3D"center" valign=3D"middle" style=3D"font-fa=
+mily: Arial=2C Helvetica=2C sans-serif; font-size: 1px; color: #9C9C9C; op=
+acity: 0; display: none; height: 1px; overflow: hidden;">
+                    Falls du solche Informationen in Zukunft nicht mehr vo=
+n AlphaTheta&nbsp;Corporation erhalten m=C3=B6chtest=2C <a href=3D"https:/=
+/alphatheta.us18.list-manage.com/unsubscribe?u=3Da11b2e22559cbff6610dd8a27=
+&id=3Dd77ea97994&e=3Dc3aa4fbce5&c=3D7e75f7ce15" style=3D"font-family: Arial=
+=2C Helvetica=2C sans-serif; font-size: 1px; color: #9C9C9C; text-decorati=
+on: underline; opacity: 0; display: none; height: 1px; overflow: hidden;"=
+ target=3D"_blank">l=C3=B6sche dich einfach aus der Empf=C3=A4ngerliste</a=
+>.
+                    </td>
+                  </tr>
+                              </tbody>
+            </table>
+          </td>
+        </tr>
+
+        <tr>
+                      <td height=3D"10"></td>
+                  </tr>
+      </tbody>
+    </table>
+  </td>
+</tr>
+  </table>
+<img src=3D"https://alphatheta.us18.list-manage.com/track/open.php?u=3Da11=
+b2e22559cbff6610dd8a27&id=3D7e75f7ce15&e=3Dc3aa4fbce5" height=3D"1" width=
+=3D"1" alt=3D""></body>
+</html>
+--_----------=_MCPart_1401916953--

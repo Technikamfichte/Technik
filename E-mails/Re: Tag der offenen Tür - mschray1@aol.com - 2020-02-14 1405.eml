@@ -1,0 +1,197 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <mschray1@aol.com>
+Received: from cst101.belwue.de ([129.143.2.71] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.2.14)
+  with ESMTP id 19888199 for technikag@fichte-gymnasium.de; Fri, 14 Feb 2020 14:05:27 +0100
+Received: from sonic305-2.consmr.mail.bf2.yahoo.com (sonic305-2.consmr.mail.bf2.yahoo.com [74.6.133.41])
+	by cst101.belwue.de with ESMTPS id 01ED5G99003725
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=NOT)
+	for <technikag@fichte-gymnasium.de>; Fri, 14 Feb 2020 14:05:22 +0100 (MET)
+	env-from (mschray1@aol.com)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=aol.com; s=a2048; t=1581685515; bh=talibS0QPuP9AjKUm3f43bSArYNYGiCA8Ris+SayRXI=; h=Date:From:To:In-Reply-To:References:Subject:From:Subject; b=dx9/vBfkbyGlTeN+hEITmeiy5qH6rF/FDwqsTJHwXU7vIv1RQ4F8LLCSAvTefbjUwIm4MzrSS0ZA88xWb/NljTLXThi0Plv4giaR7MxkzxpB2upadyysS1lWwdtZgpgINpr7cmfJwiiLI8eKKr0sTGK6jfOQwkXzB9W6t0Uk+bDHXlzYRs++KMdEcy9RXy19eUVnzQUITdJa30aw8tU8E9BOz/WdFya4mkjMeWcb3BgqXTuzwzJ55L9BtuA6GPz73UTHqGEP16jbzneETlZB20kgWwrQU7QWVEvHdAQo94LQr7BpouTt175JAKM1tFo1R6bwX50igtIR5eaT0wbn6w==
+X-YMail-OSG: _r.QskEVM1mvbmRb840JSYqARj5os9nx0gAEkGPIDKqE5k0X325Rs4BjBc0TcD3
+ NtVCjvQ4EGz5bXhpu3Por2pPmOlpVqkJOWk153ecdWXsKjtj2FEn3F3psS6imMxYFgxuVHlfKcBp
+ LzkBocX4waZvXiqeaA6ALPBAKYA2lW_o3ZyUUTqUeiKafBeFY7DE7F3UKIjFD8cHYER0sgbDjkkv
+ SiAemSTcf4x65ptTE4brNoUSiMONIFek7BstWh5k3llX5S_r9QEHiBYRi5Mx1ehb6Bl7yQKEE2cn
+ _4kefcNmQ.dxwrN371fvuap406A429IRNIqCYr5Aw2E.Wu9VCzfr60I_0AY5k.qXkOvCLQESw9Qs
+ CEo6v62WPeKZcLvVlDhql1Urecn0G9TsvXSxR56The5LCM4T0RfmZqW99dJ.yt20VgqoN58JNsH9
+ s371e1NG2Mx1Cp3gac_e6Pg2zgCGzUgvS7d8c1ONN1TIgfn.RQCfD3GWlJONNO3n.j7y2GgDtJaA
+ fJuL2IIOYm1XnZQZjrSHGf9awR7sgkQGFTbufTFEuP6XwDR00p1f95WDsAqKdOcuYTr9.ouMPLWC
+ ji_7aYW1sHuupg3..LxT7xA8MJhbwcyV29kjbXHBvrsf9gMJsyGmHHCIP.UKyiAzzE_qrBzqYnER
+ t6_mhwh.LS5JQ.fBYrOC32WQFDk4Mevonpjs6opAt2TUaYTCNmo9nSuVMMtSrgs84kU1lBfHQCTU
+ wPN79qJiGgqVQLA6dU0bwnebvKjHdav2eJ5y9XlwucOeP89XjK4.nxHNGRd4U0xWL27p3AM0k_O4
+ I.ZASOduKfuruWtmemPBAv5GK8X3MVPGpp40eDAYqoM.lIKtlfBuyjtQqEZZk6vHzuh7WuGSXPGE
+ OByz_ERgBu3fuLpIoTFUpt._RB4xnBEY9W7T.RSg8bIoZmSRJqoz10LKP5c.p2jB.5r1TcayT4u1
+ iCGmSsfKlLgpcVKMdi9CHuvLXoJ54FjrVY8rYiyWnzNEhXeBE5Cez2yBs5bFo.VNsigvhjjfZWw9
+ zBBqUXeuq7uzUsAEvMpUGj.xwaGyiPt2yApgWKRfzHPmWaxZYygGZ3wfDXXeeeIjAUOZvIycEPdI
+ kxl0Ivckh6J8h3eZwpfJ89lgHyprriZK0s9VWNf42MqORhbbYzSkLPCEluaWVHINNrcUzfygiD7k
+ 6FJhfnLNZ8QiXkB9pwAz.N.XgLNgAjrNZJP1fXNgduQtyoZBselmE6HmNDv2DA6KtF8NBTJf.ElD
+ Liw4jT7E1YrDERONEZwVbetAPylUaW32BE4V9.LHGrFHBEfjb.X7NTG8G9AFrDs48
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic305.consmr.mail.bf2.yahoo.com with HTTP; Fri, 14 Feb 2020 13:05:15 +0000
+Date: Fri, 14 Feb 2020 13:05:14 +0000 (UTC)
+From: mschray1@aol.com
+To: technikag@fichte-gymnasium.de
+Message-ID: <1620031150.2118551.1581685514141@mail.yahoo.com>
+In-Reply-To: <db174f8d-c6a3-faae-d68d-61e60a06f3ca@fichte-gymnasium.de>
+References: <604616677.1950377.1581628685410.ref@mail.yahoo.com> <604616677.1950377.1581628685410@mail.yahoo.com> <db174f8d-c6a3-faae-d68d-61e60a06f3ca@fichte-gymnasium.de>
+Subject: =?UTF-8?Q?Re:_Tag_der_offenen_T=C3=BCr?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_2118550_1684412101.1581685514140"
+X-Mailer: WebService/1.1.15199 aolwebmail Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15
+X-DCC-BelWue-Metrics: cst101.belwue.de 1244; Body=1 Fuz1=1 Fuz2=1
+
+------=_Part_2118550_1684412101.1581685514140
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hallo Levin,vielen Dank und alles klar. Ich dachte, du w=C3=A4rst informier=
+t gewesen.Grunds=C3=A4tzlich lasse ich das schon =C3=BCber dich laufen, ich=
+ h=C3=A4tte es auch Luca gesagt, aber den habe ich in letzter Zeit nicht ge=
+sehen (ich war aber selbst auch eine Woche krank).Danke f=C3=BCr das ganze =
+Engagement im Voraus,Gru=C3=9F,Martin
+
+
+-----Urspr=C3=BCngliche Mitteilung-----
+Von: TechnikAG <technikag@fichte-gymnasium.de>
+An: mschray1 <mschray1@aol.com>
+Verschickt: Fr, 14. Feb. 2020 10:09
+Betreff: Re: Tag der offenen T=C3=BCr
+
+ Hallo Martin, vielen Dank, dass du dich nochmal meldest. Das Problem war, =
+dass ich erst Mittwoch davon erfahren habe, dass =C3=BCberhaupt TdoT ist. A=
+nsonsten habe ich gestern schon mit B=C3=A4ckel und Ernst gesprochen, ich g=
+laube, es sollte alles klar sein. Soweit ich wei=C3=9F wird Herr Rieber mit=
+ ein paar Leuten beim Aufstuhlen helfen, das sollte schon passen. Generell =
+m=C3=B6chte ich dich aber bitten, die Kommunikation nicht =C3=BCber Tim ode=
+r andere Mitglieder der Technik laufen zu lassen, sondern nur =C3=BCber das=
+ Postfach und die offiziellen Ansprechpartner, im Moment sind das Luca und =
+ich. Die Erfahrung hat gezeigt, dass sonst viel zu viel auf der Strecke ble=
+ibt und eigentlich ist auch schon seit einer ganzen Weile die Anweisung an =
+alle, keine Informationen anzunehmen sondern auf das Postfach etc. zu verwe=
+isen. Viele Gr=C3=BC=C3=9Fe Levin
+  Am 13.02.2020 um 22:18 schrieb mschray1@aol.com:
+ =20
+=20
+Hallo Levin, Tim meinte, ich sollte dich noch einmal kontaktieren wegen des=
+ Tags der offenen T=C3=BCr. Was musst du denn noch wissen? Ich dachte, Herr=
+ B=C3=A4ckel h=C3=A4tte das gekl=C3=A4rt. Falls nicht, stehe ich nat=C3=BCr=
+lich gerne zur Verf=C3=BCgung. Ich h=C3=A4tte aber schon einmal eine Bitte =
+im Vorfeld: Herr M=C3=BCller hat die Halle f=C3=BCr die Vereine nicht gespe=
+rrt, daher k=C3=B6nnen wir am Freitag nicht aufstuhlen. K=C3=B6nnte uns die=
+ Technik-AG da helfen? Ich versuche so viele Leute wie m=C3=B6glich zu rekr=
+utieren, aber eine aufgestuhlte Halle ist nat=C3=BCrlich essentiell. Gru=C3=
+=9F und danke im Voraus, Martin Schray =20
+------=_Part_2118550_1684412101.1581685514140
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+<div style=3D"color:black;font: 10pt arial;">Hallo Levin,
+<div>vielen Dank und alles klar. Ich dachte, du w=C3=A4rst informiert gewes=
+en.</div>
+
+<div>Grunds=C3=A4tzlich lasse ich das schon =C3=BCber dich laufen, ich h=C3=
+=A4tte es auch Luca gesagt, aber den habe ich in letzter Zeit nicht gesehen=
+ (ich war aber selbst auch eine Woche krank).</div>
+
+<div>Danke f=C3=BCr das ganze Engagement im Voraus,</div>
+
+<div>Gru=C3=9F,</div>
+
+<div>Martin<br>
+<br>
+<br>
+
+<div style=3D"font-family:helvetica,arial;font-size:10pt;color:black">-----=
+Urspr=C3=BCngliche Mitteilung-----<br>
+Von: TechnikAG &lt;technikag@fichte-gymnasium.de&gt;<br>
+An: mschray1 &lt;mschray1@aol.com&gt;<br>
+Verschickt: Fr, 14. Feb. 2020 10:09<br>
+Betreff: Re: Tag der offenen T=C3=BCr<br>
+<br>
+
+<div id=3D"yiv2484407664">
+<div>
+   =20
+<div>Hallo Martin,</div>
+
+   =20
+<div>vielen Dank, dass du dich nochmal meldest. Das Problem war, dass
+      ich erst Mittwoch davon erfahren habe, dass =C3=BCberhaupt TdoT ist.
+      Ansonsten habe ich gestern schon mit B=C3=A4ckel und Ernst gesprochen=
+,
+      ich glaube, es sollte alles klar sein. Soweit ich wei=C3=9F wird Herr
+      Rieber mit ein paar Leuten beim Aufstuhlen helfen, das sollte
+      schon passen.</div>
+
+   =20
+<div>Generell m=C3=B6chte ich dich aber bitten, die Kommunikation nicht
+      =C3=BCber Tim oder andere Mitglieder der Technik laufen zu lassen,
+      sondern nur =C3=BCber das Postfach und die offiziellen Ansprechpartne=
+r,
+      im Moment sind das Luca und ich. Die Erfahrung hat gezeigt, dass
+      sonst viel zu viel auf der Strecke bleibt und eigentlich ist auch
+      schon seit einer ganzen Weile die Anweisung an alle, keine
+      Informationen anzunehmen sondern auf das Postfach etc. zu
+      verweisen.</div>
+
+   =20
+<div>Viele Gr=C3=BC=C3=9Fe</div>
+
+   =20
+<div>Levin<br clear=3D"none">
+    </div>
+
+   =20
+<div class=3D"yiv2484407664moz-cite-prefix">Am 13.02.2020 um 22:18 schrieb
+      <a rel=3D"noopener noreferrer" shape=3D"rect" class=3D"yiv2484407664m=
+oz-txt-link-abbreviated" ymailto=3D"mailto:mschray1@aol.com" target=3D"_bla=
+nk" href=3D"mailto:mschray1@aol.com">mschray1@aol.com</a>:<br clear=3D"none=
+">
+    </div>
+
+    <blockquote type=3D"cite">
+      </blockquote></div>
+
+<div class=3D"yiv2484407664yqt3332124383" id=3D"yiv2484407664yqt41778">
+<div>
+<div style=3D"color:black;font:10pt arial;">Hallo Levin,
+       =20
+<div>Tim meinte, ich sollte dich noch einmal kontaktieren wegen
+          des Tags der offenen T=C3=BCr.</div>
+
+       =20
+<div>Was musst du denn noch wissen? Ich dachte, Herr B=C3=A4ckel
+          h=C3=A4tte das gekl=C3=A4rt.</div>
+
+       =20
+<div>Falls nicht, stehe ich nat=C3=BCrlich gerne zur Verf=C3=BCgung.</div>
+
+       =20
+<div>Ich h=C3=A4tte aber schon einmal eine Bitte im Vorfeld: Herr
+          M=C3=BCller hat die Halle f=C3=BCr die Vereine nicht gesperrt, da=
+her
+          k=C3=B6nnen wir am Freitag nicht aufstuhlen. K=C3=B6nnte uns die
+          Technik-AG da helfen? Ich versuche so viele Leute wie m=C3=B6glic=
+h
+          zu rekrutieren, aber eine aufgestuhlte Halle ist nat=C3=BCrlich
+          essentiell.</div>
+
+       =20
+<div>Gru=C3=9F und danke im Voraus,</div>
+
+       =20
+<div>Martin Schray</div>
+
+      </div>
+
+   =20
+  </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+------=_Part_2118550_1684412101.1581685514140--

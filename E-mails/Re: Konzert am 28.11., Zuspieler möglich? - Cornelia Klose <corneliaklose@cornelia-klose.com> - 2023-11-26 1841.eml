@@ -1,0 +1,161 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <corneliaklose@cornelia-klose.com>
+Received: from mail-hub02.belwue.de ([129.143.76.42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 78427077 for technikag@fichte-gymnasium.de; Sun, 26 Nov 2023 18:42:07 +0100
+Received: from mail-in03.belwue.de (mail-in03.belwue.de [IPv6:2001:7c0:0:76::3])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4SdbdC5TsPz7CwG
+	for <technikag@fichte-gymnasium.de>; Sun, 26 Nov 2023 18:42:07 +0100 (CET)
+Received: from mout.kundenserver.de (mout.kundenserver.de [217.72.192.73])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange ECDHE (P-256) server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in03.belwue.de (Postfix) with ESMTPS id 4SdbdC00ZGz9TV
+	for <technikag@fichte-gymnasium.de>; Sun, 26 Nov 2023 18:42:06 +0100 (CET)
+Received: from smtpclient.apple ([77.21.253.146]) by mrelayeu.kundenserver.de
+ (mreue109 [212.227.15.183]) with ESMTPSA (Nemesis) id
+ 1MD9Kp-1qyGaN2UVt-009BxD for <technikag@fichte-gymnasium.de>; Sun, 26 Nov
+ 2023 18:42:06 +0100
+Content-Type: multipart/alternative; boundary=Apple-Mail-E43877E5-1236-436B-A7BA-446121F59587
+Content-Transfer-Encoding: 7bit
+From: Cornelia Klose <corneliaklose@cornelia-klose.com>
+Mime-Version: 1.0 (1.0)
+Subject: =?utf-8?Q?Re:_Konzert_am_28.11.,_Zuspieler_m=C3=B6glich=3F?=
+Date: Sun, 26 Nov 2023 18:41:55 +0100
+Message-Id: <2681C5CE-3253-434D-8C6C-F17AF0BA0313@cornelia-klose.com>
+References: <62BCA9BB-84CE-3947-A1B9-1EC804B02F83@hxcore.ol>
+In-Reply-To: <62BCA9BB-84CE-3947-A1B9-1EC804B02F83@hxcore.ol>
+To: Technik AG <technikag@fichte-gymnasium.de>
+X-Mailer: iPhone Mail (20G81)
+X-Provags-ID: V03:K1:rvPTNBTWjXjaf72qHTA57TF1CblMIVL2PV/HXTu4Tuvs6Sx8Z1L
+ 9Ep4qtgBv+76SVv68n60LdLph2AM8NQnb79RZpbSb1i4Peo28+wEPCsmozxMTHTXlyWTH6P
+ QbyKxHJIn1PAwum/dY4thyYHWupi3U2PRMP7LQwldKGzDq/TJm9ycL2dLjggn7mwJ92BIXW
+ IcP/31u3QAFIkrOnhVE8g==
+X-Spam-Flag: NO
+UI-OutboundReport: notjunk:1;M01:P0:qVNZx5Kknvs=;EUU+5rnezgOwmGi6bmPFyd0hz+y
+ xZuGuHcpK14bZ2CWsZpGMR1B0RjfqAx6zDqcgqVVh0FRkV0K2SatM2f5KE+u/adr0qAGMgBTQ
+ wpIPVXkRjEmSnU0borBvmMvLZpII4dAu88oLA0E7kAMlIZ/6HxtVYdw9rs4bLk826Yukk346Q
+ c4tPm7LfUKvalo7Wh+WX13InC/OHEc0fmAPtavZ0IF1fK4w5JCK5lSkPjyhr7cSNrT+8mto1t
+ BEyEbkGvgdC4OdLrECkS6CjdxQgB/isnSCF4MeI9ZPJEYGd0xh4Gr9b0tTZorvrWBn9aVqXbz
+ 9VeMCRBc4MIxISHvVuwTxMsc11U9zZyp6M4gDc1Fag7GL7Jn+Yx1FaVF3SA5yzo68DQX5h0pJ
+ sjvO4F3BdVLrBokoF0P7a454fPlEMIoo6wxewieLYiqf4+8ksr7IOAQntF3W+nNH8fL4nYPSL
+ GUBIqRD7PDVxEuuOC9CHwTqNVT+1c0PF6zVan0U//U53QuEP7SUidK5ZfSM1DZ+GlTnAopXxl
+ HqndTqtQvqGRPt0d38Ji4bwB6w8SSt8k0UBTDM45RZwKKEDkMg26AHuVm7LcqGx/2TZue4MrZ
+ ntBv60lzl00gYFso9hUtYtr8agl/jqSi1fUgpCp/ua6tNKu+REWBY7N1C/9Bqs+kWjkukC1pw
+ Z/uH9IdIKv7XDPEbuxoAtkPqfuh7/PEqVXbnjfQ8qYedQzt/xbWz7cLMyc/hQiXdeo083/kBe
+ CKxtSTu/KXPk8CciVNn5BWcLvV7V83vDxgRAsgG78vYbwZ3iYrBCkZOf0zHoTwQipEb8aQD4J
+ eZpVI7hDzA2mKffjnbXp7xoj1T1qplQgCcGND0Mlwx4Un/JSktqpBjOXL33Gr7FxT8iR+Rtyd
+ LjuO/DVwRELFdf6Ns5xtybdyg1tPtmVFaK1I=
+X-Spam-Level: x
+X-Rspamd-SPAM-Probability: 30
+X-Rspamd-Queue-Id: 4SdbdC00ZGz9TV
+X-Rspamd-UID: b1cebc
+
+
+--Apple-Mail-E43877E5-1236-436B-A7BA-446121F59587
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hallo Ismael, danke f=C3=BCr die Hinweise, wir versuchen halt, fr=C3=BCher f=
+ertig zu sein. Leider ist 502 in der 4. belegt, da kann ich mit den 60 Kids n=
+icht hin. Wegen des Zur=C3=BCckschiebens der Tische, das wollte ich eigentli=
+ch in der 5. Stunde erledigen=E2=80=A6 sprechen wir dann morgen, wer das wan=
+n machen kann.
+Viele Gr=C3=BC=C3=9Fe C. Klose
+
+
+Von meinem iPhone gesendet
+
+> Am 26.11.2023 um 14:25 schrieb Technik AG <technikag@fichte-gymnasium.de>:=
+
+>=20
+> =EF=BB=BF
+> Hallo Frau Klose,
+>=20
+> Der Zuspieler wird sich einbauen lassen.
+>=20
+> Aufgrund ihres Planes in der Mensa zu proben, m=C3=B6chte ich noch anmerke=
+n, dass wir schon ab sp=C3=A4testens 10:30 Uhr dort aktiv werden, um unsere b=
+en=C3=B6tigte Technik vorzubereiten, d.h. u.A dass wir die Lampen von der De=
+cke abnehmen und mit diversen W=C3=A4gen durch die Mensa rollen m=C3=BCssen.=
+ Inwiefern eine Gleichzeitige Probe in den selben R=C3=A4umlichkeiten m=C3=B6=
+glich ist, kann ich Ihnen nicht sagen.
+>=20
+> Ich selbst werde am Montag ab 08:30 Uhr verf=C3=BCgbar sein, falls es zu i=
+rgendwelchen spontanen Ver=C3=A4nderungen/Problemen kommen sollte.
+>=20
+> MFG
+> Ismael Biber
+> =20
+> Von: Cornelia Klose <corneliaklose@cornelia-klose.com>
+> Gesendet: Donnerstag, November 23, 2023 12:27 PM
+> An: TechnikAG Fichte-Gymnasium <technikag@fichte-gymnasium.de>
+> Betreff: Konzert am 28.11., Zuspieler m=C3=B6glich?
+> =20
+> Liebes Team der Technik AG, am Montag den 27. bringe ich die Mikros / Moni=
+tor3 mit in die Mensa. Wir proben dort von 8.00 bis 11.15. und r=C3=A4umen d=
+ann noch auf. F=C3=BCr Nachmittags: Ich bitte euch noch, zus=C3=A4tzlich die=
+ M=C3=B6glichkeit f=C3=BCr meine Zuspieler vorzubereiten, =C3=BCber Miniklin=
+ke. H=C3=B6chstwahrscheinlich werden sie gebraucht, mir fehlt eine Liveprobe=
+. Vielen Dank und viele Gr=C3=BC=C3=9Fe, C. Klose=20
+>=20
+> Von meinem iPhone gesendet=20
+
+--Apple-Mail-E43877E5-1236-436B-A7BA-446121F59587
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto">Hallo Ismael, danke f=C3=BCr die Hinweise, w=
+ir versuchen halt, fr=C3=BCher fertig zu sein. Leider ist 502 in der 4. bele=
+gt, da kann ich mit den 60 Kids nicht hin. Wegen des Zur=C3=BCckschiebens de=
+r Tische, das wollte ich eigentlich in der 5. Stunde erledigen=E2=80=A6 spre=
+chen wir dann morgen, wer das wann machen kann.<div>Viele Gr=C3=BC=C3=9Fe C.=
+ Klose</div><div><br><br><div dir=3D"ltr">Von meinem iPhone gesendet</div><d=
+iv dir=3D"ltr"><br><blockquote type=3D"cite">Am 26.11.2023 um 14:25 schrieb T=
+echnik AG &lt;technikag@fichte-gymnasium.de&gt;:<br><br></blockquote></div><=
+blockquote type=3D"cite"><div dir=3D"ltr">=EF=BB=BF<div dir=3D"ltr"><div>
+ =20
+ =20
+ =20
+    </div><div><div>
+    =09
+    	<div>Hallo Frau Klose,</div><div dir=3D"ltr"><br></div><div dir=3D"=
+ltr">Der Zuspieler wird sich einbauen lassen.</div><div dir=3D"ltr"><br></di=
+v><div dir=3D"ltr">Aufgrund ihres Planes in der Mensa zu proben, m=C3=B6chte=
+ ich noch anmerken, dass wir schon ab sp=C3=A4testens 10:30 Uhr dort aktiv w=
+erden, um unsere ben=C3=B6tigte Technik vorzubereiten, d.h. u.A dass wir die=
+ Lampen von der Decke abnehmen und mit diversen W=C3=A4gen durch die Mensa r=
+ollen m=C3=BCssen. Inwiefern eine Gleichzeitige Probe in den selben R=C3=A4u=
+mlichkeiten m=C3=B6glich ist, kann ich Ihnen nicht sagen.</div>
+    	<div id=3D"ms-outlook-mobile-signature"><div><br></div><div dir=3D"=
+ltr">Ich selbst werde am Montag ab 08:30 Uhr verf=C3=BCgbar sein, falls es z=
+u irgendwelchen spontanen Ver=C3=A4nderungen/Problemen kommen sollte.</div><=
+div dir=3D"ltr"><br></div><div dir=3D"ltr"><div dir=3D"ltr">MFG</div><div di=
+r=3D"ltr">Ismael Biber</div></div></div>
+    </div>
+ =20
+
+<div>&nbsp;</div><hr style=3D"display:inline-block;width:98%" tabindex=3D"-1=
+"><div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif"><=
+b>Von:</b> Cornelia Klose &lt;corneliaklose@cornelia-klose.com&gt;<br><b>Ges=
+endet:</b> Donnerstag, November 23, 2023 12:27 PM<br><b>An:</b> TechnikAG Fi=
+chte-Gymnasium &lt;technikag@fichte-gymnasium.de&gt;<br><b>Betreff:</b> Konz=
+ert am 28.11., Zuspieler m=C3=B6glich?<div>&nbsp;</div></font></div>Liebes T=
+eam der Technik AG, am Montag den 27. bringe ich die Mikros / Monitor3 mit i=
+n die Mensa. Wir proben dort von 8.00 bis 11.15. und r=C3=A4umen dann noch a=
+uf. F=C3=BCr Nachmittags: Ich bitte euch noch, zus=C3=A4tzlich die M=C3=B6gl=
+ichkeit f=C3=BCr meine Zuspieler vorzubereiten, =C3=BCber Miniklinke. H=C3=B6=
+chstwahrscheinlich werden sie gebraucht, mir fehlt eine Liveprobe. Vielen Da=
+nk und viele Gr=C3=BC=C3=9Fe, C. Klose
+<br>
+<br>Von meinem iPhone gesendet
+<br></div></div>
+</div></blockquote></div></body></html>=
+
+--Apple-Mail-E43877E5-1236-436B-A7BA-446121F59587--

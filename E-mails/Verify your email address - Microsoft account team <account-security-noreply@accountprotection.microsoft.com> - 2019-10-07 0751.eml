@@ -1,0 +1,131 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <account-security-noreply@accountprotection.microsoft.com>
+Received: from cst201.belwue.de ([129.143.2.72] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.2.14)
+  with ESMTP id 7170360 for technikag@fichte-gymnasium.de; Mon, 07 Oct 2019 07:52:07 +0200
+Received: from NAM03-DM3-obe.outbound.protection.outlook.com (mail-eopbgr800074.outbound.protection.outlook.com [40.107.80.74])
+	by cst201.belwue.de with ESMTPS id x975pwbn026276
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=NOT)
+	for <technikag@fichte-gymnasium.de>; Mon, 7 Oct 2019 07:52:04 +0200 (MEST)
+	env-from (account-security-noreply@accountprotection.microsoft.com)
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=QOFMhaC5z6LeT3z4gvNpqsoYciV7mgtTnzUPhJ+l52Djg2LI/xicpqq0BllqPgaqxMNE3qxtU42pHTeVLWKyYmMb9uS7d/IJuZogWV7T2R0gqHfsiKjq+p6mKWleG6s9LzW3ILwUKcks/6129JPq8SIN8hIrjXSZdSMWCCdM0FAO9ijTbjwQOopRPJsXCEMwW4lOI52peNoydRHirHomfLyf9MG4ICh5kyTNX2QWUkUqZNJL1v1hc3dXVxZtWN7l2CUG3UJeaKnoyzkEZMF+Qo8U86R2WN2V9rim4l1UTEEAF/ME2GlF81L4J3AoZOerm1bq6B4X00TpVmBeD+I0VQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=hp5w5SM1QV3lpUkuWO6w3xcceEAilL2jwH0xrn5n8m8=;
+ b=U/vChc0QLUuKHmOTxH2HBpUkzrqtWjtwMeBAjfQQuwLhOz2XBjIyYqQs12KxHhO5//WMjbo/hNoRppOAvYEfoP5FWYAzOTT0oPhf5/unOd+qy+T8C7iR6pCmRW5Q6klnet29Bjqdzf7BI85pNvDXevYxQkfurzIhgyEkF4WPHMkw4pRRrAYIIaJUJcHZOzZKNoXYoxSHw4s8DwykobKzaR9RrELxzMs8WVVcSlXi88EzYk+G5DoiN6hBPY6W5xfbzQbLZLk186cuCbpp782dIeqCGdsm8WZXBhCAgUVETyCKJA7nSyIPyFDLQIMAb8YKgvge7mVq/t3JCfzkSFobXQ==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass (sender ip is
+ 65.52.110.208) smtp.rcpttodomain=fichte-gymnasium.de
+ smtp.mailfrom=accountprotection.microsoft.com; dmarc=pass (p=reject sp=reject
+ pct=100) action=none header.from=accountprotection.microsoft.com; dkim=none
+ (message not signed); arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=accountprotection.microsoft.com; s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=hp5w5SM1QV3lpUkuWO6w3xcceEAilL2jwH0xrn5n8m8=;
+ b=pR2V69cAwD7tBNrlQjCjwAc8E8/jEdNEyzGd8rHlSPU39dlMvOyK6m96VSu1+T6IkFWSiNK5LTjBtZYg/2zn/C5FtF6RdHqDTjLfsx7WMOd7ah9wZejZiTabT86Xvqv/voAkBI6z3FWW7dogLNyHhWsp8NNbfJnGTann6P19lDI=
+Received: from CO1NAM03FT021.eop-NAM03.prod.protection.outlook.com
+ (10.152.80.51) by CO1NAM03HT225.eop-NAM03.prod.protection.outlook.com
+ (10.152.80.210) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384) id 15.20.2327.20; Mon, 7 Oct
+ 2019 05:51:57 +0000
+Authentication-Results: spf=pass (sender IP is 65.52.110.208)
+ smtp.mailfrom=accountprotection.microsoft.com; fichte-gymnasium.de; dkim=none
+ (message not signed) header.d=none;fichte-gymnasium.de; dmarc=pass
+ action=none header.from=accountprotection.microsoft.com;
+Received-SPF: Pass (protection.outlook.com: domain of
+ accountprotection.microsoft.com designates 65.52.110.208 as permitted sender)
+ receiver=protection.outlook.com; client-ip=65.52.110.208;
+ helo=accountprotection.microsoft.com;
+Received: from accountprotection.microsoft.com (65.52.110.208) by
+ CO1NAM03FT021.mail.protection.outlook.com (10.152.80.180) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384) id
+ 15.20.2327.20 via Frontend Transport; Mon, 7 Oct 2019 05:51:56 +0000
+From: Microsoft account team
+	<account-security-noreply@accountprotection.microsoft.com>
+Date: Sun, 06 Oct 2019 22:51:56 -0700
+Subject: Verify your email address
+To: technikag@fichte-gymnasium.de
+X-Priority: 3
+X-MSAPipeline: MessageDispatcherEOP
+Message-ID: <2B29FP3XQ8U4.BTTLC996M81M2@BN3SCH030020332>
+X-MSAMetaData:
+ =?us-ascii?q?DeTXjm52y2IKYiPg58olNsmx!Vqb2Y8wPYA2BJPM32UuHuQZTR2*1XE7lXVsh?=
+ =?us-ascii?q?8tbv0upDhzuw02HzxjVelky721pWYPGc0wm8wPIu6LplAaVErTm98UCIDeMnv?=
+ =?us-ascii?q?fizYwz3w$$?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="=-Kn4fD1nktW7p4Pu2BZTAKw=="
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report:
+	CIP:65.52.110.208;IPV:NLI;CTRY:US;EFV:NLI;SFV:NSPM;SFS:(10009020)(7916004)(39860400002)(396003)(136003)(34036004)(376002)(346002)(47530400004)(189003)(199004)(6512007)(106002)(81686011)(9686003)(6306002)(70586007)(118246002)(33716001)(70206006)(126002)(508600001)(3480700005)(14444005)(575854001)(476003)(25786009)(8936002)(10290500003)(26005)(356004)(6486002)(71190400001)(86362001)(8676002)(53416004)(2420400007)(5660300002)(15650500001)(486006)(589834003)(2361001)(336012)(316002)(956004)(36736006)(2351001)(121820200001)(22452003)(186003)(16586007)(52230400001)(6916009)(33656002)(81166006)(5000100001)(2906002)(10090500001)(81156014);DIR:OUT;SFP:1101;SCL:1;SRVR:CO1NAM03HT225;H:accountprotection.microsoft.com;FPR:;SPF:Pass;LANG:en;PTR:msnbot-65-52-110-208.search.msn.com;MX:1;A:0;
+X-MS-PublicTrafficType: Email
+X-MS-Office365-Filtering-Correlation-Id: 9138f22d-b2ec-4781-e710-08d74aea76ab
+X-MS-TrafficTypeDiagnostic: CO1NAM03HT225:
+X-Microsoft-Antispam-PRVS:
+	<CO1NAM03HT22545E7E92E0A78DBF77D5B899B0@CO1NAM03HT225.eop-NAM03.prod.protection.outlook.com>
+X-MS-Oob-TLC-OOBClassifiers: OLM:2733;
+X-Forefront-PRVS: 01834E39B7
+X-MS-Exchange-SenderADCheck: 1
+X-Microsoft-Antispam: BCL:0;
+X-Microsoft-Antispam-Message-Info:
+	pDDJplz7eoQrI5OV+y/P1qvedfMP4UoKcLDLMfp6EWef2Oo6FvTmymQSU6tpUIryT/41avIREkXzu6Samb2dslgseR3cI2063ljO3K1HXXa+HGNvonDXOw9mACucdx0UrLqQChaYLZGop/GS51uBENAvxN544UmNI7I0Y1COGehnQYijp+/6kf16mGxJebqr2LbzfqQw3SyK7z7cqqnqdB2rrHLYF5bJC20SybV1DP4ace3jXVHsGF6zwAKr3EziN/lR0dGBcjnevZSLBW9eZ4f/HxxfEoPpLrLNkRGin8t82nBC86VpUH1b41MYLeMobCDD2bQC2bG2VsgKYurn30onmVTeJAJnuvp3DlZEwr0Mya1UOJRqEd2rd5dzraOdbXJYYc2u/DBf9fXbMAZUVi8QGZcg/UL9obH3efenE2I=
+X-OriginatorOrg: accountprotection.microsoft.com
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 07 Oct 2019 05:51:56.7402
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 9138f22d-b2ec-4781-e710-08d74aea76ab
+X-MS-Exchange-CrossTenant-Id: 5ba90553-c2cd-460e-b5fd-ab93ad9155c7
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=5ba90553-c2cd-460e-b5fd-ab93ad9155c7;Ip=[65.52.110.208];Helo=[accountprotection.microsoft.com]
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CO1NAM03HT225
+X-DCC-BelWue-Metrics: cst201.belwue.de 1243; bulk Body=1 Fuz1=4 Fuz2=many
+
+--=-Kn4fD1nktW7p4Pu2BZTAKw==
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: 7bit
+
+Microsoft account
+
+Verify your email address
+
+To finish setting up your Microsoft account, we just need to make sure that this email address is yours.
+
+To verify your email address, use this security code: 4864
+
+If you didn't request this code, you can safely ignore this email. Someone else might have typed your email address by mistake.
+
+Thanks,
+The Microsoft account team 
+--=-Kn4fD1nktW7p4Pu2BZTAKw==
+Content-Type: text/html; charset=windows-1252
+Content-Transfer-Encoding: 7bit
+
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr"> 
+<head>
+<style type="text/css">
+ .link:link, .link:active, .link:visited {
+       color:#2672ec !important;
+       text-decoration:none !important;
+ }
+
+ .link:hover {
+       color:#4284ee !important;
+       text-decoration:none !important;
+ }
+</style>
+<title></title>
+</head>
+<body>
+<table dir="ltr">
+      <tr><td id="i1" style="padding:0; font-family:'Segoe UI Semibold', 'Segoe UI Bold', 'Segoe UI', 'Helvetica Neue Medium', Arial, sans-serif; font-size:17px; color:#707070;">Microsoft account</td></tr>
+      <tr><td id="i2" style="padding:0; font-family:'Segoe UI Light', 'Segoe UI', 'Helvetica Neue Medium', Arial, sans-serif; font-size:41px; color:#2672ec;">Verify your email address</td></tr>
+      <tr><td id="i4" style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a;">To finish setting up your Microsoft account, we just need to make sure that this email address is yours.</td></tr>
+      <tr><td style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a;">To verify your email address, use this security code: <span style="font-family:'Segoe UI Bold', 'Segoe UI Semibold', 'Segoe UI', 'Helvetica Neue Medium', Arial, sans-serif; font-size:14px; font-weight:bold; color:#2a2a2a;">4864</span></td></tr>
+      <tr><td id="i6" style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a;">If you didn't request this code, you can safely ignore this email. Someone else might have typed your email address by mistake.</td></tr>
+      <tr><td style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a;">Thanks,</td></tr>
+      <tr><td id="i8" style="padding:0; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a;">The Microsoft account team</td></tr>
+</table>
+</body>
+</html>
+--=-Kn4fD1nktW7p4Pu2BZTAKw==--

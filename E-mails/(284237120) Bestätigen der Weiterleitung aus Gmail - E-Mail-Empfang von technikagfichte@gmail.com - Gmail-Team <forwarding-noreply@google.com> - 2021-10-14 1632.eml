@@ -1,0 +1,104 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <forwarding-noreply@google.com>
+Received: from mail-hub01.belwue.de ([2001:7c0:0:76::41] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.7f)
+  with ESMTPS id 35224825 for technikag@fichte-gymnasium.de; Thu, 14 Oct 2021 16:32:47 +0200
+Received: from mail-in02.belwue.de (mail-in02.belwue.de [IPv6:2001:7c0:0:76::2])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(Client did not present a certificate)
+	by mail-hub01.belwue.de (Postfix) with ESMTPS id 4HVX1W4NzHz500Nm
+	for <technikag@fichte-gymnasium.de>; Thu, 14 Oct 2021 16:32:47 +0200 (CEST)
+Received: from mail-ed1-x531.google.com (mail-ed1-x531.google.com [IPv6:2a00:1450:4864:20::531])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mail-in02.belwue.de (Postfix) with ESMTPS id 4HVX1W0RT2zB17tH
+	for <technikag@fichte-gymnasium.de>; Thu, 14 Oct 2021 16:32:47 +0200 (CEST)
+Received: by mail-ed1-x531.google.com with SMTP id g8so25256271edt.7
+        for <technikag@fichte-gymnasium.de>; Thu, 14 Oct 2021 07:32:47 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20210112;
+        h=mime-version:date:message-id:subject:from:to
+         :content-transfer-encoding;
+        bh=AEh0Ce6Qbu4CAFxPYbs/CZKE3OwKs559m9UcgJyIVGo=;
+        b=VDkexpJzlFxbCqKmMxTCh4A/Rak8uHvenYgRhjFCDxi2eoNHdnpkFMamMrq+yjoaU1
+         H2B7LCColUEQWN0yLveJHHyqmIeJN2ML+qmD/8Irx6kMt95lwwNcZ/QafzIY9A+BDxUV
+         lMXtFIetcU7XYeLJnbSaOiHPN26DzpdQnnnumV+mtneIm37ab+XaeSqqdbSXjfqi1Bhv
+         6zmgGR3R0ydWDZPJjzm+MVvXlltx4bDhaMpcQN/p/cxxQAEx0QkuTQaTtrT372CG+hSd
+         CCyabxT8VHIVb8waIJBZM/ZTnFGjJFlC5xRPi5IVqhYrsr79McL+6/29b9QpJMFZV/9q
+         2RYQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to
+         :content-transfer-encoding;
+        bh=AEh0Ce6Qbu4CAFxPYbs/CZKE3OwKs559m9UcgJyIVGo=;
+        b=EE+Feq3QqhSf2ge3+XRaQuw7vZqC5Xp6fTv24Klj7B8bmNQ1N2HogwC8jLcCCjx0q3
+         eH0GzwqftjIf7RZBcW1MLI5ZLJnrkUThffpvY+JpQv+W9FtJULWTSloXVg1vMPEWcPOV
+         4SpOI4G29omkfmvq9vXjc4YfwZoIoqRZXUAxgQUNDlYbK+lsfez2DBFiA1/2L/2E001l
+         xvv8/K5ymQbbP4rK+sxZU8aYhLqAychYHMrVArujdpshFyJdBP15eAYz80cR7VTgEtjb
+         96+zYKuAl6Qesv6d3mRj82MmN3zNahsd+urbOgrQe+bdK9Q4PfVQZoyGnnaxWlJIlx6A
+         tx9Q==
+X-Gm-Message-State: AOAM5323Tjr2eO4Jm9THu8H3oLPaY06pdzSqTReiFJqv7Kps8xErkI9B
+	/mjHLXdrLqg1yN7eQhS78NZrarRzsvnDpqf34nvaOfAf1VpffQXHCNpInQ==
+X-Google-Smtp-Source: ABdhPJwIeihKleBAlzhLLi8uC2yOt30lbqh4VAsw84UQCSA8G/b+mZqUcEHqFZRAQB/XnT9uQJcdXt4EaCKBVDzOiL9dY4XdMlHQuQ==
+MIME-Version: 1.0
+X-Received: by 2002:a17:906:85d1:: with SMTP id i17mr4311533ejy.489.1634221922073;
+ Thu, 14 Oct 2021 07:32:02 -0700 (PDT)
+X-Google-Address-Confirmation: 4AKLOJ9GZ74TBBg4qo9g0hGOMaQ
+Date: Thu, 14 Oct 2021 16:32:02 +0200
+Message-ID: <CANQpnkKdoiv+2fN7aW4bDX2cbOZZZyPRV_TGXweHaL7-RhP-Rg@mail.gmail.com>
+Subject: =?UTF-8?Q?=28284237120=29_Best=C3=A4tigen_der_Weiterleitung_aus_Gmail_?=
+	=?UTF-8?Q?=2D_E=2DMail=2DEmpfang_von_technikagfichte=40gmail=2Ecom?=
+From: Gmail-Team <forwarding-noreply@google.com>
+To: technikag@fichte-gymnasium.de
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+X-Rspamd-Queue-Id: 4HVX1W0RT2zB17tH
+X-Rspamd-SPAM-Probability: 0
+X-Rspamd-UID: bbc061
+
+technikagfichte@gmail.com hat angefordert, dass E-Mails automatisch an
+Ihre E-Mail-Adresse technikag@fichte-gymnasium.de weitergeleitet
+werden.
+Best=C3=A4tigungscode: 284237120
+
+Klicken Sie zum Best=C3=A4tigen der Anforderung auf den folgenden Link, um
+technikagfichte@gmail.com das automatische Weiterleiten von E-Mails an
+Ihre Adresse zu erlauben:
+
+https://mail.google.com/mail/vf-%5BANGjdJ9ca-jju39oELYOFOXJSrTrpP871kTsASHT=
+l5jcdtT2IXcXtr01x6H1t3zK2EcQeal-t2LQAG-SVRX7rtw9ydq3ehaueh6zr2caTA%5D-Vko2J=
+o_vrQR2m7h149FbvZNQtCs
+
+Scheint der Link besch=C3=A4digt zu sein, wenn Sie darauf klicken, kopieren
+Sie ihn und f=C3=BCgen Sie ihn in einem neuen Browserfenster ein. Falls Sie
+auf den Link nicht zugreifen k=C3=B6nnen, senden Sie den Best=C3=A4tigungsc=
+ode
+284237120 an technikagfichte@gmail.com.
+
+Vielen Dank, dass Sie Gmail verwenden.
+
+Viele Gr=C3=BC=C3=9Fe
+
+Ihr Gmail-Team
+
+Wenn Sie dieser Anforderung nicht zustimmen, ist keine weitere Aktion
+erforderlich.
+technikagfichte@gmail.com kann Nachrichten nur dann automatisch an
+Ihre E-Mail-Adresse weiterleiten, wenn Sie die Anforderung durch Klick
+auf den obigen Link best=C3=A4tigen. Falls Sie versehentlich auf den Link
+geklickt haben, ohne dem automatischen Weiterleiten von Nachrichten
+von technikagfichte@gmail.com an Ihre E-Mail-Adresse zuzustimmen,
+k=C3=B6nnen Sie die Best=C3=A4tigung widerrufen. Klicken Sie dazu auf den
+folgenden Link:
+https://mail.google.com/mail/uf-%5BANGjdJ9QDhhL1oCePzgwPLHkPz-VRfNsV95gBIOL=
+7-xzoRF7zfWbxWsLHafcas6lvqOuLOqwf3s66Wyk_wAREnSoF7GW6Z4ilQS5LIOn5A%5D-Vko2J=
+o_vrQR2m7h149FbvZNQtCs
+
+Weitere Informationen zu den Gr=C3=BCnden, aus denen Sie diese Nachricht
+erhalten haben k=C3=B6nnten, erhalten Sie hier:
+http://support.google.com/mail/bin/answer.py?answer=3D184973.
+
+Antworten Sie bitte nicht auf diese Nachricht. Wenn Sie das
+Google.de-Team kontaktieren m=C3=B6chten, melden Sie sich bitte in Ihrem
+Konto an und klicken Sie oben auf einer Seite auf "Hilfe". Klicken Sie
+dann auf "Kontakt" unten in der Hilfe.

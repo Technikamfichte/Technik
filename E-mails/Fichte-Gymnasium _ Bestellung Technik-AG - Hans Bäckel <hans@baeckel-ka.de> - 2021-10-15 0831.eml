@@ -1,0 +1,71 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <hans@baeckel-ka.de>
+Received: from mail-hub02.belwue.de ([2001:7c0:0:76::42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.7f)
+  with ESMTPS id 36464693; Fri, 15 Oct 2021 08:31:42 +0200
+Received: from mail-in01.belwue.de (mail-in01.belwue.de [IPv6:2001:7c0:0:76::1])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4HVxHy4DX1z3jWT;
+	Fri, 15 Oct 2021 08:31:42 +0200 (CEST)
+Received: from mout.kundenserver.de (mout.kundenserver.de [212.227.126.187])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mail-in01.belwue.de (Postfix) with ESMTPS id 4HVxHy1w2pz52mMD;
+	Fri, 15 Oct 2021 08:31:42 +0200 (CEST)
+Received: from hotzenplotz.fritz.box ([46.223.163.74]) by
+ mrelayeu.kundenserver.de (mreue010 [212.227.15.167]) with ESMTPSA (Nemesis)
+ id 1MZkd5-1mGhkA4Bl9-00WkUY; Fri, 15 Oct 2021 08:31:42 +0200
+From: =?utf-8?Q?Hans_B=C3=A4ckel?= <hans@baeckel-ka.de>
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+Mime-Version: 1.0 (Mac OS X Mail 13.4 \(3608.120.23.2.7\))
+Subject: Fichte-Gymnasium / Bestellung Technik-AG
+Message-Id: <C9960DD2-D5F2-47B7-8FB4-FA5D30EA6648@baeckel-ka.de>
+Date: Fri, 15 Oct 2021 08:31:41 +0200
+Cc: Fichte-Gymnasium TechnikAG <technikag@fichte-gymnasium.de>
+To: Ralf Wehrmann <ralf.wehrmann@fichte-gymnasium.de>,
+ Fichte Gymnasium Karlsruhe <sekretariat@fichte-gymnasium.de>
+X-Mailer: Apple Mail (2.3608.120.23.2.7)
+X-Provags-ID: V03:K1:Bgic5h9oLDRH0Xc/zTQVK04sw/5pGQzK66o3iYg8G+eEcEBfHrh
+ 4ZGQS0pA3wE8dhdOFLBvaMgFWodRqLAA22Q9m1DQSlfpOM63hDxC8vgEwdmVv05TFcNjV4e
+ 8/8PuY3es+kNurGQ5cIrlZz4Z/Oyrjtnp5mabidALHXzAkpHICoySy5aZ/Eo4JCmfpSvXf0
+ YELBd1Cc86NB23aZPrNGA==
+X-Spam-Flag: NO
+X-UI-Out-Filterresults: notjunk:1;V03:K0:2tbQ0Nz92cw=:nsKymTcL6i0HUAFitOH+8M
+ XWJUGaDP8SjU8p3cpm4uPtz3IGZ0z99lgl6EFh6ILJjpOyhrVy1hLNdtKHOyyB34iMAedU9ba
+ r+NDN/nEQmRkkaHzkhSeUiTOxBf7MgOWIABxvkCu0cz6PJujeVzsFhd61Kjac7qZ63Cn8yivn
+ icJdejg3bvV0VQfcokmI/F2KQ6G0319jiyXb4G5Nlb+d5oZk+8ab2ErI3Xs2pDpIl1JWfeU5P
+ fgGkTse3YUnynhhhpinRFuLv3BkLyk3DcuZ13jnPBpE0n7HcrgBR6T65cP7lM02H59DxZyV8D
+ VuyCwp/vPDo/3TEeXpTIb05+GkSDqv2vPtp6jeQJnLUcgr7q6rd5Sd8oyMN95t3T6qxEX/Q5K
+ q3ZQRKj64t6GiDg7evJIDwnSj0IMQjwK+XwWxZp3wGdj81vLqtDQMSrSxJNNTe3ag2fbaCfUu
+ jeCizMxIK7ACt0gZ/xsRkbXiDjPQoPsjSx5A7ubUCn7LLxClmNFbPJJ4JACarP4uWzunhJQ0K
+ WjKhutR94d+2uyKhVKYUaqsgHXZmeQof9UettluJKDkBxIiitu06rn5FV8UUDps0qRzGoLnpP
+ +q14VY/fdvn14pwVAd8f2Rr1ZtLN8uC9f9H1OiUW7ZrjFScT5PsBg/wGFoFkAlEklGRYdNmak
+ 1gsbCV0YzoNoQsLjRMqCrGijhC0WGRd2M7mvJ9UC/qgBKmDOxdfvR5xeC+/WLSOLEoTllbKj4
+ ve2aCcqy4c317IiQiLo9I2v5s9AHUicD9NLKng==
+X-Rspamd-UID: 9608e6
+X-Rspamd-Queue-Id: 4HVxHy1w2pz52mMD
+X-Rspamd-SPAM-Probability: 0
+
+Lieber Ralf, liebe Silke,
+
+bei den Theater-Auff=C3=BChrungen hat sich gezeigt, dass wir von der =
+Technik-AG etwas in die Sicherheit investieren m=C3=BCssten. Das =
+betrifft zum einen Kabelmatten, um Stolperfallen zu beseitigen und zum =
+anderen Fangseile (Sicherungen falls die Befestigungen versagen) f=C3=BCr =
+Scheinwerfer und andere Ger=C3=A4te, die =C3=BCber den K=C3=B6pfen der =
+BesucherInnen h=C3=A4ngen.
+
+Daher w=C3=BCrde die Technik-AG gerne einmalig f=C3=BCr etwa 300 Euro =
+das obige Inventar bestellen.
+
+Es w=C3=BCrde mich freuen, wenn wir die Bestellung =C3=BCber das =
+Schulbudget abwickeln k=C3=B6nnten. Wie bei der letzten Bestellung, =
+w=C3=BCrde Florian Metzger eine Mail mit den Links zur Bestellung an das =
+Sekretariat schicken.
+
+
+Beste Gr=C3=BC=C3=9Fe
+hans=

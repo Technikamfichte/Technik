@@ -1,0 +1,149 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <corneliaklose@cornelia-klose.com>
+Received: from mail-hub02.belwue.de ([2001:7c0:0:76::42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 78924467 for technikag@fichte-gymnasium.de; Wed, 20 Dec 2023 09:37:01 +0100
+Received: from mail-in03.belwue.de (mail-in03.belwue.de [IPv6:2001:7c0:0:76::3])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4Sw6P95mcTz7GTk
+	for <technikag@fichte-gymnasium.de>; Wed, 20 Dec 2023 09:37:01 +0100 (CET)
+Received: from mout.kundenserver.de (mout.kundenserver.de [212.227.126.131])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange ECDHE (P-256) server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in03.belwue.de (Postfix) with ESMTPS id 4Sw6P93RpMzcV6
+	for <technikag@fichte-gymnasium.de>; Wed, 20 Dec 2023 09:37:01 +0100 (CET)
+Received: from smtpclient.apple ([77.21.253.142]) by mrelayeu.kundenserver.de
+ (mreue009 [212.227.15.167]) with ESMTPSA (Nemesis) id
+ 1MMXYN-1rYMA60bNX-00JXSQ for <technikag@fichte-gymnasium.de>; Wed, 20 Dec
+ 2023 09:37:01 +0100
+Content-Type: multipart/alternative; boundary=Apple-Mail-7562980E-C7A6-4C21-90D4-668E7A2D96F3
+Content-Transfer-Encoding: 7bit
+From: Cornelia Klose <corneliaklose@cornelia-klose.com>
+Mime-Version: 1.0 (1.0)
+Subject: =?utf-8?Q?Re:_Mikrostativ=E2=80=A6?=
+Date: Wed, 20 Dec 2023 09:37:00 +0100
+Message-Id: <01B07934-E0C0-44A8-BCA8-CE11F10DED67@cornelia-klose.com>
+References: <E31C9571-4498-A147-8E8A-0D0E63DBC113@hxcore.ol>
+In-Reply-To: <E31C9571-4498-A147-8E8A-0D0E63DBC113@hxcore.ol>
+To: Technik AG <technikag@fichte-gymnasium.de>
+X-Mailer: iPad Mail (19H370)
+X-Provags-ID: V03:K1:M5406EMGHZdIWoP4o/VP7DqQhx+ZL1fUyjwr5ibgJixPdahIAy4
+ RgtFbilR2dgsBrvarZweOUlutXTRDyk+OIAfylLN+EpBM7GoQAqZjoQ5IiGrD7gus/U9qg+
+ vJGxZGwGG7LOB/Gskry5yD8XOoRDa3GhoV5ZuYuCFYYmcpuE2PrtlsarLNzszAWh58dfRzQ
+ J/PjTWjwqy/qp6oSC732w==
+X-Spam-Flag: NO
+UI-OutboundReport: notjunk:1;M01:P0:D9VAJQW9pkw=;u/iwvsu6M1KIq5K7b2FMZ1O7bGC
+ XJt/kb17G9On9y5Ir6/HFpzNFuPJQGtSI3bdSloN7M/OzxD/xVIvPXFcqeVX0gou0AZiLq2+g
+ woC5fnipMGFSC7uJJV1lclpomQ9Zy5KVbYIFDJ+jP7JxeBm9AOTvXLdugTsI2WkdiyFvuytR/
+ ItEodXSbWo9BbyIaT6hWvdT9GAWFBlbzGJyd98OxN6Wpq1gB4W8X7SM7mOG+EQHXMM8u6oRc4
+ dsG2QIMwxBu7zCHNjwNGTmKLZU2aPcV3e4fAgq66s9BsgE/L8QivQeO4eJ4JOaT57yaXOP+SN
+ H2sqZY0l7m0aHqMEAvZp4cYWoxl41Cgdc5eghB3IzxcZbzsbnaHKEk6VTPtH7ksC42m2I9fLL
+ RYkxLBevZVAhunKgnGsivjhznA/2S9y2JH9N9iIWxkftU+kZejxiVK/3XLVIiKHaGx/pDlX9o
+ SfzeDxRO5aMkQLCmIGc+3z/kbAFfWMHLlMSxVdmafEFo14XK8pQTHDdygkBcmal4gnRzFyW/7
+ otDTIa8mIMPU/UO2fqKW+83j4Mxp0fTMFZqHxC1bt1a51xo/P+nLT6ThXAbFnt7MpFn9+LPU7
+ B2a5ZLRtPXUoW48qYPn7V/lmu7yPjAfaY+0YlS+WSRYleV98cE0/Bpb+qFdMXLcwOHmuVBP8N
+ 0CHQC3Yc+BB7PZQCSCb3KulAEChKviYUXQ50RxA0wH9sObT/EyepkXxQdn0FRA2wcM1cggPNe
+ Cwva9PnXCBCqm3K986iacvL7mF06f3ssv+uC/dYKZiLaEixawDOxdMnik70svc5SwQDi6w9qA
+ 5WzT2GapjYHjJFnQtUAWfzphO8YvUOKcEPGGyytoIhoQWcF64BA3GYcJDaZWU1ZDf0kW7ZcxA
+ Rme9XhCowOsvwBA==
+X-Rspamd-SPAM-Probability: 0
+X-Rspamd-UID: 6f9d9f
+X-Rspamd-Queue-Id: 4Sw6P93RpMzcV6
+
+
+--Apple-Mail-7562980E-C7A6-4C21-90D4-668E7A2D96F3
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hallo Ismael, Dankesch=C3=B6n, also werde ich generell mal Universalklemmen m=
+itbestellen, wenn ich das n=C3=A4chste Mal bei Thomann einkaufen gehen darf.=
+ Ich bestelle dann sechs St=C3=BCck zus=C3=A4tzlich f=C3=BCr euch.
+Sch=C3=B6ne Feiertage!
+Viele Gr=C3=BC=C3=9Fe,
+C. Klose
+
+Cornelia Klose
+Auf der Heide 9 b
+67360 Lingenfeld
+
+
+> Am 18.12.2023 um 13:31 schrieb Technik AG <technikag@fichte-gymnasium.de>:=
+
+>=20
+> =EF=BB=BF
+> Hallo Frau Klose,
+> Wir haben mittlerweile keine extra Stative oder Klemmen mehr (nur die zwei=
+ zu unseren 2*Shure SM58 Mikrofonen geh=C3=B6renden Original Klemmen). Ich k=
+ann gerne nochmal um 14:00 Uhr nachschauen, aber ich denke aber nicht, dass i=
+ch an irgendeinem unserer Stative noch eine Klemme vergessen habe.
+>=20
+> Ansonsten w=C3=BCnsche ich noch eine hoffentlich erfolgreiche Suche.
+>=20
+> MFG
+> Ismael Biber
+> =20
+> Von: Cornelia Klose <corneliaklose@cornelia-klose.com>
+> Gesendet: Montag, Dezember 18, 2023 10:33 AM
+> An: Technik AG <technikag@fichte-gymnasium.de>
+> Betreff: Mikrostativ=E2=80=A6
+> =20
+> Liebe Technik AG, danke f=C3=BCr den Mikrost=C3=A4nder im Kopierraum. Nun i=
+st jedoch von meinen zwei Mikrost=C3=A4ndern aus Raum 503 eines weg, an dies=
+em war noch meine private Shure Klenme, kann dies denn bei euch sein? Wenn j=
+a danke und viele Gr=C3=BC=C3=9Fe C. Klose=20
+>=20
+> Von meinem iPhone gesendet=20
+
+--Apple-Mail-7562980E-C7A6-4C21-90D4-668E7A2D96F3
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto">Hallo Ismael, Dankesch=C3=B6n, also werde i=
+ch generell mal Universalklemmen mitbestellen, wenn ich das n=C3=A4chste Mal=
+ bei Thomann einkaufen gehen darf. Ich bestelle dann sechs St=C3=BCck zus=C3=
+=A4tzlich f=C3=BCr euch.<div>Sch=C3=B6ne Feiertage!</div><div>Viele Gr=C3=BC=
+=C3=9Fe,</div><div>C. Klose<br><br><div dir=3D"ltr"><div><span style=3D"font=
+-size: 13pt;">Cornelia Klose</span></div><div><div>Auf der Heide 9 b</div><d=
+iv>67360 Lingenfeld</div><div><br></div></div></div><div dir=3D"ltr"><br><bl=
+ockquote type=3D"cite">Am 18.12.2023 um 13:31 schrieb Technik AG &lt;technik=
+ag@fichte-gymnasium.de&gt;:<br><br></blockquote></div><blockquote type=3D"ci=
+te"><div dir=3D"ltr">=EF=BB=BF<div dir=3D"ltr"><div>
+ =20
+ =20
+ =20
+    </div><div><div>
+    =09
+    	<div>Hallo Frau Klose,</div><div dir=3D"ltr">Wir haben mittlerweile=
+ keine extra Stative oder Klemmen mehr (nur die zwei zu unseren 2*Shure SM58=
+ Mikrofonen geh=C3=B6renden Original Klemmen). Ich kann gerne nochmal um 14:=
+00 Uhr nachschauen, aber ich denke aber nicht, dass ich an irgendeinem unser=
+er Stative noch eine Klemme vergessen habe.</div><div dir=3D"ltr"><br></div>=
+<div dir=3D"ltr">Ansonsten w=C3=BCnsche ich noch eine hoffentlich erfolgreic=
+he Suche.</div>
+    	<div id=3D"ms-outlook-mobile-signature"><div><br></div><div dir=3D"=
+ltr"><div dir=3D"ltr">MFG</div><div dir=3D"ltr">Ismael Biber</div></div></di=
+v>
+    </div>
+ =20
+
+<div>&nbsp;</div><hr style=3D"display:inline-block;width:98%" tabindex=3D"-1=
+"><div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif"><=
+b>Von:</b> Cornelia Klose &lt;corneliaklose@cornelia-klose.com&gt;<br><b>Ges=
+endet:</b> Montag, Dezember 18, 2023 10:33 AM<br><b>An:</b> Technik AG &lt;t=
+echnikag@fichte-gymnasium.de&gt;<br><b>Betreff:</b> Mikrostativ=E2=80=A6<div=
+>&nbsp;</div></font></div>Liebe Technik AG, danke f=C3=BCr den Mikrost=C3=A4=
+nder im Kopierraum. Nun ist jedoch von meinen zwei Mikrost=C3=A4ndern aus Ra=
+um 503 eines weg, an diesem war noch meine private Shure Klenme, kann dies d=
+enn bei euch sein? Wenn ja danke und viele Gr=C3=BC=C3=9Fe C. Klose
+<br>
+<br>Von meinem iPhone gesendet
+<br></div></div>
+</div></blockquote></div></body></html>=
+
+--Apple-Mail-7562980E-C7A6-4C21-90D4-668E7A2D96F3--

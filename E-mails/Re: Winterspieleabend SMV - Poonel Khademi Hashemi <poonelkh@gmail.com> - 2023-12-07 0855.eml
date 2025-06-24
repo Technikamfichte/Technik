@@ -1,0 +1,138 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <poonelkh@gmail.com>
+Received: from mail-hub02.belwue.de ([129.143.76.42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 76239359 for technikag@fichte-gymnasium.de; Thu, 07 Dec 2023 08:56:13 +0100
+Received: from mail-in02.belwue.de (mail-in02.belwue.de [IPv6:2001:7c0:0:76::2])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4Sm66526BGz7G8l
+	for <technikag@fichte-gymnasium.de>; Thu,  7 Dec 2023 08:56:13 +0100 (CET)
+Received: from mail-pg1-x52e.google.com (mail-pg1-x52e.google.com [IPv6:2607:f8b0:4864:20::52e])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in02.belwue.de (Postfix) with ESMTPS id 4Sm6643spJzB1lVZ
+	for <technikag@fichte-gymnasium.de>; Thu,  7 Dec 2023 08:56:12 +0100 (CET)
+Received: by mail-pg1-x52e.google.com with SMTP id 41be03b00d2f7-5ab94fc098cso402601a12.1
+        for <technikag@fichte-gymnasium.de>; Wed, 06 Dec 2023 23:56:12 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20230601; t=1701935770; x=1702540570; darn=fichte-gymnasium.de;
+        h=to:subject:message-id:date:from:in-reply-to:references:mime-version
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=9tvQl16AlDcfBvmpFSqta0XfdSd2FEpPIO49KuAz010=;
+        b=aEOAQx6QaDCR15Z24GGeNx1bC9K839dR2+cUvcl3eNGwkBMKG+omh8+PocCqeATHDu
+         a4oYD5hIM7WVwgY2IyyoRZD5YCkbG7qD3fLdx+PhyBmZn7oX/BX1DX+5z8GX4Wlw4KhG
+         tm/MopjKoeMXQfl/QQibG44M8AAA2sHyAXSx347n7vOj9KXfYjaje0hPbIKnZeGwK4pg
+         yjgh4PVcPX12GTNfuYjMxL8IUTTpE8fqIqnGfvxr/4qt3Hiyc/HPVQvzoMfyYN5aEomJ
+         /Hhxuwr736L1R7hagG43TdxKAZoGubqM3Bc5nHsMmA3Y61dLlklooDOncLTf8lbaEbUZ
+         yyng==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20230601; t=1701935770; x=1702540570;
+        h=to:subject:message-id:date:from:in-reply-to:references:mime-version
+         :x-gm-message-state:from:to:cc:subject:date:message-id:reply-to;
+        bh=9tvQl16AlDcfBvmpFSqta0XfdSd2FEpPIO49KuAz010=;
+        b=ZBxghqeJshYaEf5CPXR4HICwLQ4zqtJ5UB4Y3bYaxvIAg2scwmUFgvsVL5uXfYEv6r
+         GfsANoHz3kGSqIbXWlAmxuRAGsi6uld0xLFWiJUOxpluRllK2n+qxZpu3IysPoj4TglH
+         5KLtpKRA0gwakJi0ATX3AbZTEV6NlanUsjHlKb/zbSC8Y9WtAbE1e2b/UX7zAy05Ms71
+         f2PUkhFO2MrM5NiOY+Uo1HaNa1g8mzOlowWcZEnL+1NbgSH7MLbR425cfEe1sYZvyo0L
+         On3ULZKuNcubEfW2ZN9pgfij7uLyYMs8qk3vtZX9VAJi1wgRuZYWsnUlmTIO0DRRtBoz
+         uFNQ==
+X-Gm-Message-State: AOJu0YxE7aHsffC3oHdmPVP+YgdOqhOr3OjxHqAr/VFlAgQzAl7AggBn
+	51+XesoU/3sKLM4sVrNcwNkIWsp4rzFEp1jedUh3q3N7
+X-Google-Smtp-Source: AGHT+IEouwOrX+LylBsEuVnvz9vlYSTiLUVTcgXInjSt8W7/CzVHwynS6N8bxXturut+LBW6qIVlSWoskgYbt2e2m+w=
+X-Received: by 2002:a05:6a20:9146:b0:187:d44:59f1 with SMTP id
+ x6-20020a056a20914600b001870d4459f1mr2107664pzc.31.1701935770477; Wed, 06 Dec
+ 2023 23:56:10 -0800 (PST)
+MIME-Version: 1.0
+References: <CACpPHQzZV68vR9JoVZTyk4X5BvGRKF+zjp5TxxOdxSpaocDngA@mail.gmail.com>
+ <auto-000077892185@frontend01.mbox1.belwue.de>
+In-Reply-To: <auto-000077892185@frontend01.mbox1.belwue.de>
+From: Poonel Khademi Hashemi <poonelkh@gmail.com>
+Date: Thu, 7 Dec 2023 08:55:59 +0100
+Message-ID: <CACpPHQzWZRU7BZkQ_TUa4LBaLsf05aH41CjqYg7MCdU64rU-8w@mail.gmail.com>
+Subject: Re: Winterspieleabend SMV
+To: Florian Brunnert <technikag@fichte-gymnasium.de>
+Content-Type: multipart/alternative; boundary="00000000000007a997060be6cd65"
+X-Rspamd-UID: 60a3f8
+X-Rspamd-Queue-Id: 4Sm6643spJzB1lVZ
+X-Rspamd-SPAM-Probability: 0
+
+--00000000000007a997060be6cd65
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hey,
+also wegen den Lichtern, am besten nur winterliche Farben (blau,rot) und
+ohne Effekte.
+Die Playlist schicke ich euch heute noch zu.
+Danke!
+
+Florian Brunnert <technikag@fichte-gymnasium.de> schrieb am So. 3. Dez.
+2023 um 16:00:
+
+> Hi,
+> alles klar, schickt ihr uns die Playlist dann noch zu?
+> Soll das Licht dann nur eine Farbe haben? Oder sollen wir Partyeffekte wi=
+e
+> bei der Unterstufenparty machen?
+>
+> Mit freundlichen Gr=C3=BC=C3=9Fen
+> Florian
+>
+> -------- Urspr=C3=BCngliche Nachricht --------
+> Von: Poonel Khademi Hashemi <poonelkh@gmail.com>
+> Datum: 27.11.23 21:05 (GMT+01:00)
+> An: Florian Brunnert <technikag@fichte-gymnasium.de>,
+> lucas.schuett@fichte-gymnasium.de
+> Cc: Julia Gabat <julia.gabat@fichte-gymnasium.de>
+> Betreff: Winterspieleabend SMV
+>
+> Liebe Technik AG,
+> dieses Jahr hat die SMV ein neues Projekt. Die gro=C3=9Fen Winterspiele w=
+erden
+> am 13.12.23 von 17-20 Uhr stattfinden. Die Idee ist, dass mehrere
+> Spielm=C3=B6glichkeiten von der SMV zur Verf=C3=BCgung gestellt werden un=
+d die Kinder
+> der 5-7 Klasse mit entspannter winterlicher Musik im Hintergrund spielen
+> k=C3=B6nnen.
+> LG Poonel.
+>
+
+--00000000000007a997060be6cd65
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">Hey,=C2=A0</div><div dir=3D"auto">also wegen den Lichtern=
+, am besten nur winterliche Farben (blau,rot) und ohne Effekte.=C2=A0</div>=
+<div dir=3D"auto">Die Playlist schicke ich euch heute noch zu.=C2=A0</div><=
+div dir=3D"auto">Danke!=C2=A0</div><div><br><div class=3D"gmail_quote"><div=
+ dir=3D"ltr" class=3D"gmail_attr">Florian Brunnert &lt;<a href=3D"mailto:te=
+chnikag@fichte-gymnasium.de">technikag@fichte-gymnasium.de</a>&gt; schrieb =
+am So. 3. Dez. 2023 um 16:00:<br></div><blockquote class=3D"gmail_quote" st=
+yle=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><div =
+dir=3D"auto">Hi,<div dir=3D"auto">alles klar, schickt ihr uns die Playlist =
+dann noch zu?</div><div dir=3D"auto">Soll das Licht dann nur eine Farbe hab=
+en? Oder sollen wir Partyeffekte wie bei der Unterstufenparty machen?</div>=
+<div dir=3D"auto"><br></div><div dir=3D"auto">Mit freundlichen Gr=C3=BC=C3=
+=9Fen=C2=A0</div><div dir=3D"auto">Florian=C2=A0</div><div><br></div><div a=
+lign=3D"left" dir=3D"auto" style=3D"font-size:100%;color:#000000"><div>----=
+---- Urspr=C3=BCngliche Nachricht --------</div><div>Von: Poonel Khademi Ha=
+shemi &lt;<a href=3D"mailto:poonelkh@gmail.com" target=3D"_blank">poonelkh@=
+gmail.com</a>&gt; </div><div>Datum: 27.11.23  21:05  (GMT+01:00) </div><div=
+>An: Florian Brunnert &lt;<a href=3D"mailto:technikag@fichte-gymnasium.de" =
+target=3D"_blank">technikag@fichte-gymnasium.de</a>&gt;, <a href=3D"mailto:=
+lucas.schuett@fichte-gymnasium.de" target=3D"_blank">lucas.schuett@fichte-g=
+ymnasium.de</a> </div><div>Cc: Julia Gabat &lt;<a href=3D"mailto:julia.gaba=
+t@fichte-gymnasium.de" target=3D"_blank">julia.gabat@fichte-gymnasium.de</a=
+>&gt; </div><div>Betreff: Winterspieleabend SMV </div><div><br></div></div>=
+</div><div dir=3D"auto"><div dir=3D"ltr">Liebe Technik AG,=C2=A0<div>dieses=
+ Jahr hat die SMV ein neues Projekt. Die gro=C3=9Fen Winterspiele werden am=
+ 13.12.23 von 17-20 Uhr stattfinden. Die Idee ist, dass mehrere Spielm=C3=
+=B6glichkeiten von der SMV zur Verf=C3=BCgung gestellt werden und die Kinde=
+r der 5-7 Klasse mit entspannter winterlicher Musik im Hintergrund spielen =
+k=C3=B6nnen.</div><div>LG Poonel. =C2=A0=C2=A0</div></div>
+</div></blockquote></div></div>
+
+--00000000000007a997060be6cd65--

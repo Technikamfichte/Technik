@@ -1,0 +1,118 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <ismael.biber@gmail.com>
+Received: from mail-hub02.belwue.de ([129.143.76.42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.13)
+  with ESMTPS id 66018166; Thu, 30 Mar 2023 10:50:08 +0200
+Received: from mail-in03.belwue.de (mail-in03.belwue.de [IPv6:2001:7c0:0:76::3])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4PnHDb6KXMz3fnM;
+	Thu, 30 Mar 2023 10:50:07 +0200 (CEST)
+Received: from mail-ed1-x52e.google.com (mail-ed1-x52e.google.com [IPv6:2a00:1450:4864:20::52e])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in03.belwue.de (Postfix) with ESMTPS id 4PnHDS5xGgz1JWJ;
+	Thu, 30 Mar 2023 10:50:00 +0200 (CEST)
+Received: by mail-ed1-x52e.google.com with SMTP id x3so73502632edb.10;
+        Thu, 30 Mar 2023 01:50:00 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112; t=1680166200;
+        h=cc:to:subject:message-id:date:from:mime-version:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=wQtkIXsAVpPjRqB0ZUpU0we+587BcszhEFtYVmbp4Os=;
+        b=qfrR97Fakp/We3ZJ+buVp9M9rkrvsL9uMSFUTFf82NsAflaBFgPF+JQ5+XadwUMZYV
+         KDRfhUmXpiaCeELiSWrI7BrWLFXyHWJ4WPdUvVJhURZCEOAeQ7ct27bnf1gF7cBi1eKe
+         kjuYKni5SdFZAtRnHarOaV4nN+it4mnSlBUDItYaO9QzOr0VgLX4Q6/VlMDghsT5SVOp
+         5HmzztnSUkYvEv/dGc9JsNxMIeiGhu5zwlh6lr5xK64kTgZZTq/NB0+aApig5F4RV7eu
+         I0HNNw4ul/3MnxaAxbPi3dKz7LJerc4Yi63I2e656927pjyb/Qu0Bly4XjX3VLp+wDE7
+         QrvA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112; t=1680166200;
+        h=cc:to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=wQtkIXsAVpPjRqB0ZUpU0we+587BcszhEFtYVmbp4Os=;
+        b=e+SsZ9yiQrkElRSbc35G975wDmbauDOi6NXGEh/1YVcSA6WR/uTjUVhovHALK0J2r0
+         JEPs5R8fFAQW8vIhOGiJE2+yyyVKd8cDI1nea2u7TK5PJTLCmqhnmS7bCj/A8E4juaTX
+         EgFwKreIOypJ9va7Mwh4mQQc9w8C1k0H/bEhYSxNmEkty//oyEs/jBtwKGCdHQPZEdeb
+         cSbHxBel/IpfZfvGnX3aQ4OHWBuVsCVeFdxXKlmMRaXbkfptl8xHmuPAZnyaRqcOjrvJ
+         058/UyrE7RpEXUenP+vr6BpysBTMfrMI1WaoCmM+0k83ZcOeyF3YU9+yF63gEobSoU3N
+         Lt4Q==
+X-Gm-Message-State: AAQBX9cfqJj1CMI0IVD0UTOAkOBkujJ7MRuqGljyRQmP6h+0XilhDRXU
+	c/N+GuRFPS/oKH12F713gq95ljS2+YIS676eHQ0dcIF8RedJoqyt
+X-Google-Smtp-Source: AKy350YEuz/TPg7X66r9KgWdVFCBDH2I8O1YWcymHMpy0w3mPbwXQV6bFIaV0TMP2BXyBtFz8Jiyhiyajr2tLQHoVYc=
+X-Received: by 2002:a17:906:f4f:b0:8dd:76b6:65b3 with SMTP id
+ h15-20020a1709060f4f00b008dd76b665b3mr11918311ejj.4.1680166199938; Thu, 30
+ Mar 2023 01:49:59 -0700 (PDT)
+MIME-Version: 1.0
+From: Ismael Biber <ismael.biber@gmail.com>
+Date: Thu, 30 Mar 2023 10:49:43 +0200
+Message-ID: <CAH7Mj8VxE+chcF-7dABvfOEVKcSvxuQwDHsJ2YobtvJRc+Ws5w@mail.gmail.com>
+Subject: Die in der Ersten Pause besprochenen Punkte
+To: lucas.schuett@fichte-gymnasium.de
+Cc: TechnikAG Fichte-Gymnasium <technikag@fichte-gymnasium.de>
+Content-Type: multipart/alternative; boundary="00000000000082d26c05f81a2dd7"
+X-Rspamd-UID: ef4405
+X-Rspamd-Queue-Id: 4PnHDS5xGgz1JWJ
+X-Rspamd-SPAM-Probability: 0
+
+--00000000000082d26c05f81a2dd7
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo zusammen,
+Hier nochmal die vorhin besprochenen Punkte:
+
+1) Der Licht Controller muss nicht motorisiert sein, da das sehr viel Geld
+f=C3=BCr wenig Funktion ist. Ich empfehle daher diesen:
+https://www.thomann.de/de/akai_professional_apc_mini_mk2.htm
+
+2) Sollte das Laptop die allerh=C3=B6chste priorit=C3=A4t sein (auch vor de=
+r
+B=C3=BChnentreppe, da wir das Laptop bei fast jeder Veranstaltung ben=C3=B6=
+tigen, die
+2. Treppe aber nur wenn auch die B=C3=BChne aufgebaut wird)
+
+3) Ein XLR Phantomspeisung "Ingestor" sollte wom=C3=B6glich auch auf die
+Anschaffungsliste, da bei den letzten Versuchen keine Phantomspeisung durch
+das Multicore kam. hier ein m=C3=B6gliches Produkt :
+https://www.thomann.de/de/millenium_pocket_phantom.htm
+
+4) Ein weiterer Handsender w=C3=A4re auch f=C3=BCr diverse Events wie die
+Sch=C3=BClerband, oder konferenz artige Events angebracht. Hier ein passend=
+er
+Sender: https://www.thomann.de/de/the_tbone_free_solo_handheld_823_mhz.htm
+
+MFG,
+Ismael Biber (K1.1)
+
+--00000000000082d26c05f81a2dd7
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div>Hallo zusammen,</div><div>Hier nochmal die vorhin bes=
+prochenen Punkte:</div><div><br></div><div>1) Der Licht Controller muss nic=
+ht motorisiert sein, da das sehr viel Geld f=C3=BCr wenig Funktion ist. Ich=
+ empfehle daher diesen: <a rel=3D"nofollow" target=3D"_blank" href=3D"https=
+://www.thomann.de/de/akai_professional_apc_mini_mk2.htm">https://www.thoman=
+n.de/de/akai_professional_apc_mini_mk2.htm</a></div><br>2) Sollte das Lapto=
+p die allerh=C3=B6chste priorit=C3=A4t sein (auch vor der B=C3=BChnentreppe=
+, da=20
+wir das Laptop bei fast jeder Veranstaltung ben=C3=B6tigen, die 2. Treppe=
+=20
+aber nur wenn auch die B=C3=BChne aufgebaut wird)<br><br>3) Ein XLR Phantom=
+speisung &quot;Ingestor&quot; sollte wom=C3=B6glich auch auf die Anschaffun=
+gsliste, da bei den letzten Versuchen keine Phantomspeisung durch das Multi=
+core kam. hier ein m=C3=B6gliches Produkt : <a rel=3D"nofollow" target=3D"_=
+blank" href=3D"https://www.thomann.de/de/millenium_pocket_phantom.htm">http=
+s://www.thomann.de/de/millenium_pocket_phantom.htm</a><br><br><div>4) Ein
+ weiterer Handsender w=C3=A4re auch f=C3=BCr diverse Events wie die Sch=C3=
+=BClerband,=20
+oder konferenz artige Events angebracht. Hier ein passender Sender: <a rel=
+=3D"nofollow" target=3D"_blank" href=3D"https://www.thomann.de/de/the_tbone=
+_free_solo_handheld_823_mhz.htm">https://www.thomann.de/de/the_tbone_free_s=
+olo_handheld_823_mhz.htm</a></div><div><br></div><div>MFG,</div><div>Ismael=
+ Biber (K1.1)<br></div></div>
+
+--00000000000082d26c05f81a2dd7--

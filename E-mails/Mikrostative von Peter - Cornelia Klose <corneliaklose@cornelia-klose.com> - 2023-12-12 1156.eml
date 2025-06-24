@@ -1,0 +1,106 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <corneliaklose@cornelia-klose.com>
+Received: from mail-hub02.belwue.de ([129.143.76.42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 76838460 for technikag@fichte-gymnasium.de; Tue, 12 Dec 2023 11:56:11 +0100
+Received: from mail-in04.belwue.de (mail-in04.belwue.de [IPv6:2001:7c0:0:76::4])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4SqFsR0txhz7GnW
+	for <technikag@fichte-gymnasium.de>; Tue, 12 Dec 2023 11:56:11 +0100 (CET)
+Received: from mout.kundenserver.de (mout.kundenserver.de [212.227.126.131])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange ECDHE (P-256) server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in04.belwue.de (Postfix) with ESMTPS id 4SqFsQ2RNcz57PRK
+	for <technikag@fichte-gymnasium.de>; Tue, 12 Dec 2023 11:56:10 +0100 (CET)
+Received: from smtpclient.apple ([77.21.253.142]) by mrelayeu.kundenserver.de
+ (mreue012 [212.227.15.167]) with ESMTPSA (Nemesis) id
+ 1MHVWT-1r02123kdV-00DZoa for <technikag@fichte-gymnasium.de>; Tue, 12 Dec
+ 2023 11:56:09 +0100
+Content-Type: multipart/alternative; boundary=Apple-Mail-BF78C2AA-6588-4D11-AE95-7F4381693C0F
+Content-Transfer-Encoding: 7bit
+From: Cornelia Klose <corneliaklose@cornelia-klose.com>
+Mime-Version: 1.0 (1.0)
+Date: Tue, 12 Dec 2023 11:56:08 +0100
+Subject: Mikrostative von Peter
+Message-Id: <5CC38B18-0B8A-47C0-85ED-74AF03D23DD7@cornelia-klose.com>
+To: Technik AG <technikag@fichte-gymnasium.de>
+X-Mailer: iPad Mail (19H370)
+X-Provags-ID: V03:K1:vRT0JEXgqu8FQPVPWsIG/QA3Zn4fklf50sJG3Q2QSoXQoSsrOrC
+ 8ybsCc7DM8cds1rkPEYJ9op1bAWvFp1Xvh/Qy3O+7k5DmI/HziAMa7Nw4GDBiHEZCIdjZek
+ U3qmNvB3H36F48S90ENnRd40+3Zag1wzt3sTO06nw1QRPJCZ4DZB27LafSDvE8AGU56jyVa
+ vx7ALbs/b9hwKgWcPBncg==
+X-Spam-Flag: NO
+UI-OutboundReport: notjunk:1;M01:P0:gJVxiQizrng=;9rzghDlcdrbnejR3kFYo8aWoe50
+ QmY4tI/fpCWtF0duKALiMyI+p6kLmW4pqp1MSyyiSoKEJIIGdxlBFqGtzg3Q5uhFie3nDgGEZ
+ 84rbr4IQjUTHydpTeBnebjzXkn7T0AGpQM5wIRcmUuhjBdlTKrAV8ZW9jiDEvrWkSbTwPPUG/
+ DssBZRQLJ6gtoz0bBkloLoydVCmDseZ5R7A/PLLxLAnWvIPDUKm/toHPyb4sDtEChmzvvQjoz
+ WH358LRjI6fraAPTCSZZTRxAdCdeXeZV8egLw1yXVxVlVRPqEPGFM7viRVAbtVEFfaJ+4ccmC
+ 6lxDA3Rlcd2VR7r29suYMtG93xVTBjaZUD4vf7lWZ2wZNcF0zK2dC+r5dRTH7JvH3B3/dNUKA
+ g3/QkiN44rBLMXEjslMgzefrvV4yOkFoZK639IiPSV3D9orQAZ79GG1X3nOz5gk2j95nH4rGW
+ edWVpyKWjG4caf9YieII3qkIwRoIbfZYvZOtdmxvvJkw2FJS0K9+Pggmdhv4Pnklf329OYxg2
+ q+bHLHVEQLjlqAyqCFVoUHriuapABOPV1PhMPFdD2ZsdRGvAnzNmbmioZwqeitGaU7h2yV1hm
+ fqv/Oefna7Jn4Eab5Oeruq5qtUGVoAgBREP8RNe2d1limP0KjlImavRYcOzyFUonIR8DqFaMw
+ K3wD5x1yiqOGFjyPgSts2/VnlcgWnvkwXnauuOhvPS8RUYfpFHZIscLXB1SkOvNBhZydiIXAA
+ sBRUAJLkAwj0qAWr/teoMQfvgJ/tAvD0WJ/zkSpe22RAvay2Tw4Xfl/I5LDx79kYtx/PIp3z1
+ IHVqNqGorFwPqGPDR/11smiDFd2KntDRet++QXpLdbICSHB0U+LBSXp6SKVCc7Wyl2kqhr/Fj
+ VX7KEFXX8d34XOQ==
+X-Rspamd-SPAM-Probability: 0
+X-Rspamd-UID: a5c027
+X-Rspamd-Queue-Id: 4SqFsQ2RNcz57PRK
+
+
+--Apple-Mail-BF78C2AA-6588-4D11-AE95-7F4381693C0F
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Liebes Team der Technik AG,
+gestern sind mehrere Mikrostative von Peter liegengeblieben oder an den fals=
+chen Platz gekommen.
+Im einzelnen handelt es sich um:
+1 schwarzes Mikrofonstativ mit Galgen
+1 Mikrofonstativ ohne Galgen mit zwei bunten Aufklebern.
+Er hatte beide hinter den Vorhang gelegt, weil er diese Mikrofonierung in de=
+r Mensa dann nicht benutzt hat.
+K=C3=B6nnten die Stative im hinteren Raum gelandet sein? Peter braucht sie a=
+m Wochenende, ich w=C3=A4re froh um schnelle Kl=C3=A4rung. Dankesch=C3=B6n.
+
+Das Rockshop Mikrofonstativ, das auch noch rumstand, ist nicht aus der Musik=
+sammlung, ich habe es auf dem Fl=C3=BCgel geparkt=E2=80=A6 Hatte das nicht s=
+owieso einen Defekt? Dann w=C3=BCrde ich es entsorgen.
+
+Viele Gr=C3=BC=C3=9Fe,
+Cornelia Klose
+
+
+Cornelia Klose
+Auf der Heide 9 b
+67360 Lingenfeld
+
+
+--Apple-Mail-BF78C2AA-6588-4D11-AE95-7F4381693C0F
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto">Liebes Team der Technik AG,<div>gestern sin=
+d mehrere Mikrostative von Peter liegengeblieben oder an den falschen Platz g=
+ekommen.</div><div>Im einzelnen handelt es sich um:<br><div>1 schwarzes Mikr=
+ofonstativ mit Galgen</div><div>1 Mikrofonstativ ohne Galgen mit zwei bunten=
+ Aufklebern.</div><div>Er hatte beide hinter den Vorhang gelegt, weil er die=
+se Mikrofonierung in der Mensa dann nicht benutzt hat.</div><div>K=C3=B6nnte=
+n die Stative im hinteren Raum gelandet sein? Peter braucht sie am Wochenend=
+e, ich w=C3=A4re froh um schnelle Kl=C3=A4rung. Dankesch=C3=B6n.</div><div><=
+br></div><div>Das Rockshop Mikrofonstativ, das auch noch rumstand, ist nicht=
+ aus der Musiksammlung, ich habe es auf dem Fl=C3=BCgel geparkt=E2=80=A6 Hat=
+te das nicht sowieso einen Defekt? Dann w=C3=BCrde ich es entsorgen.</div><d=
+iv><br></div><div>Viele Gr=C3=BC=C3=9Fe,</div><div>Cornelia Klose</div><div>=
+<br><br><div dir=3D"ltr"><div><span style=3D"font-size: 13pt;">Cornelia Klos=
+e</span></div><div><div>Auf der Heide 9 b</div><div>67360 Lingenfeld</div><d=
+iv><br></div></div></div></div></div></body></html>=
+
+--Apple-Mail-BF78C2AA-6588-4D11-AE95-7F4381693C0F--

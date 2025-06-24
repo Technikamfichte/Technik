@@ -1,0 +1,129 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <corneliaklose@cornelia-klose.com>
+Received: from mail-hub02.belwue.de ([2001:7c0:0:76::42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 95417453; Mon, 11 Nov 2024 14:18:21 +0100
+Received: from mail-in04.belwue.de (mail-in04.belwue.de [129.143.76.4])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4Xn98s4gQJz5mDc;
+	Mon, 11 Nov 2024 14:18:21 +0100 (CET)
+Received: from mout.kundenserver.de (mout.kundenserver.de [212.227.126.130])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange ECDHE (P-256) server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in04.belwue.de (Postfix) with ESMTPS id 4Xn98r69Hwz575sw;
+	Mon, 11 Nov 2024 14:18:17 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=cornelia-klose.com;
+	s=s1-ionos; t=1731331097; x=1731935897;
+	i=corneliaklose@cornelia-klose.com;
+	bh=+7JlEDAFWVgXiynDCmkzGwyfS9XOZ2+WPWHhe1QdiXU=;
+	h=X-UI-Sender-Class:Content-Type:Content-Transfer-Encoding:From:
+	 Mime-Version:Date:Subject:Message-Id:To:cc:
+	 content-transfer-encoding:content-type:date:from:message-id:
+	 mime-version:reply-to:subject:to;
+	b=KukjLOHV/0YxZ7NUA7xc7nD4xaqadJLXe6ASbxmiVpmLZLxWEE7oTnBSvGrB18K0
+	 Fer0gAq/tuIm/LqWtDisCFbpTYuEwtcygyP+2klopL933rbeEFi4kP/Gp9gh6tFGj
+	 nkHLeeu4048cplBZt8elS9cHnBikp4niturvQ9ooMGuod0yAV492X3lHEEDGCgEO8
+	 QZkqd8e7Ifo4zu2G/biVIW8nZ0lQoUSKal26k37GC1BeYdTSfZDFN0sqj6HrCJP1X
+	 RSBYs5AXwMqnG+8q4CFGctCg7u1vKoDO3hZJ14f5tptK3lo6tE3gDqhsPxn6bzqgY
+	 opWZ0TxI8dKWoC2i9A==
+X-UI-Sender-Class: 55c96926-9e95-11ee-ae09-1f7a4046a0f6
+Received: from smtpclient.apple ([176.7.158.44]) by mrelayeu.kundenserver.de
+ (mreue009 [212.227.15.167]) with ESMTPSA (Nemesis) id
+ 1MqatE-1tWfyj1do0-00cOZj; Mon, 11 Nov 2024 14:18:17 +0100
+Content-Type: multipart/alternative; boundary=Apple-Mail-4AEB575C-082D-4FB7-96BC-A5F22C2964C1
+Content-Transfer-Encoding: 7bit
+From: Cornelia Klose <corneliaklose@cornelia-klose.com>
+Mime-Version: 1.0 (1.0)
+Date: Mon, 11 Nov 2024 14:18:14 +0100
+Subject: =?utf-8?Q?Musical_am_Fichte:_Proben_=282./3.12_und_Auff=C3=BChrung?=
+ =?utf-8?Q?en_4./5._12.=29?=
+Message-Id: <EF6AAEEA-F18E-4911-B11B-43BDFDD14F62@cornelia-klose.com>
+To: Technik AG <technikag@fichte-gymnasium.de>,
+ lucas.schuett@fichte-gymnasium.de
+X-Mailer: iPad Mail (19H384)
+X-Provags-ID: V03:K1:IX9sXN8/E0aXYPiHOxejko6eJGz6/K9tF1owH7bA2yvLWTAVlmE
+ hAMT4vgEUssbUqVYFj6vS6P6KPKZ8MUcTKS0bXaeEvqKK56XAoC3IspxX93m54muSQendBL
+ L+AxSPN2eyvcv8fC/BiRmWzz/EF5lSciu4I9pE/oJwoJRIhpisb386XnbG79XHudBDaCX5k
+ qUmnGKiM52AKlKiYEDSzg==
+X-Spam-Flag: NO
+UI-OutboundReport: notjunk:1;M01:P0:ECgl6jKnCu0=;z0qHsPUWSBX1q+3uZ5CPxDPJHIw
+ ylPlThU7r5D7bh7mqN4llH6yyMTVuV6OTxXtk+XNvpQ9GunzDjpaQPo3STgMB81Etc6KjgV9g
+ IJgemExtYeFzTAwX8q5qg631r7cfgtXOI2Nusm7qDpQk0cjrBAUG6xCHlSEvYm1YkHIvTydXN
+ TefgYVkBHyQD452WIdTLsC8gdW7bCyY6mXxMwfgvp7C5eqSF2+Y1zPWqKH+jTgcTXHhGZXmkY
+ eKck3VW7j4LLyIIZr4ArhW/pD/54lJPshQaxkTp+yZMfrkKrG/q4F13dTHZO5hLk9fPfHGQPm
+ edL2MuxeKQ+bLN+pisntXr+SPq51nRAN/9ayeR3a4COWXsZCA8ov0s+WCt0KKIpG9Fu30wgW3
+ A1x8J3hOH1zpgDIWGo5D8t4OhLuCOCzrh8rxTFPcJezwJVpas1+qtXW3WjUm+AhligO2dVKt6
+ OW3pd2BqNrJH4GcoqDcwh0UbWzRZ4clbnwQVHiNT8OyqH38wfyREfP2na4UCtPSCEkm7VFT9k
+ P0SYex+TOLus3IuZmMPe+XLbI6TRNemy55xxp/IHhUy9fyk8JvvKcocXSXRWqc53mOV+9zp2g
+ oxm2U74m2foB+D4md4pMfyjO6sdkx6fSCU+DMHAZMzfz7b6r4ZX5B7QyM68s36phzE+WTW1k0
+ xwvgUIcwUH70+R5N88HHXPJQuPLDDtwB4wHcoLvjbVssJpjdS6DsH0k/o8UdnCzCUq3uqoEX3
+ Bz8t33+NJQ9DXYnImapQ036umTg12BKHy9Uj30KC8zvCelZHj6H1ZDq5JL3nexIMWLQps6HKU
+ ArzPwAXTZ+7Z4aWTsErabEJXztsBNIZS4HOa4aTr9EEQbH7/Z82MQzM+984hd8Q6X+
+X-Rspamd-SPAM-Probability: 0
+X-Rspamd-UID: f672db
+X-Rspamd-Queue-Id: 4Xn98s4gQJz5mDc
+X-Rspamd-UID: c9e0e3
+
+
+--Apple-Mail-4AEB575C-082D-4FB7-96BC-A5F22C2964C1
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Liebe Technik- AG,
+lieber Herr Sch=C3=BCtt,
+das Musical kommt langsam n=C3=A4her und ich w=C3=BCrde gerne demn=C3=A4chst=
+ in die technische Planung gehen.
+Zun=C3=A4chst nat=C3=BCrlich meine Frage: Sind die Auff=C3=BChrungstermine 4=
+. und 5.12.und der Aufbau der B=C3=BChne am Dienstag Nachmittag (3.12.) f=C3=
+=BCr euch m=C3=B6glich? Ebenso der Abbau am Freitag, 6.12 bis um 12.00? Das w=
+=C3=BCrde mich freuen.
+W=C3=A4re es au=C3=9Ferdem m=C3=B6glich,  vorab schon zu sprechen und vielle=
+icht die zur Verf=C3=BCgung stehenden Alternativen zu kl=C3=A4ren? Auch, wan=
+n eine Lichtprobe fr=C3=BChestens stattfinden kann und so weiter=E2=80=A6
+Gebraucht werden B=C3=BChne, Licht, schwarzer und roter Vorhang, Keyboard un=
+d Platz f=C3=BCr Streicher.
+Die Mensa bleibt hinten zu.
+Verst=C3=A4rkt wird zudem Gesang =C3=BCber Mikros und Headsets, teilweise au=
+ch chorisch.
+Vielen Dank f=C3=BCr eure R=C3=BCckmeldung,
+viele Gr=C3=BC=C3=9Fe,
+Cornelia Klose
+
+
+
+
+Cornelia Klose
+Auf der Heide 9 b
+67360 Lingenfeld
+
+
+--Apple-Mail-4AEB575C-082D-4FB7-96BC-A5F22C2964C1
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto">Liebe Technik- AG,<div>lieber Herr Sch=C3=BC=
+tt,</div><div>das Musical kommt langsam n=C3=A4her und ich w=C3=BCrde gerne d=
+emn=C3=A4chst in die technische Planung gehen.</div><div>Zun=C3=A4chst nat=C3=
+=BCrlich meine Frage: Sind die Auff=C3=BChrungstermine 4. und 5.12.und der A=
+ufbau der B=C3=BChne am Dienstag Nachmittag (3.12.) f=C3=BCr euch m=C3=B6gli=
+ch? Ebenso der Abbau am Freitag, 6.12 bis um 12.00? Das w=C3=BCrde mich freu=
+en.</div><div>W=C3=A4re es au=C3=9Ferdem m=C3=B6glich, &nbsp;vorab schon zu s=
+prechen und vielleicht die zur Verf=C3=BCgung stehenden Alternativen zu kl=C3=
+=A4ren? Auch, wann eine Lichtprobe fr=C3=BChestens stattfinden kann und so w=
+eiter=E2=80=A6</div><div>Gebraucht werden B=C3=BChne, Licht, schwarzer und r=
+oter Vorhang, Keyboard und Platz f=C3=BCr Streicher.</div><div>Die Mensa ble=
+ibt hinten zu.</div><div>Verst=C3=A4rkt wird zudem Gesang =C3=BCber Mikros u=
+nd Headsets, teilweise auch chorisch.</div><div>Vielen Dank f=C3=BCr eure R=C3=
+=BCckmeldung,</div><div>viele Gr=C3=BC=C3=9Fe,</div><div>Cornelia Klose</div=
+><div><br></div><div><br></div><div><br></div><div><br><div dir=3D"ltr"><div=
+><span style=3D"font-size: 13pt;">Cornelia Klose</span></div><div><div>Auf d=
+er Heide 9 b</div><div>67360 Lingenfeld</div><div><br></div></div></div></di=
+v></body></html>=
+
+--Apple-Mail-4AEB575C-082D-4FB7-96BC-A5F22C2964C1--

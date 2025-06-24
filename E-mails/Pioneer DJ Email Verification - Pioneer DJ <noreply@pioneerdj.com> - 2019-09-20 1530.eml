@@ -1,0 +1,324 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <msprvs1=18166oVew1HGE=bounces-209384-1@bounces.gigya-raas.com>
+Received: from cst101.belwue.de ([129.143.2.71] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.2.14)
+  with ESMTP id 8594613 for technikag@fichte-gymnasium.de; Fri, 20 Sep 2019 15:31:01 +0200
+Received: from mta494c.sparkpostmail.com (mta494c.sparkpostmail.com [52.40.7.215])
+	by cst101.belwue.de with ESMTPS id x8KDUp3g014473
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=NOT)
+	for <technikag@fichte-gymnasium.de>; Fri, 20 Sep 2019 15:30:57 +0200 (MEST)
+	env-from (msprvs1=18166oVew1HGE=bounces-209384-1@bounces.gigya-raas.com)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gigya-raas.com;
+	s=scph0318; t=1568986249; i=@gigya-raas.com;
+	bh=LGrFkI4HA+qecVCXdeaWobqgFTRUyEm4Gh1EvP+OgHg=;
+	h=From:Date:Subject:Message-Id:To:Content-Type;
+	b=ty47QoNZr1MAjUKVBl9bcAW6NQHkzUKQkW7t497+CcIUeMqN4x3GsBp17AqOzp9RA
+	 pf6SuQ7T1LY/9uukTcj93QhF2dcRswwnipGHAi+RBwaT8gqK5MMi9uoXpY07xJE8yG
+	 fDRAAJYJ4xv7uk90aMuuhdCrtdxd85BkKzSBgv9k=
+X-MSFBL: RHBm92HTKVlPRbaPFm11j5CoB4Q/IlYpYE90WVLkFL0=|eyJ0ZW5hbnRfaWQiOiJ
+	zcGMiLCJtZXNzYWdlX2lkIjoiMDAwMDg5ZDQ4NDVkNjkxOWU0NzIiLCJzdWJhY2N
+	vdW50X2lkIjoiMSIsImN1c3RvbWVyX2lkIjoiMjA5Mzg0IiwiciI6InRlY2huaWt
+	hZ0BmaWNodGUtZ3ltbmFzaXVtLmRlIn0=
+Authentication-Results:  ac.mta1vsmtp.cc.prd.sparkpost smtp.user=<hidden>; auth=pass (LOGIN)
+Received: from [18.210.84.72] ([18.210.84.72:46746] helo=mailraas.gigya-raas.com)
+	by ac.mta1vsmtp.cc.prd.sparkpost (envelope-from <mail-service@gigya-raas.com>)
+	(ecelerity 4.3.0.68658 r(Core:4.3.0.35)) with ESMTPSA (cipher=AES-256-GCM) 
+	id 4E/27-06505-984D48D5; Fri, 20 Sep 2019 13:30:49 +0000
+Received: by mailraas.gigya-raas.com (Postfix, from userid 0)
+	id 7A37A1407155; Fri, 20 Sep 2019 09:30:47 -0400 (EDT)
+Received: from [10.8.136.104] (unknown [10.8.136.104])
+ by mailraas2.gigya-raas.com (Postfix) with ESMTP id 0C787549E65B
+ for <technikag@fichte-gymnasium.de>; Fri, 20 Sep 2019 09:30:37 -0400 (EDT)
+From: Pioneer DJ <noreply@pioneerdj.com>
+Date: Fri, 20 Sep 2019 09:30:37 -0400
+Subject: Pioneer DJ Email Verification
+Message-Id: <Z2FS86KUL8U4.2YOHKBZOXCL9@us1d-nomad-s113>
+To: technikag@fichte-gymnasium.de
+X-Site: 7179121
+X-Partnerid: 2055741
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="=-EwMNMGST1GE/t8ifYUf9Kg=="
+Sender: Mail Service <mail-service@gigya-raas.com>
+X-DCC-BelWue-Metrics: cst101.belwue.de 1244; bulk Body=1 Fuz1=1 Fuz2=many
+
+--=-EwMNMGST1GE/t8ifYUf9Kg==
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+Click here if you can't read this email
+ 
+Thank you for registering
+
+-->  
+
+Hi Technik,
+
+Thank you for registering
+
+Thank you for being a part of the Pioneer DJ community.
+
+To verify your account, please confirm your email address.
+Your link will expire in 24 hours, and can only be used one time.
+
+Confirm email address
+Kind regards,
+The Pioneer DJ team
+
+Join the community
+
+You receive this email because you've registered for PioneerDJ.com. The confirmation is necessary to avoid registration by others. Without confirmation your account won't be activated.
+--=-EwMNMGST1GE/t8ifYUf9Kg==
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html; charset="utf-8"
+Content-Id: <Z2FS86KUL8U4.9SK0OQMHOPIW1@us1d-nomad-s113>
+
+<!doctype html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<META name="from"    content="Pioneer DJ <noreply@pioneerdj.com>" />
+<META name="subject" content="Pioneer DJ Email Verification" />
+<title>Thank you for being a part of the Pioneer DJ community.</title>
+<style>
+html {
+    width: 100%;
+}
+
+body {
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    width: 100% !important;
+    background-color: #e1e6e9;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Mail Client Fixes */
+
+img {
+    border: 0;
+    -ms-interpolation-mode: bicubic;
+}
+
+table {
+    border: none;
+    border-collapse: collapse;
+    mso-table-lspace: 0pt;
+    mso-table-rspace: 0pt;
+}
+
+.ExternalClass {
+    width: 100%;
+}
+
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {
+    line-height: 100%;
+}
+
+#outlook a {
+    padding: 0;
+}
+
+/* Elements */
+
+
+/* -600 */
+@media only screen and (max-width: 600px) {
+    body {
+        width: auto!important;
+    }
+    
+    table[class="table-600"] {
+        width: 460px !important;
+    }
+    
+    table[class="table-inner"] {
+        width: 90%!important;
+    }
+    
+    img[class="responsive"] {
+        width: 100% !important;
+    }
+    
+    table[class="houdini"] {
+        display: none !important;
+        visibility:hidden !important;
+    }
+    
+    table[class="column-inner"], table[class="column-1-2"], table[class="column-1-3"] {
+        width: 100% !important;
+    }
+
+    .col-centered {
+    	width: 100% !important;
+    	display: block;
+    	text-align: center;
+    }
+    .col-left {
+    	width: 100% !important;
+    	display: block;
+    	text-align: left;
+    }
+}
+
+/* -480 */
+@media only screen and (max-width: 480px) {
+    body {
+        width: auto !important;
+    }
+    table[class="table-600"] {
+        width: 300px !important;
+    }
+    
+}
+</style>
+
+</head>
+
+<body bgcolor="#f9f9f9">
+<!-- Body -->
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="0" bgcolor="#f9f9f9">
+  <tbody>
+    <tr>
+      <td>
+          <!-- Wrapper -->
+        <table width="600" align="center" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="table-600">
+          <tbody>
+            <tr>
+              <td bgcolor="#f9f9f9">&nbsp;</td>
+            </tr>
+            <!-- Online Version -->
+            <tr>
+              <td bgcolor="#f9f9f9"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                  <!-- tr>
+                    <td align="center" style="font-family: Arial, sans-serif; color:#7b7b7b; font-size:12px;"><a href="#" target="_blank" style="color:#7b7b7b;">Click here</a> if you can't read this email</td>
+                  </tr -->
+                  <tr>
+                  	<td>&nbsp;</td>
+                  </tr>
+                  <tr>
+                  	<td style="padding-bottom:25px;">
+                  		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  			<tr>
+                  				<td align="left" width="450" class="col-centered"><a href="http://www.pioneerdj.com" target="_blank"><img src="https://www.pioneerdj.com/-/media/pioneerdj/Images/CRM/Mail%20templates/logo.jpg" width="154" height="26"></a></td>
+                  				<!-- td align="center" width="150" class="col-centered" style="font-family: Arial, sans-serif; color:#313131; font-size:16px; font-weight:bold;">Thank you for registering</td -->
+                  			</tr>
+                  		</table>
+                  	</td>
+                  </tr>
+                </tbody>
+              </table></td>
+            </tr>
+<!--             
+            <tr>
+              <td><img src="http://placehold.it/600x250" alt="" class="responsive" border="0" style="display: block;"></td>
+            </tr> -->
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+            <!-- Content -->
+            <tr>
+              <td align="center">
+                  <table class="inner" border="0" cellspacing="0" cellpadding="0" width="84%">
+                  <tbody>
+                    <tr>
+                      <td style="padding-top:56px;">
+                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tbody>
+                      	<tr>
+                          <td style="padding-bottom:45px;">
+                          	<table border="0" cellspacing="0" cellpadding="0">
+                          		<tr>
+                          			<td style="font-family: Arial, sans-serif; color:#2B2A38; font-size:18px; line-height: 22px;">Hi Technik,</td>
+                          		</tr>
+                          	</table>
+                          </td>
+                        </tr>
+                          <!-- Intro Text -->
+                        <!-- tr>
+                          <td style="font-family: Arial, sans-serif; color:#313131; font-size:20px; line-height: 24px;">Thank you for registering</td>
+                        </tr -->
+                        <tr>
+                        	<!-- td align="left" style="padding-top:10px; padding-bottom: 18px; line-height: 4px;">
+                        	</td -->
+                        </tr>
+                        <tr>
+                          <td style="font-family: Arial, sans-serif; color:#666666; font-size:14px; line-height: 18px; padding-bottom:45px;"><p>Thank you for being a part of the Pioneer DJ community.</p><p>To verify your account, please confirm your email address.<br />Your link will expire in 24 hours, and can only be used one time.</p></td>
+                        </tr>
+                        <tr>
+                        	<td style="padding-top:0px; padding-bottom: 45px;">
+                        		<div><!--[if mso]>
+									  <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://accounts.us1.gigya.com/accounts.verifyEmail?apiKey=3_vEZfkOeO7xpXppGgWrG22DMAQmY_rUkNM8v9oxtc6F5p0hUS2GLRbBx75xGzya3e&ticket=v3_tk1.6kwz0jStP4OgWr5hiR0tuEtvgV9sYp44hMzzI-zBOkg" target="_blank" style="height:40px;v-text-anchor:middle;width:255px;" stroke="f" fillcolor="#24f6d6">
+									    <w:anchorlock/>
+									    <center>
+									  <![endif]-->
+									      <a href="https://accounts.us1.gigya.com/accounts.verifyEmail?apiKey=3_vEZfkOeO7xpXppGgWrG22DMAQmY_rUkNM8v9oxtc6F5p0hUS2GLRbBx75xGzya3e&ticket=v3_tk1.6kwz0jStP4OgWr5hiR0tuEtvgV9sYp44hMzzI-zBOkg" target="_blank"
+									style="background-color:#24f6d6;color:#3a5ee0;display:inline-block;font-family:sans-serif;font-size:15px;font-weight:bold;line-height:40px;text-align:center;text-decoration:none;width:255px;-webkit-text-size-adjust:none;">Confirm email address</a>
+									  <!--[if mso]>
+									    </center>
+									  </v:rect>
+									<![endif]--></div>
+                        	</td>
+                        </tr>
+                        <tr>
+                          <td style="font-family: Arial, sans-serif; color:#666666; font-size:14px; line-height: 18px; padding-bottom: 45px; padding-top:10px;">Kind regards, <br />The Pioneer DJ team</td>
+                        </tr>                      
+                      </tbody>
+                      </table>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+
+              </td>
+            </tr>
+            <tr>
+              <td bgcolor="#f9f9f9"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody>
+                  <tr>
+                  	<td style="padding-top: 60px;">
+                  		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  			<tr>
+                  				<td align="left" width="300" class="col-left" style="font-family: Arial, sans-serif; color:#313131; font-size:23px; line-height: 27px; padding-bottom:25px;">Join the community</td>
+                  				<td align="right" width="300" class="col-left" style="line-height: 27px;">
+                  					<table border="0" cellspacing="0" cellpadding="0">
+                  						<tr>
+                  							<td width="30" height="30" style="text-align:right;"><a href="https://www.youtube.com/user/pioneerdjglobal"><img src="https://www.pioneerdj.com/-/media/pioneerdj/Images/CRM/Mail%20templates/youtube.png" alt="youtube icon" width="30" height="30"></a></td>
+                  							<td width="60" height="30" style="text-align:right;"><a href="https://twitter.com/PioneerDJglobal"><img src="https://www.pioneerdj.com/-/media/pioneerdj/Images/CRM/Mail%20templates/twitter.png" alt="twitter icon" width="30" height="30"></a></td>
+                  							<td width="50" height="30" style="text-align:right;"><a href="https://www.facebook.com/pioneer.dj.global"><img src="https://www.pioneerdj.com/-/media/pioneerdj/Images/CRM/Mail%20templates/Facebook.png" alt="facebook icon" width="30" height="30"></a></td>
+                  							
+                  						</tr>
+                  					</table>
+                  				</td>
+                  			</tr>
+                  		</table>
+                  	</td>
+                  </tr>
+                  <tr>
+                        <td align="center" valign="top" style="font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-size:16px; line-height:24px; color:#D7D7D7; padding-bottom:0px; border-bottom: 1px solid #D7D7D7">&nbsp;</td>
+                  </tr>
+                  <tr>
+                  	 <td style="font-family: Arial, sans-serif; color:#666666; font-size:13px; line-height: 17px; padding-bottom:20px; padding-top:24px;">You receive this email because you've registered for <a href="http://www.pioneerdj.com" target="_blank" alt="link to pioneerdj" style="color: #3a5ee0; text-decoration:none;">PioneerDJ.com</a>. The confirmation is necessary to avoid registration by others. Without confirmation your account won't be activated.</td>
+                  </tr>
+                </tbody>
+              </table></td>
+            </tr>
+          </tbody>
+        </table>
+       </td>
+    </tr>
+  </tbody>
+</table>
+
+<img border="0" width="1" height="1" alt="" src="http://click.gigya-raas.com/q/HrSpB3CaFUfUxo-e66z2HA~~/AAMx6AA~/RgRfZggJPlcDc3BjQgoAAInUhF1pGeRyUh10ZWNobmlrYWdAZmljaHRlLWd5bW5hc2l1bS5kZVgEAAAAAQ~~">
+</body>
+</html>
+--=-EwMNMGST1GE/t8ifYUf9Kg==--
+

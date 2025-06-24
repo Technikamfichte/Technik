@@ -1,0 +1,307 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <prvs=942ec44ea=poststelle@fichte-gymnasium-ka.schule.bwl.de>
+Received: from mail-hub02.belwue.de ([129.143.76.42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.7f)
+  with ESMTPS id 37816552 for technikag@fichte-gymnasium.de; Thu, 11 Nov 2021 14:37:54 +0100
+Received: from mail-in01.belwue.de (mail-in01.belwue.de [IPv6:2001:7c0:0:76::1])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4HqjTG4BL1z3c4W
+	for <technikag@fichte-gymnasium.de>; Thu, 11 Nov 2021 14:37:54 +0100 (CET)
+Received: from mailgate4.bwl.de (mailgate2.bwl.de [193.197.148.18])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mail-in01.belwue.de (Postfix) with ESMTPS id 4HqjTF2TtYz53Hkc
+	for <technikag@fichte-gymnasium.de>; Thu, 11 Nov 2021 14:37:53 +0100 (CET)
+IronPort-SDR: uUFV/fTyp7aU7nVddsuUTnvjFcjI39CFUsj04Utr0OmykC1LB9kg0oBLjjVw+r6C10nM6+H9FK
+ qwrEsVRwSX0g==
+X-IronPort-AV: E=Sophos;i="5.87,226,1631570400"; 
+   d="scan'208,217";a="48687961"
+Received: from unknown (HELO lvnsmtp03.bwl.de) ([10.127.32.72])
+  by mailgate4.bwl.de with ESMTP/TLS/ECDHE-RSA-AES256-GCM-SHA384; 11 Nov 2021 14:37:52 +0100
+Received: from mailgw1.bwl.de (unknown [10.127.32.33])
+	by lvnsmtp03.bwl.de (Postfix) with ESMTP id 4HqjTC6xK6z4f3sCQ
+	for <technikag@fichte-gymnasium.de>; Thu, 11 Nov 2021 14:37:51 +0100 (CET)
+IronPort-SDR: NgNkUJ0fWPLaoZb+ziqWDfNjSeP8DhpEfQhcJiFyXiGW7jCt88rm4N6UYg8XwCZM/2ay8qurps
+ OM6yjjLfAngw==
+X-IronPort-AV: E=Sophos;i="5.87,226,1631570400"; 
+   d="scan'208,217";a="88119162"
+Received: from kvlsm1002bf.schule.bwl.de ([10.11.9.109])
+  by mailgw1.bwl.de with ESMTP; 11 Nov 2021 14:37:52 +0100
+Received: from kvlsm1001ms.schule.bwl.de (kvlsm1001ms.schule.bwl.de [10.11.9.106])
+	by kvlsm1002bf.schule.bwl.de (Postfix) with ESMTP id F01DD58002C22
+	for <technikag@fichte-gymnasium.de>; Thu, 11 Nov 2021 14:37:51 +0100 (CET)
+Received: from server.04105004.schule.bwl.de (unknown [10.16.153.35])
+	(Authenticated sender: poststelle@04105004.schule.bwl.de)
+	by kvlsm1001ms.schule.bwl.de (Postfix) with ESMTPA id BD86058BDFA39
+	for <technikag@fichte-gymnasium.de>; Thu, 11 Nov 2021 14:37:51 +0100 (CET)
+Received: from PCSV20200026 (Unknown [10.16.153.36])
+	by server.04105004.schule.bwl.de with ESMTPA
+	; Thu, 11 Nov 2021 14:37:51 +0100
+From: "Sekretariat Fichte-Gymnasium" <poststelle@fichte-gymnasium-ka.schule.bwl.de>
+To: "'Technik AG'" <technikag@fichte-gymnasium.de>
+References: <C9960DD2-D5F2-47B7-8FB4-FA5D30EA6648@baeckel-ka.de> <2fe68781-49d8-40ee-a0ee-17dbeb5adb6a@email.android.com>
+In-Reply-To: <2fe68781-49d8-40ee-a0ee-17dbeb5adb6a@email.android.com>
+Subject: AW: Fichte-Gymnasium / Bestellung Technik-AG
+Date: Thu, 11 Nov 2021 14:37:48 +0100
+Message-ID: <014b01d7d701$50c49a80$f24dcf80$@fichte-gymnasium-ka.schule.bwl.de>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_014C_01D7D709.B289C5D0"
+X-Mailer: Microsoft Outlook 16.0
+Thread-Index: AQLD/+dqiya9lQx+RdPonmr3b36b+6omAoyg
+Content-Language: de
+X-Rspamd-Queue-Id: 4HqjTF2TtYz53Hkc
+X-Rspamd-UID: dee6f8
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_014C_01D7D709.B289C5D0
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Lieber Florian,
+
+=20
+
+ein Teil der Bestellung ist mittlerweile da und kann im Sekretariat =
+abgeholt werden.=20
+
+=20
+
+=20
+
+Mit freundlichen Gr=C3=BC=C3=9Fen
+
+=20
+
+Silke K=C3=B6llner
+
+Sekretariat
+
+Fichte-Gymnasium
+
+Sophienstr. 12 =E2=80=93 16
+
+76133 Karlsruhe
+
+Tel.: 0721/133-4508
+
+Fax: 0721/133-4960
+
+=20
+
+Von: Technik AG <technikag@fichte-gymnasium.de>=20
+Gesendet: Freitag, 15. Oktober 2021 21:01
+An: sekretariat@fichte-gymnasium.de
+Cc: hans.baeckel@fichte-gymnasium.de
+Betreff: Re: Fichte-Gymnasium / Bestellung Technik-AG
+
+=20
+
+Sehr geehrte Frau K=C3=B6llner,
+
+=20
+
+hier der Thomann Bestellwunsch der Technik-AG in H=C3=B6he von 368,40 =
+=E2=82=AC, welcher bereits von Herr B=C3=A4ckel bei Ihnen =
+angek=C3=BCndigt wurde.
+
+=20
+
+https://www.thomann.de/de/wishlist_4u_3c10d1e04c76.html?sort=3Duser
+
+=20
+
+Vielen herzlichen Dank!
+
+Mit freundlichen Gr=C3=BC=C3=9Fen
+
+Florian Metzger
+
+=20
+
+On 15 Oct 2021 08:31, Hans B=C3=A4ckel <hans@baeckel-ka.de =
+<mailto:hans@baeckel-ka.de> > wrote:
+
+Lieber Ralf, liebe Silke,=20
+
+bei den Theater-Auff=C3=BChrungen hat sich gezeigt, dass wir von der =
+Technik-AG etwas in die Sicherheit investieren m=C3=BCssten. Das =
+betrifft zum einen Kabelmatten, um Stolperfallen zu beseitigen und zum =
+anderen Fangseile (Sicherungen falls die Befestigungen versagen) =
+f=C3=BCr Scheinwerfer und andere Ger=C3=A4te, die =C3=BCber den =
+K=C3=B6pfen der BesucherInnen h=C3=A4ngen.=20
+
+Daher w=C3=BCrde die Technik-AG gerne einmalig f=C3=BCr etwa 300 Euro =
+das obige Inventar bestellen.=20
+
+Es w=C3=BCrde mich freuen, wenn wir die Bestellung =C3=BCber das =
+Schulbudget abwickeln k=C3=B6nnten. Wie bei der letzten Bestellung, =
+w=C3=BCrde Florian Metzger eine Mail mit den Links zur Bestellung an das =
+Sekretariat schicken.=20
+
+
+Beste Gr=C3=BC=C3=9Fe=20
+hans
+
+=20
+
+
+------=_NextPart_000_014C_01D7D709.B289C5D0
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8"><meta =
+name=3DGenerator content=3D"Microsoft Word 15 (filtered =
+medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.E-MailFormatvorlage19
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 70.85pt 2.0cm 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DDE =
+link=3D"#0563C1" vlink=3D"#954F72"><div class=3DWordSection1><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D;=
+mso-fareast-language:EN-US'>Lieber Florian,<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D;=
+mso-fareast-language:EN-US'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D;=
+mso-fareast-language:EN-US'>ein Teil der Bestellung ist mittlerweile da =
+und kann im Sekretariat abgeholt werden. <o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D;=
+mso-fareast-language:EN-US'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D'=
+>&nbsp;<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D'=
+>Mit freundlichen Gr=C3=BC=C3=9Fen<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D'=
+>&nbsp;<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D'=
+>Silke K=C3=B6llner<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D'=
+>Sekretariat<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D'=
+>Fichte-Gymnasium<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D'=
+>Sophienstr. 12 =E2=80=93 16<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D'=
+>76133 Karlsruhe<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D'=
+>Tel.: 0721/133-4508<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D'=
+>Fax: 0721/133-4960<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D;=
+mso-fareast-language:EN-US'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal><b><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'>Von:</span></=
+b><span style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'> =
+Technik AG &lt;technikag@fichte-gymnasium.de&gt; <br><b>Gesendet:</b> =
+Freitag, 15. Oktober 2021 21:01<br><b>An:</b> =
+sekretariat@fichte-gymnasium.de<br><b>Cc:</b> =
+hans.baeckel@fichte-gymnasium.de<br><b>Betreff:</b> Re: Fichte-Gymnasium =
+/ Bestellung Technik-AG<o:p></o:p></span></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><div><div><p =
+class=3DMsoNormal>Sehr geehrte Frau =
+K=C3=B6llner,<o:p></o:p></p></div><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div><div><p =
+class=3DMsoNormal>hier der Thomann Bestellwunsch der Technik-AG in =
+H=C3=B6he von&nbsp;368,40 =E2=82=AC, welcher bereits von Herr =
+B=C3=A4ckel bei Ihnen angek=C3=BCndigt =
+wurde.<o:p></o:p></p></div><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div><div><p =
+class=3DMsoNormal><a =
+href=3D"https://www.thomann.de/de/wishlist_4u_3c10d1e04c76.html?sort=3Dus=
+er">https://www.thomann.de/de/wishlist_4u_3c10d1e04c76.html?sort=3Duser</=
+a><o:p></o:p></p></div><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div><div><p =
+class=3DMsoNormal>Vielen herzlichen Dank!<o:p></o:p></p></div><div><p =
+class=3DMsoNormal>Mit freundlichen =
+Gr=C3=BC=C3=9Fen<o:p></o:p></p></div><div><p class=3DMsoNormal>Florian =
+Metzger<o:p></o:p></p></div><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><div><p class=3DMsoNormal>On 15 =
+Oct 2021 08:31, Hans B=C3=A4ckel &lt;<a =
+href=3D"mailto:hans@baeckel-ka.de">hans@baeckel-ka.de</a>&gt; =
+wrote:<o:p></o:p></p><blockquote style=3D'border:none;border-left:solid =
+#CCCCCC 1.0pt;padding:0cm 0cm 0cm =
+6.0pt;margin-left:4.8pt;margin-right:0cm'><p>Lieber Ralf, liebe Silke, =
+<br><br>bei den Theater-Auff=C3=BChrungen hat sich gezeigt, dass wir von =
+der Technik-AG etwas in die Sicherheit investieren m=C3=BCssten. Das =
+betrifft zum einen Kabelmatten, um Stolperfallen zu beseitigen und zum =
+anderen Fangseile (Sicherungen falls die Befestigungen versagen) =
+f=C3=BCr Scheinwerfer und andere Ger=C3=A4te, die =C3=BCber den =
+K=C3=B6pfen der BesucherInnen h=C3=A4ngen. <br><br>Daher w=C3=BCrde die =
+Technik-AG gerne einmalig f=C3=BCr etwa 300 Euro das obige Inventar =
+bestellen. <br><br>Es w=C3=BCrde mich freuen, wenn wir die Bestellung =
+=C3=BCber das Schulbudget abwickeln k=C3=B6nnten. Wie bei der letzten =
+Bestellung, w=C3=BCrde Florian Metzger eine Mail mit den Links zur =
+Bestellung an das Sekretariat schicken. <br><br><br>Beste =
+Gr=C3=BC=C3=9Fe <br>hans<o:p></o:p></p></blockquote></div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></div></div></body></html>
+------=_NextPart_000_014C_01D7D709.B289C5D0--
+
+

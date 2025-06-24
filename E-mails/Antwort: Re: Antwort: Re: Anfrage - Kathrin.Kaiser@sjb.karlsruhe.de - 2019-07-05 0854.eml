@@ -1,0 +1,767 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <Kathrin.Kaiser@sjb.karlsruhe.de>
+Received: from cst101.belwue.de ([129.143.2.71] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.2.12)
+  with ESMTP id 3046231 for technikag@fichte-gymnasium.de; Fri, 05 Jul 2019 08:54:18 +0200
+Received: from mail.karlsruhe.de (mail3.karlsruhe.de [193.197.165.66])
+	by cst101.belwue.de with ESMTPS id x656sDxH003269
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=NOT)
+	for <technikag@fichte-gymnasium.de>; Fri, 5 Jul 2019 08:54:13 +0200 (MEST)
+	env-from (Kathrin.Kaiser@sjb.karlsruhe.de)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=sjb.karlsruhe.de; s=20171004; h=Content-Type:Date:From:Message-ID:Subject:
+	MIME-Version:To:References:In-Reply-To:Sender:Reply-To:Cc:
+	Content-Transfer-Encoding:Content-ID:Content-Description:Resent-Date:
+	Resent-From:Resent-Sender:Resent-To:Resent-Cc:Resent-Message-ID:List-Id:
+	List-Help:List-Unsubscribe:List-Subscribe:List-Post:List-Owner:List-Archive;
+	 bh=RXuVn83VjkZwmChnoZ8P8zaocLRk5hhAF8d4cOJhqgY=; b=LfFAMyl28ZXt2cRAuGLTuok4K
+	3SRqtO0LRhSqQ7hbahHVnpSn10MKZZLMvb4mE7En+c5GG0pWEkRk7TsjRH5oPp9PBx+hku0SgXWj1
+	GH9fp4UtTrg0olrgU+HL0UjtokZxnwCjmXpEL/GwXUi7s2KeW1hFwzhL8QIuE+hp0oO6A=;
+In-Reply-To: <3d569ff0-94c5-87ad-7efc-2eee4581d520@fichte-gymnasium.de>
+References: <OF292E2A94.C5E5D644-ONC1258427.0056306A-C1258427.0056BBEC@poa.karlsruhe.de> <c3a16c7c-b5c0-0cc1-5f36-56bc86b21aed@fichte-gymnasium.de> <OF50377CEC.945495B8-ONC125842B.0029A6F8-C125842B.0029CDEB@poa.karlsruhe.de> <3d569ff0-94c5-87ad-7efc-2eee4581d520@fichte-gymnasium.de>
+To: TechnikAG <technikag@fichte-gymnasium.de>
+MIME-Version: 1.0
+Subject: Antwort: Re: Antwort: Re: Anfrage
+X-KeepSent: B27610E2:870E8000-C125842E:00253B42;
+ type=4; name=$KeepSent
+Message-ID: <OFB27610E2.870E8000-ONC125842E.00253B42-C125842E.0025F043@poa.karlsruhe.de>
+From: Kathrin.Kaiser@sjb.karlsruhe.de
+Date: Fri, 5 Jul 2019 08:54:13 +0200
+Content-Type: multipart/mixed; boundary="=_mixed 0025F040C125842E_="
+X-DCC-BelWue-Metrics: cst101.belwue.de 1243; Body=1 Fuz1=1 Fuz2=1
+
+--=_mixed 0025F040C125842E_=
+Content-Type: multipart/alternative; boundary="=_alternative 0025F040C125842E_="
+
+
+--=_alternative 0025F040C125842E_=
+Content-Type: text/plain; charset="ISO-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo Levin,=20
+
+ich habe bis jetzt noch keine Antworten bekommen auf eure Fragen.=20
+Aus der Erfahrung vom letzten Jahr, w=FCrde ich sagen:=20
+- Deckenlicht reicht, es ist kein Theaterst=FCck, das ausgeleuchtet werden =
+
+muss, sondern ein Schauspieler, der ein Kabarettprogramm vortr=E4gt
+- Beamer wird gebraucht, er zeigt Bilder und hat eine PPP
+- Die B=FChne muss nicht besonders gro=DF sein, es ist wie gesagt ein=20
+Ein-Mann-Kabarett.=20
+
+Die 1.Vorstellung beginnt um 7.45Uhr, Schauspieler und Techniker werden um =
+
+6.45Uhr da sein, ich hab ihnen gesagt, dass du 7.15Uhr da bist. Zur Info=20
+seine Aussage:=20
+
+"Eine halbe Stunde wird zu knapp. =20
+Aus Erfahrung: Eine Stunde vorher macht Sinn!
+Die Technik AG kann aber am Vortag schonmal checken dass das Mikro=20
+funktioniert,
+Batterien ausreichend geladen oder Esatzbatterien da sind=20
+und der Beamer l=E4uft :)
+Das sind so immer die Kernprobleme nach 3 Jahren Homologie ;)
+Wenn noch was ist k=F6nnen wir gerne auch nochmal telefonieren: 0176 831 27=
+=20
+829
+
+LG Timo Becker"
+
+Die 2.Vorstellung ist um 9.45Uhr-11.15Uhr, so dass wir dann ganz gut Zeit=20
+haben, f=FCr die Mensa umzubauen.=20
+Ich h=E4ng dir nochmal den "Strukturbogen" an.=20
+
+
+
+Wei=DFt du, wann ihr am Dienstag (16.7.) aufbaut? Dann w=FCrde ich=20
+vorbeikommen, wenn es nicht zu sp=E4t ist (um 15.30Uhr muss ich meinen Sohn=
+=20
+abholen).=20
+
+Mit besten Gr=FC=DFen,=20
+Kathrin Kaiser
+Schulsozialarbeit Fichte-Gymnasium
+Sophienstr. 12-16
+76133 Karlsruhe
+----------------------------------------------------------------
+Stadt Karlsruhe
+Sozial- und Jugendbeh=F6rde
+Fachbereich Jugendhilfe und Soziale Dienste
+Abteilung Schulsozialarbeit
+
+Telefon: 0721-133 3832
+Email: kathrin.kaiser@sjb.karlsruhe.de
+www.karlsruhe.de/sodi
+
+
+
+Von:    TechnikAG <technikag@fichte-gymnasium.de>
+An:     Kathrin.Kaiser@sjb.karlsruhe.de,=20
+Datum:  03.07.2019 08:01
+Betreff:        Re: Antwort: Re: Anfrage
+
+
+
+Hallo Frau Kaiser,
+eine Frage noch: Wissen Sie, ob es f=FCr das Theaterst=FCck spezielles Lich=
+t=20
+braucht oder das Deckenlicht ausreicht? Au=DFerdem w=E4re es gut zu wissen,=
+ ob=20
+der Beamer gebraucht wird. Wie gro=DF soll die B=FChne dann eigentlich sein=
+,=20
+sind 4*8 m gut?
+Wie es jetzt aussieht sollten wir ohne Hilfe auskommen.
+Viele Gr=FC=DFe
+Levin
+Am 02.07.2019 um 09:36 schrieb Kathrin.Kaiser@sjb.karlsruhe.de:
+Hallo Levin,=20
+
+danke dir!=20
+Der Schauspieler bringt auch einen Techniker mit- nur kann der nat=FCrlich =
+
+nicht aufbauen.=20
+Sag Bescheid, wenn ihr Leute zum Aufbau braucht, das sollte kein Problem=20
+sein, ich wollte es nicht an euch "abdr=FCcken".=20
+
+Mit besten Gr=FC=DFen,=20
+Kathrin Kaiser=20
+Schulsozialarbeit Fichte-Gymnasium=20
+Sophienstr. 12-16=20
+76133 Karlsruhe=20
+----------------------------------------------------------------=20
+Stadt Karlsruhe=20
+Sozial- und Jugendbeh=F6rde=20
+Fachbereich Jugendhilfe und Soziale Dienste=20
+Abteilung Schulsozialarbeit=20
+
+Telefon: 0721-133 3832=20
+Email: kathrin.kaiser@sjb.karlsruhe.de=20
+www.karlsruhe.de/sodi=20
+
+
+
+Von:        TechnikAG <technikag@fichte-gymnasium.de>=20
+An:        Kathrin.Kaiser@sjb.karlsruhe.de,=20
+Datum:        29.06.2019 17:47=20
+Betreff:        Re: Anfrage=20
+
+
+
+Hallo Frau Kaiser,=20
+momentan sieht es leider so aus, als w=E4ren viele Techniker nicht da, ich =
+
+hoffe aber, dass sich noch ein paar melden. An sich sollte es f=FCr die=20
+Betreuung des Events kein Problem sein, wenn nur ich da bin, aber f=FCr den=
+=20
+Auf- und Abbau der B=FChne brauche ich nat=FCrlich noch Verst=E4rkung; fall=
+s=20
+sich da niemand finden sollte, spreche ich Sie nochmal an.=20
+Die Zeiten gehen soweit klar, ich denke ich kann morgens ab etwa Viertel=20
+nach sieben da sein.=20
+Viele Gr=FC=DFe=20
+Levin=20
+Am 28.06.2019 um 17:47 schrieb Kathrin.Kaiser@sjb.karlsruhe.de:=20
+Hallo Levin,=20
+
+vielleicht k=F6nnt ihr euch erinnern, vor einem Jahr war Timo Becker mit=20
+seinem Programm "Homologie" zu Gast in der Mensa.=20
+Der wird nun wieder kommen.=20
+Frage: K=F6nntet ihr B=FChne und Technik aufbauen? Am besten am Tag davor. =
+Und=20
+ab wann k=F6nnte jemand morgens da sein?=20
+Herr B=E4ckel wird euch auch nochmal ansprechen.=20
+
+Ich h=E4ng dir mal den Strukturbogen an, vielleicht erinnerst du dich an=20
+den. Ich nehme an, den kann ich genauso =FCbernehmen? Auch mit deiner=20
+Telefonnummer?=20
+
+
+
+Die Auff=FChrungen sind am Mittwoch, 17.7., am liebsten w=E4re es uns ca.=20
+7.45-9.15Uhr und 9.45-11.15Uhr. W=E4re das machbar f=FCr euch?=20
+Der Schauspieler wird sicher fr=FCher da sein und die Technik ausprobieren =
+
+wollen. Und danach m=FCssten wir wieder umbauen, ihr wisst, die Mensa wird =
+
+gebraucht.=20
+
+Bitte gib mir eine R=FCckmeldung, auch wenn ihr Unterst=FCtzung braucht. Da=
+nke=20
+dir!=20
+
+Mit besten Gr=FC=DFen,=20
+Kathrin Kaiser=20
+Schulsozialarbeit Fichte-Gymnasium=20
+Sophienstr. 12-16=20
+76133 Karlsruhe=20
+----------------------------------------------------------------=20
+Stadt Karlsruhe=20
+Sozial- und Jugendbeh=F6rde=20
+Fachbereich Jugendhilfe und Soziale Dienste=20
+Abteilung Schulsozialarbeit=20
+
+Telefon: 0721-133 3832=20
+Email: kathrin.kaiser@sjb.karlsruhe.de=20
+www.karlsruhe.de/sodi=20
+
+--=_alternative 0025F040C125842E_=
+Content-Type: text/html; charset="ISO-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<font size=3D2 face=3D"sans-serif">Hallo Levin, </font>
+<br>
+<br><font size=3D2 face=3D"sans-serif">ich habe bis jetzt noch keine Antwor=
+ten
+bekommen auf eure Fragen. </font>
+<br><font size=3D2 face=3D"sans-serif">Aus der Erfahrung vom letzten Jahr,
+w=FCrde ich sagen: </font>
+<br><font size=3D2 face=3D"sans-serif">- Deckenlicht reicht, es ist kein Th=
+eaterst=FCck,
+das ausgeleuchtet werden muss, sondern ein Schauspieler, der ein Kabarettpr=
+ogramm
+vortr=E4gt</font>
+<br><font size=3D2 face=3D"sans-serif">- Beamer wird gebraucht, er zeigt Bi=
+lder
+und hat eine PPP</font>
+<br><font size=3D2 face=3D"sans-serif">- Die B=FChne muss nicht besonders g=
+ro=DF
+sein, es ist wie gesagt ein Ein-Mann-Kabarett. </font>
+<br>
+<br><font size=3D2 face=3D"sans-serif">Die 1.Vorstellung beginnt um 7.45Uhr,
+Schauspieler und Techniker werden um 6.45Uhr da sein, ich hab ihnen gesagt,
+dass du 7.15Uhr da bist. Zur Info seine Aussage: </font>
+<br>
+<br><font size=3D3>&quot;Eine halbe Stunde wird zu knapp.&nbsp; </font>
+<br><font size=3D3>Aus Erfahrung: Eine Stunde vorher macht Sinn!</font>
+<br><font size=3D3>Die Technik AG kann aber am Vortag schonmal checken dass
+das Mikro funktioniert,</font>
+<br><font size=3D3>Batterien ausreichend geladen oder Esatzbatterien da sin=
+d&nbsp;</font>
+<br><font size=3D3>und der Beamer l=E4uft :)</font>
+<br><font size=3D3>Das sind so immer die Kernprobleme nach 3 Jahren Homolog=
+ie
+;)</font>
+<br><font size=3D3>Wenn noch was ist k=F6nnen wir gerne auch nochmal telefo=
+nieren:
+0176 831 27 829</font>
+<br>
+<br><font size=3D3>LG Timo Becker&quot;</font>
+<br>
+<br><font size=3D2 face=3D"sans-serif">Die 2.Vorstellung ist um 9.45Uhr-11.=
+15Uhr,
+so dass wir dann ganz gut Zeit haben, f=FCr die Mensa umzubauen. </font>
+<br><font size=3D2 face=3D"sans-serif">Ich h=E4ng dir nochmal den &quot;Str=
+ukturbogen&quot;
+an. </font>
+<br>
+<br>
+<br>
+<br><font size=3D2 face=3D"sans-serif">Wei=DFt du, wann ihr am Dienstag (16=
+.7.)
+aufbaut? Dann w=FCrde ich vorbeikommen, wenn es nicht zu sp=E4t ist (um 15.=
+30Uhr
+muss ich meinen Sohn abholen). </font>
+<br>
+<br><font size=3D2 face=3D"sans-serif">Mit besten Gr=FC=DFen, </font>
+<br><font size=3D2 face=3D"sans-serif">Kathrin Kaiser</font>
+<br><font size=3D2 face=3D"sans-serif">Schulsozialarbeit Fichte-Gymnasium</=
+font>
+<br><font size=3D2 face=3D"sans-serif">Sophienstr. 12-16</font>
+<br><font size=3D2 face=3D"sans-serif">76133 Karlsruhe</font>
+<br><font size=3D2 face=3D"sans-serif">------------------------------------=
+----------------------------</font>
+<br><font size=3D2 face=3D"sans-serif">Stadt Karlsruhe</font>
+<br><font size=3D2 face=3D"sans-serif">Sozial- und Jugendbeh=F6rde</font>
+<br><font size=3D2 face=3D"sans-serif">Fachbereich Jugendhilfe und Soziale
+Dienste</font>
+<br><font size=3D2 face=3D"sans-serif">Abteilung Schulsozialarbeit</font>
+<br>
+<br><font size=3D2 face=3D"sans-serif">Telefon: 0721-133 3832</font>
+<br><font size=3D2 face=3D"sans-serif">Email: kathrin.kaiser@sjb.karlsruhe.=
+de</font>
+<br><a href=3Dwww.karlsruhe.de/sodi><font size=3D2 face=3D"sans-serif">www.=
+karlsruhe.de/sodi</font></a>
+<br>
+<br>
+<br>
+<br><font size=3D1 color=3D#5f5f5f face=3D"sans-serif">Von: &nbsp; &nbsp; &=
+nbsp;
+&nbsp;</font><font size=3D1 face=3D"sans-serif">TechnikAG &lt;technikag@fic=
+hte-gymnasium.de&gt;</font>
+<br><font size=3D1 color=3D#5f5f5f face=3D"sans-serif">An: &nbsp; &nbsp; &n=
+bsp;
+&nbsp;</font><font size=3D1 face=3D"sans-serif">Kathrin.Kaiser@sjb.karlsruh=
+e.de,
+</font>
+<br><font size=3D1 color=3D#5f5f5f face=3D"sans-serif">Datum: &nbsp; &nbsp;=
+ &nbsp;
+&nbsp;</font><font size=3D1 face=3D"sans-serif">03.07.2019 08:01</font>
+<br><font size=3D1 color=3D#5f5f5f face=3D"sans-serif">Betreff: &nbsp; &nbs=
+p;
+&nbsp; &nbsp;</font><font size=3D1 face=3D"sans-serif">Re: Antwort:
+Re: Anfrage</font>
+<br>
+<hr noshade>
+<br>
+<br>
+<br><font size=3D3>Hallo Frau Kaiser,</font>
+<p><font size=3D3>eine Frage noch: Wissen Sie, ob es f=FCr das Theaterst=FC=
+ck
+spezielles Licht braucht oder das Deckenlicht ausreicht? Au=DFerdem w=E4re
+es gut zu wissen, ob der Beamer gebraucht wird. Wie gro=DF soll die B=FChne
+dann eigentlich sein, sind 4*8 m gut?</font>
+<p><font size=3D3>Wie es jetzt aussieht sollten wir ohne Hilfe auskommen.</=
+font>
+<p><font size=3D3>Viele Gr=FC=DFe</font>
+<p><font size=3D3>Levin</font>
+<p><font size=3D3>Am 02.07.2019 um 09:36 schrieb </font><a href=3Dmailto:Ka=
+thrin.Kaiser@sjb.karlsruhe.de><font size=3D3 color=3Dblue><u>Kathrin.Kaiser=
+@sjb.karlsruhe.de</u></font></a><font size=3D3>:</font>
+<br><font size=3D2 face=3D"sans-serif">Hallo Levin, </font><font size=3D3><=
+br>
+</font><font size=3D2 face=3D"sans-serif"><br>
+danke dir! <br>
+Der Schauspieler bringt auch einen Techniker mit- nur kann der nat=FCrlich
+nicht aufbauen. <br>
+Sag Bescheid, wenn ihr Leute zum Aufbau braucht, das sollte kein Problem
+sein, ich wollte es nicht an euch &quot;abdr=FCcken&quot;. </font><font siz=
+e=3D3><br>
+</font><font size=3D2 face=3D"sans-serif"><br>
+Mit besten Gr=FC=DFen, <br>
+Kathrin Kaiser</font><font size=3D3> </font><font size=3D2 face=3D"sans-ser=
+if"><br>
+Schulsozialarbeit Fichte-Gymnasium</font><font size=3D3> </font><font size=
+=3D2 face=3D"sans-serif"><br>
+Sophienstr. 12-16</font><font size=3D3> </font><font size=3D2 face=3D"sans-=
+serif"><br>
+76133 Karlsruhe</font><font size=3D3> </font><font size=3D2 face=3D"sans-se=
+rif"><br>
+----------------------------------------------------------------</font><fon=
+t size=3D3>
+</font><font size=3D2 face=3D"sans-serif"><br>
+Stadt Karlsruhe</font><font size=3D3> </font><font size=3D2 face=3D"sans-se=
+rif"><br>
+Sozial- und Jugendbeh=F6rde</font><font size=3D3> </font><font size=3D2 fac=
+e=3D"sans-serif"><br>
+Fachbereich Jugendhilfe und Soziale Dienste</font><font size=3D3> </font><f=
+ont size=3D2 face=3D"sans-serif"><br>
+Abteilung Schulsozialarbeit</font><font size=3D3> <br>
+</font><font size=3D2 face=3D"sans-serif"><br>
+Telefon: 0721-133 3832</font><font size=3D3> </font><font size=3D2 face=3D"=
+sans-serif"><br>
+Email: </font><a href=3Dmailto:kathrin.kaiser@sjb.karlsruhe.de><font size=
+=3D2 color=3Dblue face=3D"sans-serif"><u>kathrin.kaiser@sjb.karlsruhe.de</u=
+></font></a><font size=3D3>
+</font><font size=3D3 color=3Dblue><u><br>
+</u></font><a href=3Dwww.karlsruhe.de/sodi><font size=3D2 color=3Dblue face=
+=3D"sans-serif"><u>www.karlsruhe.de/sodi</u></font></a><font size=3D3>
+<br>
+<br>
+<br>
+</font><font size=3D1 color=3D#5f5f5f face=3D"sans-serif"><br>
+Von: &nbsp; &nbsp; &nbsp; &nbsp;</font><font size=3D1 face=3D"sans-serif">T=
+echnikAG
+</font><a href=3D"mailto:technikag@fichte-gymnasium.de"><font size=3D1 colo=
+r=3Dblue face=3D"sans-serif"><u>&lt;technikag@fichte-gymnasium.de&gt;</u></=
+font></a><font size=3D3>
+</font><font size=3D1 color=3D#5f5f5f face=3D"sans-serif"><br>
+An: &nbsp; &nbsp; &nbsp; &nbsp;</font><a href=3Dmailto:Kathrin.Kaiser@sjb.k=
+arlsruhe.de><font size=3D1 color=3Dblue face=3D"sans-serif"><u>Kathrin.Kais=
+er@sjb.karlsruhe.de</u></font></a><font size=3D1 face=3D"sans-serif">,
+</font><font size=3D1 color=3D#5f5f5f face=3D"sans-serif"><br>
+Datum: &nbsp; &nbsp; &nbsp; &nbsp;</font><font size=3D1 face=3D"sans-serif"=
+>29.06.2019
+17:47</font><font size=3D3> </font><font size=3D1 color=3D#5f5f5f face=3D"s=
+ans-serif"><br>
+Betreff: &nbsp; &nbsp; &nbsp; &nbsp;</font><font size=3D1 face=3D"sans-seri=
+f">Re:
+Anfrage</font><font size=3D3> <br>
+</font>
+<hr noshade><font size=3D3><br>
+<br>
+<br>
+Hallo Frau Kaiser, </font>
+<p><font size=3D3>momentan sieht es leider so aus, als w=E4ren viele Techni=
+ker
+nicht da, ich hoffe aber, dass sich noch ein paar melden. An sich sollte
+es f=FCr die Betreuung des Events kein Problem sein, wenn nur ich da bin,
+aber f=FCr den Auf- und Abbau der B=FChne brauche ich nat=FCrlich noch Vers=
+t=E4rkung;
+falls sich da niemand finden sollte, spreche ich Sie nochmal an. </font>
+<p><font size=3D3>Die Zeiten gehen soweit klar, ich denke ich kann morgens
+ab etwa Viertel nach sieben da sein. </font>
+<p><font size=3D3>Viele Gr=FC=DFe </font>
+<p><font size=3D3>Levin </font>
+<p><font size=3D3>Am 28.06.2019 um 17:47 schrieb </font><a href=3Dmailto:Ka=
+thrin.Kaiser@sjb.karlsruhe.de><font size=3D3 color=3Dblue><u>Kathrin.Kaiser=
+@sjb.karlsruhe.de</u></font></a><font size=3D3>:
+</font>
+<p><font size=3D2 face=3D"sans-serif">Hallo Levin, <br>
+<br>
+vielleicht k=F6nnt ihr euch erinnern, vor einem Jahr war Timo Becker mit
+seinem Programm &quot;Homologie&quot; zu Gast in der Mensa. <br>
+Der wird nun wieder kommen. <br>
+Frage: K=F6nntet ihr B=FChne und Technik aufbauen? Am besten am Tag davor.
+Und ab wann k=F6nnte jemand morgens da sein?</font><font size=3D3> </font><=
+font size=3D2 face=3D"sans-serif"><br>
+Herr B=E4ckel wird euch auch nochmal ansprechen. <br>
+<br>
+Ich h=E4ng dir mal den Strukturbogen an, vielleicht erinnerst du dich an
+den. Ich nehme an, den kann ich genauso =FCbernehmen? Auch mit deiner Telef=
+onnummer?</font><font size=3D3>
+<br>
+<br>
+</font><font size=3D2 face=3D"sans-serif"><br>
+<br>
+Die Auff=FChrungen sind am Mittwoch, 17.7., am liebsten w=E4re es uns ca. 7=
+.45-9.15Uhr
+und 9.45-11.15Uhr. W=E4re das machbar f=FCr euch?</font><font size=3D3> </f=
+ont><font size=3D2 face=3D"sans-serif"><br>
+Der Schauspieler wird sicher fr=FCher da sein und die Technik ausprobieren
+wollen. Und danach m=FCssten wir wieder umbauen, ihr wisst, die Mensa wird
+gebraucht. <br>
+<br>
+Bitte gib mir eine R=FCckmeldung, auch wenn ihr Unterst=FCtzung braucht. Da=
+nke
+dir!</font><font size=3D3> </font><font size=3D2 face=3D"sans-serif"><br>
+<br>
+Mit besten Gr=FC=DFen, <br>
+Kathrin Kaiser</font><font size=3D3> </font><font size=3D2 face=3D"sans-ser=
+if"><br>
+Schulsozialarbeit Fichte-Gymnasium</font><font size=3D3> </font><font size=
+=3D2 face=3D"sans-serif"><br>
+Sophienstr. 12-16</font><font size=3D3> </font><font size=3D2 face=3D"sans-=
+serif"><br>
+76133 Karlsruhe</font><font size=3D3> </font><font size=3D2 face=3D"sans-se=
+rif"><br>
+----------------------------------------------------------------</font><fon=
+t size=3D3>
+</font><font size=3D2 face=3D"sans-serif"><br>
+Stadt Karlsruhe</font><font size=3D3> </font><font size=3D2 face=3D"sans-se=
+rif"><br>
+Sozial- und Jugendbeh=F6rde</font><font size=3D3> </font><font size=3D2 fac=
+e=3D"sans-serif"><br>
+Fachbereich Jugendhilfe und Soziale Dienste</font><font size=3D3> </font><f=
+ont size=3D2 face=3D"sans-serif"><br>
+Abteilung Schulsozialarbeit</font><font size=3D3> </font><font size=3D2 fac=
+e=3D"sans-serif"><br>
+<br>
+Telefon: 0721-133 3832</font><font size=3D3> </font><font size=3D2 face=3D"=
+sans-serif"><br>
+Email: </font><a href=3Dmailto:kathrin.kaiser@sjb.karlsruhe.de><font size=
+=3D2 color=3Dblue face=3D"sans-serif"><u>kathrin.kaiser@sjb.karlsruhe.de</u=
+></font></a><font size=3D3>
+</font><font size=3D3 color=3Dblue><u><br>
+</u></font><a href=3Dwww.karlsruhe.de/sodi><font size=3D2 color=3Dblue face=
+=3D"sans-serif"><u>www.karlsruhe.de/sodi</u></font></a><font size=3D3>
+</font>
+<p>
+--=_alternative 0025F040C125842E_=--
+--=_mixed 0025F040C125842E_=
+Content-Type: application/octet-stream; name="HOMOLOGIE_Strukturbogen Vorlage.docx"
+Content-Disposition: attachment; filename="HOMOLOGIE_Strukturbogen Vorlage.docx"
+Content-Transfer-Encoding: base64
+
+UEsDBBQABgAIAAAAIQDwIex9jgEAABMGAAATAAgCW0NvbnRlbnRfVHlwZXNdLnhtbCCiBAIooAAC
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC0
+lE1PwkAQhu8m/odmr6Zd8GCMoXBQPCqJGM/Ldgobux/ZWb7+vdMWGjRAUfDSpN193/fZ2c70Bitd
+RAvwqKxJWTfpsAiMtJky05S9j5/jexZhECYThTWQsjUgG/Svr3rjtQOMSG0wZbMQ3APnKGegBSbW
+gaGV3HotAr36KXdCfoop8NtO545LawKYEIfSg/V7T5CLeRGi4Yo+1yQeCmTRY72xzEqZcK5QUgQi
+5QuT/UiJNwkJKas9OFMObwiD8b0J5crhgI3ulUrjVQbRSPjwIjRh8KX1Gc+snGs6Q3LcZg+nzXMl
+odGXbs5bCYhUc10kzYoWymz5D3KYuZ6AJ+XlQRrrVggM6wLw8gS174nxHyrMhnkOkv649kvRGJeV
+T+qIHW17GoRA9T4l5HsfxG03jxvnVoQlTN7+jWLHvBUkp/4ci0kBJ1T8l8VorFshAg0d4NWzezZH
+ZXMsktpz5K1DGmL+D8feTqlSHVPfO/BBQTOn9vV5k0gD8OzzQTliM8j2ZPNqpPe/AAAA//8DAFBL
+AwQUAAYACAAAACEAHpEat/MAAABOAgAACwAIAl9yZWxzLy5yZWxzIKIEAiigAAIAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIyS20oDQQyG7wXf
+Ych9N9sKItLZ3kihdyLrA4SZ7AF3Dsyk2r69oyC6UNte5vTny0/Wm4Ob1DunPAavYVnVoNibYEff
+a3htt4sHUFnIW5qCZw1HzrBpbm/WLzyRlKE8jDGrouKzhkEkPiJmM7CjXIXIvlS6kBxJCVOPkcwb
+9Yyrur7H9FcDmpmm2lkNaWfvQLXHWDZf1g5dNxp+Cmbv2MuJFcgHYW/ZLmIqbEnGco1qKfUsGmww
+zyWdkWKsCjbgaaLV9UT/X4uOhSwJoQmJz/N8dZwDWl4PdNmiecevOx8hWSwWfXv7Q4OzL2g+AQAA
+//8DAFBLAwQUAAYACAAAACEA0ETThywBAAA+BAAAHAAIAXdvcmQvX3JlbHMvZG9jdW1lbnQueG1s
+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
+
+--=_mixed 0025F040C125842E_=--

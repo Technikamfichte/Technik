@@ -1,0 +1,66 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <ericleonards@web.de>
+Received: from mail-hub02.belwue.de ([2001:7c0:0:76::42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 74746191 for technikag@fichte-gymnasium.de; Mon, 06 Nov 2023 14:18:55 +0100
+Received: from mail-in03.belwue.de (mail-in03.belwue.de [129.143.76.3])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4SPBkl24VJz7CwQ
+	for <technikag@fichte-gymnasium.de>; Mon,  6 Nov 2023 14:18:55 +0100 (CET)
+Received: from mout.web.de (mout.web.de [217.72.192.78])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange ECDHE (P-256) server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in03.belwue.de (Postfix) with ESMTPS id 4SPBkk6v0Tz1955
+	for <technikag@fichte-gymnasium.de>; Mon,  6 Nov 2023 14:18:54 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=web.de; s=s29768273;
+	t=1699276734; x=1699881534; i=ericleonards@web.de;
+	bh=CFET+pbdjbkD6kxPjWCi2jjY7WXfKqMtn0ngxGOV+Mw=;
+	h=X-UI-Sender-Class:From:To:Subject:Date;
+	b=U5y90bvy6sMfcgvMY/7sEg6mNwQ8t4TBZlgoiXP549vftKjtr4JpxjVc/Pb2j3ja
+	 9mlUeUb4Gw9ckMzcBgsYYHshzE3RjiaBaTREG/24ryhk3o9U8lgVphV6VjLOlkzeK
+	 v2iPKD7+wR9XlnshbjdG+EFZcKhQdjxfGQ2DkNQuIqUF8e2p/0Bl8dQxARpyrAw11
+	 O5Gk271FAN2tiDt4AvqTd3UJD4p218dH5QgBgILr4EPjcFLfbFZxTD1WM4ESpQJjG
+	 Lgvn4oNXdYELPz6n/Ws1O24Ml7xOouuU3ux2RP2V3rer+pQGaoVBdST2m81b7s4gh
+	 TFcOTHZnZIw9dP98Iw==
+X-UI-Sender-Class: 814a7b36-bfc1-4dae-8640-3722d8ec6cd6
+Received: from [46.114.2.61] ([46.114.2.61]) by msvc-mesg-web102.server.lan
+ (via HTTP); Mon, 6 Nov 2023 14:18:54 +0100
+MIME-Version: 1.0
+Message-ID: <trinity-db89cad3-36f8-4f96-9b83-fa8f7b48b9a0-1699276734568@msvc-mesg-web102>
+From: ericleonards@web.de
+To: technikag@fichte-gymnasium.de
+Subject: Tanzabend
+Content-Type: text/plain; charset=UTF-8
+Date: Mon, 6 Nov 2023 14:18:54 +0100
+Content-Transfer-Encoding: quoted-printable
+X-Provags-ID: V03:K1:ehbdp45PaIotHR+Ose6+kJQW+DB1edrf/7r9UGkusIP1FeHqpOQt4RuUULVnY758wFz2L
+ abarMrrNzsqAhX+p0B/B6GR6p/9MwdpFe73q1Ar2W9R8IpRQC0Vs0rsgYGP2Uq8P612ZXbK0xofF
+ hQG0tqjkhyFZEvGzpIeBvBSEoFXOu2sP9UKZ0SBHtoZbkJDRjwkL8CaQ3WgmKfwwf84t+ss4Jtg5
+ ScoVdJN2aw3FzDU5pznxgxSc2SupF3Owf9SfICVp9YcF63N4q+PDEAm6RzoZJHEj+4w3lANgeHKp
+ DI=
+X-Spam-Flag: NO
+UI-OutboundReport: notjunk:1;M01:P0:bqd6klG0aCE=;jBEVz/F51kGJBDYpqYsIzVCBgh4
+ a7Gly+osdSya1ChlJ+uwzmFlbOz9S6Iihf3BPx/NURPVUiay9/nzJlw0l0u1ciVzJGbFw+eDs
+ 4W8TdX0yT+HXQ2C2A4qzp+mFITNAUgyKeA3d/a9q97Nu/f3TneKPPATLxPtgrv0DeaP8/SD8/
+ vZl6J1O8eaQImI9ss5N41hiAoxGxq99iXrw0tRP/xszZejvKlnjc0dLMUCLoBPpl2VDxKheOy
+ gBc7VMzGw4hVrvB2ZcYKQOJ+C37SgZ5EyvvKM2scDVfuUW0aSkD87YzbPXar+6AEDfUAvbhnv
+ 7D73XwkR8i+s7/33OdAh+nBLaT2akcnCga/npgUDMs0cFQZnNcHI4UKLHPmrCrGCmGW5xWApi
+ jrLvxfJlOdZMejyrSUNsa2/OgsmV4yCQH3oq3ZhMLwwuZiOy0QnVX8wKynfpazzd7sLUFofRo
+ j14tV1BeLtDjp4mVS9xidrr4CHfq9ql+VYfVY1bK1jf2YH35qiYuZYFvfuJo67Hii7DqSQxcj
+ QwefmqozPjLQN4NsW+IN+w8iJVaGcof68TrHhEfXi9JfH5NYnx/vPaYIF4gD1U3zqoGs515E7
+ CUzE7+srn3/Dj7n+Zkl3EuJpEYZLk1Gpq4GH3KKjEDBd79RKtBI+HCFEK0cSzgTrzp7E4+EQU
+ op/lxDJWfLj0wmX1SorgsBFla/iGuuq+6gVguZ15uyVOJZzBMmi7f4xFJU7MZ1lNcsntpu9Yc
+ p1f8KzX6B6VQjXDH5tkNex0uk0TcSJuFSGK5pqO3lerJmqlQtS0HIG7ba7EA1/jO1QqvXrdkF
+ HonYg1A89JZ65064QLCwAuIg==
+X-Rspamd-SPAM-Probability: 0
+X-Rspamd-Queue-Id: 4SPBkk6v0Tz1955
+X-Rspamd-UID: cccc21
+
+Guten Tag,
+
+Der Tanzabend wurde nun auf den 16=2E11=2E verschoben=2E
+
+Viele Gr=C3=BC=C3=9Fe von Eric

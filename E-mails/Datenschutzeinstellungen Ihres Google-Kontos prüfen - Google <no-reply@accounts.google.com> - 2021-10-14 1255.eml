@@ -1,0 +1,213 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <technikagfichte+caf_=technikag=fichte-gymnasium.de@gmail.com>
+Received: from mail-hub01.belwue.de ([129.143.76.41] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.7f)
+  with ESMTPS id 36118703 for technikag@fichte-gymnasium.de; Thu, 28 Oct 2021 12:55:58 +0200
+Received: from mail-in01.belwue.de (mail-in01.belwue.de [IPv6:2001:7c0:0:76::1])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(Client did not present a certificate)
+	by mail-hub01.belwue.de (Postfix) with ESMTPS id 4Hg2Xt1DF1z4ygZ6
+	for <technikag@fichte-gymnasium.de>; Thu, 28 Oct 2021 12:55:58 +0200 (CEST)
+Received: from mail-lf1-x135.google.com (mail-lf1-x135.google.com [IPv6:2a00:1450:4864:20::135])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mail-in01.belwue.de (Postfix) with ESMTPS id 4Hg2Xs0q4Tz53Hkf
+	for <technikag@fichte-gymnasium.de>; Thu, 28 Oct 2021 12:55:57 +0200 (CEST)
+Received: by mail-lf1-x135.google.com with SMTP id i13so3113283lfe.4
+        for <technikag@fichte-gymnasium.de>; Thu, 28 Oct 2021 03:55:57 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:delivered-to:dkim-signature:mime-version:date
+         :feedback-id:message-id:subject:from:to;
+        bh=2swKjCWABgqJ+LazJdtqbpJ2dqHipvFKO+QMlwPucrk=;
+        b=kiwxWBF1H1g9fAuQf/cvmxBcc8NbOBzJBzXbQqxB2HA/pO7xpXrhWRh8/EL7BqwH95
+         jqnbchtiSzbJRbwSnm/DPukGWQlgTH7sWGpsRTSPun/Tvn7z8oQyq+feJBpgIOd54GAR
+         QjMwF9m0u6cdW3qE62BQ86XoD+TIVHJX059PzDCoAj2md3qjkz+A83wTMWTmcJDb/uDH
+         wmrBiI2KFxf6zeAH7o4rWAnYe+dIiAIFvFUmDg7Ky/Ej9siNkiCeQVI3pV0RO/DnDlvr
+         FQAuI7eOT4uHBGch0Yae66Hh22021NhmYdmcnbVtr0NkA80HsrgJCWRa6/dd7uhvUnfZ
+         m15Q==
+X-Gm-Message-State: AOAM5319xVuRgEIj/Hvgm+ZavmA2Likw7U2pYIEa09DkhMX+184aWfz9
+	UID2X4y2Kdeh+QLEHb4dfVgOu8YinYf/qKkZ90xR9tbPLwz6/1HXFg==
+X-Received: by 2002:a05:6512:3591:: with SMTP id m17mr3435893lfr.493.1635418556556;
+        Thu, 28 Oct 2021 03:55:56 -0700 (PDT)
+X-Forwarded-To: technikag@fichte-gymnasium.de
+X-Forwarded-For: technikagfichte@gmail.com technikag@fichte-gymnasium.de
+Delivered-To: technikagfichte@gmail.com
+Received: by 2002:a05:6512:39c7:0:0:0:0 with SMTP id k7csp1327652lfu;
+        Thu, 28 Oct 2021 03:55:55 -0700 (PDT)
+X-Received: by 2002:a05:6a00:134e:b0:47c:2e54:a0cb with SMTP id k14-20020a056a00134e00b0047c2e54a0cbmr3504714pfu.54.1635418555064;
+        Thu, 28 Oct 2021 03:55:55 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1635418555; cv=none;
+        d=google.com; s=arc-20160816;
+        b=K9g9MyyUTO+2NMaWnicxVx16Sr7LxuXThqwkomw9VbgsHypH6iUetheuEsS6CegExr
+         zTs947z+jj5RqVpG39aXnL2w+rh/wUhzgZnPgcr2JAviW39G7eP3W/5EnpmvEqLHuryz
+         cxJ7wvOQ4K2SNkCjA+PNK1h+icne7MEP9uJKW2Y1WHcjwoWyUGc1DDeUBJoVIjdMtCAq
+         Qd1eEaFXl8EHDQssSGlzcrlH1WDf5PbolQUhRuAnzHl3sC2v9UWuNGq9EMhOSJLt4E0I
+         S9Lxj5M/8HWSKsoQJ7zEMolkBE8R3xpetNo3wvcpIOIdSV14k4kLzo+PvtxWyfycdItJ
+         SGKg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=to:from:subject:message-id:feedback-id:date:mime-version
+         :dkim-signature;
+        bh=2swKjCWABgqJ+LazJdtqbpJ2dqHipvFKO+QMlwPucrk=;
+        b=Gnq5g1kpa4K3kikFJVn6GujPIkO+pMiZQw2sFU65VZQcFHLBZALkRsNbwd4p8CE1Fs
+         ls7vdVWWmyvvUAJCTwiWQSpt5ILrjP6PmLe5f5mjfmP0AarOuXRdRb11rMi+n5EwvPJD
+         Dqy+m8HrfiBc2Rur05e07R388U4cX2duecMNTfSETG/CTjn9gvj+mbHoXH8t4j8N5PBP
+         6yrsHX8TdrQCn63j45B3KMyngnwOYxTfw3ZwK4+gAf2oKBx92q1E0wk6RuKhC8s223fU
+         j8R+6P6G8EBGaKLGa+ki+28JT07XIV9IJryRoPVqmldVkwNPfOZCTXkmb5NL2qbD4VQq
+         tagQ==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@accounts.google.com header.s=20210112 header.b=V3NTTRES;
+       spf=pass (google.com: domain of 3uyf6yqgtd7glm-pcnjwyaamslrq.emmejc.amkrcaflgiyedgafrcekygj.amk@gaia.bounces.google.com designates 209.85.220.73 as permitted sender) smtp.mailfrom=3uYF6YQgTD7glm-pcnjwYaamslrq.emmejc.amkrcaflgiYedgafrcekYgj.amk@gaia.bounces.google.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=accounts.google.com
+Received: from mail-sor-f73.google.com (mail-sor-f73.google.com. [209.85.220.73])
+        by mx.google.com with SMTPS id nv1sor4303257pjb.27.2021.10.28.03.55.54
+        for <technikagfichte@gmail.com>
+        (Google Transport Security);
+        Thu, 28 Oct 2021 03:55:55 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 3uyf6yqgtd7glm-pcnjwyaamslrq.emmejc.amkrcaflgiyedgafrcekygj.amk@gaia.bounces.google.com designates 209.85.220.73 as permitted sender) client-ip=209.85.220.73;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@accounts.google.com header.s=20210112 header.b=V3NTTRES;
+       spf=pass (google.com: domain of 3uyf6yqgtd7glm-pcnjwyaamslrq.emmejc.amkrcaflgiyedgafrcekygj.amk@gaia.bounces.google.com designates 209.85.220.73 as permitted sender) smtp.mailfrom=3uYF6YQgTD7glm-pcnjwYaamslrq.emmejc.amkrcaflgiYedgafrcekYgj.amk@gaia.bounces.google.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=accounts.google.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=accounts.google.com; s=20210112;
+        h=mime-version:date:feedback-id:message-id:subject:from:to;
+        bh=2swKjCWABgqJ+LazJdtqbpJ2dqHipvFKO+QMlwPucrk=;
+        b=V3NTTRESo0cYAqPGUMlB2WNDe+vKwvX7rvuEztRwDVk35jYS74XkvrLEIFDS4RyxhQ
+         FuX4gzWudeMSRAPFdHq/UvFlBZV1wi1mNXHd8ftbm2k2U0es0MO3oG+U7Q7P0wWayCiS
+         sYAp7lHoeob601z2IwfeQ/P9L/ZsnT1100Pzt1XqHg65yVB2GeYEBfiSvRFBfVa02YYT
+         uA/F3hCBVvoI9jqfHQi1hQArrlDVfWdAsyUKTZpJuSZHPkqMNJP6Tt9T0c6Nxp+Wmk8h
+         o5U4COT31coMgnhnpce1gA+JWqz5aAdJTscc3NgBBI2PoiUtYyMzzIm5oxvJDQt83XY3
+         SA4w==
+X-Google-Smtp-Source: ABdhPJypIlhk3rMFt0KA44aushxLDvRe9Fl6yREMWg0OAMm+iYVKw6Ztr0vYOXNQ8yIas9dYQ/FnJQm5t6XCZeRy1Y05LA==
+MIME-Version: 1.0
+X-Received: by 2002:a17:90b:4d82:: with SMTP id oj2mr11996707pjb.232.1635418553959;
+ Thu, 28 Oct 2021 03:55:53 -0700 (PDT)
+Date: Thu, 14 Oct 2021 10:55:53 GMT
+X-Account-Notification-Type: 208-anexp#nret-fa
+Feedback-ID: 208-anexp#nret-fa:account-notifier
+X-Notifications: eefcd487a0100000
+X-Notifications-Bounce-Info: AXvZQxdaoq-z2-TEjw_nHBKKlML1DEDGL-Li5uk32ODHYZ-ufvUXEojHVFxySCvp2l83Q8TQuWXbPKmMh2FFzm4tMRxrnxd9YJ4jy2PyQA5wnk698wW5qYnrL6mlybqmiz0Tq8yIaYXscfYqSzpaIJzRedTrgUISrj0KAeG2Ko9S_q8NjAwNjA0MDQxNTM1NTk2OTMzMg
+Message-ID: <sHqIm0h5b7DYO-Ixpj-EqQ@notifications.google.com>
+Subject: =?UTF-8?Q?Datenschutzeinstellungen_Ihres_Google=2DKontos_pr=C3=BCfen?=
+From: Google <no-reply@accounts.google.com>
+To: technikagfichte@gmail.com
+Content-Type: multipart/alternative; boundary="000000000000f7c63705cf678d13"
+X-Rspamd-UID: 7db637
+X-Rspamd-Queue-Id: 4Hg2Xs0q4Tz53Hkf
+
+--000000000000f7c63705cf678d13
+Content-Type: text/plain; charset="UTF-8"; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+W2ltYWdlOiBHb29nbGVdDQoNCg0KDQpEYXRlbnNjaHV0emVpbnN0ZWxsdW5nZW4gbWl0IGRlbSBQ
+cml2YXRzcGjDpHJlY2hlY2sgcHLDvGZlbiB1bmQgYW5wYXNzZW4NCnRlY2huaWthZ2ZpY2h0ZUBn
+bWFpbC5jb20NCg0KDQpJbSBuw6RjaHN0ZW4gU2Nocml0dCBoYWJlbiBTaWUgZGllIE3DtmdsaWNo
+a2VpdCwgZGllIERhdGVuc2NodXR6ZWluc3RlbGx1bmdlbg0KSWhyZXMgR29vZ2xlLUtvbnRvcyBm
+ZXN0enVsZWdlbi4gUHLDvGZlbiB1bmQgYWt0dWFsaXNpZXJlbiBTaWUsIHdlbGNoZSBEYXRlbg0K
+R29vZ2xlIHZlcndlbmRldCwgdW0gRGllbnN0ZSBmw7xyIFNpZSB6dSBwZXJzb25hbGlzaWVyZW4s
+IHVuZCB3ZWxjaGUNCkluZm9ybWF0aW9uZW4gU2llIG1pdCBGcmV1bmRlbiB0ZWlsZW4gb2RlciB2
+ZXLDtmZmZW50bGljaGVuIG3DtmNodGVuLg0KTmVobWVuIFNpZSBzaWNoIGVpbiBwYWFyIE1pbnV0
+ZW4gWmVpdCB1bmQgYWt0dWFsaXNpZXJlbiBTaWUgSWhyZQ0KRWluc3RlbGx1bmdlbg0KPGh0dHBz
+Oi8vbXlhY2NvdW50Lmdvb2dsZS5jb20vcHJpdmFjeWNoZWNrdXAvMT9wY19lbWFpbD10ZWNobmlr
+YWdmaWNodGUlNDBnbWFpbC5jb20maGw9ZW4mdXRtX3NvdXJjZT1wcHImdXRtX21lZGl1bT1lbWFp
+bCZ1dG1fY2FtcGFpZ249c2lnbnVwLWZhc3QtcHJpdmFjeXJlbWluZGVyLXN0YXJ0LWxpbms+DQou
+DQoNCg0KDQpEYXRlbnNjaHV0emVpbnN0ZWxsdW5nZW4gcHLDvGZlbg0KPGh0dHBzOi8vbXlhY2Nv
+dW50Lmdvb2dsZS5jb20vcHJpdmFjeWNoZWNrdXAvMT9wY19lbWFpbD10ZWNobmlrYWdmaWNodGUl
+NDBnbWFpbC5jb20maGw9ZW4mdXRtX3NvdXJjZT1wcHImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2Ft
+cGFpZ249c2lnbnVwLWZhc3QtcHJpdmFjeXJlbWluZGVyLXN0YXJ0LWJ1dHRvbj4NCjxodHRwczov
+L215YWNjb3VudC5nb29nbGUuY29tL3ByaXZhY3ljaGVja3VwLzE/cGNfZW1haWw9dGVjaG5pa2Fn
+ZmljaHRlJTQwZ21haWwuY29tJmhsPWVuJnV0bV9zb3VyY2U9cHByJnV0bV9tZWRpdW09ZW1haWwm
+dXRtX2NhbXBhaWduPXNpZ251cC1mYXN0LXByaXZhY3lyZW1pbmRlci1zdGFydC1idXR0b24+DQpE
+ZXIgUHJpdmF0c3Bow6RyZWNoZWNrIGlzdCBpbiBJaHJlbSBHb29nbGUtS29udG8gKGh0dHBzOi8v
+YWNjb3VudC5nb29nbGUuY29tDQo8aHR0cHM6Ly9hY2NvdW50Lmdvb2dsZS5jb20vc21hcnRsaW5r
+L2hvbWU/aGw9ZW4mdXRtX3NvdXJjZT1wcHImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249
+cHByPikNCnZlcmbDvGdiYXINCsKpIDIwMjEgR29vZ2xlIElyZWxhbmQgTHRkLiwgR29yZG9uIEhv
+dXNlLCBCYXJyb3cgU3RyZWV0LCBEdWJsaW4gNCwgSXJlbGFuZA0K
+--000000000000f7c63705cf678d13
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html lang=3D"en"><head><meta name=3D"format-detection" cont=
+ent=3D"email=3Dno"/><meta name=3D"format-detection" content=3D"date=3Dno"/>=
+<style nonce=3D"3hPduREXkdldMhd4bg5CsA">.awl a {color: #FFFFFF; text-decora=
+tion: none;} .abml a {color: #000000; font-family: Roboto-Medium,Helvetica,=
+Arial,sans-serif; font-weight: bold; text-decoration: none;} .adgl a {color=
+: rgba(0, 0, 0, 0.87); text-decoration: none;} .afal a {color: #b0b0b0; tex=
+t-decoration: none;} @media screen and (min-width: 600px) {.v2sp {padding: =
+6px 30px 0px;} .v2rsp {padding: 0px 10px;}} @media screen and (min-width: 6=
+00px) {.mdv2rw {padding: 40px 40px;}} </style><link href=3D"//fonts.googlea=
+pis.com/css?family=3DGoogle+Sans" rel=3D"stylesheet" type=3D"text/css" nonc=
+e=3D"3hPduREXkdldMhd4bg5CsA"/></head><body style=3D"margin: 0; padding: 0;"=
+ bgcolor=3D"#FFFFFF"><table width=3D"100%" height=3D"100%" style=3D"min-wid=
+th: 348px;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" lang=3D"en"><t=
+r height=3D"32" style=3D"height: 32px;"><td></td></tr><tr align=3D"center">=
+<td><div itemscope itemtype=3D"//schema.org/EmailMessage"><div itemprop=3D"=
+action" itemscope itemtype=3D"//schema.org/ViewAction"><link itemprop=3D"ur=
+l" href=3D"https://accounts.google.com/AccountChooser?Email=3Dtechnikagfich=
+te@gmail.com&amp;continue=3Dhttps://myaccount.google.com/privacycheckup?utm=
+_source%3Dgoogle%26utm_medium%3Demail%26utm_campaign%3Dppr%26aneid%3D-47534=
+26350729380077%26anexp%3Dnret-fa"/><meta itemprop=3D"name" content=3D"Aktiv=
+it=C3=A4t =C3=BCberpr=C3=BCfen"/></div></div><table border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"0" style=3D"padding-bottom: 20px; max-width: 516px; =
+min-width: 220px;"><tr><td width=3D"8" style=3D"width: 8px;"></td><td><div =
+style=3D"border-style: solid; border-width: thin; border-color:#dadce0; bor=
+der-radius: 8px; padding: 40px 20px;" align=3D"center" class=3D"mdv2rw"><im=
+g src=3D"https://www.gstatic.com/images/branding/googlelogo/2x/googlelogo_c=
+olor_74x24dp.png" width=3D"74" height=3D"24" aria-hidden=3D"true" style=3D"=
+margin-bottom: 16px;" alt=3D"Google"><div style=3D"font-family: &#39;Google=
+ Sans&#39;,Roboto,RobotoDraft,Helvetica,Arial,sans-serif;border-bottom: thi=
+n solid #dadce0; color: rgba(0,0,0,0.87); line-height: 32px; padding-bottom=
+: 24px;padding-bottom: 32px;padding-top: 32px;text-align: center; word-brea=
+k: break-word;"><div style=3D"font-size: 24px;"><table style=3D"font-size: =
+24px; line-height: 28px; text-align: center; width: 100%;"><tr><td style=3D=
+"padding-bottom: 24px;"><img width=3D"90" height=3D"90" src=3D"https://www.=
+gstatic.com/accountalerts/email/pc_shield_green_2x_180_180.png" style=3D"wi=
+dth: 90px; height: 90px;"/></td></tr><tr><td>Datenschutzeinstellungen mit d=
+em Privatsph=C3=A4recheck pr=C3=BCfen und anpassen</td></tr><tr><td style=
+=3D"font-size: 16px;"><a class=3D"adgl" style=3D"color: inherit; text-decor=
+ation: none;">technikagfichte@gmail.com</a></td></tr></table> </div></div><=
+div style=3D"font-family: Roboto-Regular,Helvetica,Arial,sans-serif; font-s=
+ize: 14px; color: rgba(0,0,0,0.87); line-height: 20px;padding-top: 20px; te=
+xt-align: left;"><table style=3D"font-size: 14px; letter-spacing: 0.2; line=
+-height: 20px; text-align: center;"><tr><td style=3D"padding-bottom: 24px; =
+text-align: start;">Im n=C3=A4chsten Schritt haben Sie die M=C3=B6glichkeit=
+, die Datenschutzeinstellungen Ihres Google-Kontos festzulegen. Pr=C3=BCfen=
+ und aktualisieren Sie, welche Daten Google verwendet, um Dienste f=C3=BCr =
+Sie zu personalisieren, und welche Informationen Sie mit Freunden teilen od=
+er ver=C3=B6ffentlichen m=C3=B6chten.<div style=3D"height: 13px;"></div>Neh=
+men Sie sich ein paar Minuten Zeit und <a href=3D"https://myaccount.google.=
+com/privacycheckup/1?pc_email=3Dtechnikagfichte%40gmail.com&amp;hl=3Den&amp=
+;utm_source=3Dppr&amp;utm_medium=3Demail&amp;utm_campaign=3Dsignup-fast-pri=
+vacyreminder-start-link" target=3D"_blank">aktualisieren Sie Ihre Einstellu=
+ngen</a>.</td></tr><tr><td><a href=3D"https://myaccount.google.com/privacyc=
+heckup/1?pc_email=3Dtechnikagfichte%40gmail.com&amp;hl=3Den&amp;utm_source=
+=3Dppr&amp;utm_medium=3Demail&amp;utm_campaign=3Dsignup-fast-privacyreminde=
+r-start-button" target=3D"_blank" style=3D"display:inline-block; text-decor=
+ation: none;"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"background-color: #4184F3; border-radius: 2px; min-width: 90px;"><tbody=
+><tr height=3D"6" style=3D"height: 6px;"></tr><tr><td style=3D"padding-left=
+: 8px; padding-right: 8px; text-align: center;"><a href=3D"https://myaccoun=
+t.google.com/privacycheckup/1?pc_email=3Dtechnikagfichte%40gmail.com&amp;hl=
+=3Den&amp;utm_source=3Dppr&amp;utm_medium=3Demail&amp;utm_campaign=3Dsignup=
+-fast-privacyreminder-start-button" target=3D"_blank" style=3D"font-family:=
+ Roboto-Regular,Helvetica,Arial,sans-serif; color: #ffffff; font-weight: 40=
+0; line-height: 20px; text-decoration: none;font-size: 13px;text-transform:=
+ uppercase;">Datenschutzeinstellungen pr=C3=BCfen</a></td></tr><tr height=
+=3D"6" style=3D"height: 6px;"></tr></tbody></table></a></td></tr><tr style=
+=3D"color: rgba(0, 0, 0, 0.54); font-size: 12px; line-height: 150%; text-al=
+ign: center;"><td style=3D"padding-top: 12px">Der Privatsph=C3=A4recheck is=
+t in Ihrem Google-Konto (<a href=3D"https://account.google.com/smartlink/ho=
+me?hl=3Den&utm_source=3Dppr&utm_medium=3Demail&utm_campaign=3Dppr" target=
+=3D"_blank">https://account.google.com</a>) verf=C3=BCgbar</td></tr></table=
+></div></div><div style=3D"text-align: center;"><div style=3D"font-family: =
+Roboto-Regular,Helvetica,Arial,sans-serif;color: rgba(0,0,0,0.54); font-siz=
+e: 11px; line-height: 18px; padding-top: 12px; text-align: center;"><div></=
+div><div style=3D"direction: ltr;">&copy; 2021 Google Ireland Ltd., <a clas=
+s=3D"afal" style=3D"font-family: Roboto-Regular,Helvetica,Arial,sans-serif;=
+color: rgba(0,0,0,0.54); font-size: 11px; line-height: 18px; padding-top: 1=
+2px; text-align: center;">Gordon House, Barrow Street, Dublin 4, Ireland</a=
+></div></div></div></td><td width=3D"8" style=3D"width: 8px;"></td></tr></t=
+able></td></tr><tr height=3D"32" style=3D"height: 32px;"><td></td></tr></ta=
+ble></body></html>
+--000000000000f7c63705cf678d13--

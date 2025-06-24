@@ -1,0 +1,70 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <ismael.biber@gmail.com>
+Received: from mail-hub02.belwue.de ([129.143.76.42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 81205174 for technikag@fichte-gymnasium.de; Fri, 09 Feb 2024 10:48:17 +0100
+Received: from mail-in04.belwue.de (mail-in04.belwue.de [129.143.76.4])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4TWTYs0Djsz37Rq
+	for <technikag@fichte-gymnasium.de>; Fri,  9 Feb 2024 10:48:17 +0100 (CET)
+Received: from mail-ed1-x52c.google.com (mail-ed1-x52c.google.com [IPv6:2a00:1450:4864:20::52c])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in04.belwue.de (Postfix) with ESMTPS id 4TWTYr3L9Fz57WyD
+	for <technikag@fichte-gymnasium.de>; Fri,  9 Feb 2024 10:48:16 +0100 (CET)
+Received: by mail-ed1-x52c.google.com with SMTP id 4fb4d7f45d1cf-560e9c7a094so1017651a12.0
+        for <technikag@fichte-gymnasium.de>; Fri, 09 Feb 2024 01:48:16 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20230601; t=1707472095; x=1708076895; darn=fichte-gymnasium.de;
+        h=to:date:message-id:subject:mime-version:content-transfer-encoding
+         :from:from:to:cc:subject:date:message-id:reply-to;
+        bh=z8jR8nqwNyVGILHDBfIsIlZA4k1+4DEiKrWfeUQ5y0k=;
+        b=YSLmGzMRDqcNLZMH9e2XqFEL31+oNuinLV4PjeNFtD8kE5uFeddBWPr9posbfamzwX
+         XLngY/oj0p+Hz4rKiIN/Q3Q2emKSgATq+l9Gk0oZh2I6RgBMIsbmW4fWvRnFY4vwlUQv
+         lnHulMK7K60uXPcmPHbeATbXoD9O8XRruARfyDfcNK0YZZkvylOr3yYRTcqT7iqhzvWQ
+         ugZwTGgOVQJUcfV9lotNvCVhIyBEl1Tiqao/xZW8BEuyxIzVTfIhawZ3OJYtpjeby0SL
+         b9pv3xtX8GEPqtezJhokFvo5k0Q50f2VpZazeBtgRMKgokyqBlDGOmTubEvMRiR0o4Zv
+         ERxQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20230601; t=1707472095; x=1708076895;
+        h=to:date:message-id:subject:mime-version:content-transfer-encoding
+         :from:x-gm-message-state:from:to:cc:subject:date:message-id:reply-to;
+        bh=z8jR8nqwNyVGILHDBfIsIlZA4k1+4DEiKrWfeUQ5y0k=;
+        b=mzyA4pcJdF9+Bjej+vG0anYwOFFcqjZlK/j8f8zlAP4XNskd512VVUq81c25T9eXBP
+         5jxqRQlTnLaBnEvUlDtIKFawky8MHrPS4WLnW7L+snY6AKIk94hpK82ioLxQ057Eu81n
+         wrT69L/RMsrnx1AaPVRvKK+FPzKdM0jE0e61X+98F2HzmjLUHe9Ekhl/Z5L7yBJx3VJc
+         oNesNBZITcwTKAUV3IeLI+vVGtD2LesprbYs0eZYRmd4kek1TAmtBldllIvxnQNW8h9Y
+         hCDT2yZLQE6ErqKOvbdtxe+UdU9VhVFNEsS8OiIvVS8mVAMlqTauI68v7+fX6lSu2bd1
+         rWqA==
+X-Gm-Message-State: AOJu0YyaaBsvZo07DcETvUp+jNN+nP0LkpF7XRH0R216/xNhWhKj+0ER
+	bsx8J/YdPzLs4ZAQLtasveP1FwAK/yY5V2J8wStPj0DP8VdyJxp3s6uW4D/X73pozw==
+X-Google-Smtp-Source: AGHT+IGMYKkXOMrt6T0bMRzJ0ZLCFbAt1V/qiynsyXSz6GLCfN8AbowC+Sct8Hrxnf0yEeMxc/N1yQ==
+X-Received: by 2002:a17:906:f204:b0:a3c:2c1:5fea with SMTP id gt4-20020a170906f20400b00a3c02c15feamr175021ejb.75.1707472095068;
+        Fri, 09 Feb 2024 01:48:15 -0800 (PST)
+Received: from smtpclient.apple ([80.215.194.158])
+        by smtp.gmail.com with ESMTPSA id q25-20020a170906a09900b00a39d27236f1sm594836ejy.62.2024.02.09.01.48.13
+        for <technikag@fichte-gymnasium.de>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 09 Feb 2024 01:48:14 -0800 (PST)
+From: Ismael Biber <ismael.biber@gmail.com>
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Mime-Version: 1.0 (Mac OS X Mail 14.0 \(3654.120.0.1.15\))
+Subject: presentation ismael
+Message-Id: <C7E9724E-F941-441B-B042-6ADB643E2FE5@gmail.com>
+Date: Fri, 9 Feb 2024 10:48:09 +0100
+To: TechnikAG Fichte-Gymnasium <technikag@fichte-gymnasium.de>
+X-Mailer: Apple Mail (2.3654.120.0.1.15)
+X-Rspamd-SPAM-Probability: 0
+X-Rspamd-UID: b04bc2
+X-Rspamd-Queue-Id: 4TWTYr3L9Fz57WyD
+
+voila:
+=
+https://fichtegymnasiumkarlsruhe-my.sharepoint.com/:p:/g/personal/ismael_b=
+iber_fichte-gymnasium_de/ES8CIxa0dcVGmqyVdeEs2K8BCQ9Tw5AATIeFdPnSomQkPg?e=3D=
+MFRGCq=

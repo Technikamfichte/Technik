@@ -1,0 +1,85 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <ismael.biber@gmail.com>
+Received: from mail-hub02.belwue.de ([2001:7c0:0:76::42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 73893771 for technikag@fichte-gymnasium.de; Thu, 19 Oct 2023 16:49:24 +0200
+Received: from mail-in01.belwue.de (mail-in01.belwue.de [IPv6:2001:7c0:0:76::1])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4SB9bS2QC0z71nl
+	for <technikag@fichte-gymnasium.de>; Thu, 19 Oct 2023 16:49:24 +0200 (CEST)
+Received: from mail-ed1-x52a.google.com (mail-ed1-x52a.google.com [IPv6:2a00:1450:4864:20::52a])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in01.belwue.de (Postfix) with ESMTPS id 4SB9bR1xT9z54Jfr
+	for <technikag@fichte-gymnasium.de>; Thu, 19 Oct 2023 16:49:20 +0200 (CEST)
+Received: by mail-ed1-x52a.google.com with SMTP id 4fb4d7f45d1cf-53ed4688b9fso7343996a12.0
+        for <technikag@fichte-gymnasium.de>; Thu, 19 Oct 2023 07:49:20 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20230601; t=1697726959; x=1698331759; darn=fichte-gymnasium.de;
+        h=to:date:message-id:subject:mime-version:from:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=tI96UeynEKv4ZdDCZCZZ4lSNlCSF/GXKyQ9Cmvp34oI=;
+        b=hZrWrBOTV18RtRgB8lkA8+Jm2pqTvEExu8o8lYzfntJSltUQhHGwSppZOkGHengk39
+         Yw6pTUTJTgJfaLJWDFOhCOd7gpoYW4kO5beFVOCXitiyWENdEkgdi9UBzyAkBvgIbLQt
+         /3vYmhydFM0SrPqj4EHqJLvIoK4oK415RTuDMP0UwV62RMxN6w9/PUXB4YVGZWmaKVSS
+         84OOtLpPtuCzT+yYeZ+NJrDAlekxouMB5+rHlO2nIesmkZ8SkYJCGYgTme6v94Cr3QfU
+         JOUcKG0XvBitaHDxbFXVD705MWzdMQQ0PujwV19DDA513Bfgj0dN6etY7/N6gLbJbtEK
+         lABA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20230601; t=1697726959; x=1698331759;
+        h=to:date:message-id:subject:mime-version:from:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=tI96UeynEKv4ZdDCZCZZ4lSNlCSF/GXKyQ9Cmvp34oI=;
+        b=eDCDHN6Zi/k2gzOBb94iYJIQxpqWetzUqXSdls5fmOKqBRDlDEJ/v5FdlBxg0mbmoK
+         fTxLTeh8PIR7x/fBhI35liRNlGjMrjYnIWE+HE4br2AseVK+TXPIhC99/gNaIEM2pMXs
+         D7m2Pim4wx4bkDkQoAbLtMJWiF0FweXWuIter9GYXcuXFidst0LYdZsuwIlm/dd8G7vU
+         pTsPQdpwbljFUkmyYpUHtLg2z81XlYtYjazUF1xTWAhctXhKhL4nHHJTtOB+MHbQKBCv
+         sgLmUkq/G5onlXnk8MChXDXyzgRxgyi3SUWm5aK5zkL0G5vt9kygvGyeg40MCHHJL+Gs
+         U65Q==
+X-Gm-Message-State: AOJu0Yzaz+UmvzyYWfcHSZ1uBWY32i+p3ah3CUSTk1/SxwwmBHYJq6SR
+	ESqan91HkcW6fBpmys1T0aMk9aplYn8G+g==
+X-Google-Smtp-Source: AGHT+IFR2nDTW/ac3KWFwAIVaV3GpwZB/ZP+qF8kfcUcGk08PCE3Vq6p/nETcnVoQeNph/uKus3/bQ==
+X-Received: by 2002:a05:6402:2710:b0:53e:782f:cfa6 with SMTP id y16-20020a056402271000b0053e782fcfa6mr1893535edd.37.1697726959034;
+        Thu, 19 Oct 2023 07:49:19 -0700 (PDT)
+Received: from smtpclient.apple ([141.72.193.76])
+        by smtp.gmail.com with ESMTPSA id c64-20020a509fc6000000b0053ebafe7a60sm4676381edf.59.2023.10.19.07.49.17
+        for <technikag@fichte-gymnasium.de>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 19 Oct 2023 07:49:18 -0700 (PDT)
+From: Ismael Biber <ismael.biber@gmail.com>
+Content-Type: multipart/alternative;
+	boundary="Apple-Mail=_45D47556-F75A-4C81-9A6E-092799DF8B68"
+Mime-Version: 1.0 (Mac OS X Mail 14.0 \(3654.120.0.1.15\))
+Subject: links zu downloaden
+Message-Id: <B073A9CE-306A-402D-A7A2-55D0E5833617@gmail.com>
+Date: Thu, 19 Oct 2023 16:49:11 +0200
+To: TechnikAG Fichte-Gymnasium <technikag@fichte-gymnasium.de>
+X-Mailer: Apple Mail (2.3654.120.0.1.15)
+X-Rspamd-SPAM-Probability: 0
+X-Rspamd-Queue-Id: 4SB9bR1xT9z54Jfr
+X-Rspamd-UID: 6e4051
+
+
+--Apple-Mail=_45D47556-F75A-4C81-9A6E-092799DF8B68
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain;
+	charset=us-ascii
+
+https://www.youtube.com/watch?v=3D_WglKB01SX0 =
+<https://www.youtube.com/watch?v=3D_WglKB01SX0>
+
+https://www.youtube.com/watch?v=3DGTrs4QNzGPc =
+<https://www.youtube.com/watch?v=3DGTrs4QNzGPc>
+
+
+
+--Apple-Mail=_45D47556-F75A-4C81-9A6E-092799DF8B68
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html;
+	charset=us-ascii
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=us-ascii"></head><body style="word-wrap: break-word; -webkit-nbsp-mode: space; line-break: after-white-space;" class=""><a href="https://www.youtube.com/watch?v=_WglKB01SX0" class="">https://www.youtube.com/watch?v=_WglKB01SX0</a><div class=""><br class=""></div><div class=""><a href="https://www.youtube.com/watch?v=GTrs4QNzGPc" class="">https://www.youtube.com/watch?v=GTrs4QNzGPc</a></div><div class=""><br class=""></div><div class=""><br class=""></div></body></html>
+--Apple-Mail=_45D47556-F75A-4C81-9A6E-092799DF8B68--

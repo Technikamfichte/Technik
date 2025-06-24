@@ -1,0 +1,107 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <magdalena.gietzelt@web.de>
+Received: from mail-hub02.belwue.de ([2001:7c0:0:76::42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 94016267 for technikag@fichte-gymnasium.de; Mon, 09 Dec 2024 16:20:42 +0100
+Received: from mail-in02.belwue.de (mail-in02.belwue.de [129.143.76.2])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4Y6QY56Tj1z3sl6
+	for <technikag@fichte-gymnasium.de>; Mon, 09 Dec 2024 16:20:41 +0100 (CET)
+Received: from mout.web.de (mout.web.de [212.227.17.11])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange ECDHE (P-256) server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in02.belwue.de (Postfix) with ESMTPS id 4Y6QY51GZbzB1HLT
+	for <technikag@fichte-gymnasium.de>; Mon, 09 Dec 2024 16:20:41 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=web.de;
+	s=s29768273; t=1733757640; x=1734362440;
+	i=magdalena.gietzelt@web.de;
+	bh=sFyhSYKXSPnSnG+rPAwu0N82N3tc0+uoRHqbXXyeDR8=;
+	h=X-UI-Sender-Class:MIME-Version:Message-ID:From:To:Subject:
+	 Content-Type:Date:Content-Transfer-Encoding:cc:
+	 content-transfer-encoding:content-type:date:from:message-id:
+	 mime-version:reply-to:subject:to;
+	b=e7ioe0dombbEjcYpfIxvlapGO9Wi+/e4vZu9lcRKDTB7vR9FMkqS51isfyWaJiD1
+	 iHh7hHtqPeDMLhTi55HyYqr+JkJnS9KhP/t8LUjULdFzrbQnfU0lSUOr9z6Ri63g2
+	 ccJ9pVHbXqoF7+0GQyYOQ5q73jQGtgzB2QXsz6IQgM92u0zZkv5AZ3nZmSn3Lvfbp
+	 Gc2tKHp6Umtr1MhQMb4Rq6kxeqDveJ2e3Ph5w329ABkEjZlkVe48pG0XdQmHNhQtr
+	 W508EjLq9l6zZDHLQ3Js3r7lC7VC7ZdVZBIgv5RkjQJ0By3kcsHUYWoyjxh9vb0f5
+	 pCPy764QAKuAMAeZmw==
+X-UI-Sender-Class: 814a7b36-bfc1-4dae-8640-3722d8ec6cd6
+Received: from [82.212.34.116] ([82.212.34.116]) by
+ trinity-msg-rest-webde-webde-live-56785d657d-lq42f (via HTTP); Mon, 9 Dec
+ 2024 15:20:40 +0000
+MIME-Version: 1.0
+Message-ID: <trinity-517f1c3d-14d6-4435-b1e8-5f68c016aa93-1733757640724@trinity-msg-rest-webde-webde-live-56785d657d-lq42f>
+From: Magdalena Gietzelt <magdalena.gietzelt@web.de>
+To: technikag@fichte-gymnasium.de
+Subject: Tanzabend 16.12.24 ?
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 9 Dec 2024 15:20:40 +0000
+Content-Transfer-Encoding: quoted-printable
+X-UI-CLIENT-META-MAIL-DROP: W10=
+X-Provags-ID: V03:K1:W2qtUffLdLtzr52qhGyRaRvbsnPLMPIllXp+w3ZdldOCla8NLMiMkWBvCq7csVP8VIsaP
+ Lccqn3/WiP3APRUYk9OF67dxUtXtKcqWvYFcJ67w/BY9CYBAtTR1v3YrF4ZRQ3edFExch/pnAEmJ
+ dL3CJU9rG0pVcE9RYa67KUvH0HcGegCBPk64WsQeyOLS+pQjrRUxmht2MfdjFg/xF3wv8mVH52nH
+ L8DgaZUWsGlTmIGz8J8oluOhSVoZ/GSoKpNvxG5/rTrGyJ0sKp60dKypMXWSSA88PldRf7kluIGy
+ i49Ai9qxLFsk822BnKDYOqCIyLc55Tbw8QD/xWlWum3F2ic+v1m5oBZFBs0eHWFfI7WKacVr3/XR
+ y482bwx6RWL
+X-Spam-Flag: NO
+UI-OutboundReport: notjunk:1;M01:P0:AqcjGLRw2ic=;r4L0NLoBSffNMUF689l2zTsgccz
+ p8N3z+X0YisqUXBI8QDyodKefyvCSp0tM5/C+ZdQOoevFdxYJ1dgfhnf6hkoT4eZNzhZje72k
+ cOUkjUao0RJ9iwRyQ1hT3VoGfbqnSdWkxpHBQMKYvWMU9lLTPC36NXTrFP6W/aw0kXHXn+psG
+ +JY/69zn0cfDR3/pR1MdoGo0sasvIHMGaITj5xcV6hltiVdciJ+1cZMiAZwP+JifluC+3JPD8
+ bwkRKi3bM2YyMJfXZCttP29Kxo5vxHSCpHtBESiGIoxpTGqERIAFj1gyzY/UfLetR+XN5bP2M
+ NHVwBFeSpD0L3eyCt6l1W1pPchwaGBvrfcnt+x2XCeWojYW2Shd4HJ4dEK0Bg3t9TGe/SIYyR
+ ixSOI4bD/lEWhEJHSCfszYfS/CIv0+vjTmUhiY00F8v+VlOYjQ08VhX3OAXyh+DNdtNADnyLt
+ k7mqTja2hew9B+M5x/x6Jom5IR5hxY3bDPJkrNBOKlNK8AshGh4K4o5g4q9aRz4l2VEfYTdgF
+ gVLIMqXUnhwGLWbz324fg4YaKDfWuu1JfFD0g8bv2QvMVH+36fq+0JjSYWl4miTu4w1uWimtu
+ QP2AYycf2Ah5kRrFTBH+SQtVA0RqkPK5vCOXsudak6CX01KCW8kx6L/XSODnA8IR2VV7CZRJ0
+ r3vHRAbjoqYeH7uHnSdqbdhjzMs8HM8v2vVRFyZt06meO9rh7hnkiBlmRK0odx9Y4Kzm2myoB
+ SWVhHV/ISqTwT8c+xp+zOUs3w5+eWcrbp/yfUZgYWvFioynxkpHSYMts1x4ZKeIoG1LBLTurU
+ Qp4J6RyJc1Bf5nZCFrwS0ZKv4GrlzzCnFNE8hGsgn6ggnqzXJMUjwyhdCtUmWErz992D7kb7D
+ ARgmQ1ijGCExZAA==
+X-Rspamd-SPAM-Probability: 0
+X-Rspamd-UID: 3fd9b2
+X-Rspamd-Queue-Id: 4Y6QY56Tj1z3sl6
+X-Rspamd-UID: 0caa1c
+
+<div style=3D"font-family: 'verdana'; font-size: 12px; color: #000;"><span =
+style=3D"background-color: rgb(255, 255, 255);">Liebe Technik-AG,</span></d=
+iv>
+<div style=3D"font-family: 'verdana'; font-size: 12px; color: #000;"><span=
+ style=3D"background-color: rgb(255, 255, 255);">&nbsp;</span></div>
+<div style=3D"font-family: 'verdana'; font-size: 12px; color: #000;"><span=
+ style=3D"background-color: rgb(255, 255, 255);">wir, die Tanzabend-AK, w=
+=C3=BCrden gerne als Abschluss des ersten Halbjahres am 16=2E12=2E einen Ta=
+nzabend organisieren=2E&nbsp;</span></div>
+<div style=3D"font-family: 'verdana'; font-size: 12px; color: #000;"><span=
+ style=3D"background-color: rgb(255, 255, 255);">&nbsp;</span></div>
+<div style=3D"font-family: 'verdana'; font-size: 12px; color: #000;"><span=
+ style=3D"background-color: rgb(255, 255, 255);">Dieser w=C3=BCrde von 19 U=
+hr bis 22 Uhr gehen=2E&nbsp;</span></div>
+<div style=3D"font-family: 'verdana'; font-size: 12px; color: #000;"><span=
+ style=3D"background-color: rgb(255, 255, 255);">&nbsp;</span></div>
+<div style=3D"font-family: 'verdana'; font-size: 12px; color: #000;"><span=
+ style=3D"background-color: rgb(255, 255, 255);">Herr Wehrmann und Herr M=
+=C3=BCller wurden informiert und ein Aufsichtslehrer (Herr Holzbach) ist au=
+ch schon gefunden=2E</span></div>
+<div style=3D"font-family: 'verdana'; font-size: 12px; color: #000;"><span=
+ style=3D"background-color: rgb(255, 255, 255);">&nbsp;</span></div>
+<div style=3D"font-family: 'verdana'; font-size: 12px; color: #000;"><span=
+ style=3D"background-color: rgb(255, 255, 255);">W=C3=BCrde dieses Datum f=
+=C3=BCr euch klappen?</span></div>
+<div style=3D"font-family: 'verdana'; font-size: 12px; color: #000;"><span=
+ style=3D"background-color: rgb(255, 255, 255);">&nbsp;</span></div>
+<div style=3D"font-family: 'verdana'; font-size: 12px; color: #000;"><span=
+ style=3D"background-color: rgb(255, 255, 255);">Liebe Gr=C3=BC=C3=9Fe</spa=
+n></div>
+<div style=3D"font-family: 'verdana'; font-size: 12px; color: #000;"><span=
+ style=3D"background-color: rgb(255, 255, 255);">&nbsp;</span></div>
+<div style=3D"font-family: 'verdana'; font-size: 12px; color: #000;"><span=
+ style=3D"background-color: rgb(255, 255, 255);">Die Tanzabend-AK :)</span>=
+</div>
+<div style=3D"font-family: 'verdana'; font-size: 12px; color: #000;"><span=
+ style=3D"background-color: rgb(255, 255, 255);">&nbsp;</span></div>

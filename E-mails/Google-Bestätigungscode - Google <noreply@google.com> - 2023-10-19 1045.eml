@@ -1,0 +1,135 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <3muwwZQcKCWcSTWJUQdLTTLQJ.HTRYJHMSNPFLKNHMYJ-LdRSFXNZR.IJ@identity-reachout.bounces.google.com>
+Received: from mail-hub02.belwue.de ([129.143.76.42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 75427514 for technikag@fichte-gymnasium.de; Thu, 19 Oct 2023 10:45:17 +0200
+Received: from mail-in03.belwue.de (mail-in03.belwue.de [129.143.76.3])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4SB1WJ6YSNz754M
+	for <technikag@fichte-gymnasium.de>; Thu, 19 Oct 2023 10:45:16 +0200 (CEST)
+Received: from mail-ot1-x347.google.com (mail-ot1-x347.google.com [IPv6:2607:f8b0:4864:20::347])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in03.belwue.de (Postfix) with ESMTPS id 4SB1WH6Cxyz19L2
+	for <technikag@fichte-gymnasium.de>; Thu, 19 Oct 2023 10:45:15 +0200 (CEST)
+Received: by mail-ot1-x347.google.com with SMTP id 46e09a7af769-6c70e93400bso10715055a34.0
+        for <technikag@fichte-gymnasium.de>; Thu, 19 Oct 2023 01:45:15 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20230601; t=1697705114; x=1698309914; darn=fichte-gymnasium.de;
+        h=to:from:subject:date:message-id:reachouttracker:mime-version:from
+         :to:cc:subject:date:message-id:reply-to;
+        bh=h4UINsEdg2lJaMN3J7HonFuEdUzhqUoWseL2/XfiV9Q=;
+        b=Ryyfsgoy2u1b5R4Ko3BdSZZTmpX0y1962Tcub/9cCPYDlmarGDaIDosu5N2/toIWuD
+         3z/Jn3FCo39laCmWYXXKzKjFFYNVGfUn+VosksrTWCU9SQ2uAXKm32ppZ6GA/bm6w5EZ
+         WPH8No6hZdB4wTqvw5uTSNRq0OvyTbK0JpsiIjtoM7KNcknBQ4dDoRg6D5tGUsHFypmA
+         enNU/3OrVUrPrlO+lcN7VQBwVHDzoxYhTj+VWmgIWui6F+9O5tLgNUQ/Rf2ppg6g9uCA
+         zByD5uXK4gv5zIdWR9IbZ/7T6gS1DKwm9SnXmv5I5WOk37V/zkKyUfUzQeFtJ+geWXf/
+         MVkg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20230601; t=1697705114; x=1698309914;
+        h=to:from:subject:date:message-id:reachouttracker:mime-version
+         :x-gm-message-state:from:to:cc:subject:date:message-id:reply-to;
+        bh=h4UINsEdg2lJaMN3J7HonFuEdUzhqUoWseL2/XfiV9Q=;
+        b=j+xWBA87/Lozy3beo1RF6SFEaPuDkaiEwftu5RZU+48/0hV/9mz4VB08pzPd32koSx
+         LnqY+LtKJidFIYakMZgR8xUkT7YgogScXoZZRFcxUqOBlkZx2H5DPRhWDj5wjx8khBPt
+         OnF1wUl/S8rTE0xA8Px6Xc4/beF2RpOi0FY82arGCqhZCzGvA2tPBOVha04mpTxK73qU
+         c0IvvB81FFznveSUWo837q9NA14/zlLpSRCI6A2VDzVJ52znofsX6vHcgK8aZ0Z3ETkp
+         zG2+HIoId5WVApEivcvK/XCD82xCV2oRhC2+pFEPV/2wIth32Qfp9W8WnRpjaAIARJlM
+         hw0A==
+X-Gm-Message-State: AOJu0YyI+ysoIWjQJZXOXKPxMijipSrl7KALRbU6mJkXyQReDD62hQZo
+	42QotQjxJ8ELoy+JE6mOXSf+s5TJtfZeDTtVf/hlZwb0FN+++mDRQqnknEmpi89+MQYfCG5lvny
+	GOjvPV3YU5DsY34/ZhpBQw5AY7GerTUXuC/X+HcY=
+X-Google-Smtp-Source: AGHT+IEdQxTghV3JYCrmaWasSOky/lIpJoq0Td7KQNVUnM6m0mjI3VDPntY6hJApKCOzeSgyryRM/R6CdrMb6EuTyw==
+MIME-Version: 1.0
+X-Received: by 2002:a9d:7445:0:b0:6c6:3ea5:cdc1 with SMTP id
+ p5-20020a9d7445000000b006c63ea5cdc1mr474578otk.3.1697705114419; Thu, 19 Oct
+ 2023 01:45:14 -0700 (PDT)
+ReachoutTracker: AftXtRr8O++1hp2QqkiN6IH0KYPlKZ5gyCMBhRUuhO3zjTZqCJEa04/m7IJOjAD5oHbdzd3SHahOHhM1tXYctwX7b2hg
+Message-ID: <00000000000047954806080dc68b@google.com>
+Date: Thu, 19 Oct 2023 08:45:14 +0000
+Subject: =?UTF-8?Q?Google=2DBest=C3=A4tigungscode?=
+From: Google <noreply@google.com>
+To: technikag@fichte-gymnasium.de
+Content-Type: multipart/alternative; boundary="00000000000047953806080dc688"
+X-Rspamd-SPAM-Probability: 4
+X-Rspamd-Queue-Id: 4SB1WH6Cxyz19L2
+X-Rspamd-UID: 95af45
+
+--00000000000047953806080dc688
+Content-Type: text/plain; charset="UTF-8"; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+R29vZ2xlLUJlc3TDpHRpZ3VuZ3Njb2RlDQoNCg0KDQoNCg0KDQoNCg0KDQpIYWxsbyBUZWNobmlr
+LA0KDQp3aXIgaGFiZW4gZWluZSBBbmZyYWdlIGbDvHIgZGVuIFp1Z3JpZmYgYXVmIElociBHb29n
+bGUtS29udG8gIA0KdGVjaG5pa2FtZmljaHRlQGdtYWlsLmNvbSDDvGJlciBJaHJlIEUtTWFpbC1B
+ZHJlc3NlIGVyaGFsdGVuLiBJaHIgIA0KR29vZ2xlLUJlc3TDpHRpZ3VuZ3Njb2RlIGxhdXRldDoN
+Cg0KDQozOTE4NzgNCg0KDQpGYWxscyBTaWUgZGllc2VuIENvZGUgbmljaHQgYW5nZWZvcmRlcnQg
+aGFiZW4sIHZlcnN1Y2h0IG3DtmdsaWNoZXJ3ZWlzZSBlaW5lICANCmFuZGVyZSBQZXJzb24sIGF1
+ZiBkYXMgR29vZ2xlLUtvbnRvIHRlY2huaWthbWZpY2h0ZUBnbWFpbC5jb20genV6dWdyZWlmZW4u
+ICANCkdlYmVuIFNpZSBkaWVzZW4gQ29kZSBuaWNodCB3ZWl0ZXIuDQoNClNpZSBoYWJlbiBkaWVz
+ZSBOYWNocmljaHQgZXJoYWx0ZW4sIHdlaWwgZGllc2UgRS1NYWlsLUFkcmVzc2UgYWxzICANCldp
+ZWRlcmhlcnN0ZWxsdW5ncy1FLU1haWwtQWRyZXNzZSBmw7xyIGRhcyBHb29nbGUtS29udG8gIA0K
+dGVjaG5pa2FtZmljaHRlQGdtYWlsLmNvbSBhbmdlZ2ViZW4gd3VyZGUuIFNvbGx0ZSBkaWVzIG5p
+Y2h0IHN0aW1tZW4sICANCmtsaWNrZW4gU2llIGJpdHRlIGhpZXIsIHVtIElocmUgRS1NYWlsLUFk
+cmVzc2UgYXVzIGRpZXNlbSBHb29nbGUtS29udG8genUgIA0KZW50ZmVybmVuLg0KDQpNaXQgZnJl
+dW5kbGljaGVuIEdyw7zDn2VuDQoNCkRhcyBHb29nbGUgS29udGVuLVRlYW0NCg0KDQoNCg0KDQoN
+Cg0KDQoNCg0KQml0dGUgYW50d29ydGVuIFNpZSBuaWNodCBkaXJla3QgYXVmIGRpZXNlIEUtTWFp
+bC4gV2VpdGVyZSBJbmZvcm1hdGlvbmVuICANCmVyaGFsdGVuIFNpZSBpbiBkZXIgR29vZ2xlIEtv
+bnRlbi1IaWxmZS4NCsKpIEdvb2dsZSBJbmMuLCAxNjAwIEFtcGhpdGhlYXRyZSBQYXJrd2F5LCBN
+b3VudGFpbiBWaWV3LCBDQSA5NDA0MywgVVNBDQoNCg0KDQoNCg==
+--00000000000047953806080dc688
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"max-width:=
+ 600px;"><tr><td><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0"><tr><td align=3D"left"><img width=3D"92" height=3D"32" src=3D"=
+https://ssl.gstatic.com/images/branding/googlelogo/2x/googlelogo_color_188x=
+64dp.png" style=3D"display: block; width: 92px; height: 32px;"></td><td ali=
+gn=3D"right"><img width=3D"32" height=3D"32" style=3D"display: block; width=
+: 32px; height: 32px;" src=3D"https://ssl.gstatic.com/accountalerts/email/k=
+eyhole.png"></td></tr></table></td></tr><tr height=3D"16"></tr><tr><td><tab=
+le bgcolor=3D"#4184F3" width=3D"100%" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" style=3D"min-width: 332px; max-width: 600px; border: 1px solid =
+#E0E0E0; border-bottom: 0; border-top-left-radius: 3px; border-top-right-ra=
+dius: 3px;"><tr><td height=3D"72px" colspan=3D"3"></td></tr><tr><td width=
+=3D"32px"></td><td style=3D"font-family: Roboto-Regular,Helvetica,Arial,san=
+s-serif; font-size: 24px; color: #FFFFFF; line-height: 1.25;">Google-Best=
+=C3=A4tigungscode</td><td width=3D"32px"></td></tr><tr><td height=3D"18px" =
+colspan=3D"3"></td></tr></table></td></tr><tr><td><table bgcolor=3D"#FAFAFA=
+" width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"=
+min-width: 332px; max-width: 600px; border: 1px solid #F0F0F0; border-botto=
+m: 1px solid #C0C0C0; border-top: 0; border-bottom-left-radius: 3px; border=
+-bottom-right-radius: 3px;"><tr height=3D"16px"><td width=3D"32px" rowspan=
+=3D"3"></td><td></td><td width=3D"32px" rowspan=3D"3"></td></tr><tr><td><p>=
+Hallo Technik,</p><p>wir haben eine Anfrage f=C3=BCr den Zugriff auf Ihr Go=
+ogle-Konto <span style=3D"color: #659CEF" dir=3D"ltr">technikamfichte@gmail=
+.com</span> =C3=BCber Ihre E-Mail-Adresse erhalten. Ihr Google-Best=C3=A4ti=
+gungscode lautet:</p><div style=3D"text-align: center;"><p dir=3D"ltr"><str=
+ong style=3D"text-align: center; font-size: 24px; font-weight: bold;">39187=
+8</strong></p></div><p>Falls Sie diesen Code nicht angefordert haben, versu=
+cht m=C3=B6glicherweise eine andere Person, auf das Google-Konto <span styl=
+e=3D"color: #659CEF" dir=3D"ltr">technikamfichte@gmail.com</span> zuzugreif=
+en. <strong>Geben Sie diesen Code nicht weiter.</strong></p><p>Sie haben di=
+ese Nachricht erhalten, weil diese E-Mail-Adresse als Wiederherstellungs-E-=
+Mail-Adresse f=C3=BCr das Google-Konto <span style=3D"color: #659CEF">techn=
+ikamfichte@gmail.com</span> angegeben wurde. Sollte dies nicht stimmen, <a =
+href=3D"https://accounts.google.com/AccountDisavow?adt=3DAOX8kipYj7jlNXZaS3=
+TQ1oxDcZPK8WFIJ6IZlnRfGjNnvTWeiooCOzJ4PSgS5a9Yw1gwPmj4AqBtlA">klicken Sie b=
+itte hier</a>, um Ihre E-Mail-Adresse aus diesem Google-Konto zu entfernen.=
+</p><p>Mit freundlichen Gr=C3=BC=C3=9Fen</p><p>Das Google Konten-Team</p></=
+td></tr><tr height=3D"32px"></tr></table></td></tr><tr height=3D"16"></tr><=
+tr><td style=3D"max-width: 600px; font-family: Roboto-Regular,Helvetica,Ari=
+al,sans-serif; font-size: 10px; color: #BCBCBC; line-height: 1.5;"><table><=
+tr><td><table style=3D"font-family: Roboto-Regular,Helvetica,Arial,sans-ser=
+if; font-size: 10px; color: #666666; line-height: 18px; padding-bottom: 10p=
+x">Bitte antworten Sie nicht direkt auf diese E-Mail. Weitere Informationen=
+ erhalten Sie in der <a href=3D"https://support.google.com/accounts/trouble=
+shooter/2402620?ref_topic=3D2364467" style=3D"text-decoration: none; color:=
+ #4d90fe;">Google Konten-Hilfe</a>.<br>=C2=A9 Google Inc., 1600 Amphitheatr=
+e Parkway, Mountain View, CA 94043, USA</table></td></tr></table></td></tr>=
+</table>
+--00000000000047953806080dc688--

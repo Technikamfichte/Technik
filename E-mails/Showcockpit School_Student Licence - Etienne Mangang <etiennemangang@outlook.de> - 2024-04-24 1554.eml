@@ -1,0 +1,155 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <etiennemangang@outlook.de>
+Received: from mail-hub02.belwue.de ([129.143.76.42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 83215475; Wed, 24 Apr 2024 16:08:59 +0200
+Received: from mail-in04.belwue.de (mail-in04.belwue.de [129.143.76.4])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4VPgp3300tz5mDl;
+	Wed, 24 Apr 2024 16:08:59 +0200 (CEST)
+Received: from EUR03-DBA-obe.outbound.protection.outlook.com (mail-dbaeur03olkn20801.outbound.protection.outlook.com [IPv6:2a01:111:f403:2e0d::801])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mail-in04.belwue.de (Postfix) with ESMTPS id 4VPgnz4PFwz4xR8C;
+	Wed, 24 Apr 2024 16:08:55 +0200 (CEST)
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=Ejh+f74ZwBuQ0BORIyjGYRXJwkO7GmlDd+7xpF5fXIu365ZiRldkUlj82rXw4yZ7lLI77K3kBQR4Uegcn8pg8kayDUEOGoko6JPTBbPjd2n9PErq1CFJTSiowf5dRYYPSbFELvNxmGeLqqUh4/HkNRQRwwXJsEgJToHw03TWCswH8kdEX7Katd5AzQkQ08MC+cQa9+DRB/LUtRyHOUvIgeWUSb04qrqT0L40kW6TM8had6jsrNLRf9lpOn4lOy9S/4Gme5tAfsLOq/QjNNDqyECGEAovgT4E0L0VUgipvomS0Xmn2i/9ShfEpmkHBoBl2vcV/UAemDDz+3fUsjFSvQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=kLG2ahz14/iSwcsXqUwqk0y5j0IY/nMjIBpRp/MUKhI=;
+ b=MQuwOlHpiEvBNyGNonVn4CiTMNEKI98zFo6Vm9WfFu46DNakhPctfiFbBc/nVlXK5632mmA/tMQ2/6Qw7h5PYCHKo5N/dW9jik2Q9hGvzzlE4OgJWxRnxhnISsSA9C1mKrjsu9Neb3BguJlRIPvNAPCUkG2/We5bGLoworz/wgTQc6P/nTKsXTmmSwOs12JVuI2grGul07TuFFEWKkig+zmPPoG5jubzg4po1OIGaEdc7vHeq9lfT3E1HBYT3785ii6ct7E/zTDpJp7JKahimckWqLrwflO7E7z7bHDlKt++YQY1+wOPnQiwxPYCDb/PsPu3AGh3TdL80uSWqWhd6Q==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=none;
+ dkim=none; arc=none
+Received: from PAXPR02MB7743.eurprd02.prod.outlook.com (2603:10a6:102:20e::21)
+ by AM9PR02MB7028.eurprd02.prod.outlook.com (2603:10a6:20b:265::22) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7472.44; Wed, 24 Apr
+ 2024 13:54:22 +0000
+Received: from PAXPR02MB7743.eurprd02.prod.outlook.com
+ ([fe80::ceb2:160d:8056:a4bf]) by PAXPR02MB7743.eurprd02.prod.outlook.com
+ ([fe80::ceb2:160d:8056:a4bf%4]) with mapi id 15.20.7519.021; Wed, 24 Apr 2024
+ 13:54:22 +0000
+From: Etienne Mangang <etiennemangang@outlook.de>
+To: "general@showcockpit.com" <general@showcockpit.com>
+CC: "lucas.schuett@fichte-gymnasium.de" <lucas.schuett@fichte-gymnasium.de>,
+	"technikag@fichte-gymnasium.de" <technikag@fichte-gymnasium.de>
+Subject: Showcockpit School/Student Licence
+Thread-Topic: Showcockpit School/Student Licence
+Thread-Index: AQHalk04Q/PgxNEh1UCWbeLxbVZhnQ==
+Date: Wed, 24 Apr 2024 13:54:22 +0000
+Message-ID:
+ <PAXPR02MB774380E38A5B929D75067CC9A9102@PAXPR02MB7743.eurprd02.prod.outlook.com>
+Accept-Language: de-DE, en-US
+Content-Language: de-DE
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+msip_labels:
+x-tmn: [w2m5kyZrkd7QILjCSnqmx4nyQcdCX0vI]
+x-ms-publictraffictype: Email
+x-ms-traffictypediagnostic: PAXPR02MB7743:EE_|AM9PR02MB7028:EE_
+x-ms-office365-filtering-correlation-id: 1d514efc-98f2-4cd8-a295-08dc64660b98
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ g+IC75WEY9T2DhhdzNnRxBaX8GT1W0QZ2LzbAJwBxyGcpbLWvU5JfHH7ICe9ZN/0xRVwVlHLIDp+9gwCEmCBOoeGSIMgYOG6pXFu0r99EVDgdbS4oSw2Uyn9/CCKJP63NdjpGfMPmkGPrxAVS+vp5ehUqkysBZpqSckGpJg+c00p6fj9MARlgG+IGlslVKhrwM1uxJkIOvy7G9msjxNVYomzLJ2syyy9+qlQVRAzUMRVfngJgQyv2LNxjR5jOJJRJg/H6JfuZe14OgYusuC0zHNWxazCz7gMVbBtNcBkVQVHr9CTzIq/IRGEfZJN7gNyNzmirHDe7g0TdOusEAFavD7e+W9GpnTXFze2yuFAAvhy9og0l23BPfmna7P1SpjSUtABTC1ugRDcbKmSQfr+ymhex8dB+RP73wAe9XY71/DT2jAGowFR1ebyf6Pb4vAHKSLrOz78p7EEksqQyYlfKmATNFefmseD6iqeF3+LjdnCkOx9Zg837GNNesu5H26ZM8xf3fd0dGFSWfRTLTSyxxiG2BCOsOK1wb6f5E9B0Yhm6i0m2peRneJdAeDgnAMe
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?iso-8859-1?Q?x86n0NpSItZDVX0VEAHqqiEPECIwyd10nfUI171cWZGMCYaLZcaiZR9Evy?=
+ =?iso-8859-1?Q?7lbVeSyZ8tMfroxfHrKQrQCVzucNS9UzmeqyyuDOSLjE8Ew8YduN+coW0i?=
+ =?iso-8859-1?Q?Dw1KWiNDZEphbaEefMNjDQTa71+6diYCvUFLgMLFNzEyrrj6iiaOzri/km?=
+ =?iso-8859-1?Q?xMKYzCf7j0utCiihXKCeX7WaCQklMxOuV2fJAmxpwlBeKC8ZGcBsAeWtSW?=
+ =?iso-8859-1?Q?AH9ICFkpsSMbK9PdR881rKgWRjdPl/4iBNVjyUbfyt5CRTFE2JLx6S2FHz?=
+ =?iso-8859-1?Q?/MFcoVl/VE6ycAbi01xzFaHPLAdnVNS+E8UMcpYgjZEsU1lmGp/KGIe2WI?=
+ =?iso-8859-1?Q?m6Su837saBqVdq+Pwgi/OXfe0myRDutgQLrEdcALGCl6Nz/lcAOGQKFM4j?=
+ =?iso-8859-1?Q?y7W8jmnN2Q9cbYkGpZzchkbSbZ7itwZPz5Ro/L2fA8jDYXBynJgkxuBjfu?=
+ =?iso-8859-1?Q?dORneSP9ZrPDwi4FVRRyDkRQt3y9xhCj4N+BuSsUpc7HAs+/X+hwG/LyQQ?=
+ =?iso-8859-1?Q?NkxJjazXCGHxz9vsOIhj8MkaiEpqEP0SOFLPk6p9jvP3LMsKAADnBOYkOV?=
+ =?iso-8859-1?Q?EkZptp5Qq70WI9Ty0urcHCd4JIEL5cDgJBnXs+hlMSURwuhh6UwxeI92Jy?=
+ =?iso-8859-1?Q?h//zbpIMxMYSuELNDKATGg8K5FVymyqAEpBLM5ULzE0ku588oxOT8mWSQQ?=
+ =?iso-8859-1?Q?JTnwHLUuCTOZb/1G6ox0CdmlIi0xSHqH8Ul55za21y2Cx+MMcOVoLb8fgs?=
+ =?iso-8859-1?Q?uWRhRKWN+j43wOzZIizD1MpQZ4HmmBzMTcC57kEhyiUS/deUnK1ER0X/v7?=
+ =?iso-8859-1?Q?PyUWDz/WnczTAIPr/tvh1ZGMoyTs3zcnPnPfbFg0hjmgEadprvfcy1ADmk?=
+ =?iso-8859-1?Q?XNLfF8Kn4qX2lb9XpSZZsHThMvxxP0LiQcY+kb0nZMp3/chrtVSGc+Q3Mc?=
+ =?iso-8859-1?Q?97vPqc6t1bwA7RFLORqarGuLweyMUC7MDgQGqGQ1c2/lkGj3BuBNrKsHVS?=
+ =?iso-8859-1?Q?iR4ghMKngcla5HQT3gH6suEtZ4l5pnViNL4NIW1G55C7EK7Qsb1RegEbDN?=
+ =?iso-8859-1?Q?+m8uJFuul1nHsyYdl69fH9bnj3y6wsmr2dH0INUkzVpsL3MqJ9XWMOGWAT?=
+ =?iso-8859-1?Q?ohMrFgt7sSR0pt+GwBA7LzZjTS/5TFXlMX3eqHoLStTWYJ7VotkIqdw69R?=
+ =?iso-8859-1?Q?pnjPEjbsSlMODsr310HWBzdqQw9Wh0cvy4qx9nFAbc7RK9JKdI6IaO8mw9?=
+ =?iso-8859-1?Q?gK01JKLpuPwRx4pb05dnfFSAhZUL3IT+Cc0MMIyxg=3D?=
+Content-Type: multipart/alternative;
+	boundary="_000_PAXPR02MB774380E38A5B929D75067CC9A9102PAXPR02MB7743eurp_"
+MIME-Version: 1.0
+X-OriginatorOrg: sct-15-20-4755-11-msonline-outlook-ab7de.templateTenant
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: PAXPR02MB7743.eurprd02.prod.outlook.com
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-CrossTenant-Network-Message-Id: 1d514efc-98f2-4cd8-a295-08dc64660b98
+X-MS-Exchange-CrossTenant-originalarrivaltime: 24 Apr 2024 13:54:22.2332
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-rms-persistedconsumerorg: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: AM9PR02MB7028
+X-Rspamd-UID: aae0ef
+X-Rspamd-Queue-Id: 4VPgnz4PFwz4xR8C
+X-Rspamd-SPAM-Probability: 0
+
+--_000_PAXPR02MB774380E38A5B929D75067CC9A9102PAXPR02MB7743eurp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Ricardo Dias,
+My name is Etienne Mangang and I'm from the Fichte-Gymnasium Karlsruhe in G=
+ermany. Our Event Technology Team, which I am part of, is currently looking=
+ for a new lightning software. Because we have MIDI Pads, we need a Softwar=
+e that makes it easy to set it all up. Thats why we found Showcockpit. I wa=
+nted to ask if there is any kind of student licence or something like that,=
+ because we are not able to spend this much money.
+
+Best Regards
+
+Etienne Mangang
+
+--_000_PAXPR02MB774380E38A5B929D75067CC9A9102PAXPR02MB7743eurp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"> P {margin-top:0;margin-bo=
+ttom:0;} </style>
+</head>
+<body dir=3D"ltr">
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Dear Ricardo Dias,</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+My name is Etienne Mangang and I'm from the Fichte-Gymnasium Karlsruhe in G=
+ermany. Our Event Technology Team, which I am part of, is currently looking=
+ for a new lightning software. Because we have MIDI Pads, we need a Softwar=
+e that makes it easy to set it all
+ up. Thats why we found Showcockpit. I wanted to ask if there is any kind o=
+f student licence or something like that, because we are not able to spend =
+this much money.</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+Best Regards<br>
+<br>
+Etienne Mangang</div>
+</body>
+</html>
+
+--_000_PAXPR02MB774380E38A5B929D75067CC9A9102PAXPR02MB7743eurp_--

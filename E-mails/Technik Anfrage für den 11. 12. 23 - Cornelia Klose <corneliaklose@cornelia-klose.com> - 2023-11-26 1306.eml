@@ -1,0 +1,116 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <corneliaklose@cornelia-klose.com>
+Received: from mail-hub02.belwue.de ([2001:7c0:0:76::42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 75875399 for technikag@fichte-gymnasium.de; Sun, 26 Nov 2023 13:06:11 +0100
+Received: from mail-in03.belwue.de (mail-in03.belwue.de [129.143.76.3])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4SdS9b1sJKz7CwG
+	for <technikag@fichte-gymnasium.de>; Sun, 26 Nov 2023 13:06:11 +0100 (CET)
+Received: from mout.kundenserver.de (mout.kundenserver.de [212.227.126.135])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange ECDHE (P-256) server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in03.belwue.de (Postfix) with ESMTPS id 4SdS9W3Ss4z9TW
+	for <technikag@fichte-gymnasium.de>; Sun, 26 Nov 2023 13:06:07 +0100 (CET)
+Received: from smtpclient.apple ([77.21.253.146]) by mrelayeu.kundenserver.de
+ (mreue009 [212.227.15.167]) with ESMTPSA (Nemesis) id
+ 1N2V8Z-1rIfzs0HVf-013wcc; Sun, 26 Nov 2023 13:06:07 +0100
+Content-Type: multipart/alternative; boundary=Apple-Mail-D94CD06B-9DDD-4932-BD7A-51E065DC4B86
+Content-Transfer-Encoding: 7bit
+From: Cornelia Klose <corneliaklose@cornelia-klose.com>
+Mime-Version: 1.0 (1.0)
+Date: Sun, 26 Nov 2023 13:06:05 +0100
+Subject: =?utf-8?Q?Technik_Anfrage_f=C3=BCr_den_11._12._23?=
+Message-Id: <00B71A78-F474-4649-B5AC-40C3FE514431@cornelia-klose.com>
+To: TechnikAG Fichte-Gymnasium <technikag@fichte-gymnasium.de>,
+ lukas.schuett@fichte-gymnasium.de
+X-Mailer: iPad Mail (19H365)
+X-Provags-ID: V03:K1:sHxRmOfIgXLO3uCBLMT43u/WH5cGbCoUcIls01TtB2goJD2vHRv
+ 3s1IrEQB3r7D7tsBQUHsGUHNXS42cFA1s0EOv+MByffpSBcTfs130RzYUcRCCEQFLtO96Nt
+ Zu0EdWezMKAhWyuTXzynx0l2BzmC82KmI7MZzS2FlfyvTxruMM9sOc2BDdlde4vRMrQiI9F
+ qwl5mJXhDc2uupOhfN0fA==
+X-Spam-Flag: NO
+UI-OutboundReport: notjunk:1;M01:P0:w+F7v9OO0wE=;zzTnIcuuM/Un+Io9Dm/zA6dZVRW
+ s89WXTdUysDWMOBL8eSpEIyJ6Emsyl+UXeNA9Lp5ToFIIZXrAGjAcrrEFapSG+buf4S2xw9S1
+ IcAi6K+xLgMON1KFx55Lt+36e5TDpMyxVZyXDprORAGLPVJWgHvNSH844+MmAHLfAahPEkAjS
+ O5NTcHBIXxsqjPeyxaYkLFfK91kjahdiUTdUvNjdBZMsXcc62ORDt1Al3HC1kTkrIzpN7X+D5
+ DIxHMLki/xgDo4LGDR7bTKeszwHa520Y5a+7efuuYmJFU6QyBU2iAQ3rdcF8rND2/Pe+I1syC
+ mhXoRw87JljLYH77M8L1yKemImWdBPD+Tt+93YmekX4kqH7NXViQthmqkqrdwDYQ4qDJUSI+b
+ TVn7lFm0s8anyndfMdC5qD5csa/3smRVquCHFJuTfGhA6qB5m6pYOUmVoZP80cqBsAsoWmskF
+ gKfolIy+/Fw3hI7TMe1gIkRpv3jfA3C6RQLxnWEmcuZWFBv021hJxYQq4BeZLSKzX5F9RrTG0
+ SYvKvCT5kndUSwT0MYkLCdKnS0e1gOhETu9MEuzSD8khFf051NG8ms9ZVZyjryZ7q5pU9Lxp/
+ gvL+NcOTn/K7XuJU9yyoetgjFTcqI4SK+Z3nFLZ4BEhPp93k0Faw0sC0gATcIIBpRWq1iJgo9
+ e5o5C19hUApFwX8+kmifK5rQIW3OTM8rLpfDHr/byPemPU4hLr4PIRjqtxSeU5zHxjjqRdErg
+ 0YBUzsE2s/e1lrIkUOe9MH4/PX38uy5T0KtGDLktK26YQlCar4qXscMnfwvGVN7Mj5w5WuA3O
+ ca7n6+PIERG9xNO+d83DENBJRbohcKTR9/c9lTK5Op2r446fFpxxjXI02U/7ay2oRfXQSUDng
+ ZVhCU4plqk4TX7ml2hy3Oy+6tpdNT8W2jUbk=
+X-Rspamd-SPAM-Probability: 6
+X-Rspamd-Queue-Id: 4SdS9W3Ss4z9TW
+X-Rspamd-UID: ef4ce8
+
+
+--Apple-Mail-D94CD06B-9DDD-4932-BD7A-51E065DC4B86
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Liebes Team der Technik-AG,
+wie schon gespr=C3=A4chsweise angek=C3=BCndigt, ben=C3=B6tigen wir eure tech=
+nische Unterst=C3=BCtzung  f=C3=BCr die Veranstaltung zu den Klimasongs am 1=
+1.12. 23. um 19.00.
+Die Veranstaltung wird eine Pr=C3=A4sentation der Arbeiten mit den neuen IPa=
+ds der Dietmar Hopp Stiftung, die Stiftung muss den Abschlussbericht am 13.1=
+2. erhalten.
+
+Geplant ist der Aufbau so wie am Chanson-Abend. Schwarzer Vorhang, lockere T=
+ischordnung, stimmungsvolles Licht. Es gibt Bewirtung. In der Pause gibt es S=
+tationen mit Plakaten zu einzelnen Songs. Die Mensawand bleibt geschlossen.
+Das von der F=C3=B6rdergemeinschaft  bezuschusste Jazz-Trio bringt eigenes E=
+quipment f=C3=BCr den Ton. Der Aufbau des Trios startet ab 16.00.
+
+Falls m=C3=B6glich, k=C3=B6nnten wir zuvor eine B=C3=BChne von 3x6 Metern st=
+ellen, falls das zeittechnisch reinpasst. Dann w=C3=BCrde alles besser zu se=
+hen sein und der Auftirtt der K2 mit den Jazzmusikern h=C3=A4tte einen sch=C3=
+=B6nen Rahmen.
+
+Ich freue mich auf das Konzert =C3=BCbermorgen, au=C3=9Ferdem nat=C3=BCrlich=
+ auch auf Antwort bez=C3=BCglich des Termins 11.12.23.
+Viele Gr=C3=BC=C3=9Fe,
+C, Klose=20
+
+Cornelia Klose
+Auf der Heide 9 b
+67360 Lingenfeld
+
+
+--Apple-Mail-D94CD06B-9DDD-4932-BD7A-51E065DC4B86
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto">Liebes Team der Technik-AG,<div>wie schon g=
+espr=C3=A4chsweise angek=C3=BCndigt, ben=C3=B6tigen wir eure technische Unte=
+rst=C3=BCtzung &nbsp;f=C3=BCr die Veranstaltung zu den Klimasongs am 11.12. 2=
+3. um 19.00.</div><div>Die Veranstaltung wird eine Pr=C3=A4sentation der Arb=
+eiten mit den neuen IPads der Dietmar Hopp Stiftung, die Stiftung muss den A=
+bschlussbericht am 13.12. erhalten.</div><div><br></div><div>Geplant ist der=
+ Aufbau so wie am Chanson-Abend. Schwarzer Vorhang, lockere Tischordnung, st=
+immungsvolles Licht. Es gibt Bewirtung. In der Pause gibt es Stationen mit P=
+lakaten zu einzelnen Songs. Die Mensawand bleibt geschlossen.</div><div>Das v=
+on der F=C3=B6rdergemeinschaft &nbsp;bezuschusste Jazz-Trio bringt eigenes E=
+quipment f=C3=BCr den Ton. Der Aufbau des Trios startet ab 16.00.</div><div>=
+<br></div><div>Falls m=C3=B6glich, k=C3=B6nnten wir zuvor eine B=C3=BChne vo=
+n 3x6 Metern stellen, falls das zeittechnisch reinpasst. Dann w=C3=BCrde all=
+es besser zu sehen sein und der Auftirtt der K2 mit den Jazzmusikern h=C3=A4=
+tte einen sch=C3=B6nen Rahmen.</div><div><br></div><div>Ich freue mich auf d=
+as Konzert =C3=BCbermorgen, au=C3=9Ferdem nat=C3=BCrlich auch auf Antwort be=
+z=C3=BCglich des Termins 11.12.23.</div><div>Viele Gr=C3=BC=C3=9Fe,</div><di=
+v>C, Klose&nbsp;<br><br><div dir=3D"ltr"><div><span style=3D"font-size: 13pt=
+;">Cornelia Klose</span></div><div><div>Auf der Heide 9 b</div><div>67360 Li=
+ngenfeld</div><div><br></div></div></div></div></body></html>=
+
+--Apple-Mail-D94CD06B-9DDD-4932-BD7A-51E065DC4B86--

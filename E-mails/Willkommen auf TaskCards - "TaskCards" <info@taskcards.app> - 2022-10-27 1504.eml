@@ -1,0 +1,589 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <bounces-157442434-info=taskcards.app@gw.d.sender-sib.com>
+Received: from mail-hub02.belwue.de ([129.143.76.42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.13)
+  with ESMTPS id 56858253 for technikag@fichte-gymnasium.de; Thu, 27 Oct 2022 15:04:46 +0200
+Received: from mail-in03.belwue.de (mail-in03.belwue.de [IPv6:2001:7c0:0:76::3])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4Mym9V1Z7Cz3dC8
+	for <technikag@fichte-gymnasium.de>; Thu, 27 Oct 2022 15:04:46 +0200 (CEST)
+Received: from gw.d.sender-sib.com (gw.d.sender-sib.com [77.32.148.23])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in03.belwue.de (Postfix) with ESMTPS id 4Mym9T4Tp2z4TMP
+	for <technikag@fichte-gymnasium.de>; Thu, 27 Oct 2022 15:04:45 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=taskcards.app;
+ q=dns/txt; s=mail; bh=EjTt78PMxR3sR1ANNJ/gDl+Mq2+vZohOlfTWbRNIAec=;
+ h=from:reply-to:subject:date:to:mime-version:content-type:list-unsubscribe:x-csa-complaints:list-unsubscribe-post;
+        b=zcEwZlQ4hQDtGy3m1wTz8VllOKhaDvnpmqHIiVUkgtzgCdu1ba9LzEG4/3nMz7yohUFKbjUbE96j
+        +ZxwsAG5id1vO+XQT0ImZFQchm1uOOZbpOGKMSV6EGQP9IGE1joJhPXOnbd+mBblZsNV3n9iw8QT
+        MnJbde6+j541r46vExM=
+X-Mailin-EID: MTU3NDQyNDM0fnRlY2huaWthZ0BmaWNodGUtZ3ltbmFzaXVtLmRlfjwyMDIyMTAyNzE1MDQuMTg5MzczODc5MzVAc210cC1yZWxheS5tYWlsaW4uZnI%2Bfmd3LmQuc2VuZGVyLXNpYi5jb20%3D
+To: <technikag@fichte-gymnasium.de>
+Date: Thu, 27 Oct 2022 13:04:43 +0000
+Subject: Willkommen auf TaskCards
+Message-Id: <491c5990-b41d-446b-883b-b21c5fd93e94@smtp-relay.sendinblue.com>
+Origin-messageId: <202210271504.18937387935@smtp-relay.mailin.fr>
+Content-Type: multipart/alternative;
+ boundary="--_SiB-730954c224582375-Part_1"
+Reply-To: support@taskcards.app
+MIME-Version: 1.0
+X-sib-id: Ok0tO2rjbg-fbGB69fEcJfQtNAjpeDMin7h-8ITkzXtRFpriIezshFC9sWXfHeIEIkb1yjG3lsXHTXWsZ3xoAenlJ_BVVfir_2wvSduedoHJEMMZNAy04kmCQ1-xNdsyr6rfFf0HPzln5ttuhqKl0ZxqPDI9ZbbFTMrgto0G0j4zqVFxa0rlF39STw
+X-CSA-Complaints: whitelist-complaints@eco.de
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Feedback-ID: 77.32.148.23:4488862_-1:4488862:Sendinblue
+From: "TaskCards" <info@taskcards.app>
+List-Unsubscribe: <mailto:unsubscribe-t@gw.d.sender-sib.com?subject=unsub-MTU3NDQyNDM0fnRlY2huaWthZ0BmaWNodGUtZ3ltbmFzaXVtLmRlfjwyMDIyMTAyNzE1MDQuMTg5MzczODc5MzVAc210cC1yZWxheS5tYWlsaW4uZnI-flRhc2tDYXJkcyA8aW5mb0B0YXNrY2FyZHMuYXBwPn40OTFjNTk5MC1iNDFkLTQ0NmItODgzYi1iMjFjNWZkOTNlOTQ%3D&body=MTU3NDQyNDM0fnRlY2huaWthZ0BmaWNodGUtZ3ltbmFzaXVtLmRlfjwyMDIyMTAyNzE1MDQuMTg5MzczODc5MzVAc210cC1yZWxheS5tYWlsaW4uZnI-flRhc2tDYXJkcyA8aW5mb0B0YXNrY2FyZHMuYXBwPn40OTFjNTk5MC1iNDFkLTQ0NmItODgzYi1iMjFjNWZkOTNlOTQ%3D>, <https://eeiiigc.r.af.d.sendibt2.com/tr/un/li/NaQ6xoZj-_N1PObkNbPO0QowvFtz_gvkPVfDe-gCY4cXY5tbJfBTvnIxIe8o-wPGuT9yaDMiCcOIq5c-kobtv3aI7-Jh99UZ3KVB_pvq8dLGrczzw2ERMvYrIILaNlbsUGoqfQI-oip8FL5Jk4mBFZCf24ADR606GQfuXeGLrzSw_sGftDy3md8zXxer24zxzrdEgzyaGV9U8OboppUtWAkKldMMQz6vu7DFI855loof3Nyyqhx4IAiZid1NZyZ216TA6DCy2beBUQ>
+X-Rspamd-SPAM-Probability: 0
+X-Rspamd-Queue-Id: 4Mym9T4Tp2z4TMP
+X-Rspamd-UID: 33b40e
+
+
+----_SiB-730954c224582375-Part_1
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+**TaskCards |=C2=A0**[**www.taskcards.de**]()
+
+###Willkommen auf TaskCards
+
+Hallo=C2=A0technikag,
+------------------------------------------------------
+
+wir begr=C3=BC=C3=9Fen Sie ganz herzlich auf TaskCards.
+
+=C2=A0
+
+Hiermit best=C3=A4tigen wir Ihnen die Anmeldung auf TaskCards.
+=C2=A0
+
+
+####Ihr TaskCards-Team
+
+support@taskcards.app
+
+[Impressum](https://www.taskcards.de/#/home/imprint)
+
+[Datenschutz](https://www.taskcards.de/#/home/privacyPolicy)
+
+[Nutzungsbedingungen](https://downloads.taskcards.de/termsOfService.pdf)
+
+dSign Systems GmbH, Waldhausstra=C3=9Fe 14, 98574 Schmalkalden
+Gesch=C3=A4ftsf=C3=BChrer: Christian Dornheim, Sitz der Gesellschaft: =
+Schmalkalden
+Handelsregister: HRB507202, Registergericht: Amtsgericht Jena
+Umsatzsteuer-ID: DE279512303, Steuernummer: =
+171/107/07649=C2=A0
+
+
+----_SiB-730954c224582375-Part_1
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1.0 Strict//EN=22 =22http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd=22>
+<html xmlns=3D=22http://www.w3.org/1999/xhtml=22 xmlns:v=3D=22urn:schemas-m=
+icrosoft-com:vml=22 xmlns:o=3D=22urn:schemas-microsoft-com:office:office=22=
+><head><meta http-equiv=3D=22Content-Type=22 content=3D=22text/html; =
+charset=3Dutf-8=22><meta http-equiv=3D=22X-UA-Compatible=22 =
+content=3D=22IE=3Dedge=22><meta name=3D=22format-detection=22 =
+content=3D=22telephone=3Dno=22><meta name=3D=22viewport=22 =
+content=3D=22width=3Ddevice-width, initial-scale=3D1.0=22><title>Willkommen=
+ auf TaskCards</title><style type=3D=22text/css=22 emogrify=3D=22no=22>#out=
+look a { padding:0; } .ExternalClass { width:100%; } .ExternalClass, .=
+ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass =
+td, .ExternalClass div { line-height: 100%; } table td { border-collapse: =
+collapse; mso-line-height-rule: exactly; } .editable.image { font-size: 0 !=
+important; line-height: 0 !important; } .nl2go=5Fpreheader { display: none =
+!important; mso-hide:all !important; mso-line-height-rule: exactly; =
+visibility: hidden !important; line-height: 0px !important; font-size: 0px =
+!important; } body { width:100% !important; -webkit-text-size-adjust:100%; =
+-ms-text-size-adjust:100%; margin:0; padding:0; } img { outline:none; =
+text-decoration:none; -ms-interpolation-mode: bicubic; } a img { =
+border:none; } table { border-collapse:collapse; mso-table-lspace:0pt; =
+mso-table-rspace:0pt; } th { font-weight: normal; text-align: left; } =
+*[class=3D=22gmail-fix=22] { display: none !important; } </style><style =
+type=3D=22text/css=22 emogrify=3D=22no=22> @media (max-width: 600px) { .=
+gmx-killpill { content: ' \03D1';} } </style><style type=3D=22text/css=22 =
+emogrify=3D=22no=22>@media (max-width: 600px) { .gmx-killpill { content: ' =
+\03D1';} .r0-c { box-sizing: border-box !important; text-align: center !=
+important; valign: top !important; width: 320px !important } .r1-o { =
+border-style: solid !important; margin: 0 auto 0 auto !important; width: =
+320px !important } .r2-i { background-color: #e1eff5 !important } .r3-c { =
+box-sizing: border-box !important; text-align: center !important; valign: =
+top !important; width: 100% !important } .r4-o { border-style: solid !=
+important; margin: 0 auto 0 auto !important; width: 100% !important } .r5-i=
+ { background-color: #294174 !important; padding-bottom: 10px !important; =
+padding-left: 15px !important; padding-right: 15px !important; padding-top:=
+ 3px !important } .r6-c { box-sizing: border-box !important; valign: top !=
+important; width: 100% !important } .r7-o { border-style: solid !important;=
+ width: 100% !important } .r8-i { padding-left: 10px !important; =
+padding-right: 10px !important } .r9-c { box-sizing: border-box !important;=
+ text-align: left !important; valign: top !important; width: 100% !=
+important } .r10-o { border-style: solid !important; margin: 0 auto 0 0 !=
+important; width: 100% !important } .r11-i { color: #3b3f44 !important; =
+padding-top: 10px !important; text-align: left !important } .r12-i { =
+padding-bottom: 0px !important; padding-left: 0px !important; =
+padding-right: 0px !important; padding-top: 0px !important; text-align: =
+left !important } .r13-o { background-size: cover !important; border-style:=
+ solid !important; margin: 0 auto 0 auto !important; width: 100% !important=
+ } .r14-i { background-color: #ffffff !important; padding-bottom: 0px !=
+important; padding-left: 5px !important; padding-right: 5px !important; =
+padding-top: 0px !important } .r15-c { box-sizing: border-box !important; =
+display: block !important; valign: top !important; width: 100% !important }=
+ .r16-i { padding-left: 0px !important; padding-right: 0px !important } .=
+r17-o { border-style: solid !important; margin: 0 auto 0 0 !important; =
+margin-bottom: 0px !important; margin-top: 0px !important; width: 100% !=
+important } .r18-i { padding-bottom: 0px !important; padding-left: 0px !=
+important; padding-right: 0px !important; padding-top: 5px !important; =
+text-align: left !important } .r19-i { padding-bottom: 10px !important; =
+padding-top: 15px !important; text-align: left !important } .r20-i { color:=
+ #3b3f44 !important; padding-bottom: 10px !important; padding-top: 10px !=
+important; text-align: left !important } .r21-i { background-color: #294174=
+ !important; color: #3b3f44 !important; padding-bottom: 0px !important; =
+padding-left: 5px !important; padding-right: 5px !important; padding-top: =
+15px !important } .r22-i { color: #3b3f44 !important; padding-left: 0px !=
+important; padding-right: 0px !important } .r23-i { color: #3b3f44 !=
+important; padding-bottom: 0px !important; padding-left: 0px !important; =
+padding-right: 0px !important; padding-top: 0px !important; text-align: =
+left !important } .r24-c { box-sizing: border-box !important; text-align: =
+right !important; width: 100% !important } .r25-o { border-style: solid !=
+important; margin: 0 0 0 auto !important; width: 100% !important } .r26-i {=
+ color: #3b3f44 !important; font-size: 0px !important; padding-bottom: 5px =
+!important; padding-left: 190px !important; padding-right: 0px !important; =
+padding-top: 5px !important } .r27-c { box-sizing: border-box !important; =
+width: 32px !important } .r28-o { border-style: solid !important; =
+margin-right: 8px !important; width: 32px !important } .r29-i { color: =
+#3b3f44 !important; padding-bottom: 5px !important; padding-top: 5px !=
+important } .r30-o { background-size: cover !important; border-style: solid=
+ !important; margin: 0 auto 0 auto !important; margin-bottom: 0px !=
+important; margin-top: 0px !important; width: 100% !important } .r31-i { =
+background-color: #294174 !important; color: #3b3f44 !important; =
+padding-bottom: 15px !important; padding-left: 15px !important; =
+padding-right: 15px !important; padding-top: 0px !important } .r32-i { =
+color: #3b3f44 !important; padding-top: 15px !important; text-align: center=
+ !important } .r33-i { background-color: #e1eff5 !important; =
+padding-bottom: 20px !important; padding-left: 15px !important; =
+padding-right: 15px !important; padding-top: 20px !important } .r34-i { =
+color: #3b3f44 !important; padding-bottom: 0px !important; padding-left: =
+0px !important; padding-right: 0px !important; padding-top: 0px !important;=
+ text-align: center !important } body { -webkit-text-size-adjust: none } .=
+nl2go-responsive-hide { display: none } .nl2go-body-table { min-width: =
+unset !important } .mobshow { height: auto !important; overflow: visible !=
+important; max-height: unset !important; visibility: visible !important; =
+border: none !important } .resp-table { display: inline-table !important } =
+.magic-resp { display: table-cell !important } } </style><!--[if !mso]><!=
+--><style type=3D=22text/css=22 emogrify=3D=22no=22>@import =
+url(=22https://fonts.googleapis.com/css2=3Ffamily=3DMontserrat=22); =
+</style><!--<![endif]--><style type=3D=22text/css=22>p, h1, h2, h3, h4, ol,=
+ ul { margin: 0; } a, a:link { color: #0092ff; text-decoration: underline }=
+ .nl2go-default-textstyle { color: #3b3f44; font-family: arial,helvetica,=
+sans-serif; font-size: 16px; line-height: 1.5 } .default-button { =
+border-radius: 10px; color: #ffffff; font-family: arial,helvetica,=
+sans-serif; font-size: 16px; font-style: normal; font-weight: normal; =
+line-height: 1.15; text-decoration: none; width: 50% } .default-heading1 { =
+color: #1F2D3D; font-family: arial,helvetica,sans-serif; font-size: 36px } =
+.default-heading2 { color: #1F2D3D; font-family: arial,helvetica,=
+sans-serif; font-size: 32px } .default-heading3 { color: #1F2D3D; =
+font-family: arial,helvetica,sans-serif; font-size: 24px } .=
+default-heading4 { color: #1F2D3D; font-family: arial,helvetica,sans-serif;=
+ font-size: 18px } a[x-apple-data-detectors] { color: inherit !important; =
+text-decoration: inherit !important; font-size: inherit !important; =
+font-family: inherit !important; font-weight: inherit !important; =
+line-height: inherit !important; } .no-show-for-you { border: none; =
+display: none; float: none; font-size: 0; height: 0; line-height: 0; =
+max-height: 0; mso-hide: all; overflow: hidden; table-layout: fixed; =
+visibility: hidden; width: 0; } </style><!--[if mso]><xml> =
+<o:OfficeDocumentSettings> <o:AllowPNG/> <o:PixelsPerInch>96</o:PixelsPerIn=
+ch> </o:OfficeDocumentSettings> </xml><![endif]--><style =
+type=3D=22text/css=22>a:link{color: #0092ff; text-decoration: =
+underline}</style></head><body bgcolor=3D=22#e1eff5=22 text=3D=22#3b3f44=22=
+ link=3D=22#0092ff=22 yahoo=3D=22fix=22 style=3D=22background-color: =
+#e1eff5;=22><table cellpadding=3D=220=22 border=3D=220=22 =
+cellspacing=3D=220=22 style=3D=22 mso-hide: all; display: =
+none;=22><tr><td>Ihr Konto wurde erstellt</td></tr></table> <table =
+cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 =
+role=3D=22presentation=22 class=3D=22nl2go-body-table=22 width=3D=22100%=22=
+ style=3D=22background-color: #e1eff5; width: 100%;=22><tr><td =
+align=3D=22center=22 class=3D=22r0-c=22> <table cellspacing=3D=220=22 =
+cellpadding=3D=220=22 border=3D=220=22 role=3D=22presentation=22 =
+width=3D=22600=22 class=3D=22r1-o=22 style=3D=22table-layout: fixed; width:=
+ 600px;=22><tr><td valign=3D=22top=22 class=3D=22r2-i=22 =
+style=3D=22background-color: #e1eff5;=22> <table width=3D=22100%=22 =
+cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 =
+role=3D=22presentation=22><tr><td class=3D=22r3-c=22 align=3D=22center=22> =
+<table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 =
+role=3D=22presentation=22 width=3D=22100%=22 class=3D=22r4-o=22 =
+style=3D=22table-layout: fixed; width: 100%;=22><!-- --><tr =
+class=3D=22nl2go-responsive-hide=22><td height=3D=223=22 =
+style=3D=22font-size: 3px; line-height: 3px; background-color: =
+#294174;=22>=C2=AD</td> </tr><tr><td class=3D=22r5-i=22 =
+style=3D=22background-color: #294174;=22> <table width=3D=22100%=22 =
+cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 =
+role=3D=22presentation=22><tr><th width=3D=22100%=22 valign=3D=22top=22 =
+class=3D=22r6-c=22 style=3D=22font-weight: normal;=22> <table =
+cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 =
+role=3D=22presentation=22 width=3D=22100%=22 class=3D=22r7-o=22 =
+style=3D=22table-layout: fixed; width: 100%;=22><!-- --><tr><td =
+class=3D=22nl2go-responsive-hide=22 width=3D=2210=22 style=3D=22font-size: =
+0px; line-height: 1px;=22>=C2=AD </td> <td valign=3D=22top=22 =
+class=3D=22r8-i=22> <table width=3D=22100%=22 cellspacing=3D=220=22 =
+cellpadding=3D=220=22 border=3D=220=22 role=3D=22presentation=22><tr><td =
+class=3D=22r9-c=22 align=3D=22left=22> <table cellspacing=3D=220=22 =
+cellpadding=3D=220=22 border=3D=220=22 role=3D=22presentation=22 =
+width=3D=22100%=22 class=3D=22r10-o=22 style=3D=22table-layout: fixed; =
+width: 100%;=22><tr class=3D=22nl2go-responsive-hide=22><td =
+height=3D=2210=22 style=3D=22font-size: 10px; line-height: =
+10px;=22>=C2=AD</td> </tr><tr><td align=3D=22left=22 valign=3D=22top=22 =
+class=3D=22r11-i nl2go-default-textstyle=22 style=3D=22line-height: 1.5; =
+color: #3b3f44; font-family: arial,helvetica,sans-serif; font-size: 16px; =
+text-align: left;=22> <div><p style=3D=22margin: 0;=22><span =
+style=3D=22color: #ffffff;=22><strong>TaskCards |=C2=A0</strong></span><a =
+href=3D=22=22 target=3D=22=5Fblank=22 style=3D=22color: #0092ff; =
+text-decoration: underline;=22><span style=3D=22color: =
+#ffffff;=22><strong>www.taskcards.de</strong></span></a></p></div> </td> =
+</tr></table></td> </tr><tr><td class=3D=22r9-c=22 align=3D=22left=22> =
+<table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 =
+role=3D=22presentation=22 width=3D=22100%=22 class=3D=22r10-o=22 =
+style=3D=22table-layout: fixed; width: 100%;=22><tr><td align=3D=22left=22 =
+valign=3D=22top=22 class=3D=22r12-i nl2go-default-textstyle=22 =
+style=3D=22color: #3b3f44; font-family: arial,helvetica,sans-serif; =
+font-size: 16px; line-height: 1.5; text-align: left;=22> <div><h3 =
+class=3D=22default-heading3=22 style=3D=22margin: 0; color: #1F2D3D; =
+font-family: arial,helvetica,sans-serif; font-size: 24px;=22><span =
+style=3D=22color: #ffffff; font-size: 22px;=22>Willkommen auf =
+TaskCards</span></h3></div> </td> </tr></table></td> </tr></table></td> <td=
+ class=3D=22nl2go-responsive-hide=22 width=3D=2210=22 style=3D=22font-size:=
+ 0px; line-height: 1px;=22>=C2=AD </td> </tr></table></th> =
+</tr></table></td> </tr><tr class=3D=22nl2go-responsive-hide=22><td =
+height=3D=2210=22 style=3D=22font-size: 10px; line-height: 10px; =
+background-color: #294174;=22>=C2=AD</td> </tr></table></td> </tr><tr><td =
+class=3D=22r3-c=22 align=3D=22center=22> <table cellspacing=3D=220=22 =
+cellpadding=3D=220=22 border=3D=220=22 role=3D=22presentation=22 =
+width=3D=22100%=22 class=3D=22r13-o=22 style=3D=22table-layout: fixed; =
+width: 100%;=22><!-- --><tr class=3D=22nl2go-responsive-hide=22><td =
+height=3D=225=22 style=3D=22font-size: 5px; line-height: 5px; =
+background-color: #ffffff;=22>=C2=AD</td> </tr><tr><td class=3D=22r14-i=22 =
+style=3D=22background-color: #ffffff;=22> <table width=3D=22100%=22 =
+cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 =
+role=3D=22presentation=22><tr><th width=3D=22100%=22 valign=3D=22top=22 =
+class=3D=22r15-c=22 style=3D=22font-weight: normal;=22> <table =
+cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 =
+role=3D=22presentation=22 width=3D=22100%=22 class=3D=22r7-o=22 =
+style=3D=22table-layout: fixed; width: 100%;=22><!-- --><tr><td =
+class=3D=22nl2go-responsive-hide=22 width=3D=2215=22 style=3D=22font-size: =
+0px; line-height: 1px;=22>=C2=AD </td> <td valign=3D=22top=22 =
+class=3D=22r16-i=22> <table width=3D=22100%=22 cellspacing=3D=220=22 =
+cellpadding=3D=220=22 border=3D=220=22 role=3D=22presentation=22><tr><td =
+class=3D=22r9-c=22 align=3D=22left=22> <table cellspacing=3D=220=22 =
+cellpadding=3D=220=22 border=3D=220=22 role=3D=22presentation=22 =
+width=3D=22100%=22 class=3D=22r17-o=22 style=3D=22table-layout: fixed; =
+width: 100%;=22><tr class=3D=22nl2go-responsive-hide=22><td =
+height=3D=225=22 style=3D=22font-size: 5px; line-height: =
+5px;=22>=C2=AD</td> </tr><tr><td align=3D=22left=22 valign=3D=22top=22 =
+class=3D=22r18-i nl2go-default-textstyle=22 style=3D=22color: #3b3f44; =
+font-family: arial,helvetica,sans-serif; font-size: 16px; line-height: 1.5;=
+ text-align: left;=22> <div><p style=3D=22margin: 0; font-size: =
+22px;=22><span style=3D=22color: #294174; font-size: =
+20px;=22>Hallo=C2=A0technikag,</span></p></div> </td> </tr></table></td> =
+</tr><tr><td class=3D=22r9-c=22 align=3D=22left=22> <table =
+cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 =
+role=3D=22presentation=22 width=3D=22100%=22 class=3D=22r10-o=22 =
+style=3D=22table-layout: fixed; width: 100%;=22><tr =
+class=3D=22nl2go-responsive-hide=22><td height=3D=2215=22 =
+style=3D=22font-size: 15px; line-height: 15px;=22>=C2=AD</td> </tr><tr><td =
+align=3D=22left=22 valign=3D=22top=22 class=3D=22r19-i =
+nl2go-default-textstyle=22 style=3D=22color: #3b3f44; font-family: arial,=
+helvetica,sans-serif; font-size: 16px; line-height: 1.5; text-align: =
+left;=22> <div><p style=3D=22margin: 0;=22><span style=3D=22color: =
+#294174;=22>wir begr=C3=BC=C3=9Fen Sie ganz herzlich auf TaskCards.=
+</span></p><p style=3D=22margin: 0;=22>=C2=A0</p><p style=3D=22margin: =
+0;=22><span style=3D=22color: #294174;=22>Hiermit best=C3=A4tigen wir Ihnen=
+ die Anmeldung auf TaskCards.</span><br><span style=3D=22color: =
+#294174;=22>=C2=A0</span></p></div> </td> </tr><tr class=3D=22nl2go-respons=
+ive-hide=22><td height=3D=2210=22 style=3D=22font-size: 10px; line-height: =
+10px;=22>=C2=AD</td> </tr></table></td> </tr></table></td> <td =
+class=3D=22nl2go-responsive-hide=22 width=3D=2215=22 style=3D=22font-size: =
+0px; line-height: 1px;=22>=C2=AD </td> </tr></table></th> =
+</tr></table></td> </tr></table></td> </tr><tr><td class=3D=22r3-c=22 =
+align=3D=22center=22> <table cellspacing=3D=220=22 cellpadding=3D=220=22 =
+border=3D=220=22 role=3D=22presentation=22 width=3D=22100%=22 =
+class=3D=22r4-o=22 style=3D=22table-layout: fixed; width: 100%;=22><!-- =
+--><tr class=3D=22nl2go-responsive-hide=22><td height=3D=2220=22 =
+style=3D=22font-size: 20px; line-height: 20px; background-color: =
+#294174;=22>=C2=AD</td> </tr><tr><td class=3D=22r21-i=22 =
+style=3D=22background-color: #294174; color: #3b3f44; font-family: arial,=
+helvetica,sans-serif; font-size: 16px;=22> <table width=3D=22100%=22 =
+cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 =
+role=3D=22presentation=22><tr><th width=3D=2250%=22 valign=3D=22top=22 =
+class=3D=22r15-c=22 style=3D=22font-weight: normal;=22> <table =
+cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 =
+role=3D=22presentation=22 width=3D=22100%=22 class=3D=22r7-o=22 =
+style=3D=22table-layout: fixed; width: 100%;=22><!-- --><tr><td =
+class=3D=22nl2go-responsive-hide=22 width=3D=2215=22 style=3D=22font-size: =
+0px; line-height: 1px;=22>=C2=AD </td> <td valign=3D=22top=22 =
+class=3D=22r22-i=22 style=3D=22color: #3b3f44; font-family: arial,helvetica=
+,sans-serif; font-size: 16px;=22> <table width=3D=22100%=22 =
+cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 =
+role=3D=22presentation=22><tr><td class=3D=22r9-c=22 align=3D=22left=22> =
+<table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 =
+role=3D=22presentation=22 width=3D=22100%=22 class=3D=22r10-o=22 =
+style=3D=22table-layout: fixed; width: 100%;=22><tr><td align=3D=22left=22 =
+valign=3D=22top=22 class=3D=22r23-i nl2go-default-textstyle=22 =
+style=3D=22line-height: 1.5; color: #3b3f44; font-family: arial,helvetica,=
+sans-serif; font-size: 16px; text-align: left;=22> <div><h4 =
+class=3D=22default-heading4=22 style=3D=22margin: 0; font-family: arial,=
+helvetica,sans-serif; color: #1F2D3D; font-size: 18px;=22><span =
+style=3D=22color: #ffffff;=22>Ihr TaskCards-Team</span></h4></div> </td> =
+</tr></table></td> </tr><tr><td class=3D=22r9-c=22 align=3D=22left=22> =
+<table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 =
+role=3D=22presentation=22 width=3D=22100%=22 class=3D=22r10-o=22 =
+style=3D=22table-layout: fixed; width: 100%;=22><tr><td align=3D=22left=22 =
+valign=3D=22top=22 class=3D=22r12-i nl2go-default-textstyle=22 =
+style=3D=22color: #3b3f44; font-family: arial,helvetica,sans-serif; =
+font-size: 16px; line-height: 1.5; text-align: left;=22> <div><p =
+style=3D=22margin: 0;=22><span style=3D=22color: #ffffff;=22>support@taskca=
+rds.app</span></p></div> </td> </tr></table></td> </tr></table></td> <td =
+class=3D=22nl2go-responsive-hide=22 width=3D=2215=22 style=3D=22font-size: =
+0px; line-height: 1px;=22>=C2=AD </td> </tr></table></th> <th =
+width=3D=2250%=22 valign=3D=22top=22 class=3D=22r15-c=22 =
+style=3D=22font-weight: normal;=22> <table cellspacing=3D=220=22 =
+cellpadding=3D=220=22 border=3D=220=22 role=3D=22presentation=22 =
+width=3D=22100%=22 class=3D=22r7-o=22 style=3D=22table-layout: fixed; =
+width: 100%;=22><!-- --><tr><td class=3D=22nl2go-responsive-hide=22 =
+width=3D=2215=22 style=3D=22font-size: 0px; line-height: 1px;=22>=C2=AD =
+</td> <td valign=3D=22top=22 class=3D=22r22-i=22 style=3D=22color: #3b3f44;=
+ font-family: arial,helvetica,sans-serif; font-size: 16px;=22> <table =
+width=3D=22100%=22 cellspacing=3D=220=22 cellpadding=3D=220=22 =
+border=3D=220=22 role=3D=22presentation=22><tr><td class=3D=22r24-c=22 =
+align=3D=22right=22> <table cellspacing=3D=220=22 cellpadding=3D=220=22 =
+border=3D=220=22 role=3D=22presentation=22 width=3D=22270=22 =
+class=3D=22r25-o=22 style=3D=22table-layout: fixed; width: 270px;=22><!-- =
+--><tr><td valign=3D=22top=22 class=3D=22=22> <table width=3D=22100%=22 =
+cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 =
+role=3D=22presentation=22><tr><td class=3D=22r24-c=22 align=3D=22right=22 =
+style=3D=22display: inline-block;=22> <table cellspacing=3D=220=22 =
+cellpadding=3D=220=22 border=3D=220=22 role=3D=22presentation=22 =
+width=3D=22270=22 class=3D=22r25-o=22 style=3D=22table-layout: fixed; =
+width: 270px;=22><!-- --><tr><td class=3D=22nl2go-responsive-hide=22 =
+width=3D=22144=22 style=3D=22font-size: 0px; line-height: 1px;=22>=C2=AD =
+</td> <td class=3D=22r26-i=22 style=3D=22color: #3b3f44; font-family: arial=
+,helvetica,sans-serif; font-size: 16px;=22> <table width=3D=22100%=22 =
+cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 =
+role=3D=22presentation=22><tr><th width=3D=2242=22 valign=3D=22=22 =
+class=3D=22r27-c mobshow resp-table=22 style=3D=22font-weight: normal;=22> =
+<table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 =
+role=3D=22presentation=22 width=3D=22100%=22 class=3D=22r28-o=22 =
+style=3D=22table-layout: fixed; width: 100%;=22><!-- --><tr =
+class=3D=22nl2go-responsive-hide=22><td height=3D=225=22 =
+style=3D=22font-size: 5px; line-height: 5px;=22>=C2=AD</td> <td =
+height=3D=225=22 width=3D=2210=22 style=3D=22font-size: 5px; line-height: =
+5px;=22>=C2=AD </td> </tr><tr><td class=3D=22r29-i=22 style=3D=22color: =
+#3b3f44; font-family: arial,helvetica,sans-serif; font-size: 0px; =
+line-height: 0px;=22> <a href=3D=22facebook.com/TaskCardsDE=22 =
+target=3D=22=5Fblank=22 style=3D=22color: #0092ff; text-decoration: =
+underline;=22> <img src=3D=22https://7t7m2.img.bh.d.sendibt3.=
+com/im/4488862/627c30919f8d8c09de6f3a93cebdb821ad47b1c508f9d610c6ef3bd4beab=
+cd19.png=3Fe=3DSQ2jrodBYaN6yE1zQttBie7lNxQQYyoDvKYBS5We2gbmSl8FP0jxjCL010Bc=
+3YH42dr=5FJAGn3kplaKk2MoEI4o8TNlX7rN5I78Mjra8FtF8znzOUaHI5v=5FSM8xFPjBlHusg=
+IRwk5gVWgnXNxGlbUsJhvijXNgGr8=5F1e8lWyZ2LIaXHwaR9sc39rhfhkX0dCBbTKrsWXwuQp8=
+zszSftPjkfQCzc3UBuiV7VcW3wMFbK-ta8fAjyxYpPgZW9JCv1KCH0UbutITR4zJYDgcZy3Awm7=
+zZkpI6AhOsSleIxm26X6ycHvNgX5GYXiscPGtn6g=22 width=3D=2232=22 =
+border=3D=220=22 class=3D=22=22 style=3D=22display: block; width: =
+100%;=22></a> </td> <td class=3D=22nl2go-responsive-hide=22 =
+width=3D=2210=22 style=3D=22font-size: 0px; line-height: 1px;=22>=C2=AD =
+</td> </tr><tr class=3D=22nl2go-responsive-hide=22><td height=3D=225=22 =
+style=3D=22font-size: 5px; line-height: 5px;=22>=C2=AD</td> <td =
+height=3D=225=22 width=3D=2210=22 style=3D=22font-size: 5px; line-height: =
+5px;=22>=C2=AD </td> </tr></table></th> <th width=3D=2242=22 =
+valign=3D=22=22 class=3D=22r27-c mobshow resp-table=22 =
+style=3D=22font-weight: normal;=22> <table cellspacing=3D=220=22 =
+cellpadding=3D=220=22 border=3D=220=22 role=3D=22presentation=22 =
+width=3D=22100%=22 class=3D=22r28-o=22 style=3D=22table-layout: fixed; =
+width: 100%;=22><!-- --><tr class=3D=22nl2go-responsive-hide=22><td =
+height=3D=225=22 style=3D=22font-size: 5px; line-height: =
+5px;=22>=C2=AD</td> <td height=3D=225=22 width=3D=2210=22 =
+style=3D=22font-size: 5px; line-height: 5px;=22>=C2=AD </td> </tr><tr><td =
+class=3D=22r29-i=22 style=3D=22color: #3b3f44; font-family: arial,helvetica=
+,sans-serif; font-size: 0px; line-height: 0px;=22> <a =
+href=3D=22https://twitter.com/TaskCards=5F=22 target=3D=22=5Fblank=22 =
+style=3D=22color: #0092ff; text-decoration: underline;=22> <img =
+src=3D=22https://7t7m2.img.bh.d.sendibt3.com/im/4488862/2e51eae237c18c861af=
+5335095a76569aad4da2d66df69ff1f4853e5dee1211c.png=3Fe=3DyErL25YmIf2EjR9JrJd=
+l2CySvzbHIyps2hC5nA0kHRSWVGqvxj2xbmYmgb2ViIrGpxmPgwb282t5VkHxEVfRfWsHUg9rWG=
+XM0SdKnrowdVljyFcQJF8jp6zsWaD7FUjwYqOIzcW=5FDm8L2p9iqjodgSKIb28mijJjP6dQtgG=
+UsLdZC9hBzXkg7qFDate9pDDCEmst2kRq6SAerpkb6fUK35rIlqRkY=5FApLi2kqkt9rrKgO8L8=
+lSOwpVuYOiZ1joQlJh2jZzFz3-IW8xLpM7wuG5zJ0YQtgBn6YkA29fps2xsaaj9dJJ8ZnDy2RPO=
+YoA=22 width=3D=2232=22 border=3D=220=22 class=3D=22=22 style=3D=22display:=
+ block; width: 100%;=22></a> </td> <td class=3D=22nl2go-responsive-hide=22 =
+width=3D=2210=22 style=3D=22font-size: 0px; line-height: 1px;=22>=C2=AD =
+</td> </tr><tr class=3D=22nl2go-responsive-hide=22><td height=3D=225=22 =
+style=3D=22font-size: 5px; line-height: 5px;=22>=C2=AD</td> <td =
+height=3D=225=22 width=3D=2210=22 style=3D=22font-size: 5px; line-height: =
+5px;=22>=C2=AD </td> </tr></table></th> <th width=3D=2242=22 =
+valign=3D=22=22 class=3D=22r27-c mobshow resp-table=22 =
+style=3D=22font-weight: normal;=22> <table cellspacing=3D=220=22 =
+cellpadding=3D=220=22 border=3D=220=22 role=3D=22presentation=22 =
+width=3D=22100%=22 class=3D=22r28-o=22 style=3D=22table-layout: fixed; =
+width: 100%;=22><!-- --><tr class=3D=22nl2go-responsive-hide=22><td =
+height=3D=225=22 style=3D=22font-size: 5px; line-height: =
+5px;=22>=C2=AD</td> <td height=3D=225=22 width=3D=2210=22 =
+style=3D=22font-size: 5px; line-height: 5px;=22>=C2=AD </td> </tr><tr><td =
+class=3D=22r29-i=22 style=3D=22color: #3b3f44; font-family: arial,helvetica=
+,sans-serif; font-size: 0px; line-height: 0px;=22> <a href=3D=22https://www=
+.instagram.com/taskcards/=22 target=3D=22=5Fblank=22 style=3D=22color: =
+#0092ff; text-decoration: underline;=22> <img src=3D=22https://7t7m2.img.bh=
+.d.sendibt3.com/im/4488862/a2fbb1e70bee25222df0d6d98477780dfce0fe2651890643=
+9429c2233fe5e8e4.png=3Fe=3Dil8XjrLDUwIj7FkHXGacm23w78Kw1-nIo9cHcBUZCaZxgc2E=
+mt9mU=5FCL2Cl14vyhcON8j8SWoK8j5LrXkwsHwCoPfc2LlKQ3ZMUiZIU=5Fz-Hpx1FkcqLCgTB=
+5l3f7qarn6vLCTuQo91DzT-XA598kKv5RyvbMQR7YUKcCBp5FcL4vkwtZD1iHemncHMG7fSaQVi=
+aWb5Daw9o0jIgb3pBy7naTwYY7nHNrThR0dTUi=5FplLwnWAGBNzUSniVSPGJL1hlRDbirrJ-EB=
+6KS3buTaOredPH3cffJQ3GYLG3beuVm42o2G=5FQHArNyN3BA83stsV=22 width=3D=2232=22=
+ border=3D=220=22 class=3D=22=22 style=3D=22display: block; width: =
+100%;=22></a> </td> <td class=3D=22nl2go-responsive-hide=22 =
+width=3D=2210=22 style=3D=22font-size: 0px; line-height: 1px;=22>=C2=AD =
+</td> </tr><tr class=3D=22nl2go-responsive-hide=22><td height=3D=225=22 =
+style=3D=22font-size: 5px; line-height: 5px;=22>=C2=AD</td> <td =
+height=3D=225=22 width=3D=2210=22 style=3D=22font-size: 5px; line-height: =
+5px;=22>=C2=AD </td> </tr></table></th> </tr></table></td> =
+</tr></table></td> </tr></table></td> </tr></table></td> </tr></table></td>=
+ <td class=3D=22nl2go-responsive-hide=22 width=3D=2215=22 =
+style=3D=22font-size: 0px; line-height: 1px;=22>=C2=AD </td> =
+</tr></table></th> </tr></table></td> </tr><tr class=3D=22nl2go-responsive-=
+hide=22><td height=3D=2210=22 style=3D=22font-size: 10px; line-height: =
+10px; background-color: #294174;=22>=C2=AD</td> </tr></table></td> =
+</tr><tr><td class=3D=22r3-c=22 align=3D=22center=22> <table =
+cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 =
+role=3D=22presentation=22 width=3D=22100%=22 class=3D=22r30-o=22 =
+style=3D=22table-layout: fixed; width: 100%;=22><!-- --><tr><td =
+class=3D=22r31-i=22 style=3D=22background-color: #294174; color: #3b3f44; =
+font-family: arial,helvetica,sans-serif; font-size: 16px;=22> <table =
+width=3D=22100%=22 cellspacing=3D=220=22 cellpadding=3D=220=22 =
+border=3D=220=22 role=3D=22presentation=22><tr><th width=3D=2233.33%=22 =
+valign=3D=22top=22 class=3D=22r15-c=22 style=3D=22font-weight: normal;=22> =
+<table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 =
+role=3D=22presentation=22 width=3D=22100%=22 class=3D=22r7-o=22 =
+style=3D=22table-layout: fixed; width: 100%;=22><!-- --><tr><td =
+class=3D=22nl2go-responsive-hide=22 width=3D=2215=22 style=3D=22font-size: =
+0px; line-height: 1px;=22>=C2=AD </td> <td valign=3D=22top=22 =
+class=3D=22r22-i=22 style=3D=22color: #3b3f44; font-family: arial,helvetica=
+,sans-serif; font-size: 16px;=22> <table width=3D=22100%=22 =
+cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 =
+role=3D=22presentation=22><tr><td class=3D=22r9-c=22 align=3D=22left=22> =
+<table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 =
+role=3D=22presentation=22 width=3D=22100%=22 class=3D=22r10-o=22 =
+style=3D=22table-layout: fixed; width: 100%;=22><tr =
+class=3D=22nl2go-responsive-hide=22><td height=3D=2215=22 =
+style=3D=22font-size: 15px; line-height: 15px;=22>=C2=AD</td> </tr><tr><td =
+align=3D=22center=22 valign=3D=22top=22 class=3D=22r32-i =
+nl2go-default-textstyle=22 style=3D=22line-height: 1.5; color: #3b3f44; =
+font-family: arial,helvetica,sans-serif; font-size: 16px; text-align: =
+center;=22> <div><p style=3D=22margin: 0;=22><a href=3D=22https://www.=
+taskcards.de/#/home/imprint=22 target=3D=22=5Fblank=22 style=3D=22color: =
+#0092ff; text-decoration: underline;=22><span style=3D=22color: =
+#ffffff;=22>Impressum</span></a></p></div> </td> </tr></table></td> =
+</tr></table></td> <td class=3D=22nl2go-responsive-hide=22 width=3D=2215=22=
+ style=3D=22font-size: 0px; line-height: 1px;=22>=C2=AD </td> =
+</tr></table></th> <th width=3D=2233.33%=22 valign=3D=22top=22 =
+class=3D=22r15-c=22 style=3D=22font-weight: normal;=22> <table =
+cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 =
+role=3D=22presentation=22 width=3D=22100%=22 class=3D=22r7-o=22 =
+style=3D=22table-layout: fixed; width: 100%;=22><!-- --><tr><td =
+class=3D=22nl2go-responsive-hide=22 width=3D=2215=22 style=3D=22font-size: =
+0px; line-height: 1px;=22>=C2=AD </td> <td valign=3D=22top=22 =
+class=3D=22r22-i=22 style=3D=22color: #3b3f44; font-family: arial,helvetica=
+,sans-serif; font-size: 16px;=22> <table width=3D=22100%=22 =
+cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 =
+role=3D=22presentation=22><tr><td class=3D=22r9-c=22 align=3D=22left=22> =
+<table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 =
+role=3D=22presentation=22 width=3D=22100%=22 class=3D=22r10-o=22 =
+style=3D=22table-layout: fixed; width: 100%;=22><tr =
+class=3D=22nl2go-responsive-hide=22><td height=3D=2215=22 =
+style=3D=22font-size: 15px; line-height: 15px;=22>=C2=AD</td> </tr><tr><td =
+align=3D=22center=22 valign=3D=22top=22 class=3D=22r32-i =
+nl2go-default-textstyle=22 style=3D=22line-height: 1.5; color: #3b3f44; =
+font-family: arial,helvetica,sans-serif; font-size: 16px; text-align: =
+center;=22> <div><p style=3D=22margin: 0;=22><a href=3D=22https://www.=
+taskcards.de/#/home/privacyPolicy=22 target=3D=22=5Fblank=22 =
+style=3D=22color: #0092ff; text-decoration: underline;=22><span =
+style=3D=22color: #ffffff;=22>Datenschutz</span></a></p></div> </td> =
+</tr></table></td> </tr></table></td> <td class=3D=22nl2go-responsive-hide=
+=22 width=3D=2215=22 style=3D=22font-size: 0px; line-height: 1px;=22>=C2=AD=
+ </td> </tr></table></th> <th width=3D=2233.33%=22 valign=3D=22top=22 =
+class=3D=22r15-c=22 style=3D=22font-weight: normal;=22> <table =
+cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 =
+role=3D=22presentation=22 width=3D=22100%=22 class=3D=22r7-o=22 =
+style=3D=22table-layout: fixed; width: 100%;=22><!-- --><tr><td =
+class=3D=22nl2go-responsive-hide=22 width=3D=2215=22 style=3D=22font-size: =
+0px; line-height: 1px;=22>=C2=AD </td> <td valign=3D=22top=22 =
+class=3D=22r22-i=22 style=3D=22color: #3b3f44; font-family: arial,helvetica=
+,sans-serif; font-size: 16px;=22> <table width=3D=22100%=22 =
+cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 =
+role=3D=22presentation=22><tr><td class=3D=22r9-c=22 align=3D=22left=22> =
+<table cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 =
+role=3D=22presentation=22 width=3D=22100%=22 class=3D=22r10-o=22 =
+style=3D=22table-layout: fixed; width: 100%;=22><tr =
+class=3D=22nl2go-responsive-hide=22><td height=3D=2215=22 =
+style=3D=22font-size: 15px; line-height: 15px;=22>=C2=AD</td> </tr><tr><td =
+align=3D=22center=22 valign=3D=22top=22 class=3D=22r32-i =
+nl2go-default-textstyle=22 style=3D=22line-height: 1.5; color: #3b3f44; =
+font-family: arial,helvetica,sans-serif; font-size: 16px; text-align: =
+center;=22> <div><p style=3D=22margin: 0;=22><a href=3D=22https://downloads=
+.taskcards.de/termsOfService.pdf=22 target=3D=22=5Fblank=22 =
+style=3D=22color: #0092ff; text-decoration: underline;=22><span =
+style=3D=22color: #ffffff;=22>Nutzungsbedingungen</span></a></p></div> =
+</td> </tr></table></td> </tr></table></td> <td class=3D=22nl2go-responsive=
+-hide=22 width=3D=2215=22 style=3D=22font-size: 0px; line-height: =
+1px;=22>=C2=AD </td> </tr></table></th> </tr></table></td> </tr><tr =
+class=3D=22nl2go-responsive-hide=22><td height=3D=2215=22 =
+style=3D=22font-size: 15px; line-height: 15px; background-color: =
+#294174;=22>=C2=AD</td> </tr></table></td> </tr><tr><td class=3D=22r3-c=22 =
+align=3D=22center=22> <table cellspacing=3D=220=22 cellpadding=3D=220=22 =
+border=3D=220=22 role=3D=22presentation=22 width=3D=22100%=22 =
+class=3D=22r4-o=22 style=3D=22table-layout: fixed; width: 100%;=22><!-- =
+--><tr class=3D=22nl2go-responsive-hide=22><td height=3D=2220=22 =
+style=3D=22font-size: 20px; line-height: 20px; background-color: =
+#e1eff5;=22>=C2=AD</td> </tr><tr><td class=3D=22r33-i=22 =
+style=3D=22background-color: #e1eff5;=22> <table width=3D=22100%=22 =
+cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 =
+role=3D=22presentation=22><tr><th width=3D=22100%=22 valign=3D=22top=22 =
+class=3D=22r15-c=22 style=3D=22font-weight: normal;=22> <table =
+cellspacing=3D=220=22 cellpadding=3D=220=22 border=3D=220=22 =
+role=3D=22presentation=22 width=3D=22100%=22 class=3D=22r7-o=22 =
+style=3D=22table-layout: fixed; width: 100%;=22><!-- --><tr><td =
+class=3D=22nl2go-responsive-hide=22 width=3D=2215=22 style=3D=22font-size: =
+0px; line-height: 1px;=22>=C2=AD </td> <td valign=3D=22top=22 =
+class=3D=22r16-i=22> <table width=3D=22100%=22 cellspacing=3D=220=22 =
+cellpadding=3D=220=22 border=3D=220=22 role=3D=22presentation=22><tr><td =
+class=3D=22r9-c=22 align=3D=22left=22> <table cellspacing=3D=220=22 =
+cellpadding=3D=220=22 border=3D=220=22 role=3D=22presentation=22 =
+width=3D=22100%=22 class=3D=22r10-o=22 style=3D=22table-layout: fixed; =
+width: 100%;=22><tr><td align=3D=22center=22 valign=3D=22top=22 =
+class=3D=22r34-i nl2go-default-textstyle=22 style=3D=22color: #3b3f44; =
+font-family: arial,helvetica,sans-serif; font-size: 16px; line-height: 1.=
+15; text-align: center;=22> <div><p style=3D=22margin: 0;=22><span =
+style=3D=22color: #294174; font-size: 11px;=22>dSign Systems GmbH, =
+Waldhausstra=C3=9Fe 14, 98574 Schmalkalden</span><br><span =
+style=3D=22color: #294174; font-size: 11px;=22>Gesch=C3=A4ftsf=C3=BChrer: =
+Christian Dornheim, Sitz der Gesellschaft: Schmalkalden</span><br><span =
+style=3D=22color: #294174; font-size: 11px;=22>Handelsregister: HRB507202, =
+Registergericht: Amtsgericht Jena</span><br><span style=3D=22color: =
+#294174; font-size: 11px;=22>Umsatzsteuer-ID: DE279512303, Steuernummer: =
+171/107/07649=C2=A0</span></p></div> </td> </tr></table></td> =
+</tr></table></td> <td class=3D=22nl2go-responsive-hide=22 width=3D=2215=22=
+ style=3D=22font-size: 0px; line-height: 1px;=22>=C2=AD </td> =
+</tr></table></th> </tr></table></td> </tr><tr class=3D=22nl2go-responsive-=
+hide=22><td height=3D=2220=22 style=3D=22font-size: 20px; line-height: =
+20px; background-color: #e1eff5;=22>=C2=AD</td> </tr></table></td> =
+</tr></table></td> </tr></table></td> </tr></table><img width=3D=221=22 =
+height=3D=221=22 src=3D=22https://eeiiigc.r.af.d.sendibt2.=
+com/tr/op/jjLxInl6CN9OhdJOrpme7VkwEMSuJiydiLhUkA8mBX9k8Hl0PHkI=5Fa9b=5FDr24=
+tItRRWiAERsvWj2jqgCAn4HA1B7O9ScIvnWWsNdWtg-RwE=5FISCXzjsF=5F9ANb0Vk-XNqpFmq=
+xy-S=5FlphLEqyQqd-zQQXYovnEiJNUE4ZrIEMmATk=22 alt=3D=22=22 =
+/></body></html>
+
+
+----_SiB-730954c224582375-Part_1--

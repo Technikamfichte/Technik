@@ -1,0 +1,223 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <corneliaklose@cornelia-klose.com>
+Received: from mail-hub02.belwue.de ([129.143.76.42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 80070036; Thu, 22 Feb 2024 10:56:11 +0100
+Received: from mail-in04.belwue.de (mail-in04.belwue.de [IPv6:2001:7c0:0:76::4])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4TgT6z17vlz37bS;
+	Thu, 22 Feb 2024 10:56:11 +0100 (CET)
+Received: from mout.kundenserver.de (mout.kundenserver.de [212.227.126.131])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange ECDHE (P-256) server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in04.belwue.de (Postfix) with ESMTPS id 4TgT6y5z3Cz4xDXC;
+	Thu, 22 Feb 2024 10:56:10 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=cornelia-klose.com;
+	s=s1-ionos; t=1708595770; x=1709200570;
+	i=corneliaklose@cornelia-klose.com;
+	bh=jGkVmItO5mVIsuMwOKgcPloOrDbKKMdHfDL4TWla870=;
+	h=X-UI-Sender-Class:From:Subject:Date:Cc:To;
+	b=hvHkNN4nh0e29vbUOFnc/6nJWCNG6/dkYd9BAn7vlQ7dWbhbSx71BkA+0FzmCrHH
+	 A6v4B6Q/tY9d1mTIUKQvdz1/PPmdaGQF7w7MLuFsm7ujhS6I9zv1NktZwyhCGKjFr
+	 uRaSyh5QFBrUxDevVPNzdAuac3Vs30cow6G1vELYd+XJfcntCcPPBm9GO1JjwDXGN
+	 qJz9xe57N3W4NxK96GfNOF5bcnFKKWffuE+r5/HdGLhBRaOaF0Q0F1EJZ2qIG246l
+	 CjAV/vzcFbroDEUVD57ai4Yrtbsuli+D6Dz9MjqjrhvqJQA2QzjeiW1fE3M/o4R4S
+	 6UqLuKGH5B93DL3umA==
+X-UI-Sender-Class: 55c96926-9e95-11ee-ae09-1f7a4046a0f6
+Received: from smtpclient.apple ([77.21.253.118]) by mrelayeu.kundenserver.de
+ (mreue012 [212.227.15.167]) with ESMTPSA (Nemesis) id
+ 1MYLqs-1rPQYy21hK-00VTbv; Thu, 22 Feb 2024 10:56:10 +0100
+Content-Type: multipart/alternative; boundary=Apple-Mail-21888FD2-E7BA-4B4F-9561-F6F417147BAF
+Content-Transfer-Encoding: 7bit
+From: Cornelia Klose <corneliaklose@cornelia-klose.com>
+Mime-Version: 1.0 (1.0)
+Subject: =?utf-8?Q?Re:_Material_f=C3=BCr_den_Bandabend_ausleihen?=
+Message-Id: <F23BB635-A16B-4AA3-B96D-588BE096C73C@cornelia-klose.com>
+Date: Thu, 22 Feb 2024 10:56:08 +0100
+Cc: Christine Hermatschweiler <christine.hermatschweiler@fichte-gymnasium.de>,
+ Katrin Steinmetz <katrin.ke@web.de>, ralf.wehrmann@fichte-gymnasium.de
+To: Technik AG <technikag@fichte-gymnasium.de>
+X-Mailer: iPad Mail (19H370)
+X-Provags-ID: V03:K1:pV4oyVvui7RZuVLtQJCgURRU4tfpUCp7OmMb0dMYZR5QTMwre0i
+ eBCDpJyBt+6bXnlRNKZ7BlA97yUC4MPOv34x9iGSRTH9bZNT/GbrbsN19Exe5BsiJQXo7+8
+ cB4QYkJwCuTvKk44tspMTIK/8VS4+iWfFgFyze+JSmVaBn0PLRtrXiOmyVDP8TOIawzq6OF
+ ZAReXgQDZykfi41C2FmaA==
+X-Spam-Flag: NO
+UI-OutboundReport: notjunk:1;M01:P0:H1qv93jY8G4=;E5WZ+aS+DKP6ZZ2wTYbQ37SYLMT
+ GSv1j0t7gNxJagYmqFKEwGYz/+Zvax+xAgg62vD58J31QzLymG8iXZldQA2ZztDPeYaJ1c2ax
+ uFiLF4z6FqwzQ6YiRhhd0gQx8+4nzJ784PtqOtf/XL9m4lnNsozL7cFqZ12bLdi2DO8ymKgFu
+ KM558S0dmZrmcdrMTCpF/DgcBiIf+HXDRlqr78hD3sKgKofTzNeZcjAKlLS1jB7BANcKbeUra
+ O17HgQh+1iYq96ytOasJTWsa6rem4KhAeVajS8H1M/HnAW4SkVZlPRcGKNPgkDEEEiUPZk596
+ qT3nNjETpQxsPQo4OTNZA3FMvaZjqzWLpMYHuxPnjxcOIL+W2LJkKfCh3lWlX3zvw2yZ1M6Qy
+ YhUPePLkt9i7ph0zFxk+PAbuKjzxEi3jCrqAvu90LYWlpu7SgL9w8kPnfR4ulOhxbgCMmdYRT
+ SdRpkIXzBndyKa4Esrrry9DHM+zbyjTcQYexBN2NqJbsuuyDI/SpBWX1ho98HGIeY+Qocywi/
+ /bBpzjJxiF32niwKAYd7btBJwQ8lKI1ZF/mnw4OF7b/CeOurhOcDaNWJo1xh1J5KnMXw1qHwc
+ vNZSEsdKxR8ShjeSDvgx8e2XOwph3fskJXOHALALfbJ1ARkn22cFiO7B/uIUq4GZoNg4N2CBi
+ NyYbu4w40YG1TYwkKRM4PpD+vgEWn15yVhILaymEIMpgtiEzhxAUvEwVYA16VGKC1wWl4vCsp
+ I8x1kfQEDCjQXM02PfXTsJ34xvlQTzXAMMyLDjarvl8QtdqJwZFro0=
+X-Rspamd-Queue-Id: 4TgT6y5z3Cz4xDXC
+X-Rspamd-UID: 02afe7
+
+
+--Apple-Mail-21888FD2-E7BA-4B4F-9561-F6F417147BAF
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=EF=BB=BFHallo Ismael, leider bin ich krank. Ich kann daher nichts verleihen=
+.
+Die neuen AKGs sind nur aus 30cm Abstand f=C3=BCr die Abnahme von Geigen und=
+ Celli vorgesehen. Um sie funktionsf=C3=A4hig zu erhalten, darf man sie auch=
+ nicht im Zuschauerraum aufstellen, ein Sto=C3=9F und sie sind kaputt.
+Hier die Eigenschaften.
+
+
+Kondensator Mikrofon
+
+ideal f=C3=BCr Overhead, HiHat, Percussion, akustische Gitarre
+Charakteristik: Niere
+vernickelt
+mit schaltbarem HP (75/150 Hz) und Pegelabschw=C3=A4chung (-10/-20 dB)
+CK 1 Kapsel
+
+Sie stehen daher nicht zur Verf=C3=BCgung.
+
+Ich empfehle euch ein Stereomikro oder einen Zoom Recorder. Viel Erfolg dami=
+t.
+
+Ich werde leider auch per Mail schlecht erreichbar sein, bis ich wieder gesu=
+nd bin.=20
+
+Viele Gr=C3=BC=C3=9Fe Cornelia Klose.
+
+Cornelia Klose
+Auf der Heide 9 b
+67360 Lingenfeld
+
+
+> Am 22.02.2024 um 08:36 schrieb Technik AG <technikag@fichte-gymnasium.de>:=
+
+> =EF=BB=BF
+> Hallo Frau Klose,
+>=20
+> Wir (Technik-AG) betreuen Ton-, Licht- und Videotechnisch den am Samstag a=
+nstehenden Bandabend, br=C3=A4uchten daf=C3=BCr jedoch ein wenig Technik aus=
+ der Musikfachschaft.
+>=20
+> Wir w=C3=BCrden vier der AKG Chor Mikrofone f=C3=BCr eine Aufnahme des Rau=
+mes f=C3=BCr die Videoaufnahme gebrauchen.=20
+>=20
+> W=C3=A4re es m=C3=B6glich, diese =C3=BCber das Wochenende zu entleihen? (S=
+elbstverst=C3=A4ndlich auch gerne mit Unterschrift) Wenn ja, wann & wo k=C3=B6=
+nnten diese abgeholt werden?
+>=20
+> =E2=80=94
+> MFG
+> Ismael Biber
+
+--Apple-Mail-21888FD2-E7BA-4B4F-9561-F6F417147BAF
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto"><div dir=3D"ltr">=EF=BB=BF<meta http-equiv=3D=
+"content-type" content=3D"text/html; charset=3Dutf-8">Hallo Ismael, leider b=
+in ich krank. Ich kann daher nichts verleihen.</div><div dir=3D"ltr">Die neu=
+en AKGs sind nur aus 30cm Abstand f=C3=BCr die Abnahme von Geigen und Celli v=
+orgesehen. Um sie funktionsf=C3=A4hig zu erhalten, darf man sie auch nicht i=
+m Zuschauerraum aufstellen, ein Sto=C3=9F und sie sind kaputt.</div><div dir=
+=3D"ltr">Hier die Eigenschaften.</div><div dir=3D"ltr"><h2 class=3D"fx-headl=
+ine fx-headline--3 fx-space-bottom--m" style=3D"box-sizing: border-box; font=
+-size: 28px; margin: 0px 0px 24px; font-family: &quot;Open Sans&quot;, Verda=
+na, Tahoma, Arial, Helvetica, sans-serif; line-height: 38px; letter-spacing:=
+ -1px; caret-color: rgb(28, 28, 28); color: rgb(28, 28, 28); -webkit-text-si=
+ze-adjust: 100%;"><br></h2><h2 class=3D"fx-headline fx-headline--3 fx-space-=
+bottom--m" style=3D"box-sizing: border-box; font-size: 28px; margin: 0px 0px=
+ 24px; font-family: &quot;Open Sans&quot;, Verdana, Tahoma, Arial, Helvetica=
+, sans-serif; line-height: 38px; letter-spacing: -1px; caret-color: rgb(28, 2=
+8, 28); color: rgb(28, 28, 28); -webkit-text-size-adjust: 100%;">Kondensator=
+ Mikrofon</h2><ul class=3D"fx-list product-text__list" style=3D"font-size: 1=
+6px; box-sizing: border-box; margin: 0px 0px 32px; padding: 0px; list-style:=
+ none; caret-color: rgb(28, 28, 28); color: rgb(28, 28, 28); font-family: &q=
+uot;Open Sans&quot;, Verdana, Tahoma, Arial, Helvetica, sans-serif; letter-s=
+pacing: -0.25999999046325684px; -webkit-text-size-adjust: 100%;"><li class=3D=
+"fx-list__item list-item fx-list__item--circle" style=3D"box-sizing: border-=
+box; margin: 0px 0px 8px; padding: 0px 0px 0px 32px; list-style: none; line-=
+height: 24px; letter-spacing: -0.08px; background-image: url(&quot;/static/i=
+cons/svg/fx/list-item.svg?m=3D567bfc7&quot;); background-size: 20px 20px; ba=
+ckground-position: 0px 3px; background-repeat: no-repeat no-repeat;"><span c=
+lass=3D"fx-text fx-text--plus list-item__text" style=3D"box-sizing: border-b=
+ox; line-height: 25px; letter-spacing: -0.29px; margin: 0px 0px 26px;">ideal=
+ f=C3=BCr Overhead, HiHat, Percussion, akustische Gitarre</span></li><li cla=
+ss=3D"fx-list__item list-item fx-list__item--circle" style=3D"box-sizing: bo=
+rder-box; margin: 0px 0px 8px; padding: 0px 0px 0px 32px; list-style: none; l=
+ine-height: 24px; letter-spacing: -0.08px; background-image: url(&quot;/stat=
+ic/icons/svg/fx/list-item.svg?m=3D567bfc7&quot;); background-size: 20px 20px=
+; background-position: 0px 3px; background-repeat: no-repeat no-repeat;"><sp=
+an class=3D"fx-text fx-text--plus list-item__text" style=3D"box-sizing: bord=
+er-box; line-height: 25px; letter-spacing: -0.29px; margin: 0px 0px 26px;">C=
+harakteristik: Niere</span></li><li class=3D"fx-list__item list-item fx-list=
+__item--circle" style=3D"box-sizing: border-box; margin: 0px 0px 8px; paddin=
+g: 0px 0px 0px 32px; list-style: none; line-height: 24px; letter-spacing: -0=
+.08px; background-image: url(&quot;/static/icons/svg/fx/list-item.svg?m=3D56=
+7bfc7&quot;); background-size: 20px 20px; background-position: 0px 3px; back=
+ground-repeat: no-repeat no-repeat;"><span class=3D"fx-text fx-text--plus li=
+st-item__text" style=3D"box-sizing: border-box; line-height: 25px; letter-sp=
+acing: -0.29px; margin: 0px 0px 26px;">vernickelt</span></li><li class=3D"fx=
+-list__item list-item fx-list__item--circle" style=3D"box-sizing: border-box=
+; margin: 0px 0px 8px; padding: 0px 0px 0px 32px; list-style: none; line-hei=
+ght: 24px; letter-spacing: -0.08px; background-image: url(&quot;/static/icon=
+s/svg/fx/list-item.svg?m=3D567bfc7&quot;); background-size: 20px 20px; backg=
+round-position: 0px 3px; background-repeat: no-repeat no-repeat;"><span clas=
+s=3D"fx-text fx-text--plus list-item__text" style=3D"box-sizing: border-box;=
+ line-height: 25px; letter-spacing: -0.29px; margin: 0px 0px 26px;">mit scha=
+ltbarem HP (75/150 Hz) und Pegelabschw=C3=A4chung (-10/-20 dB)</span></li><l=
+i class=3D"fx-list__item list-item fx-list__item--circle" style=3D"box-sizin=
+g: border-box; margin: 0px 0px 8px; padding: 0px 0px 0px 32px; list-style: n=
+one; line-height: 24px; letter-spacing: -0.08px; background-image: url(&quot=
+;/static/icons/svg/fx/list-item.svg?m=3D567bfc7&quot;); background-size: 20p=
+x 20px; background-position: 0px 3px; background-repeat: no-repeat no-repeat=
+;"><span class=3D"fx-text fx-text--plus list-item__text" style=3D"box-sizing=
+: border-box; line-height: 25px; letter-spacing: -0.29px; margin: 0px 0px 26=
+px;">CK 1 Kapsel</span></li><li class=3D"fx-list__item list-item fx-list__it=
+em--circle" style=3D"box-sizing: border-box; margin: 0px 0px 8px; padding: 0=
+px 0px 0px 32px; list-style: none; line-height: 24px; letter-spacing: -0.08p=
+x; background-image: url(&quot;/static/icons/svg/fx/list-item.svg?m=3D567bfc=
+7&quot;); background-size: 20px 20px; background-position: 0px 3px; backgrou=
+nd-repeat: no-repeat no-repeat;"><span class=3D"fx-text fx-text--plus list-i=
+tem__text" style=3D"box-sizing: border-box; line-height: 25px; letter-spacin=
+g: -0.29px; margin: 0px 0px 26px;"><br></span></li></ul></div><div dir=3D"lt=
+r">Sie stehen daher nicht zur Verf=C3=BCgung.</div><div dir=3D"ltr"><br></di=
+v><div dir=3D"ltr">Ich empfehle euch ein Stereomikro oder einen Zoom Recorde=
+r. Viel Erfolg damit.</div><div dir=3D"ltr"><br><div>Ich werde leider auch p=
+er Mail schlecht erreichbar sein, bis ich wieder gesund bin.&nbsp;</div><div=
+><br></div><div>Viele Gr=C3=BC=C3=9Fe Cornelia Klose.<br><br><div dir=3D"ltr=
+"><div><span style=3D"font-size: 13pt;">Cornelia Klose</span></div><div><div=
+>Auf der Heide 9 b</div><div>67360 Lingenfeld</div><div><br></div></div></di=
+v><div dir=3D"ltr"><br><blockquote type=3D"cite">Am 22.02.2024 um 08:36 schr=
+ieb Technik AG &lt;technikag@fichte-gymnasium.de&gt;:<br><br></blockquote></=
+div><blockquote type=3D"cite"><div dir=3D"ltr">=EF=BB=BF<div dir=3D"ltr"><di=
+v dir=3D"ltr">Hallo Frau Klose,</div><div dir=3D"ltr"><br></div><div dir=3D"=
+ltr">Wir (Technik-AG) betreuen Ton-, Licht- und Videotechnisch den am Samsta=
+g anstehenden Bandabend, br=C3=A4uchten daf=C3=BCr jedoch ein wenig Technik a=
+us der Musikfachschaft.</div><div dir=3D"ltr"><br></div><div dir=3D"ltr">Wir=
+ w=C3=BCrden vier der&nbsp;<span style=3D"font-size: inherit;">AKG Chor Mikr=
+ofone f=C3=BCr eine Aufnahme des Raumes f=C3=BCr die Videoaufnahme gebrauche=
+n.&nbsp;</span></div><div dir=3D"ltr"><span style=3D"font-size: inherit;"><b=
+r></span></div><div dir=3D"ltr"><span style=3D"font-size: inherit;">W=C3=A4r=
+e es m=C3=B6glich, diese =C3=BCber das Wochenende zu entleihen? (Selbstverst=
+=C3=A4ndlich auch gerne mit Unterschrift) Wenn ja, wann &amp; wo k=C3=B6nnte=
+n diese abgeholt werden?</span></div>
+    <div id=3D"ms-outlook-mobile-signature"><div dir=3D"ltr"><br></div><div d=
+ir=3D"ltr"><div dir=3D"ltr">=E2=80=94</div><div dir=3D"ltr">MFG</div><div di=
+r=3D"ltr">Ismael Biber</div></div></div>
+ =20
+
+</div>
+</div></blockquote></div></div></body></html>=
+
+--Apple-Mail-21888FD2-E7BA-4B4F-9561-F6F417147BAF--

@@ -1,0 +1,759 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <technikagfichte+caf_=technikag=fichte-gymnasium.de@gmail.com>
+Received: from mail-hub01.belwue.de ([2001:7c0:0:76::41] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.7f)
+  with ESMTPS id 37525725 for technikag@fichte-gymnasium.de; Mon, 22 Nov 2021 23:25:29 +0100
+Received: from mail-in01.belwue.de (mail-in01.belwue.de [IPv6:2001:7c0:0:76::1])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub01.belwue.de (Postfix) with ESMTPS id 4Hyhfx3XhHz52B3Z
+	for <technikag@fichte-gymnasium.de>; Mon, 22 Nov 2021 23:25:29 +0100 (CET)
+Received: from mail-lj1-x232.google.com (mail-lj1-x232.google.com [IPv6:2a00:1450:4864:20::232])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in01.belwue.de (Postfix) with ESMTPS id 4Hyhfx1cGkz53Hkc
+	for <technikag@fichte-gymnasium.de>; Mon, 22 Nov 2021 23:25:29 +0100 (CET)
+Received: by mail-lj1-x232.google.com with SMTP id v15so7129358ljc.0
+        for <technikag@fichte-gymnasium.de>; Mon, 22 Nov 2021 14:25:29 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:delivered-to:dkim-signature:mime-version:date
+         :reply-to:feedback-id:message-id:subject:from:to;
+        bh=PL/a/3roX/ilIyJbVGZxkaOEc4nk3l4Xad20gqD028s=;
+        b=rLpqUDh1M/ljbb5lKj7JY8CUCEU0huQNegQfCkLUuvdTqXdW/vdlP7snsicb1+wsdJ
+         2QoqXu+ATWWNsc0E9i1/Oi4tjP3qmQTDP5JiHJ1oTlDceax00R9CsVsbjT7U5SY+QH6d
+         o/OCITca4EWHChBY8bhmlA4ZXn0O1rqPNoKUDskF6GfgVqgK22TCQ56TWdcYTTNBNTNF
+         vnHR/aerzQKIWy/4xpWquuD/nLw4/aI2YSOtvdDCFKAJsSld2Y2R9TktZBU8K4Z229x/
+         AnL1daoqRxd2x5o9gIqrjxmfL55X70IdvZPZJX1IzxXMV+KOvs4C0vMZ/HkZw/m9Hvht
+         4cqw==
+X-Gm-Message-State: AOAM532TJJT7u7G5HVv8g7fg1D1z2Y4IhDf56Ty4+GgIDYJzwjNbhVi7
+	KE8mtxt0BAj+7PGaBb3p7CBLevcX5XnbYqpU8axtjBVnT/ATUdG+Qw==
+X-Received: by 2002:a2e:985a:: with SMTP id e26mr513105ljj.265.1637619536407;
+        Mon, 22 Nov 2021 14:18:56 -0800 (PST)
+X-Forwarded-To: technikag@fichte-gymnasium.de
+X-Forwarded-For: technikagfichte@gmail.com technikag@fichte-gymnasium.de
+Delivered-To: technikagfichte@gmail.com
+Received: by 2002:a19:6f07:0:0:0:0:0 with SMTP id k7csp7321862lfc;
+        Mon, 22 Nov 2021 14:18:55 -0800 (PST)
+X-Received: by 2002:a05:6e02:1541:: with SMTP id j1mr286601ilu.177.1637619535110;
+        Mon, 22 Nov 2021 14:18:55 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1637619535; cv=none;
+        d=google.com; s=arc-20160816;
+        b=ZaaPiM7KnrmZB4O0ac8jYtr+MGc1wNN/2Zd8JkKGS8FLqMWEIg6sdOaxbslGXnnWxz
+         Z3EQKJer1CtEnngSnWocz5R2ULDDo6q0zL9m9vZ/ByYoKQMBzZteyJaHSuKhv2hCMSad
+         5chBD0N2H2yx1mmzI/vkyp0Vv0SY9LvjWd699mrbRzraWkzRk103PkGHrwnlUg7xahHI
+         ERV6guVQEz2HSkJR9SBMVJKA9EqZa9ZBbLPJdoxrO/CnJqgD8GF4SvpzNn974dx/Uq4h
+         Vq05hS4nr54gSyaeIpsNIZwepmBjIq1CKRX3HelGXjFwGeHIRjDjctEN13gg5jza33FU
+         LH0A==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=to:from:subject:message-id:feedback-id:reply-to:date:mime-version
+         :dkim-signature;
+        bh=PL/a/3roX/ilIyJbVGZxkaOEc4nk3l4Xad20gqD028s=;
+        b=Cp5HOVHJfu7wp0hwMzFhyke4njGMI1yLbHiWWcjCRF8yl6BFeDr/oEzkWKde3PdQBz
+         mEmTii+iUje0lv096qMiyIZBqIKGOgnroWgOhFDqJXC+Ih4K+/gFr6SrUCX7RcFk4SEe
+         JSk4soSgDF+RHwkP9sYspGA1Y19Iqjq3LeUhojsuPh972vFvGPlBBgnSX7GXafqbC0/P
+         ut+zNt8sgG7c/Ly+m42XKmYZjgqkwlyxXeyo0prVR7eAMLvvcaU4Y63+er9CZ1cryO0T
+         zprvuCXtiRFp5kAyAH8BFaATdDV/cx8AFSft3XrjuFe+E5jB6Gm6lOKGA/1BN1jK4uDN
+         iNAA==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@youtube.com header.s=20210112 header.b=HbZrtsjV;
+       spf=pass (google.com: domain of 3thecyqgldweop-sfqmzzpvuvcf.dpnufdiojlbhgjdiufhnbjm.dpn@scoutcamp.bounces.google.com designates 209.85.220.69 as permitted sender) smtp.mailfrom=3ThecYQgLDwEop-sfqmzzpvuvcf.dpnufdiojlbhgjdiufhnbjm.dpn@scoutcamp.bounces.google.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=youtube.com
+Received: from mail-sor-f69.google.com (mail-sor-f69.google.com. [209.85.220.69])
+        by mx.google.com with SMTPS id t12sor4319409ils.117.2021.11.22.14.18.54
+        for <technikagfichte@gmail.com>
+        (Google Transport Security);
+        Mon, 22 Nov 2021 14:18:55 -0800 (PST)
+Received-SPF: pass (google.com: domain of 3thecyqgldweop-sfqmzzpvuvcf.dpnufdiojlbhgjdiufhnbjm.dpn@scoutcamp.bounces.google.com designates 209.85.220.69 as permitted sender) client-ip=209.85.220.69;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@youtube.com header.s=20210112 header.b=HbZrtsjV;
+       spf=pass (google.com: domain of 3thecyqgldweop-sfqmzzpvuvcf.dpnufdiojlbhgjdiufhnbjm.dpn@scoutcamp.bounces.google.com designates 209.85.220.69 as permitted sender) smtp.mailfrom=3ThecYQgLDwEop-sfqmzzpvuvcf.dpnufdiojlbhgjdiufhnbjm.dpn@scoutcamp.bounces.google.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=youtube.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=youtube.com; s=20210112;
+        h=mime-version:date:reply-to:feedback-id:message-id:subject:from:to;
+        bh=PL/a/3roX/ilIyJbVGZxkaOEc4nk3l4Xad20gqD028s=;
+        b=HbZrtsjVxBEnAVcCDUa5zT/MWyTDhVay/SMpR//CEJxow4BH2nocFyLbzkh40aOTBl
+         v7GQCaOmgSxGvJxM5+XRpz3c2pFISsyIyozm4XcaQoMWssax5eAXdghyYW03X7ZyDNBk
+         TVjmyu1U6s6FxkxIkjvGwPowft0Xp2kRETkqc4QrzbkbOZ/AeFMPbETKW/fmmaMK4TKX
+         bHc+7foVM5gwppEluA7SKRXwdGE9v5wUoJAzOdiC91VakczZw2UvjCRFJ7VGsp+KSCxO
+         ifr1eV7xjvUwV3xN39m5Cv3euccCUij3pVqocW8BrxnhSmCqcqe7iITfYLNmEy7kqWG/
+         dIsQ==
+X-Google-Smtp-Source: ABdhPJwDQK4thV53U4NvXZ8AofmvKgox1Vlv1rYSuW9FQPebiMzYLUfHprhtMqhHU7RGA4P48Z51ORQ=
+MIME-Version: 1.0
+X-Received: by 2002:a05:6e02:1561:: with SMTP id k1mr484324ilu.36.1637619534195;
+ Mon, 22 Nov 2021 14:18:54 -0800 (PST)
+Date: Mon, 22 Nov 2021 14:18:54 -0800
+Reply-To: YouTube <no-reply@youtube.com>
+X-Google-Id: 4113787
+Feedback-ID: P2725-0:C20181855:M110485283-de:gamma
+X-Notifications: GAMMA:<66dea372dc56887edbb29d139a8ba0734917fb3a-20181855-111050819@google.com>
+X-Notifications-Bounce-Info: AXvZQxcoTQyCIbiEtW4WDmVwGVpqKWuUjlV2PpqITuyo2_-dD9AuSMTz1xhKCTWU3_Ex_bIA57HJjUOYQ0zfmkKvCocp3p8GJNL1-UI5wX0_j-tCFA3A5ai3Yh3RtV_OIF6y6yFUK8LnGF0tb05dwaaHO6jz45PC_7xNQZLZm7inf2JWK0LS6W-zIv6QmC0dwynNmb1oS6ZVCe-tkNvXWq5fU4nkRnXjTFXJdAtdE170MW5wMIgBnPe08hQ-4I3EUAy3fXYNjAwNjA0MDQxNTM1NTk2OTMzMg
+Message-ID: <66dea372dc56887edbb29d139a8ba0734917fb3a-20181855-111050819@google.com>
+Subject: Aktualisierung der Nutzungsbedingungen von YouTube
+From: YouTube <no-reply@youtube.com>
+To: technikagfichte@gmail.com
+Content-Type: multipart/alternative; boundary="0000000000009ced2e05d1680207"
+X-Rspamd-SPAM-Probability: 44
+X-Rspamd-UID: 6b4f21
+X-Rspamd-Queue-Id: 4Hyhfx1cGkz53Hkc
+X-Spam-Level: xx
+
+--0000000000009ced2e05d1680207
+Content-Type: text/plain; charset="UTF-8"; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+QW0gNS4gSmFudWFyIDIwMjIgYWt0dWFsaXNpZXJlbiB3aXIgdW5zZXJlIE51dHp1bmdzYmVkaW5n
+dW5nZW4gIA0KKOKAnk51dHp1bmdzYmVkaW5ndW5nZW7igJwpLCBkYW1pdCBmw7xyIGFsbGUgYmVz
+c2VyIG5hY2h2b2xsemllaGJhciBpc3QsIHdhcyBzaWUgIA0KYmVpIGRlciBOdXR6dW5nIGRlcyBE
+aWVuc3RlcyBlcndhcnRldC4gRGllc2Ugw4RuZGVydW5nZW4gaGFiZW4ga2VpbmUgIA0KQXVzd2ly
+a3VuZ2VuIGF1ZiBkaWUgVmVyd2VuZHVuZyB2b24gWW91VHViZS4gRWluZSDDnGJlcnNpY2h0IGRl
+ciBOZXVlcnVuZ2VuICANCnNvd2llIGRpZSBha3R1YWxpc2llcnRlbiBOdXR6dW5nc2JlZGluZ3Vu
+Z2VuIGZpbmRlc3QgZHUgaGllciAgDQo8aHR0cHM6Ly9ub3RpZmljYXRpb25zLmdvb2dsZS5jb20v
+Zy9wL0FELUZuRXlwcWpGNGV1bnhzSHJhME1hazc5S3M5UmpQSkxieWRSTmNwX3BUQW1kNG9UZXBK
+YUFVdl9BU3RuWDFpdTdtZTdRYmk5c210ZkFZTDVRaWdyWnNaMkZySlIzZ0txQk5qTHlEOG00ZjNv
+UnhkOUtKcGhuMVJZam5GbTdyN0d0ZTlBOD4uDQpFaW5lIGt1cnplIMOcYmVyc2ljaHQgZGVyIHdp
+Y2h0aWdzdGVuIFB1bmt0ZToNCiogTWVociBLbGFyaGVpdCBkYXLDvGJlciwgd2FzIGRpY2ggZXJ3
+YXJ0ZXQ6IEVzIHdpcmQgYmVzc2VyIG5hY2h2b2xsemllaGJhciAgDQpzZWluLCB3aWUgd2lyIHVu
+c2VyZW4gRGllbnN0IGVudHdpY2tlbG4sIG9wdGltaWVyZW4gdW5kIGFrdHVhbGlzaWVyZW4uICAN
+ClVudGVyIGFuZGVyZW0gbmVubmVuIHdpciBtZWhyIERldGFpbHMgenUgZGVuIEdyw7xuZGVuLCB3
+YXJ1bSB3aXIgw4RuZGVydW5nZW4gIA0KdW5kIEFrdHVhbGlzaWVydW5nZW4gdm9ybmVobWVuLCB1
+bmQgYXVjaCBkYXMgVmVyZmFocmVuIGRlciAgDQpWb3JhYmFua8O8bmRpZ3VuZ2VuIHdpcmQgdHJh
+bnNwYXJlbnRlci4NCiogQWxsZ2VtZWluZSDDnGJlcmFyYmVpdHVuZyBmw7xyIG1laHIgVmVyc3TD
+pG5kbGljaGtlaXQgdW5kIExlc2JhcmtlaXQ6IEF1Y2ggIA0Kd2VubiB1bnNlcmUgTnV0enVuZ3Ni
+ZWRpbmd1bmdlbiBlaW4gUmVjaHRzZG9rdW1lbnQgc2luZCwgYmVtw7xoZW4gd2lyIHVucyAgDQpp
+bW1lciwgc2llIG3DtmdsaWNoc3QgdmVyc3TDpG5kbGljaCB6dSBmb3JtdWxpZXJlbi4gRGF6dSB3
+ZXJkZW4gZWluaWdlICANCkFic2Nobml0dGUgYW4gZWluZSBhbmRlcmUgU3RlbGxlIHZlcnNjaG9i
+ZW4gKHouIEIuIFNwZXJydW5nIHVuZCBLw7xuZGlndW5nICANCnZvbiBLb250ZW4pIHVuZCBlaW5p
+Z2UgbmV1IGZvcm11bGllcnQgKHouIEIuIMOEbmRlcnVuZ2VuIGRpZXNlciAgDQpWZXJlaW5iYXJ1
+bmcpLg0KKiBBdWZuYWhtZSB2b24gSW5mb3JtYXRpb25lbiB6dW0gUHJvemVzcyBmw7xyIFZlcndh
+cm51bmdlbiB3ZWdlbiBlaW5lcyAgDQpWZXJzdG/Dn2VzIGdlZ2VuIGRpZSBDb21tdW5pdHktUmlj
+aHRsaW5pZW46IERpZSBOdXR6dW5nIHZvbiBZb3VUdWJlICANCnVudGVybGllZ3Qgc2Nob24gaW1t
+ZXIgZGVuIENvbW11bml0eS1SaWNodGxpbmllbiB1bmQgZGVtIGRhbWl0IHZlcmJ1bmRlbmVuICAN
+ClZlcndhcm51bmdzcHJvemVzcy4gSmV0enQgd2VyZGVuIGRpZSBJbmZvcm1hdGlvbmVuIHp1IFZl
+cndhcm51bmdlbiB3ZWdlbiAgDQplaW5lcyBWZXJzdG/Dn2VzIGdlZ2VuIGRpZSBDb21tdW5pdHkt
+UmljaHRsaW5pZW4gIA0KPGh0dHBzOi8vbm90aWZpY2F0aW9ucy5nb29nbGUuY29tL2cvcC9BRC1G
+bkV6S1kwWktCT1lCX1VyNndycFJLOVZVbjNKWkZFWXRiVkdzMkMtME9vMzVLa1hXLTlIRFFwakFj
+LTdVRWhySE92MzVrS0JQMmR5SFFlM3d6a191TTVKWlFjRjV3ZVVqYllCTE5OM20xUnZxU19MTWhK
+aW53YklEZEVXb041MmhmQjA+ICANCmFiZXIgYXVjaCBleHBsaXppdCBpbiBkaWUgTnV0enVuZ3Ni
+ZWRpbmd1bmdlbiBhdWZnZW5vbW1lbiwgdW0gZsO8ciBtZWhyICANClRyYW5zcGFyZW56IHp1IHNv
+cmdlbi4gRXMgaGF0IHNpY2ggbmljaHRzIGRhcmFuIGdlw6RuZGVydCwgd2VsY2hlIEZvbGdlbiAg
+DQpzb2xjaGUgVmVyd2FybnVuZ2VuIGhhYmVuIG9kZXIgd2FubiBlaW4gS2FuYWwgb2RlciBJbmhh
+bHRlIGVpbmUgVmVyd2FybnVuZyAgDQphdXNsw7ZzZW4ga8O2bm5lbi4NCiogR2VzZXR6bGljaGUg
+R2V3w6RocmxlaXN0dW5nIGltIEV1cm9ww6Rpc2NoZW4gV2lydHNjaGFmdHNyYXVtIChFV1IpOiBX
+aXIgIA0KZmFzc2VuIGRpZSBnZXNldHpsaWNoZW4gR2V3w6RocmxlaXN0dW5nZW4genVzYW1tZW4s
+IGRpZSBiZWkgZGVyIE51dHp1bmcgdm9uICANCllvdVR1YmUgaW0gUmFobWVuIGRlcyBWZXJicmF1
+Y2hlcnJlY2h0cyBpbSBFV1IgZ2VsdGVuLg0KKiBXaWRlcnJ1ZnNyZWNodGUgaW0gRXVyb3DDpGlz
+Y2hlbiBXaXJ0c2NoYWZ0c3JhdW0gKEVXUik6IFdpciBpbmZvcm1pZXJlbiAgDQrDvGJlciBkYXMg
+UmVjaHQgYWxzIFZlcmJyYXVjaGVyIGltIEVXUiwgaW5uZXJoYWxiIHZvbiAxNCBUYWdlbiBkaWUg
+IA0KWnVzdGltbXVuZyB6dSBkZW4gTnV0enVuZ3NiZWRpbmd1bmdlbiB6dSB3aWRlcnJ1ZmVuLiBE
+YW1pdCBkdSBkaWVzZXMgUmVjaHQgIA0KbGVpY2h0ZXIgYXVzw7xiZW4ga2FubnN0LCBlbnRoYWx0
+ZW4gdW5zZXJlIE51dHp1bmdzYmVkaW5ndW5nZW4genVrw7xuZnRpZyBkaWUgIA0KTXVzdGVyLVdp
+ZGVycnVmc2JlbGVocnVuZyBkZXIgRXVyb3DDpGlzY2hlbiBVbmlvbiBzYW10ICANCk11c3Rlci1X
+aWRlcnJ1ZnNmb3JtdWxhci4NCkxpZXMgZGlyIGRpZSBha3R1YWxpc2llcnRlIFZlcnNpb24gZGVy
+IE51dHp1bmdzYmVkaW5ndW5nZW4gIA0KPGh0dHBzOi8vbm90aWZpY2F0aW9ucy5nb29nbGUuY29t
+L2cvcC9BRC1GbkV6OG5xNmdCOUJIdFh3QlpuNjNnbEEyMktKQjVjUTJOQmQxclNzVTNMMWxyLWdJ
+ZjZCbU9QQ1NhNU1jbWQzX1VuOGJCY0V5Sm1DeFR2bWsxT3ZYRzRKcmxPTU41WWZSemYtN3dRc0FS
+WUhTVzN5b2kxUHBCRWVYbjBSTWo0c0JVWlk+ICANCmJpdHRlIGdlbmF1IGR1cmNoLiBXZW5uIGR1
+IFlvdVR1YmUgbmFjaCBkZW0gZ2VuYW5udGVuIERhdHVtIHdlaXRlcmhpbiAgDQpudXR6dCwgc3Rp
+bW1zdCBkdSBkZW4gbmV1ZW4gQmVkaW5ndW5nZW4gYXV0b21hdGlzY2ggenUuIFdlbm4gZGVpbiBL
+aW5kICANCllvdVR1YmUgS2lkcyBudXR6ZW4gZGFyZiBvZGVyIGR1IGRpZSBZb3VUdWJlLUVpbnN0
+ZWxsdW5nZW4gZsO8ciBkZWluIEtpbmQgIA0Kw7xiZXIgRmFtaWx5IExpbmsgIA0KPGh0dHBzOi8v
+bm90aWZpY2F0aW9ucy5nb29nbGUuY29tL2cvcC9BRC1GbkV3UThXeE1xX1lEV2JVUkVVN3NzamVN
+eFRYU1FYNzNrYmpXT0dmcElXdU1xX3BJTkdPSW1zb1ctQXVxUjJCc2l2SWE2Nk9UMGtIRkdac0hI
+SnV1UTljSE9VRGFvMGUzNzJsYlNVV1V6MElub25CcE80NDdGOWdVY09LUWZnPiAgDQp2ZXJ3YWx0
+ZXN0LCBzb2xsdGVzdCBkdSBtaXQgaWhtIGluIFJ1aGUgw7xiZXIgZGllc2Ugw4RuZGVydW5nZW4g
+c3ByZWNoZW4uDQpEYW5rZSwgZGFzcyBkdSBUZWlsIHVuc2VyZXIgd2VsdHdlaXRlbiBDb21tdW5p
+dHkgYmlzdC4NCg0KSGlsZmUgIA0KPGh0dHBzOi8vbm90aWZpY2F0aW9ucy5nb29nbGUuY29tL2cv
+cC9BRC1GbkV6NXFyNjZiV3pjbllvbnRqWDVpN1JqZkVldjdTSTN2VFdnVWtfNGUyTDhjOHIyU1pL
+a1EyalYzRHY1WHFDZjI0NmVnNUhqSWFmVGRiNGhGQU9qSzFxdnBaSEFtSFd0TXVaWkRtOUY1TDFL
+U1A3UUlfeERlU2NuPg0KDQpFLU1haWwtT3B0aW9uZW4gIA0KPGh0dHBzOi8vbm90aWZpY2F0aW9u
+cy5nb29nbGUuY29tL2cvcC9BRC1GbkV4RHVGcGlEdFQxYzJxaXpSWUN5NS1xUE90a0N6RFhTNE5w
+a2FtUDRGNnVoanhHYlA2MHRRbExqNVR1YVl2aEJlcGh3cHFnRHBib2x3WU1YOUF3dlN3dHhPcThh
+d3NEaGpRSWtWUE1vd0J1aEp6QVhuc3FyUkpRaWp3UW1JcnRmVmtQRV8xLWo0T2NfSTVxQ3ctd3Nt
+d2QtalEwWGEwVFQ5Si1uQ1FpWmM0ZUhzSUpYTXRfT2Z2eW5CbFJPY2c+DQoNCk1pdCBkaWVzZXIg
+RS1NYWlsIGluZm9ybWllcmVuIHdpciBkaWNoIMO8YmVyIHdpY2h0aWdlIMOEbmRlcnVuZ2VuIGFu
+IGRlbiAgDQpOdXR6dW5nc2JlZGluZ3VuZ2VuIHZvbiBZb3VUdWJlLg0KDQooYykgMjAyMSBHb29n
+bGUgSXJlbGFuZCBMaW1pdGVkLCBHb3Jkb24gSG91c2UsIEJhcnJvdyBTdHJlZXQsIER1YmxpbiA0
+LCAgDQpJcmVsYW5kDQo=
+--0000000000009ced2e05d1680207
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang=3Dde xmlns=3Dhttp://www.w3.org/1999/xhtml xmlns:v=3Durn:schemas-=
+microsoft-com:vml xmlns:o=3Durn:schemas-microsoft-com:office:office>
+<head>
+<title>
+Wichtiges Update
+</title>
+<!--[if !mso]><!-->
+<meta http-equiv=3DX-UA-Compatible content=3DIE=3Dedge />
+<!--<![endif]-->
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8" />
+<meta name=3Dviewport content=3D"width=3Ddevice-width, initial-scale=3D1.0"=
+ />
+<meta name=3Drobots content=3D"no index">
+<meta name=3Dx-apple-disable-message-reformatting>
+<meta name=3Dformat-detection content=3Dtelephone=3Dno,address=3Dno,email=
+=3Dno,date=3Dno,url=3Dno>
+<meta name=3Dcolor-scheme content=3Dlight>
+<meta name=3Dsupported-color-schemes content=3Dlight>
+<link href=3Dhttps://fonts.googleapis.com/css?family=3DRoboto:400,300,500,7=
+00 rel=3Dstylesheet>
+<link href=3Dhttps://fonts.googleapis.com/css?family=3DYouTube%20Sans:700 r=
+el=3Dstylesheet>
+<!--[if mso]>
+<xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+<!--[if lte mso 11]>
+<style>
+.mj-outlook-group-fix { width:100% !important; }
+</style>
+<![endif]-->
+<style>
+#outlook a {
+padding: 0;
+}
+* {
+-ms-text-size-adjust: 100%;
+-webkit-text-size-adjust: 100%;
+}
+body {
+font-family: Roboto, Arial, Helvetica, sans-serif;
+margin: 0;
+padding: 0;
+-webkit-text-size-adjust: none !important;
+-webkit-font-smoothing: antialiased !important;
+-ms-text-size-adjust: none !important;
+}
+table,
+tr,
+th,
+td {
+border-spacing: 0;
+border-collapse: collapse;
+mso-table-lspace: 0pt;
+mso-table-rspace: 0pt;
+}
+img {
+border: 0;
+height: auto;
+line-height: 100%;
+outline: none;
+text-decoration: none;
+-ms-interpolation-mode: bicubic;
+}
+a,
+a:link,
+a:visited,
+a:hover,
+a:active {
+color: #065fd4;
+text-decoration: none;
+}
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+margin:0;
+padding:0;
+}
+a[x-apple-data-detectors] {
+border-bottom: 0 !important;
+cursor: default !important;
+color: inherit !important;
+text-decoration: none !important;
+font-size: inherit !important;
+font-family: inherit !important;
+font-weight: inherit !important;
+line-height: inherit !important;
+}
+.im {
+color: inherit !important;
+}
+img.g-img + div {
+display: none !important;
+}
+sup {
+line-height: 0;
+font-size: 75%;
+}
+<!--[if gte mso 9]>
+sup {
+font-size: 100% !important;
+}
+<![endif]-->
+</style>
+<style>
+@media only screen and (max-width: 620px) {
+.hide-on-mobile {
+display: none !important;
+}
+.hide-on-desktop {
+display: block !important;
+max-height: none !important;
+}
+.hide-on-desktop td {
+display: table-cell !important;
+max-height: none !important;
+}
+}
+.hide-on-desktop,
+.hide-on-desktop td {
+mso-hide: all;
+display: none;
+max-height: 0;
+overflow: hidden;
+}
+</style>
+<style>
+@media only screen and (max-width:480px) {
+table.mj-full-width-mobile {
+width: 100% !important;
+}
+td.mj-full-width-mobile {
+width: auto !important;
+}
+}
+</style>
+<style>
+@media only screen and (min-width:620px) {
+.mj-column-per-100 {
+width: 100% !important;
+max-width: 100%;
+}
+.mj-column-per-50 {
+width: 50% !important;
+max-width: 50%;
+}
+}
+</style>
+</head>
+<body style=3Dbackground-color:#fff;>
+<div style=3Dbackground-color:#fff;>
+<div style=3D"margin:0 auto; min-width:480px; max-width:600px;">
+<table align=3Dcenter border=3D0 cellpadding=3D0 cellspacing=3D0 role=3Dpre=
+sentation style=3D"background-position:center center; background-size:conta=
+in; background-repeat:no-repeat; width:100%;">
+<tbody>
+<tr>
+<td align=3Dcenter>
+<!--[if mso | IE]>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"block-grid-outlook" style=3D"width:600px;" width=3D"600" >
+<tr>
+<td style=3D"line-height:0; font-size:0; mso-line-height-rule:exactly;">
+<![endif]-->
+<div class=3D"mj-column-per-100 mj-outlook-group-fix" style=3D"font-size:0;=
+ text-align:left; direction:ltr; display:inline-block; vertical-align:top; =
+width:100%;">
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 role=3Dpresentation width=
+=3D100%>
+<tbody>
+<tr>
+<td style=3D"border:none; vertical-align:top; padding:0 0 0 0;">
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 role=3Dpresentation width=
+=3D100%>
+<tr>
+<td>
+<table width=3D100% role=3Dpresentation border=3D0 cellpadding=3D0 cellspac=
+ing=3D0 style=3Dtable-layout:fixed;>
+<tr>
+<td align=3Dleft valign=3Dmiddle style=3D"overflow:hidden; min-width:480px;=
+ max-width:600px; padding:0 0 0 0;">
+<a href=3D# style=3D"display:block; width:600px; height:88px;" aria-hidden=
+=3Dtrue>
+<img src=3Dhttps://www.gstatic.com/gumdrop/files/ytc-youtube-header-fill-w1=
+200px-h176px-2x.png width=3D600 height=3D88 title=3D"" alt=3D"" border=3D0 =
+style=3D"display:block; width:600px; max-width:600px;" />
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr><tr>
+<td style=3Dfont-size:0;>
+<!--[if mso | IE]>
+<table role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0">
+<tr>
+<td height=3D"16" style=3D"vertical-align:top; height:16px;">
+<![endif]-->
+<div style=3Dheight:16px;>&nbsp;</div>
+<!--[if mso | IE]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr>
+<td align=3Dleft valign=3Dtop style=3D"direction:ltr; padding:0 24px 0 24px=
+;">
+<p style=3D"margin:0; padding:0; color:#131313; font-family:Roboto, Arial, =
+Helvetica, sans-serif; font-size:16px; font-weight:400; line-height:24px; l=
+etter-spacing:0.1px;">
+Am 5. Januar 2022 aktualisieren wir unsere Nutzungsbedingungen (=E2=80=9E<s=
+trong>Nutzungsbedingungen</strong>=E2=80=9C), damit f=C3=BCr alle besser na=
+chvollziehbar ist, was sie bei der Nutzung des Dienstes erwartet. Diese =C3=
+=84nderungen haben keine Auswirkungen auf die Verwendung von YouTube. Eine =
+=C3=9Cbersicht der Neuerungen sowie die aktualisierten Nutzungsbedingungen =
+<a style=3D"color:#065fd4; font-weight:500; text-decoration:none" href=3Dht=
+tps://notifications.google.com/g/p/AD-FnExD1KvCkYNPIJJWxrhd-JouEga0MEjEgGT0=
+lV72ei7RrMhzcNdk8X-UN22AAhPBXnY2HVjFPciJoNHtG3_gnjEwNERFHzKKpsWrvZRk59Yzd79=
+zSDwIkxBCYAAwPv6WagXRRQ>findest du hier</a>.
+</p>
+</td>
+</tr><tr>
+<td style=3Dfont-size:0;>
+<!--[if mso | IE]>
+<table role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0">
+<tr>
+<td height=3D"16" style=3D"vertical-align:top; height:16px;">
+<![endif]-->
+<div style=3Dheight:16px;>&nbsp;</div>
+<!--[if mso | IE]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr>
+<td align=3Dleft valign=3Dtop style=3D"direction:ltr; padding:0 24px 0 24px=
+;">
+<p style=3D"margin:0; padding:0; color:#131313; font-family:Roboto, Arial, =
+Helvetica, sans-serif; font-size:16px; font-weight:400; line-height:24px; l=
+etter-spacing:0.1px;">
+Eine kurze =C3=9Cbersicht der wichtigsten Punkte:
+</p>
+</td>
+</tr><tr>
+<td align=3Dleft valign=3Dtop style=3D"padding:0 24px 0 24px; direction:ltr=
+;">
+<ul style=3D"direction:ltr; margin-top:0; margin-bottom:0; padding:0; font-=
+family:Roboto, Arial, Helvetica, sans-serif; color:#131313; font-size:16px;=
+ line-height:24px; margin-left:24px;" type=3Ddisc>
+<li style=3D"margin:14px 0 0 0; direction:ltr;">
+<strong>Mehr Klarheit dar=C3=BCber, was dich erwartet:</strong> Es wird bes=
+ser nachvollziehbar sein, wie wir unseren Dienst entwickeln, optimieren und=
+ aktualisieren. Unter anderem nennen wir mehr Details zu den Gr=C3=BCnden, =
+warum wir =C3=84nderungen und Aktualisierungen vornehmen, und auch das Verf=
+ahren der Vorabank=C3=BCndigungen wird transparenter.
+</li><li style=3D"margin:14px 0 0 0; direction:ltr;">
+<strong>Allgemeine =C3=9Cberarbeitung f=C3=BCr mehr Verst=C3=A4ndlichkeit u=
+nd Lesbarkeit:</strong> Auch wenn unsere Nutzungsbedingungen ein Rechtsdoku=
+ment sind, bem=C3=BChen wir uns immer, sie m=C3=B6glichst verst=C3=A4ndlich=
+ zu formulieren. Dazu werden einige Abschnitte an eine andere Stelle versch=
+oben (z. B. <span style=3D"font-style: italic;">Sperrung</span> und <span s=
+tyle=3D"font-style: italic;">K=C3=BCndigung von Konten</span>) und einige n=
+eu formuliert (z. B. <span style=3D"font-style: italic;">=C3=84nderungen di=
+eser Vereinbarung</span>).
+</li><li style=3D"margin:14px 0 0 0; direction:ltr;">
+<strong>Aufnahme von Informationen zum Prozess f=C3=BCr Verwarnungen wegen =
+eines Versto=C3=9Fes gegen die Community-Richtlinien:</strong> Die Nutzung =
+von YouTube unterliegt schon immer den Community-Richtlinien und dem damit =
+verbundenen Verwarnungsprozess. Jetzt werden die Informationen zu <a style=
+=3D"color:#065fd4; font-weight:500; text-decoration:none" href=3Dhttps://no=
+tifications.google.com/g/p/AD-FnExR5JC0Ufr8VWzfEXYrlz3Nh207BRQkMpglg57XoE26=
+tcImyA4kdFiAqhHUtTNzTK-mLAPWDpZuFD9lj1qL6PVwtY8cYt1qoIh4RiWIC8VRvlVLYK-UdJG=
+Qm3hChBRq86Zwww>Verwarnungen wegen eines Versto=C3=9Fes gegen die Community=
+-Richtlinien</a> aber auch explizit in die Nutzungsbedingungen aufgenommen,=
+ um f=C3=BCr mehr Transparenz zu sorgen. Es hat sich nichts daran ge=C3=A4n=
+dert, welche Folgen solche Verwarnungen haben oder wann ein Kanal oder Inha=
+lte eine Verwarnung ausl=C3=B6sen k=C3=B6nnen.
+</li><li style=3D"margin:14px 0 0 0; direction:ltr;">
+<strong>Gesetzliche Gew=C3=A4hrleistung im Europ=C3=A4ischen Wirtschaftsrau=
+m (EWR):</strong> Wir fassen die gesetzlichen Gew=C3=A4hrleistungen zusamme=
+n, die bei der Nutzung von YouTube im Rahmen des Verbraucherrechts im EWR g=
+elten.
+</li><li style=3D"margin:14px 0 0 0; direction:ltr;">
+<strong>Widerrufsrechte im Europ=C3=A4ischen Wirtschaftsraum (EWR):</strong=
+> Wir informieren =C3=BCber das Recht als Verbraucher im EWR, innerhalb von=
+ 14&nbsp;Tagen die Zustimmung zu den Nutzungsbedingungen zu widerrufen. Dam=
+it du dieses Recht leichter aus=C3=BCben kannst, enthalten unsere Nutzungsb=
+edingungen zuk=C3=BCnftig die Muster-Widerrufsbelehrung der Europ=C3=A4isch=
+en Union samt Muster-Widerrufsformular.
+</li> </ul>
+</td>
+</tr><tr>
+<td style=3Dfont-size:0;>
+<!--[if mso | IE]>
+<table role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0">
+<tr>
+<td height=3D"16" style=3D"vertical-align:top; height:16px;">
+<![endif]-->
+<div style=3Dheight:16px;>&nbsp;</div>
+<!--[if mso | IE]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr>
+<td align=3Dleft valign=3Dtop style=3D"direction:ltr; padding:0 24px 0 24px=
+;">
+<p style=3D"margin:0; padding:0; color:#131313; font-family:Roboto, Arial, =
+Helvetica, sans-serif; font-size:16px; font-weight:400; line-height:24px; l=
+etter-spacing:0.1px;">
+Lies dir <a style=3D"color:#065fd4; font-weight:500; text-decoration:none" =
+href=3Dhttps://notifications.google.com/g/p/AD-FnEwtN177daF1z8rsvZbQoqh0yHh=
+p6o3CWskvFDyXqjnzoTKybDFuZSF6UF9CJWntp6y59TkyGq5LRK050pG9lgQk1BUa-FvTucYtVh=
+Ivb5r1xsVh4sUSvtQlXRyyfLIvXqZY2g>die aktualisierte Version der Nutzungsbedi=
+ngungen</a> bitte genau durch. Wenn du YouTube nach dem genannten Datum wei=
+terhin nutzt, stimmst du den neuen Bedingungen automatisch zu. Wenn dein Ki=
+nd YouTube Kids nutzen darf oder du die YouTube-Einstellungen f=C3=BCr dein=
+ Kind =C3=BCber <a style=3D"color:#065fd4; font-weight:500; text-decoration=
+:none" href=3Dhttps://notifications.google.com/g/p/AD-FnEzrJDuzqWjll366sXuX=
+fRB49ui-ZOz6tnANtjz9ETm4v9wS_RQC3MyclaSpbpwyHHQUSOwhVdtBzZvdRKUHkcMe8HyR2HI=
+1mTGVPRzPNPUckX7JdFuyJ9pEzF2w_9z->Family Link</a> verwaltest, solltest du m=
+it ihm in Ruhe =C3=BCber diese =C3=84nderungen sprechen.
+</p>
+</td>
+</tr><tr>
+<td style=3Dfont-size:0;>
+<!--[if mso | IE]>
+<table role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0">
+<tr>
+<td height=3D"16" style=3D"vertical-align:top; height:16px;">
+<![endif]-->
+<div style=3Dheight:16px;>&nbsp;</div>
+<!--[if mso | IE]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr>
+<td align=3Dleft valign=3Dtop style=3D"direction:ltr; padding:0 24px 0 24px=
+;">
+<p style=3D"margin:0; padding:0; color:#131313; font-family:Roboto, Arial, =
+Helvetica, sans-serif; font-size:16px; font-weight:400; line-height:24px; l=
+etter-spacing:0.1px;">
+Danke, dass du Teil unserer weltweiten Community bist.
+</p>
+</td>
+</tr>
+<tr>
+<td style=3Dfont-size:0;>
+<!--[if mso | IE]>
+<table role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0">
+<tr>
+<td height=3D"24" style=3D"vertical-align:top; height:24px;">
+<![endif]-->
+<div style=3Dheight:24px;>&nbsp;</div>
+<!--[if mso | IE]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr>
+<td align=3Dcenter style=3D"font-size:0; padding-left:24px; padding-right:2=
+4px;">
+<p style=3D"border-top:1px solid #ccc; font-size:1px; margin:0 auto; width:=
+100%;"> </p>
+<!--[if mso | IE]>
+<table
+align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"=
+border-top:1px solid #ccc; font-size:1px; margin:0 auto; width:550px;" role=
+=3D"presentation" width=3D"550px">
+<tr>
+<td style=3D"height:0; line-height:0;">
+&nbsp;
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr>
+<td style=3Dfont-size:0;>
+<!--[if mso | IE]>
+<table role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0">
+<tr>
+<td height=3D"16" style=3D"vertical-align:top; height:16px;">
+<![endif]-->
+<div style=3Dheight:16px;>&nbsp;</div>
+<!--[if mso | IE]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr><tr>
+<td style=3Dfont-size:0;>
+<!--[if mso | IE]>
+<table role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0">
+<tr>
+<td height=3D"16" style=3D"vertical-align:top; height:16px;">
+<![endif]-->
+<div style=3Dheight:16px;>&nbsp;</div>
+<!--[if mso | IE]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr>
+<td align=3Dleft valign=3Dtop style=3D"direction:ltr; padding:0 24px 0 24px=
+;">
+<p style=3D"margin:0; padding:0; color:#606060; font-family:Roboto, Arial, =
+Helvetica, sans-serif; font-size:12px; font-weight:400; line-height:18px;">
+<a style=3D"color:#065fd4; font-weight:500; text-decoration:none" href=3Dht=
+tps://notifications.google.com/g/p/AD-FnExBZ_6YDHoOSANMZPVpA2RGV1c3LxYWiYjN=
+4x_uWjwJ58zSxh2WuQQ0XJYPSphRsy0-ByyhEI2XSLvJuH-xDnrOMxp8ynDbGuXCZ6YaOccfu4-=
+U9U8R93AYKVM>Hilfe
+</a>
+<span style=3D"color:#606060; font-family:Roboto, Arial, Helvetica, sans-se=
+rif; font-size:12px; font-weight:400; line-height:18px">&bull; </span><a st=
+yle=3D"color:#065fd4; font-weight:500; text-decoration:none" href=3Dhttps:/=
+/notifications.google.com/g/p/AD-FnEyly9skTSS9jhFtDI9bkF86wpMuz03aEp7J0APdb=
+91wfJRDVYMfR8ihvoWrddhhZ2PcutTKCLEtSRGRifvvFCvCiUHecgeBM6ZnmSzSWQ3Uhdpw__59=
+K_9DHsIyzHp-IYo7CtxBBGtZZZCynAn1eJLo0Iq2VlBSoqlY0dHGd1r-sTi-WNUYBgJGtYfyvRh=
+b_Q>E-Mail-Optionen
+</a>
+</p>
+</td>
+</tr><tr>
+<td style=3Dfont-size:0;>
+<!--[if mso | IE]>
+<table role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0">
+<tr>
+<td height=3D"16" style=3D"vertical-align:top; height:16px;">
+<![endif]-->
+<div style=3Dheight:16px;>&nbsp;</div>
+<!--[if mso | IE]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr>
+<td align=3Dleft valign=3Dtop style=3D"direction:ltr; padding:0 24px 0 24px=
+;">
+<p style=3D"margin:0; padding:0; color:#606060; font-family:Roboto, Arial, =
+Helvetica, sans-serif; font-size:12px; font-weight:400; line-height:18px;">
+Mit dieser E-Mail informieren wir dich =C3=BCber wichtige =C3=84nderungen a=
+n den Nutzungsbedingungen von YouTube. </p>
+</td>
+</tr> <tr>
+<td style=3Dfont-size:0;>
+<!--[if mso | IE]>
+<table role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0">
+<tr>
+<td height=3D"24" style=3D"vertical-align:top; height:24px;">
+<![endif]-->
+<div style=3Dheight:24px;>&nbsp;</div>
+<!--[if mso | IE]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr>
+<td align=3Dleft valign=3Dtop style=3D"padding:0 24px 0 24px; direction:ltr=
+;">
+<a href=3D# style=3D"display:block; width:88px; height:20px;" aria-hidden=
+=3Dtrue><img title=3D"" alt=3D"" src=3Dhttps://www.gstatic.com/gumdrop/file=
+s/ytc-youtube-footer-transparent-w176px-h40px-2x.png height=3Dauto width=3D=
+88 style=3D"border:none; display:block; outline:none; text-decoration:none;=
+ width:88px; height:20px;" /></a>
+</td>
+</tr>
+<tr>
+<td style=3Dfont-size:0;>
+<!--[if mso | IE]>
+<table role=3D"presentation" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0">
+<tr>
+<td height=3D"24" style=3D"vertical-align:top; height:24px;">
+<![endif]-->
+<div style=3Dheight:24px;>&nbsp;</div>
+<!--[if mso | IE]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr>
+<td align=3Dleft valign=3Dtop style=3D"padding:0 24px 0 24px; direction:ltr=
+; color:#606060; font-family:Roboto, Arial, Helvetica, sans-serif; font-siz=
+e:12px; font-weight:400; line-height:18px;">
+&copy; 2021 <a href=3D# style=3D"color:#606060; font-family:Roboto, Arial, =
+Helvetica, sans-serif; font-size:12px; font-weight:400; line-height:18px; t=
+ext-decoration:none;"> Google Ireland Limited, Gordon House, Barrow Street,=
+ Dublin 4, Ireland </a> </td>
+</tr> </table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tbody>
+</table>
+<table width=3D100% role=3Dpresentation border=3D0 cellpadding=3D0 cellspac=
+ing=3D0 align=3Dcenter style=3Dtable-layout:fixed;>
+<tr>
+<td style=3D"width:480px; max-width:480px; min-width:480px;">
+<table width=3D480 role=3Dpresentation cellpadding=3D0 cellspacing=3D0 bord=
+er=3D0 align=3Dcenter>
+<tr>
+<td style=3D"line-height:1px; min-width:160px;"><img src=3Dhttps://www.gsta=
+tic.com/gumdrop/files/youtube-spacer-image-transparent-w1px-h1px-2x.gif alt=
+=3D"" width=3D160 height=3D1 style=3D"display:block; max-height:1px; min-he=
+ight:1px; min-width:160px; width:160px;" /></td>
+<td style=3D"line-height:1px; min-width:160px;"><img src=3Dhttps://www.gsta=
+tic.com/gumdrop/files/youtube-spacer-image-transparent-w1px-h1px-2x.gif alt=
+=3D"" width=3D160 height=3D1 style=3D"display:block; max-height:1px; min-he=
+ight:1px; min-width:160px; width:160px;" /></td>
+<td style=3D"line-height:1px; min-width:160px;"><img src=3Dhttps://www.gsta=
+tic.com/gumdrop/files/youtube-spacer-image-transparent-w1px-h1px-2x.gif alt=
+=3D"" width=3D160 height=3D1 style=3D"display:block; max-height:1px; min-he=
+ight:1px; min-width:160px; width:160px;" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<img alt=3D"" class=3Dopen_tracking_img src=3Dhttps://www.youtube.com/gen_2=
+04?core_tos_updates_nov2021_msa1 width=3D1 height=3D1>
+</div>
+</div>
+</body>
+</html>
+--0000000000009ced2e05d1680207--

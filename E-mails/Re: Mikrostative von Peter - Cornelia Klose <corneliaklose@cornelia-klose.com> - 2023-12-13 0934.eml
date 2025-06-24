@@ -1,0 +1,213 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <corneliaklose@cornelia-klose.com>
+Received: from mail-hub02.belwue.de ([129.143.76.42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 76892703 for technikag@fichte-gymnasium.de; Wed, 13 Dec 2023 09:34:45 +0100
+Received: from mail-in01.belwue.de (mail-in01.belwue.de [129.143.76.1])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4Sqpgn0gjKz7GV6
+	for <technikag@fichte-gymnasium.de>; Wed, 13 Dec 2023 09:34:45 +0100 (CET)
+Received: from mout.kundenserver.de (mout.kundenserver.de [217.72.192.73])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange ECDHE (P-256) server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in01.belwue.de (Postfix) with ESMTPS id 4Sqpgm2JWBz53Hl4
+	for <technikag@fichte-gymnasium.de>; Wed, 13 Dec 2023 09:34:44 +0100 (CET)
+Received: from smtpclient.apple ([77.21.253.142]) by mrelayeu.kundenserver.de
+ (mreue109 [212.227.15.183]) with ESMTPSA (Nemesis) id
+ 1Ma1wY-1qjXq340Em-00VyFr for <technikag@fichte-gymnasium.de>; Wed, 13 Dec
+ 2023 09:34:44 +0100
+Content-Type: multipart/alternative; boundary=Apple-Mail-B7C04F39-DE53-4FA9-9C48-7A293E7F0C6E
+Content-Transfer-Encoding: 7bit
+From: Cornelia Klose <corneliaklose@cornelia-klose.com>
+Mime-Version: 1.0 (1.0)
+Subject: Re: Mikrostative von Peter
+Date: Wed, 13 Dec 2023 09:34:33 +0100
+Message-Id: <CC0FA298-BBC5-4ADD-8F0C-75429DB45E0D@cornelia-klose.com>
+References: <6E14F8D4-AD7B-9144-BD87-24F59A871722@hxcore.ol>
+In-Reply-To: <6E14F8D4-AD7B-9144-BD87-24F59A871722@hxcore.ol>
+To: Technik AG <technikag@fichte-gymnasium.de>
+X-Mailer: iPhone Mail (20G81)
+X-Provags-ID: V03:K1:Q+vhIrAHV9r6Ggv4/hzi5vY2/+CtKOXED1Ns/DIdQnZ+JEZwkus
+ /DbTharozy9sDJFm2O0edRf/IGnFgjYkrePI++YYXDpVCtRKuHU/PPuak37A9GIfXqm207g
+ /VtXADFTqzwVsW2zQ09R4w8j5UlSnhdGbFzCCtR4OAwsckFqFUR5VhRE+FbRpxvIRG1BomZ
+ wJOTpyPy0ECsLBpE4lt1A==
+X-Spam-Flag: NO
+UI-OutboundReport: notjunk:1;M01:P0:QWDfLBeArIQ=;79leH7Uzg23Z37YFbHE0mMvQToA
+ PpgFNDpUohSfuXQWhEJ9tW/8WEz4AB4hSy5iFXaZwvwalrI9K1gXuFwmS5WHJjXOEtINDsbGn
+ XtL43ulIyjFMkb1GfXOnTk0P0x3b7XNfBotF6mjxJBlikl5lyUfFYkS5z/0p7saFdELkF77PH
+ YMHzvWIP/q7tkCZdukMa6y0CJzC7V6LXv/g9q+9WLjn4HEDnBYFpcauMInV/PxRMzYD6pPLhw
+ vrF8azbvJeR09YoXntBXUdyqwRyeTWet8oMT0KAhBKLfq0614VEspRaXpKLu300WlH/wqY/+6
+ mCsNkk2LxTBvnRNyIopzi1svWemmd4XTypTwUkLwkR2CkIXmGdguvhb8Gac4DO5Z0ATFg5HRz
+ Hmh2wprCYwlg1h0aEeHukHguEoNp3Mv5jjtGfsZMtovWQ+2cfevm5TKHWDB11EZbKeq0k6C5y
+ HYsgKHdm8kYbYjmLHxP6Ao5Epclbw3SJWFsGbYrliYDXuhMgRoq5u4Nvj2KmA2rgWgKdD6pg6
+ ZgIabe32PsXQSnay1rtHx4knFhlvDPzwZp+NesTd4ni03iqcPGUgsAH22xEw399lr+7T8EUQj
+ NSthUXPWaUhV+KIZmVWC7jhKwc4m0j8v8qdzZDebQJqKIUNPsG9QeuUdcKvgVI0iBTr6gVZZn
+ 4v1tZPZdXGigS19td17YE78RyZ5VWQJrkBx/tzoKdyUxZu5dE7lnLa9RHZiCv0rG9ihfh5Qif
+ Xf+tgw+q0fpyHPsB8VX4z4UbnoLUo8vwN1vGuQq9C3NCgnUp0eHjo+pOwyyTBvE9l1YphiUD/
+ Giru8jCP91WxLoHJ9Vr4kqAVss6nvZxlikW+k2yOwuMdU6ep5aAXUguyF5viqFS5JUsxBZ8vd
+ IZ2xh0oKGshriSQ==
+X-Rspamd-Queue-Id: 4Sqpgm2JWBz53Hl4
+X-Rspamd-SPAM-Probability: 0
+X-Rspamd-UID: 0fec0b
+
+
+--Apple-Mail-B7C04F39-DE53-4FA9-9C48-7A293E7F0C6E
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Danke, Ismael, ich geb es an Peter weiter, dass ein Stativ in der Schule ist=
+. Nach dem zweiten muss ich dann nochmal schauen. Leider bin ich noch bis Fre=
+itag krankgeschrieben. Ich =C3=BCberlege mir noch eine L=C3=B6sung, wie Pete=
+r an das Stativ kommt=E2=80=A6.
+Viele Gr=C3=BC=C3=9Fe C. Klose
+
+Von meinem iPhone gesendet
+
+> Am 12.12.2023 um 19:11 schrieb Technik AG <technikag@fichte-gymnasium.de>:=
+
+>=20
+> =EF=BB=BF
+> Hallo nochmal,
+> Ich habe das vermisste Stativ im Druckerraum neben der T=C3=BCr platziert,=
+ dort m=C3=BCsst es auch in ein paar Tagen noch aufzufinden sein. Das Stativ=
+ welches Sie auf den Fl=C3=BCgel gelegt hatten habe ich in den Technik-AG Be=
+stand aufgenommen.
+>=20
+> MFG
+> Ismael Biber
+> =20
+> Von: Cornelia Klose <corneliaklose@cornelia-klose.com>
+> Gesendet: Dienstag, Dezember 12, 2023 2:37 PM
+> An: Ismael Biber <technikag@fichte-gymnasium.de>
+> Betreff: Re: Mikrostative von Peter
+> =20
+> Hallo Imael, ich bin leider nicht in der Schule, da ich nun v=C3=B6llig er=
+k=C3=A4ltet bin. Danke f=C3=BCr die schnelle Antwort. Wenn sich die Stative a=
+nfinden, nehme ich sie gerne am Do/Fr mit, vielleicht kann man sie in dem Fa=
+ll im Technikraum innen neben der T=C3=BCr anlehnen=E2=80=A6
+> (Ich hoffe, mein Arzt schreibt mich nicht l=C3=A4nger krank, mal sehen).
+> Viele Gr=C3=BC=C3=9Fe und nochmals Danke an das ganze Team, war sch=C3=B6n=
+ gestern!
+> C. Klose
+>=20
+> Cornelia Klose
+> Auf der Heide 9 b
+> 67360 Lingenfeld
+>=20
+>=20
+>>> Am 12.12.2023 um 12:21 schrieb Ismael Biber <technikag@fichte-gymnasium.=
+de>:
+>>>=20
+>> =EF=BB=BF
+>> Hallo Frau Klose,
+>>=20
+>> Das k=C3=B6nnen wir gerne heute noch kl=C3=A4ren, haben Sie um 14Uhr ca. 5=
+ Minuten Zeit daf=C3=BCr?
+>>=20
+>> MFG
+>> Ismael Biber
+>>=20
+>> Am 12.12.2023 11:56 schrieb Cornelia Klose <corneliaklose@cornelia-klose.=
+com>:
+>> Liebes Team der Technik AG,
+>> gestern sind mehrere Mikrostative von Peter liegengeblieben oder an den f=
+alschen Platz gekommen.
+>> Im einzelnen handelt es sich um:
+>> 1 schwarzes Mikrofonstativ mit Galgen
+>> 1 Mikrofonstativ ohne Galgen mit zwei bunten Aufklebern.
+>> Er hatte beide hinter den Vorhang gelegt, weil er diese Mikrofonierung in=
+ der Mensa dann nicht benutzt hat.
+>> K=C3=B6nnten die Stative im hinteren Raum gelandet sein? Peter braucht si=
+e am Wochenende, ich w=C3=A4re froh um schnelle Kl=C3=A4rung. Dankesch=C3=B6=
+n.
+>>=20
+>> Das Rockshop Mikrofonstativ, das auch noch rumstand, ist nicht aus der Mu=
+siksammlung, ich habe es auf dem Fl=C3=BCgel geparkt=E2=80=A6 Hatte das nich=
+t sowieso einen Defekt? Dann w=C3=BCrde ich es entsorgen.
+>>=20
+>> Viele Gr=C3=BC=C3=9Fe,
+>> Cornelia Klose
+>>=20
+>>=20
+>> Cornelia Klose
+>> Auf der Heide 9 b
+>> 67360 Lingenfeld
+>>=20
+>>=20
+
+--Apple-Mail-B7C04F39-DE53-4FA9-9C48-7A293E7F0C6E
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto">Danke, Ismael, ich geb es an Peter weiter, d=
+ass ein Stativ in der Schule ist. Nach dem zweiten muss ich dann nochmal sch=
+auen. Leider bin ich noch bis Freitag krankgeschrieben. Ich =C3=BCberlege mi=
+r noch eine L=C3=B6sung, wie Peter an das Stativ kommt=E2=80=A6.<div>Viele G=
+r=C3=BC=C3=9Fe C. Klose<br><br><div dir=3D"ltr">Von meinem iPhone gesendet</=
+div><div dir=3D"ltr"><br><blockquote type=3D"cite">Am 12.12.2023 um 19:11 sc=
+hrieb Technik AG &lt;technikag@fichte-gymnasium.de&gt;:<br><br></blockquote>=
+</div><blockquote type=3D"cite"><div dir=3D"ltr">=EF=BB=BF<div dir=3D"ltr"><=
+div>
+ =20
+ =20
+ =20
+    </div><div><div>
+    =09
+    	<div>Hallo nochmal,</div><div dir=3D"ltr">Ich habe das vermisste St=
+ativ im Druckerraum neben der T=C3=BCr platziert, dort m=C3=BCsst es auch in=
+ ein paar Tagen noch aufzufinden sein. Das Stativ welches Sie auf den Fl=C3=BC=
+gel gelegt hatten habe ich in den Technik-AG Bestand aufgenommen.</div>
+    	<div id=3D"ms-outlook-mobile-signature"><div><br></div><div dir=3D"=
+ltr"><div dir=3D"ltr">MFG</div><div dir=3D"ltr">Ismael Biber</div></div></di=
+v>
+    </div>
+ =20
+
+<div>&nbsp;</div><hr style=3D"display:inline-block;width:98%" tabindex=3D"-1=
+"><div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif"><=
+b>Von:</b> Cornelia Klose &lt;corneliaklose@cornelia-klose.com&gt;<br><b>Ges=
+endet:</b> Dienstag, Dezember 12, 2023 2:37 PM<br><b>An:</b> Ismael Biber &l=
+t;technikag@fichte-gymnasium.de&gt;<br><b>Betreff:</b> Re: Mikrostative von P=
+eter<div>&nbsp;</div></font></div>Hallo Imael, ich bin leider nicht in der S=
+chule, da ich nun v=C3=B6llig erk=C3=A4ltet bin. Danke f=C3=BCr die schnelle=
+ Antwort. Wenn sich die Stative anfinden, nehme ich sie gerne am Do/Fr mit, v=
+ielleicht kann man sie in dem Fall im Technikraum innen neben der T=C3=BCr a=
+nlehnen=E2=80=A6<div>(Ich hoffe, mein Arzt schreibt mich nicht l=C3=A4nger k=
+rank, mal sehen).</div><div>Viele Gr=C3=BC=C3=9Fe und nochmals Danke an das g=
+anze Team, war sch=C3=B6n gestern!</div><div>C. Klose<br><br><div dir=3D"ltr=
+"><div><span style=3D"font-size:13pt">Cornelia Klose</span></div><div><div>A=
+uf der Heide 9 b</div><div>67360 Lingenfeld</div><div><br></div></div></div>=
+<div dir=3D"ltr"><br><blockquote type=3D"cite">Am 12.12.2023 um 12:21 schrie=
+b Ismael Biber &lt;technikag@fichte-gymnasium.de&gt;:<br><br></blockquote></=
+div><blockquote type=3D"cite"><div dir=3D"ltr">=EF=BB=BF<div dir=3D"auto"><d=
+iv>Hallo Frau Klose,</div><div dir=3D"auto"><br></div><div dir=3D"auto">Das k=
+=C3=B6nnen wir gerne heute noch kl=C3=A4ren, haben Sie um 14Uhr ca. 5 Minute=
+n Zeit daf=C3=BCr?</div><div><br></div><div>MFG<br>Ismael Biber</div></div><=
+div class=3D"gmail_extra"><br><div class=3D"gmail_quote">Am 12.12.2023 11:56=
+ schrieb Cornelia Klose &lt;corneliaklose@cornelia-klose.com&gt;:<br type=3D=
+"attribution"><blockquote class=3D"quote" style=3D"margin:0 0 0 .8ex; border=
+-left:1px #ccc solid; padding-left:1ex"><div dir=3D"auto">Liebes Team der Te=
+chnik AG,<div>gestern sind mehrere Mikrostative von Peter liegengeblieben od=
+er an den falschen Platz gekommen.</div><div>Im einzelnen handelt es sich um=
+:<br><div>1 schwarzes Mikrofonstativ mit Galgen</div><div>1 Mikrofonstativ o=
+hne Galgen mit zwei bunten Aufklebern.</div><div>Er hatte beide hinter den V=
+orhang gelegt, weil er diese Mikrofonierung in der Mensa dann nicht benutzt h=
+at.</div><div>K=C3=B6nnten die Stative im hinteren Raum gelandet sein? Peter=
+ braucht sie am Wochenende, ich w=C3=A4re froh um schnelle Kl=C3=A4rung. Dan=
+kesch=C3=B6n.</div><div><br></div><div>Das Rockshop Mikrofonstativ, das auch=
+ noch rumstand, ist nicht aus der Musiksammlung, ich habe es auf dem Fl=C3=BC=
+gel geparkt=E2=80=A6 Hatte das nicht sowieso einen Defekt? Dann w=C3=BCrde i=
+ch es entsorgen.</div><div><br></div><div>Viele Gr=C3=BC=C3=9Fe,</div><div>C=
+ornelia Klose</div><div><br><br><div dir=3D"ltr"><div><span style=3D"font-si=
+ze:13pt">Cornelia Klose</span></div><div><div>Auf der Heide 9 b</div><div>67=
+360 Lingenfeld</div><div><br></div></div></div></div></div></div></blockquot=
+e></div><br></div></div></blockquote></div></div></div>
+</div></blockquote></div></body></html>=
+
+--Apple-Mail-B7C04F39-DE53-4FA9-9C48-7A293E7F0C6E--

@@ -1,0 +1,85 @@
+X-Envelope-To: technikag@fichte-gymnasium.de
+Return-Path: <poonelkh@gmail.com>
+Received: from mail-hub02.belwue.de ([129.143.76.42] verified)
+  by mbox1.belwue.de (CommuniGate Pro SMTP 6.3.18)
+  with ESMTPS id 79329302; Sun, 07 Jan 2024 18:55:52 +0100
+Received: from mail-in03.belwue.de (mail-in03.belwue.de [IPv6:2001:7c0:0:76::3])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(Client did not present a certificate)
+	by mail-hub02.belwue.de (Postfix) with ESMTPS id 4T7Pxh0HRjz7GmY;
+	Sun,  7 Jan 2024 18:55:52 +0100 (CET)
+Received: from mail-pl1-x62e.google.com (mail-pl1-x62e.google.com [IPv6:2607:f8b0:4864:20::62e])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	by mail-in03.belwue.de (Postfix) with ESMTPS id 4T7Pxg570gzcV6;
+	Sun,  7 Jan 2024 18:55:51 +0100 (CET)
+Received: by mail-pl1-x62e.google.com with SMTP id d9443c01a7336-1d3aa0321b5so9888745ad.2;
+        Sun, 07 Jan 2024 09:55:51 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20230601; t=1704650150; x=1705254950; darn=fichte-gymnasium.de;
+        h=to:subject:message-id:date:from:mime-version:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=smWKFpYTp+CFlQe2buDqdeXbNULS9bZ3uyYPKZiM4Ds=;
+        b=ZLExhILlXL19JxZ97n9uKPG0ApiSk31zVveAxanONbg1Ie8Phz1s9oVcJH406k+Dwr
+         mdMfAUkX6Wu5tVuJxJxGtl8IsoMRgNRCyfE/w6Z/lMbJA+qbGMeU/R77TZccw2FBy8r/
+         ISxoxA7/m539rdVx0j0ZDxfaB0Khk9DIneMdIgRcash4RNCVGIEjZU6RqC03rUQ6N0Zo
+         zmoQtSTVgn8qcqUo//gp6FyCJICtAVydiHbNVAIaczZQJ5e3a6B8Joz8b6ZX9DWojyGS
+         e/q/wCl1bEidsB4QAPr+kFJCejCjyYKZxdURGD4R8ZY0gP1B8UzfVga0wE6We61VeJSG
+         InLg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20230601; t=1704650150; x=1705254950;
+        h=to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=smWKFpYTp+CFlQe2buDqdeXbNULS9bZ3uyYPKZiM4Ds=;
+        b=EAUfstyY1gETRxdovfjbo47Atv/kv3Im5O/2abQqQTwH4IydhyUiww8IVZl0GsJ/X7
+         h1Ir97bhHNNVcxD25nyZudTjMBBVxsMTZijZkbB5UJPEO4QSDt0Z/dX7NAezrm5ixatz
+         nInKE5r3weu+UqhNUjGC+7rNNl7wkWIb9ajHmlYM2O/LXVJS9CTeCT1YaXnBwyL4R1ND
+         qyuR7rQy1MgZ2hKFoa9oZlqRREM9X7A/tTDm3Vy8uqIsMytrp8G47eHAu5QJ1pjncWWS
+         yjzGA/N8s4JWhO5C8+m/Hw4ez91bn5Y3pMZbwiSZeyEYk28Otsi3Cg4Yw2am9hY6rZAt
+         Cg0A==
+X-Gm-Message-State: AOJu0Yzbywde2Y+NHUtmcJsTSDWe2P3yYtxzDw5OPdkYn/CHTh/l5tpU
+	etugBh6wlBXRKjXYdaI7cjbSdF4E+p1RhTPXOLBRDQ7E
+X-Google-Smtp-Source: AGHT+IF1i1UHF5I6BMmzoVLRJrsxU2PLCzf8T/dnlVHMLzdhm0A/ET4FNNO1Au0nfsgX+mkLAJD1npd1tQH0aQ+RyVk=
+X-Received: by 2002:a17:902:b20a:b0:1d4:20fb:c2ef with SMTP id
+ t10-20020a170902b20a00b001d420fbc2efmr2853504plr.46.1704650149564; Sun, 07
+ Jan 2024 09:55:49 -0800 (PST)
+MIME-Version: 1.0
+From: Poonel Khademi Hashemi <poonelkh@gmail.com>
+Date: Sun, 7 Jan 2024 18:55:38 +0100
+Message-ID: <CACpPHQz-_C3iqi_+4Jr8zgZf9kj2Ef+Xj7qnyseM7U74m3dbbg@mail.gmail.com>
+Subject: Anfrage Nachholen Winterspieleabend der SMV
+To: Florian Brunnert <technikag@fichte-gymnasium.de>, lucas.schuett@fichte-gymnasium.de
+Content-Type: multipart/alternative; boundary="000000000000a19551060e5ecaaa"
+X-Rspamd-Queue-Id: 4T7Pxg570gzcV6
+X-Rspamd-SPAM-Probability: 0
+X-Rspamd-UID: 687861
+
+--000000000000a19551060e5ecaaa
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Liebe Technik AG,
+der Winterspieleabend musste vor den Weihnachtsfeiern ausfallen, daher
+w=C3=BCrde der Party AK sehr gerne diesen Abend nachholen.
+Der neue Termin w=C3=A4re der 17.01.23. Was wir uns genau darunter vorstell=
+en
+hatten wir ja schon abgekl=C3=A4rt, es w=C3=BCrde alles beim alten sonst bl=
+eiben :)
+Passt der Termin f=C3=BCr euch?
+Mit freundlichen Gruessen, der Party AK.
+
+--000000000000a19551060e5ecaaa
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Liebe Technik AG,=C2=A0<div dir=3D"auto">der Winterspieleabend musste vor d=
+en Weihnachtsfeiern ausfallen, daher w=C3=BCrde der Party AK sehr gerne die=
+sen Abend nachholen.</div><div dir=3D"auto">Der neue Termin w=C3=A4re der 1=
+7.01.23. Was wir uns genau darunter vorstellen hatten wir ja schon abgekl=
+=C3=A4rt, es w=C3=BCrde alles beim alten sonst bleiben :)=C2=A0</div><div d=
+ir=3D"auto">Passt der Termin f=C3=BCr euch?=C2=A0</div><div dir=3D"auto">Mi=
+t freundlichen Gruessen, der Party AK.=C2=A0</div>
+
+--000000000000a19551060e5ecaaa--
